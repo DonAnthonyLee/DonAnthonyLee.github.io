@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>老李的杂货铺</title>
+    <description>无鱼虾亦可
+</description>
+    <link>http://donanthonylee.github.io/</link>
+    <atom:link href="http://donanthonylee.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Jun 2021 03:06:41 +0800</pubDate>
+    <lastBuildDate>Fri, 11 Jun 2021 03:06:41 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>一小步</title>
+        <description>&lt;p&gt;之前花了较长时间寻找 EIME-XIM 在 Ubuntu Linux 上运行不畅的原因，未料到居然是 Ubuntu 自带 gnome-shell 中窗口合成器的毛病，实在无奈。&lt;/p&gt;
+
+&lt;p&gt;今天在 EIME-TSF 上往前迈了一小步，算是近期较为宽慰的事情。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/eime-tsf-little-step-20210611.png&quot; alt=&quot;96%&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Jun 2021 00:00:00 +0800</pubDate>
+        <link>http://donanthonylee.github.io/jekyll/update/2021/06/11/little-step.html</link>
+        <guid isPermaLink="true">http://donanthonylee.github.io/jekyll/update/2021/06/11/little-step.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
