@@ -9,5 +9,5 @@ categories: jekyll update
 
 今天在 EIME-TSF 上往前迈了一小步，算是近期较为宽慰的事情。
 
-![96%]({{ site:baseurl }}/images/eime-tsf-little-step-20210611.png)
+![96%](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/eime-tsf-little-step-20210611.png)
 
