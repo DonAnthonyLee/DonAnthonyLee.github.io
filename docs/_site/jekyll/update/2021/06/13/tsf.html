@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>老李的杂货铺</title>
-  <meta name="description" content="无鱼虾亦可
-">
+  <title>简单与复杂</title>
+  <meta name="description" content="之前写 XIM 的实现，感觉像拿着不太锋利小刀在慢慢切肉；近期写 TSF 的实现，却感觉是拿着一把超大的瑞士军刀在杀鸡。。。">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://donanthonylee.github.io/">
+  <link rel="canonical" href="https://donanthonylee.github.io/jekyll/update/2021/06/13/tsf.html">
   <link rel="alternate" type="application/rss+xml" title="老李的杂货铺" href="https://donanthonylee.github.io/feed.xml">
 </head>
 
@@ -55,33 +54,29 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <h1 class="page-heading">杂记</h1>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">简单与复杂</h1>
+    <p class="post-meta"><time datetime="2021-06-13T19:00:00+08:00" itemprop="datePublished">Jun 13, 2021</time></p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Jun 13, 2021</span>
+  <div class="post-content" itemprop="articleBody">
+    <p>之前写 XIM 的实现，感觉像拿着不太锋利小刀在慢慢切肉；近期写 TSF 的实现，却感觉是拿着一把超大的瑞士军刀在杀鸡。。。</p>
 
-        <h2>
-          <a class="post-link" href="/jekyll/update/2021/06/13/tsf.html">简单与复杂</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jun 11, 2021</span>
+<p>TSF 采用的 COM，虽然用 C++ 来写，却像极了在写面向对象的 C，而且官方文档也是晦涩难懂；把架构拆分得细致，往往容易陷入泥潭难以自拔，这让我想起接触过的另外一家公司（Sun）代码。记得我的一位老师说过，复杂事情简单化是一门艺术，高手喜欢简单化，而笨蛋通常喜欢复杂化。</p>
 
-        <h2>
-          <a class="post-link" href="/jekyll/update/2021/06/11/little-step.html">一小步</a>
-        </h2>
-      </li>
-    
-  </ul>
+<p>现在 EIME-TSF 实现是用了官方示例代码中的 Apartment 线程模型（即 STA），其他线程调用 ITf 类时只能通过注册的 GlobalCompartment 进行传递，然后在 CompartEventSink 中再处理，否则各种离奇错误层出不穷（虽然我已严格检查各种锁）。暂时看来，想把 Apartment 改成 Free（即 MTA 模型），虽然是快速响应的最终出路，但用到的各种 ITf 接口就要层层加锁，看来是件吃力的事情啊！</p>
 
-  <p class="rss-subscribe">通过 <a href="/feed.xml">RSS</a> 订阅</p>
+<p>暂时在 Windows XP 上调试的场景：</p>
+<video id="video" controls="" preload="none" poster="Anthony Lee">
+<source id="mp4" src="https://media.githubusercontent.com/media/DonAnthonyLee/BeSunPinyin/main/screenshot/running-on-winxp.mp4" type="video/mp4" />
+</video>
 
-</div>
+
+  </div>
+
+</article>
 
       </div>
     </div>
