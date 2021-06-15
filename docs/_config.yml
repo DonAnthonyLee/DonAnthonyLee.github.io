@@ -17,3 +17,5 @@ github_username:  DonAnthonyLee
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-leap-day
