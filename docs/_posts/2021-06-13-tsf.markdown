@@ -2,7 +2,7 @@
 layout: post
 title:  "简单与复杂"
 date:   2021-06-13 19:00:00 +0800
-categories: jekyll update
+categories: 开发小记
 ---
 
 之前写 XIM 的实现，感觉像拿着不太锋利小刀在慢慢切肉；近期写 TSF 的实现，却感觉是拿着一把超大的瑞士军刀在杀鸡。。。

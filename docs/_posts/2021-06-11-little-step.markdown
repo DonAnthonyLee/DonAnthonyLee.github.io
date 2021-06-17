@@ -2,7 +2,7 @@
 layout: post
 title:  "一小步"
 date:   2021-06-11 00:00:00 +0800
-categories: jekyll update
+categories: 开发小记
 ---
 
 之前花了较长时间寻找 EIME-XIM 在 Ubuntu Linux 上运行不畅的原因，未料到居然是 Ubuntu 自带 gnome-shell 中窗口合成器的毛病，实在无奈。
