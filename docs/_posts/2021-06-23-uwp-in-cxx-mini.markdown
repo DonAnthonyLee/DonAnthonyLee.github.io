@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "用 C++/CX 写的最小 UWP 程序"
-date:   2021-06-21 13:00:00 +0800
+date:   2021-06-23 17:00:00 +0800
 categories: UWP
 ---
 
 看了一段时间的 C++/WinRT，显然不是美女。。。
+
 C++/CX 还凑合，顺道弄了个最少代码的 UWP Hello World。
 
 
 ```c++
 #include <SDKDDKVer.h>
 #include <windows.h>
+#include <collection.h>
 
 using namespace Windows;
 using namespace Windows::ApplicationModel::Core;
