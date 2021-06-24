@@ -18,4 +18,12 @@ github_username:  DonAnthonyLee
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-leap-day
+comments:
+  gitalk: true
+  gitalk_owner: DonAnthonyLee
+  gitalk_admin: DonAnthonyLee
+  gitalk_repo: DonAnthonyLee.github.io
+  gitalk_clientID: 1036fc883a2b439ce361
+  gitalk_Secret: 0c260eb8b2624a8f96740551748acbd1f28be12b
+  distractionFreeMode: true
+
