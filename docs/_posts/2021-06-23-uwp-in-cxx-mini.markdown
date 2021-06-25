@@ -25,27 +25,30 @@ ref class MyFrameworkView : IFrameworkView
 public:
 	virtual void Initialize(CoreApplicationView ^applicationView)
 	{
+		// 初始化，通常 Xaml 调用自动生成的 InitializeComponent()
 	}
 
 	virtual void Load(Platform::String ^entryPoint)
 	{
 	}
 
-
-	virtual void Run()
-	{
-		while(true)
-		{
-			m_window->Dispatcher->ProcessEvents(CoreProcessEventsOption::ProcessAllIfPresent);
-			// TODO
-		}
-	}
-
-
 	virtual void SetWindow(CoreWindow ^window)
 	{
 		m_window = window;
-		m_window->PointerCursor = ref new CoreCursor(CoreCursorType::Arrow, 0);
+
+		// UWP 应用窗口激活，否则将抛出异常
+		m_window->Activate();
+	}
+
+	virtual void Run()
+	{
+		// 事件循环
+		while(true)
+		{
+			m_window->Dispatcher->ProcessEvents(CoreProcessEventsOption::ProcessAllIfPresent);
+
+			// 此处可加入终止循环判别，亦可处理 D2D、D3D 等等
+		}
 	}
 
 	virtual void Uninitialize()
@@ -62,13 +65,16 @@ ref class MyFrameworkViewSource : IFrameworkViewSource
 public:
 	virtual IFrameworkView^ CreateView()
 	{
+		// 返回对象将用于创建 CoreWindow 并调用其 Initialize() => Load() => Run() => Uninitialize() 序列
+		// 每 CoreWindow 将对应创建相应线程
 		return ref new MyFrameworkView();
 	}
 };
 
 
-int __stdcall wWinMain(HINSTANCE, HINSTANCE, PWSTR, int)
+int __cdecl main(::Platform::Array<::Platform::String^>^ args)
 {
+	// 主线程运行 Application 事件循环
 	CoreApplication::Run(ref new MyFrameworkViewSource());
 	return 0;
 }
