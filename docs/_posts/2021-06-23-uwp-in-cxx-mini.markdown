@@ -48,6 +48,11 @@ public:
 			m_window->Dispatcher->ProcessEvents(CoreProcessEventsOption::ProcessAllIfPresent);
 
 			// 此处可加入终止循环判别，亦可处理 D2D、D3D 等等
+
+			// 若不添加代码，应用被关闭时的几种可能性如下，按常理而言，其中第一种可能性最大
+			//	1. ProcessEvents() 收到相应事件后调用 Uninitialize() => ExitThread()，线程正常退出；
+			//	2. ProcessEvents() 处理异常被抛出，线程中止；
+			//	3. CoreApplication 对其线程直接用 TerminateThread() 干掉。
 		}
 	}
 
@@ -72,7 +77,7 @@ public:
 };
 
 
-int __cdecl main(::Platform::Array<::Platform::String^>^ args)
+int __cdecl main(Platform::Array<Platform::String^>^ args)
 {
 	// 主线程运行 Application 事件循环
 	CoreApplication::Run(ref new MyFrameworkViewSource());
