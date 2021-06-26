@@ -19,7 +19,7 @@ github_username:  DonAnthonyLee
 markdown: kramdown
 
 comments:
-  gitalk: true
+  gitalk: false
   gitalk_owner: DonAnthonyLee
   gitalk_admin: DonAnthonyLee
   gitalk_repo: DonAnthonyLee.github.io
