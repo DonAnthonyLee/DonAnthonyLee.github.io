@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "见鬼的 Wayland"
+title:  "见鬼的 Wayland （一）"
 date:   2021-06-24 22:18:00 +0800
 categories: Wayland
 ---
