@@ -20,3 +20,5 @@ Wayland 宣称设计初衷即是窗口位置避免暴露给客户端，以便管
 # 见鬼用鬼招
 
 想了一下，不去动 Wayland 协议，也不去为它画蛇添足，要破这个局，有个鬼招：每个程序都拥有一个 fullscreen 的 xdg-shell，自己负责自身合成及区域处理（相当于自身即是 compositor），不过透明区域输入事件如何与 Wayland 协作将又是一个可能无法突破的坎，毕竟它还是 so simple 。
+
+另一鬼招，既然 set-geometry 可用，若能 grab_pointer，移动放缩自实现，忽略所有相关事件（configure等等）。
