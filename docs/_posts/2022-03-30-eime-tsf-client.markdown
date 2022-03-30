@@ -16,7 +16,7 @@ categories: EIME
 
 # 安装
 
-将文件解压到系统文件（比如 C:\Program Files 或 C:\Windows 等）下的任意文件夹（建议采用 C:\Program Files\eime），右键选择 install.cmd 文件后以管理员身份运行。
+将文件解压到系统文件夹（比如 C:\Program Files 或 C:\Windows 等）下的任意子文件夹（建议采用 C:\Program Files\eime），右键选择 install.cmd 文件后以管理员身份运行。
 
 注明：install.cmd 脚本为自动注册 eime-tsf.dll 及 eime-tsf-x86.dll 两个文件。
 
@@ -26,3 +26,8 @@ categories: EIME
 右键选择 uninstall.cmd 文件后以管理员身份运行。
 
 
+# 已知问题
+
++ 用户登录后等待 EIME 服务端自动启动后才能使用。
+
+目前 EIME 服务端（商店应用）若用户未曾在系统控制设置中禁止时，将在用户登录后自动启动（桌面出现几秒钟后完成）；此时，客户端将自动连接并进入可使用状态。
