@@ -5,7 +5,7 @@ date:   2022-03-30 18:00:00 +0800
 categories: EIME
 ---
 
-提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/blob/main/stuff/eime-tsf-client-0.1.4.zip "EIME-TSF 客户端 0.1.4 版下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
+提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/blob/main/stuff/eime-tsf-client-0.1.5.zip "EIME-TSF 客户端 0.1.5 版下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
 
 
 此客户端仅起翻译作用，既是将 TSF 接口翻译为 EIME 输入框架（类似 BeOS 的 input_server 协议），又将 EIME 的处理结果再翻译为 TSF 接口所需。
@@ -30,7 +30,10 @@ categories: EIME
 
 + 用户登录后等待 EIME 服务端自动启动后才能使用。
 
-目前 EIME 服务端（商店应用）若用户未曾在系统控制设置中禁止时，将在用户登录后自动启动（桌面出现十几秒钟后完成）；此时，客户端将自动连接并进入可使用状态。
+目前 EIME 服务端（商店应用）若用户未曾在系统控制设置中禁止时，将在用户登录后自动启动；此时，客户端将自动连接并进入可使用状态。
+
+因系统自动延时启动，桌面出现约十几秒钟后 EIME 服务端方才启动完成；急于使用时可自行手动先开启服务端，只是过后会因自动启动转换成调试器而已，手动关闭即可。
+
 
 # 后话
 
