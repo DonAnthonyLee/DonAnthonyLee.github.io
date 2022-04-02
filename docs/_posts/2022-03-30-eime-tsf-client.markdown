@@ -5,7 +5,7 @@ date:   2022-03-30 18:00:00 +0800
 categories: EIME
 ---
 
-提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/blob/main/stuff/eime-tsf-client-0.1.5.zip "EIME-TSF 客户端 0.1.5 版下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
+提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/blob/main/stuff/eime-tsf-client-0.1.6.zip "EIME-TSF 客户端 0.1.6 版下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
 
 
 此客户端仅起翻译作用，既是将 TSF 接口翻译为 EIME 输入框架（类似 BeOS 的 input_server 协议），又将 EIME 的处理结果再翻译为 TSF 接口所需。
@@ -47,7 +47,7 @@ categories: EIME
 
 Windows 系统的 Text Services Framework（简称TSF）接口采用 COM 组件的 InProcServer 方式接入主程序；对于传统桌面程序而言，输入法组件与主程序运行在同一进程，输入法组件所引用的各类运行时库（DLL等）将对主程序产生版本冲突、入口重复等不利影响，同时，输入法组件不稳定可直接影响主程序的稳定性；对于 UWP  类程序（通常为商店应用），输入法组件不稳定甚至可直接影响到整个系统的稳定性。
 
-正是由于以上原因，EIME 目前采用服务端与客户端分离的处理方式；客户端即为 TSF 接口的 InProcServer COM，并极大可能的减少所引用的运行时库，目前均为 Windows 系统自带运行时库（包括 msvcrt.dll），而且客户端不存在任何用户界面（UI）相关处理；所有输入法实际处理、用户界面处理等工作由服务端负责，这为以后各种扩充组件的实现提供了良好的平台，也保证了最大的兼容性。当然，此处理方式也存在一定缺陷，比如会偶尔产生待选字词窗口被主程序窗口遮盖等，因服务端与主程序处于不同的进程（甚至不同的 APP 容器），目前此缺陷短期内难以克服。
+正是由于以上原因，EIME 目前采用服务端与客户端分离的处理方式；客户端即为 TSF 接口的 InProcServer COM，并极大可能地减少所引用的运行时库，目前均为 Windows 系统自带运行时库（包括 msvcrt.dll），而且客户端不存在任何用户界面（UI）相关处理；所有输入法实际处理、用户界面处理等工作由服务端负责，这为以后各种扩充组件的实现提供了良好的平台，也保证了最大的兼容性。当然，此处理方式也存在一定缺陷，比如会偶尔产生待选字词窗口被主程序窗口遮盖等，因服务端与主程序处于不同的进程（甚至不同的 APP 容器），目前此缺陷短期内难以克服。
 
 
 
