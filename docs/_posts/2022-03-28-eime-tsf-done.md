@@ -10,7 +10,10 @@ categories: EIME
 注：服务端及客户端目前均支持 x64 架构 Windows XP ~ Windows 11。
 
 
-我已提交至 Microsoft 应用商店进行审核，不论结果如何，此项工作暂且告一段落了。
+~~我已提交至 Microsoft 应用商店进行审核，不论结果如何，此项工作暂且告一段落了。~~
+
+[Microsoft Store 链接](https://www.microsoft.com/store/apps/9NFZN61GQHF8 "ETK++ 输入法扩展组件及潮州白话字输入法应用商店下载")
+
 放几张截图作为纪念：
 
 
