@@ -23,3 +23,5 @@ categories: EIME
 
 ![96%](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/eime-third-party-addons.png)
 
+![96%](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/eime-tsf-smode.png)
+
