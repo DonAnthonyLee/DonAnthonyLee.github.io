@@ -10,11 +10,21 @@ categories: EIME
 注：服务端及客户端目前均支持 x64 架构 Windows XP ~ Windows 11。
 
 
+# 商店链接
+
 ~~我已提交至 Microsoft 应用商店进行审核，不论结果如何，此项工作暂且告一段落了。~~
 
 [Microsoft Store 链接](https://www.microsoft.com/store/apps/9NFZN61GQHF8 "ETK++ 输入法扩展组件及潮州白话字输入法应用商店下载")
 
-放几张截图作为纪念：
+
+# 免费试用版输入功能
+
+目前免费试用版与收费版无异，且不设时限；商店收费版本功能以后会逐渐加入，主要在个人信息安全、第三方扩展组件完善、潮州白话字词组输入（含中文、地区、典籍出处）等方面。
+
+但无论如何，商店免费试用版将保持与其他平台免费版（比如 EIME-XIM 等）基本同等功能。
+
+
+# 屏幕截图
 
 
 ![96%](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/eime-over-the-spot.png)
