@@ -5,13 +5,26 @@ date:   2022-03-30 18:00:00 +0800
 categories: EIME
 ---
 
-提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/blob/main/stuff/eime-tsf-client-0.1.6e.zip "EIME-TSF 客户端 0.1.6e 版下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
+提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/blob/main/stuff/eime-tsf-client-0.1.7.zip "EIME-TSF 客户端下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
 
 
-此客户端仅起翻译作用，既是将 TSF 接口翻译为 EIME 输入框架（类似 BeOS 的 input_server 协议），又将 EIME 的处理结果再翻译为 TSF 接口所需。
+# 版本与功能
 
+此客户端仅起翻译作用，既是将 TSF 接口翻译为 EIME 输入框架（类似 BeOS 的 input_server 协议），又是将 EIME 的处理结果再翻译为 TSF 接口所需。
 
 注：此客户端目前不适用于 Windows 10/11 S 模式，因为 S 模式只能运行 Microsoft 认证的程序，即使有正规的代码签名也无用。
+
+
+现版本：0.1.7
+
+更新日期：2022-04-17
+
+
+最近变更历史：
+
+0.1.7, 忽略系统自身输入法/非输入法切换键（高级键盘选项设置）
+
+0.1.6e, 修正安装时注册失败及部分系统兼容性问题
 
 
 # 安装
