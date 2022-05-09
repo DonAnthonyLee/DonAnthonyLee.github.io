@@ -11,7 +11,7 @@ categories: UWP
 
 特点：无需像此前 UWP 需要有 CoreWindow 才能工作的要求，也不需要打包成 Package 运行。
 
-注：下面是采用 Comsume APIs 的方式，至于创作模式（使用 Xaml），要复杂得多，可参考 [微软文档](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/using-the-xaml-hosting-api) 或 [示例](https://github.com/microsoft/Xaml-Islands-Samples/blob/master/Samples/Win32/ReadMe.md) 。
+注：下面是采用 Consume APIs 的方式，至于创作模式（使用 Xaml），要复杂得多，可参考 [微软文档](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/using-the-xaml-hosting-api) 或 [示例](https://github.com/microsoft/Xaml-Islands-Samples/blob/master/Samples/Win32/ReadMe.md) 。
 
 ```c++
 #include <SDKDDKVer.h>
