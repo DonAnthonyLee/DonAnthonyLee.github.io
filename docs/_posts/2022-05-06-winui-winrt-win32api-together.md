@@ -11,6 +11,7 @@ categories: UWP
 
 特点：无需像此前 UWP 需要有 CoreWindow 才能工作的要求，也不需要打包成 Package 运行。
 
+注：下面是采用 Comsume APIs 的方式，至于创作模式（使用 Xaml），要复杂得多，可参考 [微软文档](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/using-the-xaml-hosting-api) 或 [示例](https://github.com/microsoft/Xaml-Islands-Samples/blob/master/Samples/Win32/ReadMe.md) 。
 
 ```c++
 #include <SDKDDKVer.h>
@@ -49,7 +50,7 @@ void winui_popup_menu_test(HWND hwnd)
         menu->Commands->Append(ref new UICommand("Item 3", nullptr, PropertyValue::CreateInt32(3)));
 
 	Rect rectContent(100, 100, 200, 500);
-        create_task(menu->ShowForSelectionAsync(rectContent)).then([](IUICommand^ command)
+        create_task(menu->ShowForSelectionAsync(rectContent)).then([hwnd](IUICommand^ command)
         {
             if (command != nullptr)
             {
@@ -60,6 +61,7 @@ void winui_popup_menu_test(HWND hwnd)
 	    {
 		std::cout << "Context menu dismissed" << std::endl;
 	    }
+	    SendMessage(hwnd, WM_QUIT, 0, 0);
         });
         std::cout << "Context menu shown" << std::endl;
 }
@@ -68,12 +70,14 @@ void winui_popup_menu_test(HWND hwnd)
 static UINT msg_test = 0;
 static LRESULT CALLBACK MainWndProc(HWND hWnd, UINT umsg, WPARAM wParam, LPARAM lParam)
 {
-	if (umsg == msg_test)
+	if(umsg == msg_test || umsg == WM_QUIT)
 	{
-		winui_popup_menu_test(hWnd);
+		if(umsg == msg_test)
+			winui_popup_menu_test(hWnd);
+		else
+			PostQuitMessage(0);
 		return 0;
 	}
-
 	return DefWindowProc(hWnd, umsg, wParam, lParam);
 }
 
@@ -82,7 +86,7 @@ int main(int argc, char **argv)
 {
 	winrt::init_apartment(winrt::apartment_type::single_threaded);
 
-	WNDCLASSEX wcApp = {0};
+	WNDCLASSEX wcApp;
 	ZeroMemory(&wcApp, sizeof(wcApp));
 	wcApp.lpszClassName = "test";
 	wcApp.hInstance = GetModuleHandle(NULL);
