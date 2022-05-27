@@ -2,6 +2,7 @@
 layout: page
 title: 分类
 permalink: /categories/
+tag: headline
 ---
 
 <section class="container posts-content">
