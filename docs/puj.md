@@ -5,12 +5,18 @@ permalink: /puj/
 tag: headline
 ---
 
-<h3>Pe̍h-uē-jī</h3>
-Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Tiê-chiu-uē kâi che̍k-thàu bûn-jī. Yi kài tī-seⁿ siá-huap, nán pa̍t-jît chiàⁿ phue̍h...
+<h2 class="PUJ">Pe̍h-uē-jī</h2>
+
+<section class="PUJ">
+Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Tiê-chiu-uē kâi che̍k-thàu bûn-jī.
+<br>
+Yi kài tī-seⁿ siá-huap? Nán pa̍t-jît chiàⁿ phue̍h...
+</section>
 
 <br>
-<h3>Bô-sṳ̄-siâng, iáu-suà bô-ia-liâ</h3>
-<section class="container posts-content">
+<br>
+<h2>Bô-sṳ̄-siâng, iáu-suà bô-ia-liâ</h2>
+<section class="PUJ container posts-content">
 {% for post in site.pages %}
   {% if post.tag == "PUJ_essay" %}
     <ol class="posts-list">
