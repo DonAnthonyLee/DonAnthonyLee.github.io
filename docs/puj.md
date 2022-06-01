@@ -6,7 +6,7 @@ tag: headline
 ---
 
 <h3>Pe̍h-uē-jī</h3>
-Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--huè mue̍h lâi siá Tie-chiu-uē kâi che̍k-thàu bûn-jī. Yi kài tī-seⁿ siá-huap, nán pa̍t-jît chiàⁿ phue̍h...
+Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Tiê-chiu-uē kâi che̍k-thàu bûn-jī. Yi kài tī-seⁿ siá-huap, nán pa̍t-jît chiàⁿ phue̍h...
 
 <br>
 <h3>Bô-sṳ̄-siâng, iáu-suà bô-ia-liâ</h3>
