@@ -17,7 +17,8 @@ Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Ti�
 <h2>Bô-sṳ̄-siâng, iáu-suà bô-ia-liâ</h2>
 <section class="PUJ container posts-content">
 <ol class="posts-list">
-{% for post in site.pages %}
+{% assign sorted_pages = site.pages | sort: "date" | reverse %}
+{% for post in sorted_pages %}
   {% if post.tag == "PUJ_essay" %}
       <li class="posts-list-item">
         <span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
