@@ -10,14 +10,20 @@ tag: PUJ_essay
 Siă-huĕ kiâⁿ kàu chiàng₊-sî, liân kok-ke ia̍h khin-ē-tăng tshut-lu̍t, tsn̂g-kâi tàu phuà-keh.<br>
 <br>
 注：<br>
-1. chiàng₊-sî, 合音（来源未知），也读 chiáng₊-sî；相当于
+1. chiàng₊-sî, 合音，来源未知，也读 chiáng₊-sî；相当于
 <ruby style="ruby-position:over">
 	<rbc>
 		<rb class="markup_main">现此在</rb>
-		<rp>(</rp><rt class="markup_over">hīn-tshṳ́-tsâi</rt><rp>)</rp>
+		<rp>(</rp><rt class="markup_over">hīn-tshṳ́-tsăi</rt><rp>)</rp>
 	</rbc>
 </ruby>; taⁿ; chí-muáⁿ.<br>
-2. tshut-lu̍t，即
+2. tshut-lu̍t，即 
+<ruby style="ruby-position:over">
+	<rbc>
+		<rb class="markup_main">无照书</rb>
+		<rp>(</rp><rt class="markup_over">bô-chiàu-tsṳ</rt><rp>)</rp>
+	</rbc>
+</ruby>; 
 <ruby style="ruby-position:over">
 	<rbc>
 		<rb class="markup_main">逾规越矩</rb>
