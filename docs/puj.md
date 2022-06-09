@@ -29,3 +29,19 @@ Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Ti�
 </ol>
 </section>
 
+<br>
+<br>
+<h2>Huan-e̍k</h2>
+<section class="PUJ container posts-content">
+<ol class="posts-list">
+{% assign sorted_pages = site.pages | sort: "date" | reverse %}
+{% for post in sorted_pages %}
+  {% if post.tag == "PUJ_translation" %}
+      <li class="posts-list-item">
+        <span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
+        <a class="posts-list-name" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+  {% endif %}
+{% endfor %}
+</ol>
+</section>
