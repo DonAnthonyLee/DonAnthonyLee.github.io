@@ -36,14 +36,14 @@ Tsṳ-niôⁿ-nâng bô-lŭn lău-hău-seⁿ, kah tâng-în ta-pou-nâng tŏ nâ
 
 Tsṳ-niôⁿ-kiáⁿ-nâng, sui-sĭ bŏi jiân-tǹg Yìn-tōu hiòⁿ-seⁿ chia-tsa̍h kàu mi-mi-ba̍t-ba̍t, liáu, in mó ka-kī che̍k-nâng tshut-mn̂g, iā mó kìⁿ ta-pou nâng-kheh.
 
-Tŏ chí-kâi Ki-tok-kà-ngĭ kám-huè kah chĕng-huè hāu-la̍t huân-liáu m̆-tsai kâi kok-tōu, Tong-kok-nâng khṳt tsṳ-niôⁿ-nâng kâi siă-huĕ tsṳ̆-iû thóiⁿ--khí-lâi kah-kah-hó.
+Tŏ chí-kâi Ki-tok kà-ngĭ kâi kám-huè kah chĕng-huè hāu-la̍t huân-liáu bô-nâng-tsai kâi kok-tōu, Tong-kok-nâng khṳt tsṳ-niôⁿ-nâng kâi siă-huĕ tsṳ̆-iû thóiⁿ--khí-lâi kah-kah-hó.
 
 <br>
 <br>
 注：<br>
 1. thĕng, 等待。部分地方更常用 tán; thăi ；<br>
 2. huân-liáu, 还；依然。现今多数地方合音为 huáⁿ+; háⁿ+ 等，后续篇章将采用 huáⁿ+；<br>
-3. khṳt, 被。现今原用此音的地区多读 khṳh，此处仅为对应当时语音而已，后续篇章将采用今音 khṳh；<br>
+3. khṳt, 被；给予。现今原用此音的地区多读 khṳh，此处仅为对应当时语音而已，后续篇章将采用今音 khṳh；<br>
 4. ku-ā, 多（个），此处声调采用作者所著字典中声调。现今多数地方合音为 kuá₊，我处个别场合读 kú-â，后续篇章将采用合音 kuá₊；<br>
 5. iā, 亦，此处声调采用作者所著字典中声调。此义现今口语中因虚词变化而读音各异，后续篇章将沿用此音；<br>
 6. pân-tuăⁿ, 懒惰。<br>
