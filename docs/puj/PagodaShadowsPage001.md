@@ -11,7 +11,7 @@ tag: PUJ_translation
 <hr>
 <br>
 <h3>TŎIᴺ YIT CHIOᴺ</h3>
-<h3><l>TSṲ-NIÔᴺ-NÂNG KÂI KÉNG-NGŎ</l></h3>
+<h4>TSṲ-NIÔᴺ-NÂNG KÂI KÉNG-NGŎ</h4>
 <br>
 
 Tŏ Tong-kok, m̆-lí lṳ́ sĭ ta-pou a-sĭ tsṳ-niôⁿ, nâng che̍k-seⁿ-sì tsóng-sĭ kuè kàu kan-khóu tsăi;
