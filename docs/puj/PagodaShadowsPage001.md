@@ -7,13 +7,16 @@ tag: PUJ_translation
 
 <section class="PUJ">
 
+<!-- PAGODA SHADOWS, -->
 <h2>PÓ-THAH SIÂ-YIÁᴺ</h2>
 <hr>
 <br>
+<!-- CHAPTER I. -->
 <h3>TŎIᴺ YIT CHIOᴺ</h3>
+<!-- THE STATUS OF WOMAN. -->
 <h4>TSṲ-NIÔᴺ-NÂNG KÂI KÉNG-NGŎ</h4>
 <br>
-
+<!-- LIFE, in China, is a stern thing for both men and women; but, as in all places where Christ is not, the heaviest burdens are put upon the weakest. The Chinese woman does not walk in the street with her husband ; she does not eat with him, but takes what is left after the men of the family have finished their meal; she has no legal right to anything whatever, apart from her male relatives. Yet her condition is, in some respects, better than that of her sisters in neighbouring countries. She is not a sufferer through any system of caste, as in India; she is not shut up in a harem, as in Turkey; she is not denied the possession of a soul and the religious privileges of men, as in Burma ; she is not degraded by polyandry, as in Thibet; she is not in a climate which keeps her bare and lazy, like the women of Siam. Her virtue is as carefully guarded and as highly esteemed as in any country in the world. Female children and elderly women associate with persons of the same age and of the other sex, on terms of apparent equality. Girls, though not kept in such seclusion as in India, do not go out alone, nor appear before male visitors. The Chinese give woman all the social freedom j that is discreet for her in a land where the cleansing and controlling power of Christian principle is unknown. -->
 Tŏ Tong-kok, m̆-lí lṳ́ sĭ ta-pou a-sĭ tsṳ-niôⁿ, nâng che̍k-seⁿ-sì tsóng-sĭ kuè kàu kan-khóu tsăi;
 liáu, kah pat-kò bô Ki-tok kâi tī-hng pêⁿ-iōⁿ, nâng zú nńg-chiáⁿ, seⁿ-ua̍h zú thiám.
 
