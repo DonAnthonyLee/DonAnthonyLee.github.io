@@ -7,7 +7,7 @@ tag: PUJ_essay
 
 <section class="PUJ">
 
-Nŏ-kù so̍k-uē:<br>
+Nŏⁿ-kù so̍k-uē:<br>
 1. Hûn-kài-sī kap-pô, bŏi-iu̍h.<br>
 2. Lăn-thâu tăⁿ kap-kiú, bŏi-iu̍h.<br>
 
@@ -21,6 +21,8 @@ Nŏ-kù so̍k-uē:<br>
 		<rb class="markup_main">宋帝昺</rb>
 		<rp>(</rp><rt class="markup_over">sòng-tì-péng</rt><rp>)</rp>
 	</rbc>
-</ruby> 有关。
+</ruby> 有关；<br>
+3. kap-kiú, 蛙类；<br>
+4. kap-pô, 特指蟾蜍。
 
 </section>
