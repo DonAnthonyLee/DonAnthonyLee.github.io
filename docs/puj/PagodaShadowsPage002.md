@@ -40,7 +40,7 @@ Ta-pou--kâi, peh-nâng lăi-pôiⁿ ŏi pat-jī --kâi siăng-ke che̍k-nâng; 
 &nbsp;&nbsp;Tùi eng-ióng ŭ-ngĭ a-sĭ tek_kau_buăng_tŏng kâi tsṳ-niôⁿ-nâng --lâi --tàⁿ, i--nâng ŭ chhiâu-thêng phoi-tsún iā hó kah ta-pou-nâng pêⁿ-iōⁿ khí pâi-huang lâi seng-piáu.
 
 <!-- She may even aspire to deification, since many of the richest and most popular temples are those of the Queen of Heaven, the Protector of Sailors, and of other goddesses who were once earthly women. -->
-Sĭm-chì i--nâng huáⁿ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, in-ŭi siăng lāu-jia̍t kah sì-tshù to ŭ kâi sîn-biō tsōi-kâi sāi Má-tsóu, chí-ūi pó-hō thó-hái-nâng kâi sîn-sian kah pa̍t-tshoh-kâi sîn-sian-niôⁿ nguân-tí lóng-sĭ huâm-sì_kan hŭ--nâng. 
+Sĭm-chì i--nâng huáⁿ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, in-ūi siăng lāu-jia̍t kah sì-tshù to ŭ kâi sîn-biō tsōi-kâi sāi Má-tsóu, chí-ūi pó-hō thó-hái-nâng kâi sîn-sian kah pa̍t-tshoh-kâi sîn-sian-niôⁿ nguân-tí lóng-sĭ huâm-sì_kan hŭ--nâng. 
 
 <br>
 <br>
@@ -50,6 +50,7 @@ Sĭm-chì i--nâng huáⁿ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, in-�
 3. ún, 我们，此处采用作者所著字典中读法。现今部分地区读 uán[g]，原读 ún 的地区亦有变化为 ńg 者，后续篇章将沿用 ún；<br>
 4. --tiaⁿ⁎, 而已；仅此。声调符合平声轻声调或近似阳去，某些场合亦读 --niaⁿ；<br>
 5. hṳ́, 那。存在 -ṳ́ 读法的部分地区有读 hí，后续篇章单用时将沿用 hṳ́；<br>
-6. seng-piáu, 旌表。
+6. seng-piáu, 旌表；<br>
+7. in-ūi，“因为”文读音；此词各地读音有差，此处按作者所著字典读音。
 
 </section>
