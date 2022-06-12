@@ -14,7 +14,7 @@ Tsak--chiá: Adele M. Fielde<br>
 Tshut-pán sî-kan: 1887 --nîⁿ<br>
 Tsho-pán sî-kan: 1884 --nîⁿ<br>
 <br>
-Pe̍h-uē-jī e̍k--chiá: Lău Lí, 2022<br>
+Pe̍h-uē-jī e̍k--chiá: Hái-suaⁿ Lău Lí, 2022 --nîⁿ<br>
 <br>
 <!-- PREFACE. -->
 <h3>TSÔIᴺ-NGÂN</h3>
