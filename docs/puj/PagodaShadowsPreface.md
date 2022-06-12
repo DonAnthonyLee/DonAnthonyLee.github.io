@@ -17,7 +17,7 @@ Tsho-pán sî-kan: 1884 --nîⁿ<br>
 <!-- PREFACE. -->
 <h3>TSÔIᴺ-NGÂN</h3>
 <!-- THESE studies have been made during a resi- dence of ten years in China, with a knowledge of the language of the people, and an opportunity for close observation of their social customs. The autobiographies and the stories are exact translations of verbal narrations given to the author in the Swatow dialect. -->
-Khiă-khí tŏ Tong-kok chiâⁿ-tsa̍p-nîⁿ lăi, in-tì ŭ-tit lia̍h sì-chiu-ûi-tńg tshoh nâng tàⁿ kâi uē-gṳ́ lí-kói thong-thàu, kah ŭ ki-huĕ chiŭ-kṳ̆n liáu-kói in kâi lī-so̍k, uá tsò liáu chí-tshoh-kâi ngian-kiù. Chí lăi-tói kâi mue̍h-kiăⁿ-sṳ̄ lóng-tsóng sĭ i--nâng ka-kī ēng Suàⁿ-thâu pe̍h-uē só-tàⁿ kâi sît-chì tsuán-lo̍k.<br>
+&nbsp;&nbsp;Khiă-khí tŏ Tong-kok chiâⁿ-tsa̍p-nîⁿ lăi, in-tì ŭ-tit lia̍h sì-chiu-ûi-tńg tshoh nâng tàⁿ kâi uē-gṳ́ lí-kói thong-thàu, kah ŭ ki-huĕ chiŭ-kṳ̆n liáu-kói in kâi lī-so̍k, uá tsò liáu chí-tshoh-kâi ngian-kiù. Chí lăi-tói kâi mue̍h-kiăⁿ-sṳ̄ lóng-tsóng sĭ i--nâng ka-kī ēng Suàⁿ-thâu pe̍h-uē só-tàⁿ kâi sît-chì tsuán-lo̍k.<br>
 <br>
 <!-- A. M. F.-->
 Adele M. Fielde<br>
