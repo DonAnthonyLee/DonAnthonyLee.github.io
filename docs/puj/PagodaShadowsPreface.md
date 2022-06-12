@@ -14,6 +14,8 @@ Tsak--chiá: Adele M. Fielde<br>
 Tshut-pán sî-kan: 1887 --nîⁿ<br>
 Tsho-pán sî-kan: 1884 --nîⁿ<br>
 <br>
+Pe̍h-uē-jī e̍k--chiá: Lău Lí, 2022<br>
+<br>
 <!-- PREFACE. -->
 <h3>TSÔIᴺ-NGÂN</h3>
 <!-- THESE studies have been made during a resi- dence of ten years in China, with a knowledge of the language of the people, and an opportunity for close observation of their social customs. The autobiographies and the stories are exact translations of verbal narrations given to the author in the Swatow dialect. -->

@@ -7,6 +7,8 @@ tag: PUJ_translation
 
 <section class="PUJ">
 
+<!-- 此页译文前后修改多次，一是英文原意把握欠奉而改动，一是打字时思绪比手脚运行速度更快而出现声调标错者较多 -->
+
 <!-- In a country where extortion is the chief use of office, and fear of it the main spur to obedience, neither women nor men claim political rights. -->
 &nbsp;&nbsp;Tŏ chiá kuaⁿ-gê lu nâng chîⁿ-ngṳ̂n siăng-khiàng, pua̍h-hehⁿ ngĕⁿ-teh mue̍h kàu --nâng chheⁿ-kiaⁿ kâi kok-ke --kò,
 ta-pou tsṳ-niôⁿ to tshó-lia̍k m̆-káⁿ kah kuaⁿ-ke piăn-poh.
@@ -31,14 +33,14 @@ hāi --nâng siŏⁿ-tsò-tàⁿ Tong-kok-nâng kâi-kâi ŭ tha̍k-tsṳ.
 Tsōi-kâi hioⁿ-lí to ŭ phōiⁿ tsṳ-che kà che̍k-tshoh ta-pou-kiáⁿ pat-jī; sĭ-tàⁿ só-kà iā chiàⁿ lân-kúi teng --tiaⁿ⁎, liáu tsuan-mn̂g kà tsṳ-niôⁿ-kiáⁿ kâi tsṳ-che li suà tshuē bô-iáⁿ.
 
 <!-- Of the men, not more than one in a hundred can read; and of women, I have seen few outside the Christian mission-schools who could read, except those despised little girls who act in theatres. In the whole empire, probably not more than one woman in a thousand knows how to read. -->
-Ta-pou--kâi, peh-nâng lăi-pôiⁿ ŏi pat-jī --kâi siăng-ke che̍k-nâng; Tsṳ-niôⁿ--kâi, m̆-sǹg hṳ́-tshoh khṳh --nâng phì-siòⁿ kâi tsò-hì tsṳ-niôⁿ-kiáⁿ, ŏi pat-jī --kâi uá m̆-pat tŏ Ki-tok kà-huĕ-ha̍k-hău guá-pôiⁿ thóiⁿ--kìⁿ-kuè.
+Ta-pou--kâi, peh-nâng lăi-pôiⁿ ŏi pat-jī --kâi siăng-ke che̍k-nâng; Tsṳ-niôⁿ--kâi, m̆-sǹg hṳ́-tshoh khṳh --nâng phì-siòⁿ kâi tsò-hì tsṳ-niôⁿ-kiáⁿ, ŏi pat-jī --kâi uá m̆-pat tŏ Ki-tok kà-huĕ-ha̍k-hău guā-pôiⁿ thóiⁿ--kìⁿ-kuè.
 <br>
 
 <!-- For acts of heroism or for exalted virtue a woman may, like men, have an honorary portal erected for her with the emperor's sanction. -->
 &nbsp;&nbsp;Tùi eng-ióng ŭ-ngĭ a-sĭ tek_kau_buăng_tŏng kâi tsṳ-niôⁿ-nâng --lâi --tàⁿ, i--nâng ŭ chhiâu-thêng phoi-tsún iā hó kah ta-pou-nâng pêⁿ-iōⁿ khí pâi-huang lâi seng-piáu.
 
 <!-- She may even aspire to deification, since many of the richest and most popular temples are those of the Queen of Heaven, the Protector of Sailors, and of other goddesses who were once earthly women. -->
-Sĭm-chì i--nâng huáⁿ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, in-ŭi siăng lău-jia̍t kah sì-tshù to ŭ kâi sîn-biō tsōi-kâi sāi hái-sîn Má-tsóu, kah pa̍t-tshoh-kâi sîn-sian-niôⁿ nguân-tí iā-sĭ huâm-sì_kan hŭ--nâng. 
+Sĭm-chì i--nâng huáⁿ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, in-ŭi siăng lău-jia̍t kah sì-tshù to ŭ kâi sîn-biō tsōi-kâi sāi Má-tsóu, chí-ūi pó-hō thó-hái-nâng kâi sîn-sian kah pa̍t-tshoh-kâi sîn-sian-niôⁿ nguân-tí lóng-sĭ huâm-sì_kan hŭ--nâng. 
 
 <br>
 <br>
