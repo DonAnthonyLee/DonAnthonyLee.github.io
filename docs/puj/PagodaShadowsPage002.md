@@ -14,7 +14,7 @@ tag: PUJ_translation
 ta-pou tsṳ-niôⁿ to tshó-lia̍k m̆-káⁿ kah kuaⁿ-ke piăn-poh.
 
 <!-- But there is no law pre- venting women from following any occupation in which they may be skilled. -->
-Put-kuè, kuaⁿ-hú bô kui-tiāⁿ tsṳ-niôⁿ-nâng mó tsoh i--nâng ŏi se̍k-chhiú kâi khang-khuè.
+Put-kuè, kuaⁿ-hú bô m̆-tsún tsṳ-niôⁿ-nâng tsoh i--nâng ŏi lia̍h-chhiú kâi khang-khuè-thâu-lōu.
 <br>
 
 <!-- The attainments of women in literature are much lauded and respected. -->
