@@ -34,6 +34,9 @@ Tsōi-kâi hioⁿ-lí to ŭ phōiⁿ tsṳ-che kà che̍k-tshoh ta-pou-kiáⁿ p
 
 <!-- Of the men, not more than one in a hundred can read; and of women, I have seen few outside the Christian mission-schools who could read, except those despised little girls who act in theatres. In the whole empire, probably not more than one woman in a thousand knows how to read. -->
 Ta-pou--kâi, peh-nâng lăi-pôiⁿ ŏi pat-jī --kâi siăng-ke che̍k-nâng; Tsṳ-niôⁿ--kâi, m̆-sǹg hṳ́-tshoh khṳh --nâng phì-siòⁿ kâi tsṳ-niôⁿ-kiáⁿ hì-kiáⁿ, ŏi pat-jī --kâi uá m̆-pat tŏ Ki-tok kà-huĕ-ha̍k-hău guā-pôiⁿ thóiⁿ--kìⁿ-kuè.
+
+<!-- In the whole empire, probably not more than one woman in a thousand knows how to read. -->
+Kàu-kâi Tong-kok, ùiⁿ-tit che̍k-tshoiⁿ-kâi tsṳ-niôⁿ lăi-pôiⁿ ŏi pat-jī --kâi huáⁿ tshuē bô che̍k-nâng.
 <br>
 
 <!-- For acts of heroism or for exalted virtue a woman may, like men, have an honorary portal erected for her with the emperor's sanction. -->
