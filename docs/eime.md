@@ -30,5 +30,9 @@ tag: headline
 <br>
 <br>
 <h3>其他</h3>
-
+<ol>
+	<li class="posts-list-item">
+		<a class="posts-list-name" href="eime-server-changelog.html">EIME 服务端历史变更</a>
+	</li>
+</ol>
 
