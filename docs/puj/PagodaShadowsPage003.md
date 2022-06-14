@@ -37,22 +37,25 @@ Kàu-sin saⁿ-khòu kău-po̍h kò-kò sio-tâng, chhēng--khí-lâi tī-seⁿ 
 Ŭ-tiang-sî sin-niôⁿ kâi hun-phuè tsn̂g-kâi iû buê-nâng tsú-ì, ŭ-tiang-sî buê-nâng li-sĭ tŏ hiá phah-phue̍h hó-sì kâi sang-huang-pĕ-bó kan lâi-huê thuân-uē tiaⁿ.
 
 <!-- The betrothal is often made without either of the persons concerned being aware of what is being done on their behalf, and the bride is brought to her husband's home without ever having seen him or any member of his family. -->
-Hun-ioh tsōi-kâi sĭ sin-nâng lóng m̆-tsai tsŭ tiāⁿ--lo̍h-lâi --kâi, thăi sin-niôⁿ-kiáⁿ tshuā kàu sin-nn̂g hṳ́ tshù --kò, sĭm-chì liân sin-nn̂g kah i--kâi chhin-nâng to m̆-pat kìⁿ--kuè.
+Hun-ioh tsōi-kâi sĭ sin-nâng lóng m̆-tsai tsŭ tiāⁿ--lo̍h-lâi --kâi, thăi sin-niôⁿ-kiáⁿ tshuā kàu sin-nn̂g hṳ́ tshù --kò, sĭm-chì liân sin-nn̂g kah i kâi chhin-nâng to m̆-pat kìⁿ--kuè.
 
 <!-- Having arrived there, she is at once incorporated in her father-in-law's household, thenceforth has little association with her own kin. -->
+Sin-niôⁿ tsṳ̆ jîp-mn̂g, chiat-sî tsŭ tǹg-tsò in ta-kuaⁿ hí tshù-lăi ka-kī, kuè-ău hoh-chió kàu guā-ke kiâⁿ-ta̍h.
 
 <!-- Her happiness depends more on the character of her mother-in-law than on that of her husband, for by her husband's mother and grandmother she is wholly ruled. -->
+Yi kuè liáu ŏi-bŏi chheng-sim iáu-chió sĭ thóiⁿ kâi ang, li-sĭ tio̍h siàng-hō kâi ta-ke kó-keh tsăi-seⁿ, mih-sṳ̄ lóng tio̍h thiaⁿ in ta-ke kah lău-má hun-hù.
 
 <!-- She is domestic servant for the whole household, and especial waiting-maid to her mother-in-law. -->
+Yi pun --nâng lia̍h-tsò sĭ kàu-ke-nâng kâi ēng-jîn, zú-kèng sĭ in ta-ke kâi tsáu₊-kúi.
 
 <!-- Sometimes very strong attachments are formed between these women. -->
+Chí-tshoh tsṳ-niôⁿ-nâng, lân-sî thuà chhin kàu buâng-miāⁿ.
 
 <!-- I have seen a woman weep at being separated for a time from her mother-in-law, and express no pleasure when told that her husband was coming to see her. -->
+Uá pat kìⁿ-kuè ŭ tsṳ-niôⁿ tŏ àiⁿ kah ta-ke pun-khui --kuá₊-jît hṳ́-ē-mue̍h khàu kàu chheⁿ-tshoih, --nâng tàⁿ in ang àiⁿ lâi sio-kìⁿ i li suà tiām-tiām.
 
 <!-- On the other hand, there is often tyranny on the part of the elder woman, and dislike on that of the younger one. -->
-
-
-<br><br><b><i>[Buē mue̍h tît]</i></b><br><br>
+Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi iáu pà-tău, hău-seⁿ--kâi mue̍h--tio̍h kuè oh-năi.
 
 <br>
 <br>
@@ -61,11 +64,10 @@ Hun-ioh tsōi-kâi sĭ sin-nâng lóng m̆-tsai tsŭ tiāⁿ--lo̍h-lâi --kâi,
 2. soiⁿ-tō, 先辈。现今较少听闻此词；<br>
 3. soiⁿ-tiang-sî, 从前。个别地方读 soiⁿ-thiang-sî 或 soiⁿ-hang₊-sî 等；<br>
 4. kiau-kiah, 衣着整洁而得体；<br>
-5. thong-sin, 全身，部分地方读 thóng-sin；<br>
-6. khàn-sṳ̀, 端详；部分地方亦用 khàn-siòⁿ；<br>
-7. tín-tăng, 活动，有时亦读 tȉn-tăng；<br>
-
-
-<br><br><b><i>[Buē mue̍h tît]</i></b><br><br>
+5. thong-sin, 全身。部分地方读 thóng-sin；<br>
+6. khàn-sṳ̀, 端详。部分地方亦用 khàn-siòⁿ；<br>
+7. tín-tăng, 活动。有时亦读 tȉn-tăng；<br>
+8. siàng-hō, 取决于；依...而定；<br>
+9. tsáu₊-kúi, 婢女。即 tsa-bóu-kúi。
 
 </section>
