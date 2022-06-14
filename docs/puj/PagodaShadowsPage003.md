@@ -31,7 +31,7 @@ Kàu-sin saⁿ-khòu kău-po̍h kò-kò sio-tâng, chhēng--khí-lâi tī-seⁿ 
 <br>
 
 <!-- The proposals of betrothal are made by the parents of the young man, through a matrimonial agent or go-between, whose business it is to know the history and expectations of the marriageable people of the neighbour-hood. -->
-&nbsp;&nbsp;Chiá hău-seⁿ-nâng kâi hun-in sĭ iû i--nâng pĕ-bó tsú-ì, liáu chhiah hiá tsuan-mn̂g thàm-thiaⁿ sì-hioⁿ-la̍k-lí tshoh lâm_hun_nńg_kè hâng-chhêng kâi buê-nâng khṳ̀ phue̍h chhin-chiâⁿ.
+&nbsp;&nbsp;Chiá hău-seⁿ-nâng kâi hun-in sĭ iû i--nâng pĕ-bó tsú-ì, liáu chhiah hiá tsuan-mn̂g thàm-thiaⁿ sì-hioⁿ-la̍k-lí tshoh lâm-hun-nńg-kè hâng-chhêng kâi buê-nâng khṳ̀ phue̍h chhin-chiâⁿ.
 
 <!-- Sometimes the selection of the bride is left wholly to the go-between, and sometimes she simply carries messages between the parents who have formed their plans previously. -->
 Ŭ-tiang-sî sin-niôⁿ kâi hun-phuè tsn̂g-kâi iû buê-nâng tsú-ì, ŭ-tiang-sî buê-nâng li-sĭ tŏ hiá phah-phue̍h hó-sì kâi sang-huang-pĕ-bó kan lâi-huê thuân-uē tiaⁿ.
@@ -46,16 +46,16 @@ Sin-niôⁿ tsṳ̆ jîp-mn̂g, chiat-sî tsŭ tǹg-tsò in ta-kuaⁿ hí tshù
 Yi kuè liáu ŏi-bŏi chheng-sim iáu-chió sĭ thóiⁿ kâi ang, li-sĭ tio̍h siàng-hō kâi ta-ke kó-keh tsăi-seⁿ, mih-sṳ̄ lóng tio̍h thiaⁿ in ta-ke kah lău-má hun-hù.
 
 <!-- She is domestic servant for the whole household, and especial waiting-maid to her mother-in-law. -->
-Yi pun --nâng lia̍h-tsò sĭ kàu-ke-nâng kâi ēng-jîn, zú-kèng sĭ in ta-ke kâi tsáu₊-kúi.
+Yi pun --nâng lia̍h-tsò sĭ kàu-ke-nâng kâi ēng-jîn(kang-jîn), zú-kèng sĭ in ta-ke kâi tsáu₊-kúi.
 
 <!-- Sometimes very strong attachments are formed between these women. -->
-Chí-tshoh tsṳ-niôⁿ-nâng, lân-sî thuà chhin kàu buâng-miāⁿ.
+Chiá ta-ke sim-pŭ, lân-sî thuà chhin kàu buâng-miāⁿ.
 
 <!-- I have seen a woman weep at being separated for a time from her mother-in-law, and express no pleasure when told that her husband was coming to see her. -->
-Uá pat kìⁿ-kuè ŭ tsṳ-niôⁿ tŏ àiⁿ kah ta-ke pun-khui --kuá₊-jît hṳ́-ē-mue̍h khàu kàu chheⁿ-tshoih, --nâng tàⁿ in ang àiⁿ lâi sio-kìⁿ i li suà tiām-tiām.
+Uá pat kìⁿ-kuè kâi tsṳ-niôⁿ, tŏ àiⁿ kah ta-ke pun-khui --kuá₊-jît hṳ́-ē-mue̍h khàu kàu chheⁿ-tshoih, --nâng tàⁿ in ang àiⁿ lâi sio-kìⁿ i li suà tiām-tiām.
 
 <!-- On the other hand, there is often tyranny on the part of the elder woman, and dislike on that of the younger one. -->
-Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi iáu pà-tău, hău-seⁿ--kâi mue̍h--tio̍h kuè oh-năi.
+Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ--kâi mue̍h--tio̍h iáu oh-năi.
 
 <br>
 <br>
@@ -67,7 +67,8 @@ Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi iáu pà-tău, hău-seⁿ--k�
 5. thong-sin, 全身。部分地方读 thóng-sin；<br>
 6. khàn-sṳ̀, 端详。部分地方亦用 khàn-siòⁿ；<br>
 7. tín-tăng, 活动。有时亦读 tȉn-tăng；<br>
-8. siàng-hō, 取决于；依...而定；<br>
-9. tsáu₊-kúi, 婢女。即 tsa-bóu-kúi。
+8. kiâⁿ-ta̍h, 串门。亦多用 chiŏⁿ-lo̍h；<br>
+9. siàng-hō, 取决于；依...而定；<br>
+10. tsáu₊-kúi, 婢女。即 tsa-bóu-kúi。
 
 </section>
