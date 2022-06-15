@@ -55,7 +55,7 @@ Chiá ta-ke sim-pŭ, lân-sî thuà chhin kàu buâng-miāⁿ.
 Uá pat kìⁿ-kuè kâi tsṳ-niôⁿ, tŏ àiⁿ kah ta-ke pun-khui --kuá₊-jît hṳ́-ē-mue̍h khàu kàu chheⁿ-tshoih, --nâng tàⁿ in ang àiⁿ lâi sio-kìⁿ li suà tiām-tiām.
 
 <!-- On the other hand, there is often tyranny on the part of the elder woman, and dislike on that of the younger one. -->
-Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ--kâi mue̍h--tio̍h iáu oh-năi.
+Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ --kâi mue̍h--tio̍h iáu oh-năi.
 
 <br>
 <br>
