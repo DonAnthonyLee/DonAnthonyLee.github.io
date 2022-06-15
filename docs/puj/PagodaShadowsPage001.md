@@ -18,7 +18,7 @@ tag: PUJ_translation
 <br>
 <!-- LIFE, in China, is a stern thing for both men and women; but, as in all places where Christ is not, the heaviest burdens are put upon the weakest. -->
 &nbsp;&nbsp;Tŏ Tong-kok, m̆-lí lṳ́ sĭ ta-pou a-sĭ tsṳ-niôⁿ, nâng che̍k-seⁿ-sì tsóng-sĭ kuè kàu kan-khóu tsăi;
-liáu, kah pat-kò bô Ki-tok kâi tī-hng pêⁿ-iōⁿ, nâng zú nńg-chiáⁿ, seⁿ-ua̍h zú thiám.
+liáu, kah pa̍t-kò bô Ki-tok kâi tī-hng pêⁿ-iōⁿ, nâng zú nńg-chiáⁿ, seⁿ-ua̍h zú thiám.
 
 <!--The Chinese woman does not walk in the street with her husband; she does not eat with him, but takes what is left after the men of the family have finished their meal; she has no legal right to anything whatever, apart from her male relatives. -->
 Tong-kok tsṳ-niôⁿ bô kah ang-sài tsò-pû hui-koi;
@@ -52,7 +52,7 @@ Tŏ chí-kâi Ki-tok kà-ngĭ kâi kám-huè kah chĕng-huè hāu-la̍t huân-li
 <br>
 注：<br>
 1. thĕng, 等待。部分地方更常用 tán; thăi ；<br>
-2. huân-liáu, 还；依然。现今多数地方合音为 huáⁿ+; háⁿ+ 等，后续篇章将采用 huáⁿ+；<br>
+2. huân-liáu, 还；依然。现今多数地方合音为 huáⁿ₊; háⁿ₊ 等，后续篇章将采用 huáⁿ₊；<br>
 3. khṳt, 被；给予。现今原用此音的地区多读 khṳh，此处仅为对应当时语音而已，后续篇章将采用今音 khṳh；<br>
 4. ku-ā, 多（个），此处声调采用作者所著字典中声调，同时期另一白话字词典中记录为 kúi-uā[-kâi]。现今多数地方合音为 kuá₊，我处个别场合读 kú-â，后续篇章将采用合音 kuá₊；<br>
 5. iā, 亦，此处声调采用作者所著字典中声调。此义现今口语中因虚词变化而读音各异，后续篇章将沿用此音；<br>
