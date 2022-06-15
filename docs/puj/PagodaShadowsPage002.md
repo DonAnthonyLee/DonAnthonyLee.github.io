@@ -36,14 +36,14 @@ Tsōi-kâi hioⁿ-lí to ŭ phōiⁿ tsṳ-che kà che̍k-tshoh ta-pou-kiáⁿ p
 Ta-pou--kâi, peh-nâng lăi-pôiⁿ ŏi pat-jī --kâi siăng-ke che̍k-nâng; Tsṳ-niôⁿ--kâi, m̆-sǹg hṳ́-tshoh khṳh --nâng phì-siòⁿ kâi tsṳ-niôⁿ-kiáⁿ hì-kiáⁿ, ŏi pat-jī --kâi uá m̆-pat tŏ Ki-tok kà-huĕ-ha̍k-hău guā-pôiⁿ thóiⁿ--kìⁿ-kuè.
 
 <!-- In the whole empire, probably not more than one woman in a thousand knows how to read. -->
-Kàu-kâi Tong-kok, ùiⁿ-tit che̍k-tshoiⁿ-kâi tsṳ-niôⁿ lăi-pôiⁿ ŏi pat-jī --kâi huáⁿ tshuē bô che̍k-nâng.
+Kàu-kâi Tong-kok, ùiⁿ-tit che̍k-tshoiⁿ-kâi tsṳ-niôⁿ lăi-pôiⁿ ŏi pat-jī --kâi huáⁿ₊ tshuē bô che̍k-nâng.
 <br>
 
 <!-- For acts of heroism or for exalted virtue a woman may, like men, have an honorary portal erected for her with the emperor's sanction. -->
 &nbsp;&nbsp;Tùi eng-ióng ŭ-ngĭ a-sĭ tek_kau_buăng_tŏng kâi tsṳ-niôⁿ-nâng --lâi --tàⁿ, i--nâng ŭ chhiâu-thêng phoi-tsún iā hó kah ta-pou-nâng pêⁿ-iōⁿ khí pâi-huang lâi seng-piáu.
 
 <!-- She may even aspire to deification, since many of the richest and most popular temples are those of the Queen of Heaven, the Protector of Sailors, and of other goddesses who were once earthly women. -->
-Sĭm-chì i--nâng huáⁿ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, in-ūi siăng lāu-jia̍t kah sì-tshù to ŭ kâi sîn-biō tsōi-kâi sāi Má-tsóu, chí-ūi pó-hō thó-hái-nâng kâi sîn-sian kah pa̍t-tshoh-kâi sîn-sian-niôⁿ nguân-tí lóng-sĭ huâm-sì_kan hŭ--nâng. 
+Sĭm-chì i--nâng huáⁿ₊ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, in-ūi siăng lāu-jia̍t kah sì-tshù to ŭ kâi sîn-biō tsōi-kâi sāi Má-tsóu, chí-ūi pó-hō thó-hái-nâng kâi sîn-sian kah pa̍t-tshoh-kâi sîn-sian-niôⁿ nguân-tí lóng-sĭ huâm-sì_kan hŭ--nâng. 
 
 <br>
 <br>
