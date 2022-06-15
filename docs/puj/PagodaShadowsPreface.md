@@ -17,7 +17,7 @@ Tsho-pán sî-kan: 1884 --nîⁿ<br>
 <br>
 <!-- PREFACE. -->
 <h3>TSÔIᴺ-NGÂN</h3>
-<!-- THESE studies have been made during a resi- dence of ten years in China, with a knowledge of the language of the people, and an opportunity for close observation of their social customs. The autobiographies and the stories are exact translations of verbal narrations given to the author in the Swatow dialect. -->
+<!-- THESE studies have been made during a residence of ten years in China, with a knowledge of the language of the people, and an opportunity for close observation of their social customs. The autobiographies and the stories are exact translations of verbal narrations given to the author in the Swatow dialect. -->
 &nbsp;&nbsp;Khiă-khí tŏ Tong-kok chiâⁿ-tsa̍p-nîⁿ lăi, ŭ-tit lia̍h sì-chiu-ûi-tńg tshoh nâng tàⁿ kâi uē-gṳ́ lí-kói thong-thàu, kah ŭ ki-huĕ chiŭ-kṳ̆n liáu-kói in kâi lī-so̍k, uá tsò liáu chí-tshoh-kâi ngian-kiù. Chí lăi-tói kâi mue̍h-kiăⁿ-sṳ̄ lóng-tsóng sĭ i--nâng ka-kī ēng Suàⁿ-thâu pe̍h-uē só-tàⁿ kâi sît-chì tsuán-lo̍k.<br>
 <br>
 <!-- A. M. F.-->
@@ -32,9 +32,9 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 <br>
 <br>
 <h3>E̍K--CHIÁ NGÂN</h3>
-&nbsp;&nbsp;Chí-pńg-tsṳ chiàu-iok pún-lâi sĭ tsak--chiá pâi-jît só-kìⁿ_só-siŏⁿ --kâi tshòu tsò che̍k-ē, siá liáu jín-kàu tshàm-tshùi. Sìn_ta̍t_ngiá chiá kéng-kài khah kûiⁿ, put-kuè uá chĭn-liăng m̆ thiⁿ-ke-niap-kiám, to̍k-kù-to̍k-kù ēng siăng chih-kṳ̆n nguân-uē --kâi pe̍h-tît e̍k--tshut-lâi, m̆-tá-lí tī-tshoh thóiⁿ-huap tsua̍h-kâi a-sĭ niâm-nî-ka-thi. Chí-hăng khang-khuè sĭ uá lîm-sî-hèng, kú-kú mue̍h che̍k-hio̍h, ŭ-sim-chiâⁿ, ia̍h chhiau-tshuē che̍k-tshoh-kâi kū-tsá tàⁿ-huap --jîp-khṳ̀.<br>
+&nbsp;&nbsp;Chí-pńg-tsṳ chiàu-iok pún-lâi sĭ tsak--chiá pâi-jît só-kìⁿ_só-siŏⁿ --kâi tshòu tsò che̍k-ē, siá liáu jín-kàu tshàm-tshùi. Sìn_ta̍t_ngiá chiá kéng-kài khah kûiⁿ, put-kuè uá chĭn-liăng m̆ thiⁿ-ke-niap-kiám, to̍k-kù-to̍k-kù ēng siăng chih-kṳ̆n nguân-uē --kâi pe̍h-tît e̍k --tshut-lâi, m̆-tá-lí tī-tshoh thóiⁿ-huap tsua̍h-kâi a-sĭ niâm-nî-ka-thi. Chiá khang-khuè sĭ uá lîm-sî-hèng mue̍h --kâi, kú-kú mue̍h che̍k-hio̍h, lân-sî sim-sek-hèng uá ia̍h chhiau-tshuē lân-ló kū-tsá tàⁿ-huap sio-tsham --jîp-khṳ̀.<br>
 <br>
-Hái-suaⁿ Lău Lí<br>
+Hái-suaⁿ lău Lí<br>
 2022 --nîⁿ<br>
 
 </section>
