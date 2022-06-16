@@ -32,7 +32,7 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 <br>
 <br>
 <h3>E̍K--CHIÁ NGÂN</h3>
-&nbsp;&nbsp;Chí-pńg-tsṳ chiàu-iok pún-lâi sĭ tsak--chiá pâi-jît só-kìⁿ_só-siŏⁿ --kâi tshòu tsò che̍k-ē, siá liáu jín-kàu tshàm-tshùi. Sìn_ta̍t_ngiá chiá kéng-kài khah kûiⁿ, put-kuè uá chĭn-liăng m̆ thiⁿ-ke-niap-kiám, to̍k-kù-to̍k-kù ēng siăng chih-kṳ̆n nguân-uē --kâi pe̍h-tît e̍k --tshut-lâi, m̆-tá-lí tī-tshoh thóiⁿ-huap tsua̍h-kâi a-sĭ niâm-nî-ka-thi. Chiá khang-khuè sĭ uá lîm-sî-hèng mue̍h --kâi, kú-kú mue̍h che̍k-hio̍h, lân-sî sim-sek-hèng uá ia̍h chhiau-tshuē lân-ló kū-tsá tàⁿ-huap sio-tsham --jîp-khṳ̀.<br>
+&nbsp;&nbsp;Chí-pńg-tsṳ chiàu-iok pún-lâi sĭ tsak--chiá pâi-jît só-kìⁿ_só-siŏⁿ --kâi tshòu tsò che̍k-ē, siá liáu jín-kàu tshàm-tshùi. Sìn_ta̍t_ngiá chiá kéng-kài khah kûiⁿ, put-kuè uá chĭn-liăng m̆ thiⁿ-ke-niap-kiám, to̍k-kù-to̍k-kù ēng siăng chih-kṳ̆n nguân-uē --kâi pe̍h-tît e̍k --tshut-lâi, m̆-tá-lí tī-tshoh thóiⁿ-huap tsua̍h-kâi a-sĭ niâm-nî-ka-thi. Chiá khang-khuè sĭ uá lîm-sî-hèng mue̍h --kâi, kú-kú mue̍h che̍k-hio̍h, lân-sî sim-sek-hèng uá ia̍h chhiau-tshuē lân-ló kū-tsá tàⁿ-huap sio-tsham --jîp-khṳ̀; uán-tshù lău-nâng tsṳ̆-liáu tàⁿ "Nán-kâi-uē che̍k-tsháu-buān-hō.", liáu chí-tói siá--kâi tsōi-kâi sĭ ēng uá ka-kī hioⁿ-lí thóu-uē, lân-tshoh tàⁿ-huap ŭ-tshut-jîp a-sĭ tsò-che̍k-ē thóiⁿ bô, hiá so̍k tsṳ chiàⁿ-siôⁿ; hí-tshoh bô-mih-nâng tsai-iáⁿ kâi tàⁿ-huap, uá khat-khóu chió siá --tăm-po̍h, mín --nâng thóiⁿ liáu khat-năi bāi.<br>
 <br>
 Hái-suaⁿ lău Lí<br>
 2022 --nîⁿ<br>
