@@ -6,6 +6,7 @@ tag: headline
 ---
 
 <h2 class="PUJ">Pe̍h-uē-jī</h2>
+<h4><i>白话字</i></h4><br>
 
 <section class="PUJ">
 Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Tiê-chiu-uē kâi che̍k-thàu bûn-jī.<br>
@@ -19,6 +20,7 @@ Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Ti�
 <br>
 <br>
 <h2>Bô-sṳ̄-siâng, iáu-suà bô-ia-liâ</h2>
+<h4><i>片言只语</i></h4><br>
 <section class="PUJ container posts-content">
 <ol class="posts-list">
 {% assign sorted_pages = site.pages | sort: "date" | reverse %}
@@ -36,6 +38,7 @@ Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Ti�
 <br>
 <br>
 <h2>Huan-e̍k</h2>
+<h4><i>译文</i></h4><br>
 <section class="PUJ container posts-content">
 <ol class="posts-list">
 {% assign sorted_pages = site.pages | sort: "date" | reverse %}
@@ -54,6 +57,7 @@ Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Ti�
 <br>
 <br>
 <h2>Che̍k-tóu-sái</h2>
+<h4><i>狗屁不通</i></h4><br>
 <section class="PUJ container posts-content">
 <ol class="posts-list">
 {% assign sorted_pages = site.pages | sort: "date" | reverse %}
