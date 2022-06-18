@@ -69,6 +69,7 @@ Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ
 7. tín-tăng, 活动。有时亦读 tȉn-tăng；<br>
 8. chiŏⁿ-lo̍h, 串门。亦多用 kiâⁿ-ta̍h；<br>
 9. siàng-hō, 取决于；依...而定；<br>
-10. tsáu₊-kúi, 婢女。即 tsa-bóu-kúi。
+10. kó-keh, 素性，近似于 phî-phiah；若结合个别地方近似词汇变调规律，此词亦有可能是 kŏ--keh，类似前音本调读法在我处常见有 tăi--keh 一词；<br>
+11. tsáu₊-kúi, 婢女。即 tsa-bóu-kúi。
 
 </section>
