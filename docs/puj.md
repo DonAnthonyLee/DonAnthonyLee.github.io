@@ -56,8 +56,8 @@ Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Ti�
 
 <br>
 <br>
-<h2>Che̍k-tóu-sái</h2>
-<h4><i>狗屁不通</i></h4><br>
+<h2>Liân-lo-khek</h2>
+<h4><i>风语</i></h4><br>
 <section class="PUJ container posts-content">
 <ol class="posts-list">
 {% assign sorted_pages = site.pages | sort: "date" | reverse %}
