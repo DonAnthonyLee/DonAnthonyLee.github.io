@@ -68,7 +68,7 @@ Tsŭ tŏ hṳ́-tiang-sî, i tŏ sio-keh hioⁿ-lí thiaⁿ tio̍h tàⁿ ŭ-nâ
 Taⁿ-chiàⁿ tńg kàu tshù-lăi, chek-peh--hué lia̍h i ngĕⁿ-tît mē(suan), tàⁿ i sĭ-kài tshut-khṳ̀ tshuē ta-pou.
 
 <!-- The next day they sold her for a sum amounting to nearly twenty pounds, to an old man in another village, whose wife had lately died; and as she refused to go to his house, they hired a ruffian, for twelve shillings, to tie a rope around her and drag her there. -->
-Keh-jît, chek-peh--hué lia̍h i bōi liáu tsha-m̆-to che̍k-peh nióⁿ ngṳ̂n(chiang-kṳ̆n 20 eng-pōng), sĭ bōi kàu sio-keh hioⁿ-lí pun kâi lău-ta-pou; lău-ta-pou in bóu taⁿ-chiàⁿ sí bô-kú; chek-peh--hué bô-iông-chhêng i m̆-nguăn khṳ̀, ēng nŏⁿ-saⁿ nióⁿ ngṳ̂n(chiang-kṳ̆n 12 soiⁿ-lĕng) kòu liáu kâi pháiⁿ-kiáⁿ, lia̍h i pît-pa̍k-liáu thua kàu lău-ta-pou --kò.
+Keh-jît, chek-peh--hué lia̍h i bōi liáu tsha-m̆-to che̍k-peh nióⁿ ngṳ̂n(chiang-kṳ̆n 20 eng-pōng), sĭ bōi kàu pa̍t-kâi hioⁿ-lí pun kâi lău-ta-pou; lău-ta-pou in bóu taⁿ-chiàⁿ sí bô-kú; chek-peh--hué bô-iông-chhêng i m̆-nguăn khṳ̀, ēng nŏⁿ-saⁿ nióⁿ ngṳ̂n(chiang-kṳ̆n 12 soiⁿ-lĕng) kòu liáu kâi pháiⁿ-kiáⁿ, lia̍h i pît-pa̍k-liáu thua kàu lău-ta-pou --kò.
 
 <!-- Her boy, who had never before been separated from her by day nor night, clung to her screaming, but was torn away and kept in the family of his uncles. -->
 Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâi saⁿ-kṳ khàu m̆-hiah, liáu_li khṳh --nâng lia̍h tsáu, kìm tŏ i--nâng chek-peh tshù-lăi --kò.
