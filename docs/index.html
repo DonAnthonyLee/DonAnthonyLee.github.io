@@ -7,7 +7,28 @@ layout: default
   <h1 class="page-heading">杂记</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% assign pages_count = 0 %}
+    {% for post in site.pages %}
+      {% if pages_count == 5 %}
+        {% break %}
+      {% endif %}
+      {% if post.tag == "PUJ_article" %}
+      {% assign pages_count = pages_count | plus: 1 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+      {% endif %}
+    {% endfor %}
+
+     {% for post in site.posts %}
+      {% if pages_count == 5 %}
+        {% break %}
+      {% endif %}
+      {% assign pages_count = pages_count | plus: 1 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
