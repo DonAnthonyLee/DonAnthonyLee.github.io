@@ -11,7 +11,7 @@ tag: PUJ_translation
 &nbsp;&nbsp;Tsṳ-niôⁿ-nâng ŭ-bô tau₊-kiáⁿ, tsha-m̆-to tsù-tiāⁿ che̍k-sì-nâng ŏi-bŏi khuàⁿ-ua̍h, hiá, i--nâng lia̍h ka-kī kâi kiáⁿ tǹg-tsò siăng chhiat-iàu kah siăng huaⁿ-hí --kâi to iā ha̍h-chhêng-ha̍h-lí.
 
 <!-- For them she will sacrifice all else. Her daughters leave her and become legally and truly an integral part of another family for ever. -->
-Ūi-tio̍h tshoh-kiáⁿ, i--nâng sĭm-mih-kâi to hó mài(thōu-tiāu). Tshoh tsáu₊-kiáⁿ iā lī-khui i--nâng kè--tshut-khṳ̀, tsong-kú pìⁿ-tsò pa̍t-ke--kâi --khṳ̀.
+Ūi-tio̍h tshoh-kiáⁿ, i--nâng sĭm-mih-kâi to hó mài(thōu-tiāu). Tshoh tsáu₊-kiáⁿ iā lī-khui i--nâng kè --tshut-khṳ̀, tsong-kú pìⁿ-tsò pa̍t-ke--kâi --khṳ̀.
 
 <!-- For domestic service, care in sickness, help in old age, and offerings for the sustenance of her spirit after death, she must rely on her son's wife, while her own daughter performs these services for someone else. -->
 Ke-lăi khang-khuè, chia̍h-lău a-sĭ phuà-pēⁿ tio̍h --nâng khâng-khiâ, kuè-sin ău ŭ-nâng sio-hioⁿ, chí-tshoh-kâi i--nâng ngĕⁿ-hóuⁿ tio̍h ǹg in sim-pŭ, me ka-kī kâi tsáu₊-kiáⁿ iā-sĭ pêⁿ-iōⁿ ho̍k-sṳ̆ pa̍t-nâng --tŏ. 
@@ -24,7 +24,7 @@ Tŏ chiá Tong-kok, kiáⁿ-sun zú tsōi, pâng-thâu zú heng-sĕng.
 &nbsp;&nbsp;Kuáⁿ-hŭ chiàⁿ-siôⁿ sĭ lâu tŏ i--nâng ta-kuaⁿ hṳ́-tshṳ̀ --kò, huáⁿ₊-sĭ kàu-ke-nâng tsò-che̍k-ē khiă-khí, kah in ang kuè-sin tsôiⁿ bô mih tsáu-tsua̍h.
 
 <!-- Though ever so young, a second marriage would bring reproach and disgrace. -->
-Yi--nâng chin-tsò sĭ hău-hău-seⁿ-seⁿ, kè ke --che̍k-tshuā ŏi bô-lián-mīn kah khṳh --nâng hiâm.
+Yi--nâng chin-tsò sĭ hău-hău-seⁿ-seⁿ, kè ke --che̍k-tsuā ŏi bô-lián-mīn kah khṳh --nâng hiâm.
 
 <!-- Unlike an Israelite, she cannot legally marry one of her husband's brothers, nor any person of the same surname. -->
 Kah Yíⁿ-sek-lia̍t-nâng bŏi sio-tâng, i--nâng mó kè pun in ang kâi hiaⁿ-tĭ, iā mó kè pun pêⁿ-tâng sèⁿ-sĭ --kâi.
@@ -35,21 +35,28 @@ Nâ-sĭ bô seⁿ-kiáⁿ, i--nâng ŭ-hó siu-iáng --nâng tsò-kiáⁿ, chiá
 
 <!-- She is apt to remain in widowhood if there be ricefields affording her a living, unless she be driven to marry by the persecutions of her brothers-in-law. -->
 &nbsp;&nbsp;
-Nâ-sĭ ŭ che̍k-khu-tshân kàu chhī-ua̍h ka-kī, i--nâng chhêng-nguăn siú-kuáⁿ, bô--li-sĭ pun tshoh chek-peh tṳ̂ kàu bô-i-piàn chiàⁿ tsài kè-nâng.
+Nâ-sĭ ŭ che̍k-khu-tshân kàu chhī-ua̍h ka-kī, i--nâng chhêng-nguăn siú-kuáⁿ, bô_li sĭ-kài pun tshoh chek-peh tṳ̂ kàu bô-piàn chiàⁿ tsài kè-nâng.
 
 <!-- A sad case occurred in 1875 in Kit-ie. -->
+Chiá tshám-sṳ̄ 1875 --nîⁿ tŏ Kit-iôⁿ tsŭ ŭ--kuè.
 
 <!-- The widow was twenty-seven years old, and had a son aged ten. -->
+Hṳ́-kâi kuáⁿ-hŭ jī-tsa̍p-chhit huè, kiau kâi tsa̍p-huè-tuā tau₊-kiáⁿ;
 
 <!-- Her husband had been dead six years. -->
+Yin ang la̍k-nîⁿ-tsôiⁿ tsŭ kuè-sin --khṳ̀.
 
 <!-- His parents had both died before him, and their property had been divided lawfully and equally among their five sons, so that each owned a bit of land and a room in the ancestral home. -->
+Yin ta-kuaⁿ ta-ke pí in ang zú-tsá kuè-sin --khṳ̀, in kâi ke-suáⁿ chiàu-lī iû ngŏu-kâi kiáⁿ pêⁿ-pun, che̍k-nâng tit che̍k-kò-kiáⁿ tshân-hn̂g kah tsóu-tshù lăi che̍k-koiⁿ pâng.
 
 <!-- This widow continued to live in her husband's house, supporting herself and her child by the cultivation of the land, taking care of the household gear, and looking forward to her son's manhood. -->
+Chí-kâi kuáⁿ-hŭ nguân-tsăi tŏ in ang tshù-lăi khiă-khí, tsoh-tshân lâi ióⁿ-ua̍h ka-kī kah nou-kiáⁿ, ke-lăi khang-khuè lí kâu tiâu-tiâu, poh-mōⁿ in kiáⁿ méⁿ-méⁿ chia̍h-tuā.
 
 <!-- But her husband's brothers wanted the property and the boy, and tried to persuade her to enter a Buddhist nunnery. -->
+Liáu i--nâng chek-peh li siŏⁿ-àiⁿ ke-suáⁿ kah kâi tau₊-sun, huaⁿ₊ pat khǹg-kòi i khṳ̀ nî-kou-am.
 
 <!-- She refused, and was continually persecuted. -->
+Yi m̆-guăn, liáu tsŭ chiu-jît pun --nâng tṳ̂.
 
 <!-- There is no law for Chinese women so plain as the law that they shall obey their elders; and, wearied out by her troubles, she at last visited some Buddhist retreats with a view to becoming a recluse; but she was so disgusted by what she saw, that she resolved more firmly than ever not to leave her home. -->
 
@@ -67,9 +74,12 @@ Nâ-sĭ ŭ che̍k-khu-tshân kàu chhī-ua̍h ka-kī, i--nâng chhêng-nguăn si
 <br>
 <br>
 注：<br>
-1. sĭm-mih-kâi, 何物。现大多省作 mih-kâi，部分地方读 sím-mih-kâi 等，后续篇章将采用 mih-kâi；<br>
+1. sĭm-mih-kâi, 何物。现大多省略为 mih-kâi，部分地方读 sím-mih-kâi 等，后续篇章将采用 mih-kâi；<br>
 2. me, 语气转折，暗含后续因由必定导致前述事物发生之意；<br>
 3. tsáu₊-kiáⁿ, 女儿。即 tsa-bóu-kiáⁿ，此词在《卓威廉词典》（所记录时间约为 1850-1880 年） 中已产生合音，或许与 tsa-bóu 在府城之类地区被贬义化有关；<br>
+4. sĭ-kài, 是（强调）；亦可用 kài-sĭ，亦可单用 kài。曾有学者认为 kài 可能为语流中无论何种组合均读本调者（即 kâi）反推而成，但若结合泉音类似词汇来看似乎可能性较低，备注以资参考；<br>
+5. kiau, 带；和。部分地方读 khiau，后续篇章将沿用 kiau；<br>
+
 
 <br><b><i>[Buē-mue̍h-tît]</i></b><br>
 
