@@ -62,7 +62,7 @@ Yi m̆-nguăn, liáu tsŭ chiu-jît pun --nâng tṳ̂.
 Tong-kok lu̍t-lī ngiâm-tiâu kui-tiāⁿ tsṳ-niôⁿ-nâng chiàⁿ-eng-kai tsun-tshông i--nâng tuā-puè; liáu, khṳh tshoh mue̍h-kiăⁿ-sṳ̄ tîh kàu ùi, bué-chhiú i khṳ̀ hiá keng-biō sûn-thóiⁿ ŭ-bô-piàn ho̍k-sṳ̆ lău-iâ-a-niôⁿ --khṳ̀; tsò-tsai thóiⁿ-tît ià kàu thu̍t, liáu i zú-kèng siŏⁿ-àiⁿ lâu nā ka-kī tshù-lăi.
 
 <!-- Just then she heard that in a neighbouring village, a new and good doctrine was taught, and the next Sunday she went some miles to hear a Christian sermon. -->
-Tsŭ tŏ hṳ́-tng-sî, i to sio-keh hioⁿ-lí thiaⁿ tio̍h tàⁿ ŭ-nâng tŏ-kò thuân-kà, ĕ-che̍k-kâi lói-pài-jît i tsŭ kiâⁿ tio̍h-ŭ it-jī phòu-lōu khṳ̀ thiaⁿ --nâng phue̍h Ki-tok. 
+Tsŭ tŏ hṳ́-tng-sî, i tŏ sio-keh hioⁿ-lí thiaⁿ tio̍h tàⁿ ŭ-nâng tŏ-kò thuân-kà, ĕ-che̍k-kâi lói-pài-jît i tsŭ kiâⁿ tio̍h-ŭ it-jī phòu-lōu khṳ̀ thiaⁿ --nâng phue̍h Ki-tok. 
 
 <!-- On her return her brothers-in-law reviled her, saying that she had been away seeking a husband. -->
 Taⁿ-chiàⁿ tńg kàu tshù-lăi, chek-peh--hué lia̍h i ngĕⁿ-tît mē(suan), tàⁿ i sĭ-kài tshut-khṳ̀ tshuē ta-pou.
@@ -71,7 +71,7 @@ Taⁿ-chiàⁿ tńg kàu tshù-lăi, chek-peh--hué lia̍h i ngĕⁿ-tît mē(su
 Keh-jît, chek-peh--hué lia̍h i bōi liáu tsha-m̆-to che̍k-peh nióⁿ ngṳ̂n(chiang-kṳ̆n 20 eng-pōng), sĭ bōi kàu sio-keh hioⁿ-lí pun kâi lău-ta-pou; lău-ta-pou in bóu taⁿ-chiàⁿ sí bô-kú; chek-peh--hué bô-iông-chhêng i m̆-nguăn khṳ̀, ēng nŏⁿ-saⁿ nióⁿ ngṳ̂n(chiang-kṳ̆n 12 soiⁿ-lĕng) kòu liáu kâi pháiⁿ-kiáⁿ, lia̍h i pît-pa̍k-liáu thua kàu lău-ta-pou --kò.
 
 <!-- Her boy, who had never before been separated from her by day nor night, clung to her screaming, but was torn away and kept in the family of his uncles. -->
-Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâi saⁿ-kṳ khàu m̆-hiah, liáu-li khṳh --nâng lia̍h tsáu kìm tŏ i--nâng chek-peh tshù-lăi --kò.
+Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâi saⁿ-kṳ khàu m̆-hiah, liáu_li khṳh --nâng lia̍h tsáu kìm tŏ i--nâng chek-peh tshù-lăi --kò.
 
 <br>
 <br>
