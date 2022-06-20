@@ -41,35 +41,37 @@ Nâ-sĭ ŭ che̍k-khu-tshân kàu chhī-ua̍h ka-kī, i--nâng chhêng-nguăn si
 Chiá tshám-sṳ̄ 1875 --nîⁿ tŏ Kit-iôⁿ tsŭ ŭ--kuè.
 
 <!-- The widow was twenty-seven years old, and had a son aged ten. -->
-Hṳ́-kâi kuáⁿ-hŭ jī-tsa̍p-chhit huè, kiau kâi tsa̍p-huè-tuā tau₊-kiáⁿ;
+Hṳ́-kâi kuáⁿ-hŭ jī-tsa̍p-chhit huè, kiau kâi tsa̍p-huè-tuā tau₊-kiáⁿ.
 
 <!-- Her husband had been dead six years. -->
-Yin ang la̍k-nîⁿ-tsôiⁿ tsŭ kuè-sin --khṳ̀.
+Yin ang la̍k-nîⁿ-soiⁿ tsŭ kuè-sin --khṳ̀.
 
 <!-- His parents had both died before him, and their property had been divided lawfully and equally among their five sons, so that each owned a bit of land and a room in the ancestral home. -->
 Yin ta-kuaⁿ ta-ke pí in ang zú-tsá kuè-sin --khṳ̀, in kâi ke-suáⁿ chiàu-lī iû ngŏu-kâi kiáⁿ pêⁿ-pun, che̍k-nâng tit che̍k-kò-kiáⁿ tshân-hn̂g kah tsóu-tshù lăi che̍k-koiⁿ pâng.
 
 <!-- This widow continued to live in her husband's house, supporting herself and her child by the cultivation of the land, taking care of the household gear, and looking forward to her son's manhood. -->
-Chí-kâi kuáⁿ-hŭ nguân-tsăi tŏ in ang tshù-lăi khiă-khí, tsoh-tshân lâi ióⁿ-ua̍h ka-kī kah nou-kiáⁿ, ke-lăi khang-khuè lí kâu tiâu-tiâu, poh-mōⁿ in kiáⁿ méⁿ-méⁿ chia̍h-tuā.
+Chí-kâi kuáⁿ-hŭ nguân-tsăi tŏ in ang tshù-lăi khiă-khí, tsoh-tshân lâi ióⁿ-ua̍h ka-kī kah nou-kiáⁿ, ke-lăi khang-khuè lí kàu tiâu-tiâu, poh-mōⁿ in kiáⁿ méⁿ-méⁿ chia̍h-tuā.
 
 <!-- But her husband's brothers wanted the property and the boy, and tried to persuade her to enter a Buddhist nunnery. -->
-Liáu i--nâng chek-peh li siŏⁿ-àiⁿ ke-suáⁿ kah kâi tau₊-sun, huaⁿ₊ pat khǹg-kòi i khṳ̀ nî-kou-am.
+Liáu i--nâng chek-peh li tioⁿ-siŏⁿ tshoh ke-suáⁿ kah kâi tau₊-sun, huáⁿ₊ pat khǹg-kòi i khṳ̀ nî-kou-am.
 
 <!-- She refused, and was continually persecuted. -->
-Yi m̆-guăn, liáu tsŭ chiu-jît pun --nâng tṳ̂.
+Yi m̆-nguăn, liáu tsŭ chiu-jît pun --nâng tṳ̂.
 
 <!-- There is no law for Chinese women so plain as the law that they shall obey their elders; and, wearied out by her troubles, she at last visited some Buddhist retreats with a view to becoming a recluse; but she was so disgusted by what she saw, that she resolved more firmly than ever not to leave her home. -->
+Tong-kok lu̍t-lī ngiâm-tiâu kui-tiāⁿ tsṳ-niôⁿ-nâng chiàⁿ-eng-kai tsun-tshông i--nâng tuā-puè; liáu, khṳh tshoh mue̍h-kiăⁿ-sṳ̄ tîh kàu ùi, bué-chhiú i khṳ̀ hiá keng-biō sûn-thóiⁿ ŭ-bô-piàn ho̍k-sṳ̆ lău-iâ-a-niôⁿ --khṳ̀; tsò-tsai thóiⁿ-tît ià kàu thu̍t, liáu i zú-kèng siŏⁿ-àiⁿ lâu nā ka-kī tshù-lăi.
 
 <!-- Just then she heard that in a neighbouring village, a new and good doctrine was taught, and the next Sunday she went some miles to hear a Christian sermon. -->
+Tsŭ tŏ hṳ́-tng-sî, i to sio-keh hioⁿ-lí thiaⁿ tio̍h tàⁿ ŭ-nâng tŏ-kò thuân-kà, ĕ-che̍k-kâi lói-pài-jît i tsŭ kiâⁿ tio̍h-ŭ it-jī phòu-lōu khṳ̀ thiaⁿ --nâng phue̍h Ki-tok. 
 
 <!-- On her return her brothers-in-law reviled her, saying that she had been away seeking a husband. -->
+Taⁿ-chiàⁿ tńg kàu tshù-lăi, chek-peh--hué lia̍h i ngĕⁿ-tît mē(suan), tàⁿ i sĭ-kài tshut-khṳ̀ tshuē ta-pou.
 
 <!-- The next day they sold her for a sum amounting to nearly twenty pounds, to an old man in another village, whose wife had lately died; and as she refused to go to his house, they hired a ruffian, for twelve shillings, to tie a rope around her and drag her there. -->
+Keh-jît, chek-peh--hué lia̍h i bōi liáu tsha-m̆-to che̍k-peh nióⁿ ngṳ̂n(chiang-kṳ̆n 20 eng-pōng), sĭ bōi kàu sio-keh hioⁿ-lí pun kâi lău-ta-pou; lău-ta-pou in bóu taⁿ-chiàⁿ sí bô-kú; chek-peh--hué bô-iông-chhêng i m̆-nguăn khṳ̀, ēng nŏⁿ-saⁿ nióⁿ ngṳ̂n(chiang-kṳ̆n 12 soiⁿ-lĕng) kòu liáu kâi pháiⁿ-kiáⁿ, lia̍h i pît-pa̍k-liáu thua kàu lău-ta-pou --kò.
 
 <!-- Her boy, who had never before been separated from her by day nor night, clung to her screaming, but was torn away and kept in the family of his uncles. -->
-
-
-<br><b><i>[Buē-mue̍h-tît]</i></b><br>
+Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâi saⁿ-kṳ khàu m̆-hiah, liáu-li khṳh --nâng lia̍h tsáu kìm tŏ i--nâng chek-peh tshù-lăi --kò.
 
 <br>
 <br>
@@ -79,8 +81,6 @@ Yi m̆-guăn, liáu tsŭ chiu-jît pun --nâng tṳ̂.
 3. tsáu₊-kiáⁿ, 女儿。即 tsa-bóu-kiáⁿ，此词在《卓威廉词典》（所记录时间约为 1850-1880 年） 中已产生合音，或许与 tsa-bóu 在府城之类地区被贬义化有关；<br>
 4. sĭ-kài, 是（强调）；亦可用 kài-sĭ，亦可单用 kài。曾有学者认为 kài 可能为语流中无论何种组合均读本调者（即 kâi）反推而成，但若结合泉音类似词汇来看似乎可能性较低，备注以资参考；<br>
 5. kiau, 带；和。部分地方读 khiau，后续篇章将沿用 kiau；<br>
-
-
-<br><b><i>[Buē-mue̍h-tît]</i></b><br>
+6. nā, 在，用同 tŏ。此处采用作者所著词典音调；我处读音为 ná，即原来读 nă 的可能性较高，类似者，tŏ 在我处常读为 tó/ló；但后续篇章仍沿用 nā。<br>
 
 </section>
