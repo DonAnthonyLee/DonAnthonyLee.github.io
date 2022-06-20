@@ -25,7 +25,7 @@ Tŏ hiá iáu khiau-kêng kâi tī-hng, che̍k-kâi ta-pou tshuā kuá₊-kâi b
 <br>
 
 <!-- As long as a woman is childless, she serves; as soon as she becomes a mother, she begins to rule, and her dominion increases perpetually with the number of her descendants and the diminution of her elders. -->
-&nbsp;&nbsp;Tsṳ-niôⁿ-nâng bô seⁿ-kiáⁿ, tsŭ tio̍h tiām-tiām ho̍k-sṳ̆ --nâng; che̍k-jît i tsò --nâng kâi âi, i tsŭ khai-sṳ́ tsú-sṳ̄, liáu hiá kiáⁿ-tĭ zú-lâi_zú-tsōi, kah hiá lău--kâi zú-lâi_zú-kiám, i khuân-la̍t tsŭ zú-lâi_zú-tuā.
+&nbsp;&nbsp;Tsṳ-niôⁿ-nâng bô seⁿ-kiáⁿ, tsŭ tio̍h tiām-tiām ho̍k-sṳ̆ --nâng; che̍k-jît i tsò --nâng kâi âi, i tsŭ khai-sṳ́ tsú-sṳ̄, liáu hiá kiáⁿ-sun zú-lâi_zú-tsōi, kah hiá lău--kâi zú-lâi_zú-kiám, i khuân-la̍t tsŭ zú-lâi_zú-tuā.
 
 <!-- Married at fifteen, she is often a great-grandmother at sixty, and the head of a household of some dozens of persons. -->
 Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâi tsò --nâng lău-má, pìⁿ tsò che̍k-tuā-ke-kiáⁿ kúi-tsa̍p-nâng kâi thâu-ló --khṳ̀.
@@ -33,7 +33,7 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 <br>
 <br>
 注：<br>
-1. chhiâng-tshá, 争吵不停。此处可用更为普遍的 sio-mē; sio-à 等代替，但似乎欠缺意味；<br>
+1. chhiâng-tshá, 争吵不停。此处可用更为普遍的 sio-mē; sio-chhiâng, sio-à 等代替，但似乎欠缺意味；<br>
 2. thái-ko, 麻风病。我处此词使用上已近乎 bái-thóiⁿ，因而此处另加 "seⁿ"；<br>
 3. tsun-tshûn, 尊重且敬畏。照理为“遵循”；<br>
 4. nâ-sĭ, 如果。作者所著词典记录为 ā-sĭ，同时期另一白话字词典记录为 nă-sĭ，此处结合府城腔变调规律及另一白话字词典特点，声调按我处前变调进行修正，后续篇章将沿用此音；但需要提醒的是，《厦英大辞典》（1873年出版）中该词读法为 nā-sī；<br>
