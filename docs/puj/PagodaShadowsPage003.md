@@ -40,7 +40,7 @@ Kàu-sin saⁿ-khòu kău-po̍h kò-kò sio-tâng, chhēng--khí-lâi tī-seⁿ 
 Hun-ioh tsōi-kâi sĭ sin-nâng lóng m̆-tsai tsŭ tiāⁿ--lo̍h-lâi --kâi, thăi sin-niôⁿ-kiáⁿ tshuā kàu sin-nn̂g hṳ́ tshù --kò, sĭm-chì liân sin-nn̂g kah i kâi chhin-nâng to m̆-pat kìⁿ--kuè.
 
 <!-- Having arrived there, she is at once incorporated in her father-in-law's household, thenceforth has little association with her own kin. -->
-Sin-niôⁿ tsṳ̆ jîp-mn̂g, chiat-sî tsŭ tǹg-tsò in ta-kuaⁿ hí tshù-lăi ka-kī, kuè-ău hoh-chió kàu guā-ke chiŏⁿ-lo̍h.
+Sin-niôⁿ tsṳ̆ jîp-mn̂g, chiat-sî tsŭ tǹg-tsò in ta-kuaⁿ hṳ́ tshù-lăi ka-kī, kuè-ău hoh-chió kàu guā-ke chiŏⁿ-lo̍h.
 
 <!-- Her happiness depends more on the character of her mother-in-law than on that of her husband, for by her husband's mother and grandmother she is wholly ruled. -->
 Yi kuè liáu ŏi-bŏi chheng-sim, iáu-chió sĭ thóiⁿ kâi ang, tio̍h siàng-hō kâi ta-ke kó-keh tsăi-seⁿ, mih-sṳ̄ lóng tio̍h thiaⁿ in ta-ke kah lău-má hun-hù.
