@@ -68,7 +68,7 @@ Tsŭ tŏ hṳ́-tiang-sî, i tŏ sio-keh hioⁿ-lí thiaⁿ tio̍h tàⁿ ŭ-nâ
 Taⁿ-chiàⁿ tńg kàu tshù-lăi, chek-peh--hué lia̍h i ngĕⁿ-tît mē(suan), tàⁿ i sĭ-kài tshut-khṳ̀ tshuē ta-pou.
 
 <!-- The next day they sold her for a sum amounting to nearly twenty pounds, to an old man in another village, whose wife had lately died; and as she refused to go to his house, they hired a ruffian, for twelve shillings, to tie a rope around her and drag her there. -->
-Keh-jît, chek-peh--hué lia̍h i bōi liáu tsha-m̆-to che̍k-peh nióⁿ ngṳ̂n(chiang-kṳ̆n 20 eng-pōng), sĭ bōi kàu pa̍t-kâi hioⁿ-lí pun kâi lău-ta-pou; lău-ta-pou in bóu taⁿ-chiàⁿ sí bô-kú; chek-peh--hué bô-iông-chhêng i m̆-nguăn khṳ̀, ēng nŏⁿ-saⁿ nióⁿ ngṳ̂n(chiang-kṳ̆n 12 soiⁿ-lĕng) kòu liáu kâi pháiⁿ-kiáⁿ, lia̍h i pît-pa̍k-liáu thua kàu lău-ta-pou --kò.
+Keh-jît, chek-peh--hué lia̍h i bōi liáu tsha-m̆-to chhit-tsa̍p nióⁿ ngṳ̂n(chiang-kṳ̆n 20 eng-pōng), sĭ bōi kàu pa̍t-kâi hioⁿ-lí pun kâi lău-ta-pou; lău-ta-pou in bóu taⁿ-chiàⁿ sí bô-kú; chek-peh--hué bô-iông-chhêng i m̆-nguăn khṳ̀, ēng nŏⁿ nióⁿ ngṳ̂n(chiang-kṳ̆n 12 soiⁿ-lĕng) kòu liáu kâi pháiⁿ-kiáⁿ, lia̍h i pît-pa̍k-liáu thua kàu lău-ta-pou --kò.
 
 <!-- Her boy, who had never before been separated from her by day nor night, clung to her screaming, but was torn away and kept in the family of his uncles. -->
 Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâi saⁿ-kṳ khàu m̆-hiah, liáu_li khṳh --nâng thua tsáu, kìm tŏ i--nâng chek-peh kâi tshù-lăi --kò.
@@ -82,6 +82,6 @@ Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâ
 4. sĭ-kài, 是（强调）；亦可用 kài-sĭ，亦可单用 kài。曾有学者认为 kài 可能为语流中无论何种组合均读本调者（即 kâi）反推而成，但若结合泉音类似词汇来看似乎可能性较低，备注以资参考；<br>
 5. kiau, 带；和。部分地方读 khiau，后续篇章将沿用 kiau；<br>
 6. nā, 在，用同 tŏ。此处采用作者所著词典音调；我处读音为 ná，即原来读 nă 的可能性较高，类似者，tŏ 在我处常读为 tó/ló；但后续篇章仍沿用 nā；<br>
-7. suan, 长辈严厉责骂晚辈；此说法仅于部分地区存在，但因其他说法稍显粗俗，于作者身份不符，因而此处勉强以 mē 代替之。<br>
-
+7. suan, 长辈严厉责骂晚辈；此说法仅于部分地区存在，但因其他说法稍显粗俗，于作者身份不符，因而此处勉强以 mē 代替之；<br>
+8. 最后一段中为按网络上所查到资料粗略计算（约按 1 英镑折合 3.4 两白银），当时山西一石小麦约 2 两白银。<br>
 </section>
