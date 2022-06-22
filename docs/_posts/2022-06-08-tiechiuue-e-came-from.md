@@ -11,10 +11,8 @@ categories: 潮州话
 近日，骤然想起词义相近的一对读音：khiò 与 khè。<br>
 khiò, 被某钝物硌到或撞到，用法有别于 tiam（被细小砂石硌到），其物体量通常稍大；个别场合与 
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">靠</rb>
 		<rp>(</rp><rt class="markup_over">khò</rt><rp>)</rp>
-	</rbc>
 </ruby>
  可互换。旧时《菲尔德词典》相近读法有 khiē（词义类似阻碍）; khiòu（词义类似对立），意思均与 khiò 稍有出入。<br>
 khè, 除单用作形容词外，通常出现于 sán-khè 一词，指瘦骨嶙峋。<br>

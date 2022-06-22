@@ -17,10 +17,8 @@ Nŏⁿ-kù so̍k-uē:<br>
 1. iu̍h, 叫；发出声音；<br>
 2. hûn-kài-sī, 云盖寺，云澳旧称；据说该俗语与 
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">宋帝昺</rb>
 		<rp>(</rp><rt class="markup_over">sòng-tì-péng</rt><rp>)</rp>
-	</rbc>
 </ruby> 有关；<br>
 3. kap-kiú, 蛙类；<br>
 4. kap-pô, 特指蟾蜍。

@@ -14,10 +14,8 @@ Chí-pái thàng-mêⁿ-jît lo̍h-hŏu-tap_tih, hŏu-chia-pèⁿ hiah kú seⁿ
 注：<br>
 1. liû-tn̄g, 
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">绸缎</rb>
 		<rp>(</rp><rt class="markup_over">tiû-tn̄g</rt><rp>)</rp>
-		</rbc>
 </ruby> 音变。
 
 </section>
