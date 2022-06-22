@@ -10,6 +10,7 @@ tag: PUJ_essay
 Bô-tah-bô-hiàⁿ, chhiat-iàu mó niàⁿ(ǹg).<br>
 <br>
 Bô-tah-bô-hiàⁿ, ŭ nŏⁿ-têng ì-sṳ̀.<br>
+1. Bô-phâng-phìⁿ, e̍k tsò tsṳ-mīn-gṳ́ kiò tsò "<ruby style="ruby-position:over"><rb class="markup_main">无依无靠</rb><rp>(</rp><rt class="markup_over">bô-i-bô-khò/kŏu</rt><rp>)</rp></ruby>".<br>
 2. Tsò-sṳ̄ kho̍k-kho̍k-lut, tȍng-tȍng-hìⁿ, to̍k-to̍k-hiat.<br>
 <br>
 注：<br>
