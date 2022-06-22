@@ -9,17 +9,13 @@ tag: PUJ_translation
 
 <h2>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">宝塔</rb>
 		<rp>(</rp><rt class="markup_over">PÓ-THAH</rt><rp>)</rp>
-	</rbc>
 </ruby>
 						
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">斜影</rb>
 		<rp>(</rp><rt class="markup_over">SIÂ-YIÁᴺ</rt><rp>)</rp>
-	</rbc>
 </ruby>
  : </h2>
 <h4><i>TŎ TONG-KOK SEᴺ-UA̍H KÂI NGIAN-KIÙ</i></h4>
@@ -50,231 +46,159 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 &nbsp;&nbsp;Chiá khang-khuè sĭ uá lîm-sî-hèng mue̍h --kâi, kú-kú mue̍h che̍k-hio̍h, lân-sî sim-sek-hèng uá ia̍h chhiau-tshuē lân-ló kū-tsá tàⁿ-huap sio-tsham --jîp-khṳ̀; uán-tshù lău-nâng tsṳ̆-liáu tàⁿ "Nán-kâi-uē che̍k-tsháu-buān-hō.", liáu chí-tói siá--kâi tsōi-kâi sĭ ēng uá ka-kī hioⁿ-lí thóu-uē, lân-tshoh tàⁿ-huap ŭ-tsáu-tsua̍h a-sĭ tsò-che̍k-ē thóiⁿ bô, hiá so̍k-tsṳ chiàⁿ-siôⁿ; hí-tshoh bô-mih-nâng tsai-iáⁿ kâi tàⁿ-huap, uá khat-khóu chió siá --tăm-poh, mín --nâng thóiⁿ liáu khat-năi bāi.<br>
 &nbsp;&nbsp;
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">不才</rb>
 		<rp>(</rp><rt class="markup_over">Put-tshâi</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">甚</rb>
 		<rp>(</rp><rt class="markup_over">sĭm</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">觉</rb>
 		<rp>(</rp><rt class="markup_over">kak</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">汉字</rb>
 		<rp>(</rp><rt class="markup_over">hàn-jī</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">书写</rb>
 		<rp>(</rp><rt class="markup_over">tsṳ-siá</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">译文</rb>
 		<rp>(</rp><rt class="markup_over">e̍k-bûn</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">易</rb>
 		<rp>(</rp><rt class="markup_over">kōi</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">禁锢</rb>
 		<rp>(</rp><rt class="markup_over">kìm-kù</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">思绪</rb>
 		<rp>(</rp><rt class="markup_over">sṳ-sú</rt><rp>)</rp>
-	</rbc>
 </ruby>
 ，
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">而</rb>
 		<rp>(</rp><rt class="markup_over">zṳ̂</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">能力</rb>
 		<rp>(</rp><rt class="markup_over">lêng-la̍t</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">实属</rb>
 		<rp>(</rp><rt class="markup_over">sît-so̍k</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">有限</rb>
 		<rp>(</rp><rt class="markup_over">ŭ-hăn</rt><rp>)</rp>
-	</rbc>
 </ruby>
 ，
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">亦</rb>
 		<rp>(</rp><rt class="markup_over">e̍k</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">无意</rb>
 		<rp>(</rp><rt class="markup_over">bô-ì</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">标榜</rb>
 		<rp>(</rp><rt class="markup_over">phiau-páng</rt><rp>)</rp>
-	</rbc>
 </ruby>
 “
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">正字</rb>
 		<rp>(</rp><rt class="markup_over">chiàⁿ-jī</rt><rp>)</rp>
-	</rbc>
 </ruby>
 ”，
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">故此</rb>
 		<rp>(</rp><rt class="markup_over">kù-tshṳ́</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">译文</rb>
 		<rp>(</rp><rt class="markup_over">e̍k-bûn</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">均</rb>
 		<rp>(</rp><rt class="markup_over">kṳn</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">以</rb>
 		<rp>(</rp><rt class="markup_over">íⁿ</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">白话字</rb>
 		<rp>(</rp><rt class="markup_over">pe̍h-uē-jī</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">书写</rb>
 		<rp>(</rp><rt class="markup_over">tsṳ-siá</rt><rp>)</rp>
-	</rbc>
 </ruby>
 ，
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">仅此</rb>
 		<rp>(</rp><rt class="markup_over">kṳ́n-tshṳ́</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">注解</rb>
 		<rp>(</rp><rt class="markup_over">tsù-kói</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">若干</rb>
 		<rp>(</rp><rt class="markup_over">jia̍k-kan</rt><rp>)</rp>
-	</rbc>
 </ruby>
 ，
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">若有</rb>
 		<rp>(</rp><rt class="markup_over">jia̍k-ŭ</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">饱学之士</rb>
 		<rp>(</rp><rt class="markup_over">pá-ha̍k_tsṳ_sṳ̆</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">愿</rb>
 		<rp>(</rp><rt class="markup_over">nguăn</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">为</rb>
 		<rp>(</rp><rt class="markup_over">ŭi</rt><rp>)</rp>
-	</rbc>
 </ruby>
 “
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">正字</rb>
 		<rp>(</rp><rt class="markup_over">chiàⁿ-jī</rt><rp>)</rp>
-	</rbc>
 </ruby>
 ”，
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">自当</rb>
 		<rp>(</rp><rt class="markup_over">tsṳ̆-tang</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">感激涕零</rb>
 		<rp>(</rp><rt class="markup_over">kám-kek_thì-lêng</rt><rp>)</rp>
-	</rbc>
 </ruby>
 。<br>
 
 <br>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">海山</rb>
 		<rp>(</rp><rt class="markup_over">Hái-suaⁿ</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">老</rb>
 		<rp>(</rp><rt class="markup_over">lău</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
-	<rbc>
 		<rb class="markup_main">李</rb>
 		<rp>(</rp><rt class="markup_over">Lí</rt><rp>)</rp>
-	</rbc>
 </ruby>
 <br>
 2022 --nîⁿ<br>
