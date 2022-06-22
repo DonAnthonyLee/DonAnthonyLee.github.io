@@ -5,13 +5,7 @@ date:   2022-06-18 12:00:00 +0800
 tag: PUJ_article
 ---
 
-<style>
-h1 { font-family: "FreeSerif", "Lucida Sans Unicode", "Tahoma", sans-serif; }
-h2 { font-family: "FreeSerif", "Lucida Sans Unicode", "Tahoma", sans-serif; }
-h3 { font-family: "FreeSerif", "Lucida Sans Unicode", "Tahoma", sans-serif; }
-h4 { font-family: "FreeSerif", "Lucida Sans Unicode", "Tahoma", sans-serif; }
-p { font-family: "FreeSerif", "Lucida Sans Unicode", "Tahoma", sans-serif; font-size: 18px; }
-</style>
+{% include puj-style.html %}
 
 # CHE̍K-TÓU-SÁI
 <!-- <font size="2">Tsak--chiá: <em>Hái-suaⁿ lău Lí</em></font> -->
