@@ -81,6 +81,12 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 </ruby>
 <ruby style="ruby-position:over">
 	<rbc>
+		<rb class="markup_main">译文</rb>
+		<rp>(</rp><rt class="markup_over">e̍k-bûn</rt><rp>)</rp>
+	</rbc>
+</ruby>
+<ruby style="ruby-position:over">
+	<rbc>
 		<rb class="markup_main">易</rb>
 		<rp>(</rp><rt class="markup_over">kōi</rt><rp>)</rp>
 	</rbc>
@@ -100,14 +106,20 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 ，
 <ruby style="ruby-position:over">
 	<rbc>
-		<rb class="markup_main">且</rb>
-		<rp>(</rp><rt class="markup_over">chhiáⁿ</rt><rp>)</rp>
+		<rb class="markup_main">而</rb>
+		<rp>(</rp><rt class="markup_over">zṳ̂</rt><rp>)</rp>
 	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
 	<rbc>
 		<rb class="markup_main">能力</rb>
 		<rp>(</rp><rt class="markup_over">lêng-la̍t</rt><rp>)</rp>
+	</rbc>
+</ruby>
+<ruby style="ruby-position:over">
+	<rbc>
+		<rb class="markup_main">实属</rb>
+		<rp>(</rp><rt class="markup_over">sît-so̍k</rt><rp>)</rp>
 	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
@@ -182,26 +194,8 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 ，
 <ruby style="ruby-position:over">
 	<rbc>
-		<rb class="markup_main">仅</rb>
-		<rp>(</rp><rt class="markup_over">kṳ́n</rt><rp>)</rp>
-	</rbc>
-</ruby>
-<ruby style="ruby-position:over">
-	<rbc>
-		<rb class="markup_main">于</rb>
-		<rp>(</rp><rt class="markup_over">i</rt><rp>)</rp>
-	</rbc>
-</ruby>
-<ruby style="ruby-position:over">
-	<rbc>
-		<rb class="markup_main">个别</rb>
-		<rp>(</rp><rt class="markup_over">kŏ-pia̍t</rt><rp>)</rp>
-	</rbc>
-</ruby>
-<ruby style="ruby-position:over">
-	<rbc>
-		<rb class="markup_main">处</rb>
-		<rp>(</rp><rt class="markup_over">--tshù</rt><rp>)</rp>
+		<rb class="markup_main">仅此</rb>
+		<rp>(</rp><rt class="markup_over">kṳ́n-tshṳ́</rt><rp>)</rp>
 	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
@@ -226,7 +220,7 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 <ruby style="ruby-position:over">
 	<rbc>
 		<rb class="markup_main">饱学之士</rb>
-		<rp>(</rp><rt class="markup_over">pá-ha̍k-tsṳ-sṳ̆</rt><rp>)</rp>
+		<rp>(</rp><rt class="markup_over">pá-ha̍k_tsṳ_sṳ̆</rt><rp>)</rp>
 	</rbc>
 </ruby>
 <ruby style="ruby-position:over">
@@ -258,7 +252,7 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 <ruby style="ruby-position:over">
 	<rbc>
 		<rb class="markup_main">感激涕零</rb>
-		<rp>(</rp><rt class="markup_over">kám-kek-thì-lêng</rt><rp>)</rp>
+		<rp>(</rp><rt class="markup_over">kám-kek_thì-lêng</rt><rp>)</rp>
 	</rbc>
 </ruby>
 。<br>
