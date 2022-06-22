@@ -38,8 +38,8 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 3. tsun-tshûn, 尊重且敬畏。照理为“遵循”；<br>
 4. nâ-sĭ, 如果。作者所著词典记录为 ā-sĭ，同时期另一白话字词典记录为 nă-sĭ，此处结合府城腔变调规律及另一白话字词典特点，声调按我处前变调进行修正，后续篇章将沿用此音；但需要提醒的是，《厦英大辞典》（1873年出版）中该词读法为 nā-sī；<br>
 5. thâu-bóu, 正室；旧时多称之 tsháu-thâu，亦称 chiàⁿ-chhi；<br>
-6. [动词] tioh [事物], 此用法中通常意味着所指事物超出正常范围；<br>
-7. jī-nâng, 妾；旧时亦称之 chhiah-kha；<br>
+6. jī-nâng, 妾；旧时亦称之 chhiah-kha；<br>
+7. [动词] tioh [事物], 此用法中通常意味着所指事物超出正常范围；<br>
 8. Bilhah, Rachel, 圣经故事人物，此处姑且以原文代替；<br>
 9. tau₊-kiáⁿ, 儿子。即 ta-pou-kiáⁿ；<br>
 10. khiau-kêng, 贫穷。现今大多单用 khiau 或 kêng；<br>
