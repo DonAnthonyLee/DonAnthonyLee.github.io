@@ -6,6 +6,7 @@ tag: PUJ_translation
 ---
 
 {% include puj-style.html %}
+{% include changlog-table-style.html %}
 
 <!-- The wife may be divorced for scolding, barrenness, lasciviousness, leprosy, disobedience to her husband's parents, and thieving; but all these causes are null when her parents are not alive to receive her back again. -->
 &nbsp;&nbsp;Chhiâng-tshá<a href="#note_1" class="note">1</a>, bŏi-seⁿ, kan-îm, seⁿ thái-ko<a href="#note_2" class="note">2</a>, bô-tsun-tshûn<a href="#note_3" class="note">3</a> kong-má, thau-khio̍h mue̍h-kiăⁿ, tsṳ-niôⁿ-nâng khan-thua tio̍h chí-tshoh-kâi ŏi pun --nâng hiu tiāu; liáu nâ-sĭ<a href="#note_4" class="note">4</a> i--nâng pĕ-âi lóng kuè-sin, bô-nâng siu-liû --i, chí-tshoh-kâi lí-iû tsn̂g-kâi mó lŭn.
@@ -40,3 +41,22 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 
 ***[前页](PagodaShadowsPage003.html)***
 ***[后页](PagodaShadowsPage005.html)***
+
+
+---
+<br>
+
+#### 变更历史
+
+{:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-23 | modified for style |
+| 2022-06-22 | update PagodaShadowsPage004.md |
+| 2022-06-22 | update PagodaShadowsPage004.md |
+| 2022-06-22 | update PUJ translation |
+| 2022-06-21 | update PUJ translation |
+| 2022-06-20 | update PUJ translation |
+| 2022-06-17 | update pages & PUJ translation |
+| 2022-06-17 | add PagodaShadowsPage004.md |

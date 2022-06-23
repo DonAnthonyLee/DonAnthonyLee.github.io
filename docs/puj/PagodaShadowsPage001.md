@@ -6,6 +6,7 @@ tag: PUJ_translation
 ---
 
 {% include puj-style.html %}
+{% include changlog-table-style.html %}
 
 <!-- PAGODA SHADOWS, -->
 # PÓ-THAH SIÂ-YIÁᴺ
@@ -54,3 +55,23 @@ Tŏ chí-kâi Ki-tok kà-ngĭ kâi kám-huè kah chĕng-huè hāu-la̍t huân-li
 ***[前页](PagodaShadowsPreface.html)***
 ***[后页](PagodaShadowsPage002.html)***
 
+
+---
+<br>
+
+#### 变更历史
+
+{:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-23 | modified for style |
+| 2022-06-17 | update pages & PUJ translation |
+| 2022-06-15 | update PUJ articles and translation |
+| 2022-06-14 | update PUJ translation |
+| 2022-06-12 | update PUJ translation |
+| 2022-06-11 | update PUJ article and translation |
+| 2022-06-11 | update translation |
+| 2022-06-11 | update PagodaShadowsPage001.md |
+| 2022-06-10 | updated PagodaShadowsPage001.md |
+| 2022-06-10 | added PagodaShadowsPage001.md |
