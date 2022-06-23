@@ -33,18 +33,47 @@ $on-laptop:        800px;
   font-size: 18px;
 }
 
-.note {
+a.note:link {
   color: #ffffff;
   background-color: #101010;
   border-radius: 80%;
+  border-color: #101010;
+  border-style: solid;
   font-size: 12px;
   vertical-align: bottom;
   text-align: center;
-  height: 14px;
-  width: 14px;
+  margin-left: 3px;
   display: in-block;
+  text-decoration: none;
 }
 
+a.note:visited {
+  color: #ffffff;
+  background-color: #101010;
+  border-radius: 80%;
+  border-color: #101010;
+  border-style: solid;
+  font-size: 12px;
+  vertical-align: bottom;
+  text-align: center;
+  margin-left: 3px;
+  display: in-block;
+  text-decoration: none;
+}
+
+a.note:hover {
+  color: #ffffff;
+  background-color: #101010;
+  border-radius: 80%;
+  border-color: #101010;
+  border-style: solid;
+  font-size: 14px;
+  vertical-align: bottom;
+  text-align: center;
+  margin-left: 3px;
+  display: in-block;
+  text-decoration: none;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
