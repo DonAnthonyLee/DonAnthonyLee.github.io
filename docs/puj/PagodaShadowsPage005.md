@@ -34,7 +34,7 @@ Hṳ́-kâi kuáⁿ-hŭ jī-tsa̍p-chhit huè, kiau<a href="#note_4" class="note
 <!-- Her husband had been dead six years. -->
 Yin ang la̍k-nîⁿ-soiⁿ tsŭ kuè-sin --khṳ̀.
 <!-- His parents had both died before him, and their property had been divided lawfully and equally among their five sons, so that each owned a bit of land and a room in the ancestral home. -->
-Yin ta-kuaⁿ ta-ke pí in ang zú-kèng tsá kuè-sin, liáu, ke-ngia̍p chiàu-lī iû ngŏu-kâi kiáⁿ pêⁿ-pun, che̍k-nâng tit-tio̍h che̍k-kò-kiáⁿ tshù-tī kah tsóu-tshù lăi che̍k-koiⁿ pâng.
+Yin ta-kuaⁿ ta-ke pí in ang zú-kèng tsá kuè-sin, liáu, ke-ngia̍p chiàu-lī iû ngŏu-kâi kiáⁿ pêⁿ-pun, che̍k-nâng tit-tio̍h che̍k-kò-kiáⁿ tī kah tsóu-tshù lăi che̍k-koiⁿ pâng.
 <!-- This widow continued to live in her husband's house, supporting herself and her child by the cultivation of the land, taking care of the household gear, and looking forward to her son's manhood. -->
 Chí-kâi kuáⁿ-hŭ nguân-tsăi tŏ in ang tshù-lăi khiă-khí, tsoh-tshân lâi ióⁿ-ua̍h ka-kī kah nou-kiáⁿ, ke-lăi khang-khuè lí kàu tiâu-tiâu, poh-mōⁿ in kiáⁿ méⁿ-méⁿ chia̍h-tuā.
 <!-- But her husband's brothers wanted the property and the boy, and tried to persuade her to enter a Buddhist nunnery. -->
