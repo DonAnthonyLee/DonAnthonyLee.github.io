@@ -42,7 +42,7 @@ Chí-khûn tsṳ-niôⁿ-kiáⁿ, tsṳ̆-sòi tsò-pû sńg, iŭ-sĭ tshù-pi�
 <!-- Mutual confidences revealed mutual griefs. -->
 Sim-lăi-uē che̍k phue̍h --khí-lâi, kâi-kâi tàu chhi-tshám.
 <!-- One was married to an opium-smoker, a yellow bundle of bones, vibrating between besotted sleep and sottish waking. -->
-Ŭ che̍k-nâng kè pun kâi kuh ah-phiàn --kâi, chiá ta-pou, n̂g-sng-n̂g-sng<a href="#note_5" class="note">5</a>, thong-sin tshûn hù kut, thàng-jît nuàⁿ nā phou--kò khok_khok_tòng.
+Ŭ che̍k-nâng kè pun kâi kuh a-phiàn --kâi, chiá ta-pou, n̂g-sng-n̂g-sng<a href="#note_5" class="note">5</a>, thong-sin tshûn hù kut, thàng-jît nuàⁿ nā phou--kò khok_khok_tòng.
 <!-- One was wedded to a gambler, who spent his days and nights wasting the family substance. -->
 Ŭ che̍k-nâng kè pun kâi hàuⁿ pua̍h-chîⁿ --kâi, chiá ta-pou, mêⁿ-jît to tŏ phuà-ke.
 <!-- One had a mother-in-law so stern and cruel that life was torment to those under her authority. -->
