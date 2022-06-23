@@ -42,7 +42,7 @@ Chí-khûn tsṳ-niôⁿ-kiáⁿ, tsṳ̆-sòi tsò-pû sńg, iŭ-sĭ tshù-pi�
 <!-- Mutual confidences revealed mutual griefs. -->
 Sim-lăi-uē che̍k phue̍h --khí-lâi, kâi-kâi tàu chhi-tshám.
 <!-- One was married to an opium-smoker, a yellow bundle of bones, vibrating between besotted sleep and sottish waking. -->
-Ŭ che̍k-nâng kè pun kâi kuh ah-phiàn --kâi, chiá ta-pou, thong-sin tshûn hù kut, thàng-jît nuàⁿ nā phou--kò khok_khok_tòng.
+Ŭ che̍k-nâng kè pun kâi kuh ah-phiàn --kâi, chiá ta-pou, n̂g-sng-n̂g-sng<a href="#note_5" class="note">5</a>, thong-sin tshûn hù kut, thàng-jît nuàⁿ nā phou--kò khok_khok_tòng.
 <!-- One was wedded to a gambler, who spent his days and nights wasting the family substance. -->
 Ŭ che̍k-nâng kè pun kâi hàuⁿ pua̍h-chîⁿ --kâi, chiá ta-pou, mêⁿ-jît to tŏ phuà-ke.
 <!-- One had a mother-in-law so stern and cruel that life was torment to those under her authority. -->
@@ -50,11 +50,11 @@ Sim-lăi-uē che̍k phue̍h --khí-lâi, kâi-kâi tàu chhi-tshám.
 <!-- All three of the brides were miserable, and as they mingled their lamentations, their four unmarried friends and companions said to each other, "This is such sorrow as we must feel by-and-by. How better to be dead!" -->
 Chí saⁿ-kâi sin-niôⁿ-kiáⁿ ŭ-kàu tshám, liáu i--nâng lia̍h chhi-liâng-khóu-kéng lin-liau tsò-che̍k-ē, lĕng-guā sì-kâi buē-chêng-kè kâi chí-muē tsham-siâng tàⁿ, "Bô-kú-ău nán iā tio̍h chiòⁿ tshám. M̆-su-kuè lái-khṳ̀ sí --hó!".
 <!-- All agreed in this, and entered secretly into a covenant to end their lives together. -->
-Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_5" class="note">5</a> hó tsò-pû tsṳ̆-chĭn.
+Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_6" class="note">6</a> hó tsò-pû tsṳ̆-chĭn.
 
 
 <!-- They calculated the time when custom would again bring the married ones to their mothers' houses, and fixed the full moon of the seventh month, as the night for their escape from life. -->
-&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_6" class="note">6</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ chhit-gue̍h tsa̍p-ngŏu hṳ́-mêⁿ tsò-che̍k-ē thau-tsáu. 
+&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_7" class="note">7</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ chhit-gue̍h tsa̍p-ngŏu hṳ́-mêⁿ tsò-che̍k-ē thau-tsáu. 
 <!-- When the time arrived, six of them dressed themselves in festal garments, with flowers in their hair, went hand in hand in the moonlight to the shore, bound themselves together with a rope, and threw themselves into the sea. -->
 Sî kàu, ŭ la̍k-nâng chhēng sin-saⁿ, thâu-téng kat phau hue, sio-khan-chhiú sêng gue̍h lâi-kàu hái-kîⁿ-kha, ēng soh pa̍k tsò che̍k-ē tâu-hái --khṳ̀, 
 <!-- The seventh, only thirteen years old, was discovered through some noise she made in searching for her best clothing in the night, and was prevented by her mother from leaving the house. -->
@@ -71,8 +71,9 @@ Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak
 2. <span id="note_2">se-su-kiáⁿ, 些许；部分地方读 siam-su-kiáⁿ 等；</span>
 3. <span id="note_3">tshûn, 只有，仅存；部分地方亦读 tshun；</span>
 4. <span id="note_4">chhĭⁿ, 接近；</span>
-5. <span id="note_5">tshó-chhiàng, 约定；</span>
-6. <span id="note_6">huâ-sǹg, 估算。</span>
+5. <span id="note_6">n̂g-sng, 因长期疾病等导致皮肤失去光泽，也用于形容体弱多病（贬义）；</span>
+6. <span id="note_6">tshó-chhiàng, 约定；</span>
+7. <span id="note_7">huâ-sǹg, 估算。</span>
 
 
 ***[前页](PagodaShadowsPage005.html)***
