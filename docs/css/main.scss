@@ -33,6 +33,19 @@ $on-laptop:        800px;
   font-size: 18px;
 }
 
+.note {
+  color: #ffffff;
+  background-color: #101010;
+  border-radius: 80%;
+  font-size: 12px;
+  vertical-align: bottom;
+  text-align: center;
+  height: 14px;
+  width: 14px;
+  display: in-block;
+}
+
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
