@@ -5,6 +5,8 @@ date:   2022-06-09 18:40:00 +0800
 tag: PUJ_translation
 ---
 
+{% include puj-style.html %}
+
 <section class="PUJ">
 
 <h2>
