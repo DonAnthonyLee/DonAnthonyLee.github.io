@@ -6,6 +6,7 @@ tag: PUJ_translation
 ---
 
 {% include puj-style.html %}
+{% include changlog-table-style.html %}
 
 <!-- One source of great unhappiness to Chinese women is in the law which forbids the breaking of betrothal contracts, even though these be made in the infancy of the parties involved. -->
 &nbsp;&nbsp;Tong-kok tsṳ-niôⁿ siăng khóu-miāⁿ --kâi sĭ lu̍t-huap m̆-tsún i--nâng húiⁿ-tiāu hun-ioh, tsŭ-sǹg chí-tsuang hun-ioh sĭ jī-ke tsò nou-kiáⁿ --sî tiāⁿ --lo̍h-lâi --kâi. 
@@ -56,7 +57,7 @@ Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_6" 
 <!-- They calculated the time when custom would again bring the married ones to their mothers' houses, and fixed the full moon of the seventh month, as the night for their escape from life. -->
 &nbsp;&nbsp;Yin huâ-sǹg<a href="#note_7" class="note">7</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ chhit-gue̍h tsa̍p-ngŏu hṳ́-mêⁿ tsò-che̍k-ē thau-tsáu. 
 <!-- When the time arrived, six of them dressed themselves in festal garments, with flowers in their hair, went hand in hand in the moonlight to the shore, bound themselves together with a rope, and threw themselves into the sea. -->
-Sî kàu, ŭ la̍k-nâng chhēng sin-saⁿ, thâu-téng kat phau hue, sio-khan-chhiú sêng gue̍h lâi-kàu hái-kîⁿ-kha, ēng soh pa̍k tsò che̍k-ē tâu-hái --khṳ̀, 
+Sî kàu, ŭ la̍k-nâng chhēng sin-saⁿ, thâu-téng kat phau hue, sio-khan-chhiú sêng gue̍h lâi-kàu hái-kîⁿ-kha, ēng soh pa̍k tsò che̍k-ē tâu-hái --khṳ̀.
 <!-- The seventh, only thirteen years old, was discovered through some noise she made in searching for her best clothing in the night, and was prevented by her mother from leaving the house. -->
 Tŏiⁿ-chhit-nâng, chiàⁿ tsa̍p-saⁿ huè tuā --tiaⁿ, hṳ́-mêⁿ chhiau-tshuē sin-saⁿ tsak tio̍h nâng pun --nâng thóiⁿ--kìⁿ, liáu in âi méⁿ-méⁿ tsa̍h-tuè, m̆-tsún i tshut--khṳ̀.
 <!-- From her the fate of the other six was afterwards ascertained, and their bodies were recovered and buried in one grave. -->
@@ -77,3 +78,19 @@ Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak
 
 
 ***[前页](PagodaShadowsPage005.html)***
+
+
+---
+<br>
+
+#### 变更历史
+
+{:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-24 | fixed spelling of "opium" refering to William Duffus' dictionary , though it's not what I used to hear in my village before |
+| 2022-06-24 | update PagodaShadowsPage006-008.md |
+| 2022-06-23 | modified for style |
+| 2022-06-23 | modified for style |
+| 2022-06-23 | update PagodaShadowsPage006-008.md |
