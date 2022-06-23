@@ -154,37 +154,6 @@ Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ<br>
 		<rb class="markup_main">若干</rb>
 		<rp>(</rp><rt class="markup_over">jia̍k-kan</rt><rp>)</rp>
 </ruby>
-，
-<ruby style="ruby-position:over">
-		<rb class="markup_main">若有</rb>
-		<rp>(</rp><rt class="markup_over">jia̍k-ŭ</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">饱学之士</rb>
-		<rp>(</rp><rt class="markup_over">pá-ha̍k_tsṳ_sṳ̆</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">愿</rb>
-		<rp>(</rp><rt class="markup_over">nguăn</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">为</rb>
-		<rp>(</rp><rt class="markup_over">ŭi</rt><rp>)</rp>
-</ruby>
-“
-<ruby style="ruby-position:over">
-		<rb class="markup_main">正字</rb>
-		<rp>(</rp><rt class="markup_over">chiàⁿ-jī</rt><rp>)</rp>
-</ruby>
-”，
-<ruby style="ruby-position:over">
-		<rb class="markup_main">自当</rb>
-		<rp>(</rp><rt class="markup_over">tsṳ̆-tang</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">感激涕零</rb>
-		<rp>(</rp><rt class="markup_over">kám-kek_thì-lêng</rt><rp>)</rp>
-</ruby>
 。<br>
 
 <br>
