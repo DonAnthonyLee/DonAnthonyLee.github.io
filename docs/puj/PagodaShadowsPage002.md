@@ -6,6 +6,7 @@ tag: PUJ_translation
 ---
 
 {% include puj-style.html %}
+{% include changlog-table-style.html %}
 
 <!-- 此页译文前后修改多次，一是英文原意把握欠奉而改动，一是打字时思绪比手脚运行速度更快而出现声调标错者较多 -->
 <!-- In a country where extortion is the chief use of office, and fear of it the main spur to obedience, neither women nor men claim political rights. -->
@@ -46,3 +47,23 @@ Sĭm-chì i--nâng huáⁿ₊ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, i
 ***[前页](PagodaShadowsPage001.html)***
 ***[后页](PagodaShadowsPage003.html)***
 
+
+---
+<br>
+
+#### 变更历史
+
+{:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-23 | modified for style |
+| 2022-06-17 | update pages & PUJ translation |
+| 2022-06-15 | update PUJ articles and translation |
+| 2022-06-14 | fix PagodaShadowsPage002.md |
+| 2022-06-13 | update PUJ translation |
+| 2022-06-13 | update PUJ translation |
+| 2022-06-13 | update PUJ translation |
+| 2022-06-13 | update PUJ translation |
+| 2022-06-12 | fix PUJ translation |
+| 2022-06-12 | added PUJ translation |

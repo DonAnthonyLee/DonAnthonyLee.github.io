@@ -6,6 +6,7 @@ tag: PUJ_translation
 ---
 
 {% include puj-style.html %}
+{% include changlog-table-style.html %}
 
 <!-- So greatly does the welfare of the wife depend on her having sons, that it is not strange that they are her greatest desire, and her chief pride. -->
 &nbsp;&nbsp;Tsṳ-niôⁿ-nâng ŭ-bô tau₊-kiáⁿ, tsha-m̆-to tsù-tiāⁿ che̍k-sì-nâng ŏi-bŏi khuàⁿ-ua̍h, hiá, i--nâng lia̍h ka-kī kâi kiáⁿ tǹg-tsò siăng chhiat-iàu kah siăng huaⁿ-hí --kâi to iā ha̍h-chhêng-ha̍h-lí.
@@ -65,3 +66,25 @@ Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâ
 
 ***[前页](PagodaShadowsPage004.html)***
 ***[后页](PagodaShadowsPage006-008.html)***
+
+
+---
+<br>
+
+#### 变更历史
+
+{:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-23 | update PagodaShadowsPage005.md |
+| 2022-06-23 | modified for style |
+| 2022-06-22 | update PagodaShadowsPage005.md |
+| 2022-06-22 | update PUJ translation |
+| 2022-06-21 | update PUJ translation |
+| 2022-06-21 | update PagodaShadowsPage005.md |
+| 2022-06-21 | update PUJ translation |
+| 2022-06-20 | update PagodaShadowsPage005.md |
+| 2022-06-20 | update PagodaShadowsPage005.md |
+| 2022-06-20 | update PagodaShadowsPage005.md |
+| 2022-06-20 | update PUJ translation |

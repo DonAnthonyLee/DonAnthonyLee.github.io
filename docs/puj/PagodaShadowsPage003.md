@@ -6,6 +6,7 @@ tag: PUJ_translation
 ---
 
 {% include puj-style.html %}
+{% include changlog-table-style.html %}
 
 <!-- In one thing the Chinese woman is exceptionally blessed. She has inherited from former generations a style of dress at once modest, economical, healthful, and
 becoming. -->
@@ -57,3 +58,22 @@ Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ
 
 ***[前页](PagodaShadowsPage002.html)***
 ***[后页](PagodaShadowsPage004.html)***
+
+
+---
+<br>
+
+#### 变更历史
+
+{:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-23 | modified for style |
+| 2022-06-21 | update PUJ translation |
+| 2022-06-19 | update PagodaShadowsPage003.md |
+| 2022-06-16 | update PUJ pages |
+| 2022-06-15 | update PUJ articles and translation |
+| 2022-06-15 | update PagodaShadowsPage003.md |
+| 2022-06-14 | PagodaShadowsPage003.md complete |
+| 2022-06-14 | update PUJ translation |
