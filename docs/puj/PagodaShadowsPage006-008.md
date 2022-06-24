@@ -89,6 +89,7 @@ Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-25 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0177da602344a62337b3042cfbb985923a5fb5d0" target="_blank">improve punctuation and add comments</a> |
 | 2022-06-24 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/f6bf55a4102b6c115bf0f18fabab186f45e25812" target="_blank">modified description of the time girls were to suicide</a> |
 | 2022-06-24 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d47eaaf8db10b6ca726dfc4077f198f8cdd5700f" target="_blank">fixed spelling of "opium" refering to William Duffus' dictionary , though it's not what I used to hear in my village before</a> |
 | 2022-06-24 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/cc67aba1e5d8de4597cf7328a71d6d9b44949bb7" target="_blank">update PagodaShadowsPage006-008.md</a> |
