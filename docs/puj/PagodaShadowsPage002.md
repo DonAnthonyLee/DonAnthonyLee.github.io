@@ -57,6 +57,7 @@ Sĭm-chì i--nâng huáⁿ₊ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, i
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-24 | updated spelling of "loot" |
 | 2022-06-23 | modified for style |
 | 2022-06-17 | update pages & PUJ translation |
 | 2022-06-15 | update PUJ articles and translation |
