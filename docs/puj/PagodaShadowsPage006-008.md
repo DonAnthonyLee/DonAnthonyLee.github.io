@@ -23,7 +23,7 @@ Tsṳ-niôⁿ-kiáⁿ kâi pĕ-bó bô siŏⁿ-àiⁿ tsò-chiâⁿ chí-tsuang 
 <!-- Her mother urged her to kill herself, as the only solution of the question. -->
 Tsṳ-niôⁿ-kiáⁿ kâi âi kiò i khṳ̀ tsṳ̆-chĭn, tàⁿ tshûn<a href="#note_3" class="note">3</a> chí-tiâu-lōu hó-kiâⁿ ╌tiaⁿ.
 <!-- I sent agents to negotiate with the boy's parents, but could make no terms with them; -->
-Uá chhiah liáu kâi tong-nâng khṳ̀ kah hṳ́-kâi ta-pou-kiáⁿ kâi pĕ-bó phue̍h, liáu, jīm phue̍h phue̍h m̆ tshái-tāi.
+Uá chhiah liáu kâi tong-nâng khṳ̀ kah hṳ́-kâi ta-pou-kiáⁿ kâi pĕ-bó phue̍h, liáu, jīm phue̍h phue̍h m̆ tshái-tāi;
 <!-- and I also sought the officials and learned that they would not condone the withholding of a bride from even such a bridegroom. -->
 uá iā tshuē kuè kuaⁿ-gê, liáu chiàⁿ-tsai, tsŭ-sǹg kâi sin-nn̂g chiòⁿ-seⁿ, i╌nâng iā bô-iông-chhêng ╌nâng pé-pa̍k sin-niôⁿ kè-nâng. 
 <!-- There was no legal way in which this child could be saved from her fate. -->
@@ -37,7 +37,7 @@ Bô-lŭn sin-niôⁿ-kiáⁿ a-sĭ lău-tsṳ-niôⁿ, tsṳ̆-chĭn lân-tiang-
 <!-- Some years ago seven young women, at a village near Swatow, entered into a compact to drown themselves together. -->
 Soiⁿ╌kúi-nîⁿ, tŏ Suàⁿ-thâu kha╌thâu kâi hioⁿ-lí ╌kò, chhit-kâi tsṳ-niôⁿ-kiáⁿ, tsham-siâng àiⁿ tsò-pû khṳ̀ tâu-hái.
 <!-- Three of them had been lately married, and after spending the customary four months at the houses of their fathers-in-law, had come to visit their own mothers. -->
-Lăi-pôiⁿ ŭ saⁿ-nâng taⁿ-chiàⁿ kè bô-kú, chiàu lī-so̍k tŏ i╌nâng ta-kuaⁿ hṳ́-kò khiă-khí liáu sì-kâi gue̍h ău, tńg kàu guā-ke thóiⁿ i╌nâng pĕ-bó-sang-chhin.
+Lăi-pôiⁿ ŭ saⁿ-nâng taⁿ-chiàⁿ kè bô-kú, chiàu lī-so̍k tŏ i╌nâng ta-kuaⁿ hṳ́-kò khiă-khí liáu sì-kâi gue̍h ău, tńg kàu guā-ke thóiⁿ i╌nâng pĕ-bó_sang-chhin.
 <!-- They had been playmates, and were neighbours, and so they spun and sewed together, and rejoiced in their reunion. -->
 Chí-khûn tsṳ-niôⁿ-kiáⁿ, tsṳ̆-sòi tsò-pû sńg, iŭ-sĭ tshù-piⁿ-thâu-bué, liáu i╌nâng siŏⁿ tio̍h ŭ-piàn sio-tsŭ kuè huaⁿ-hí, chhĭⁿ<a href="#note_4" class="note">4</a> tsò-che̍k-ē pháng-suàⁿ kah nn̂g-saⁿ-khòu. 
 <!-- Mutual confidences revealed mutual griefs. -->
@@ -49,13 +49,12 @@ Sim-lăi-uē che̍k phue̍h ╌khí-lâi, kâi-kâi tàu chhi-tshám.
 <!-- One had a mother-in-law so stern and cruel that life was torment to those under her authority. -->
 Ŭ che̍k-nâng kâi ta-ke iŭ ngiâm-tiâu ╌lâi iŭ hiau-huêⁿ, khṳh i kuán-hat ╌tio̍h tshám kàu bŏi luh-ám.
 <!-- All three of the brides were miserable, and as they mingled their lamentations, their four unmarried friends and companions said to each other, "This is such sorrow as we must feel by-and-by. How better to be dead!" -->
-Chí saⁿ-kâi sin-niôⁿ-kiáⁿ ŭ-kàu tshám, liáu i╌nâng lia̍h chhi-liâng-khóu-kéng lin-liau tsò-che̍k-ē, lĕng-guā sì-kâi buē-chêng-kè kâi chí-muē tsham-siâng tàⁿ, "Bô-kú-ău nán iā tio̍h chiòⁿ tshám. M̆-su-kuè lái-khṳ̀ sí ╌hó!".
+Chí saⁿ-kâi sin-niôⁿ-kiáⁿ ŭ-kàu tshám, liáu i╌nâng lia̍h chhi-liâng-khóu-kéng lin-liau tsò-che̍k-ē, lĕng-guā sì-kâi buē-chêng-kè kâi chí-muē tsham-siâng tàⁿ-, "Bô-kú-ău nán iā tio̍h chiòⁿ tshám. M̆-su-kuè<a href="#note_6" class="note">6</a> lái-khṳ̀ sí ╌hó!"
 <!-- All agreed in this, and entered secretly into a covenant to end their lives together. -->
-Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_6" class="note">6</a> hó tsò-pû tsṳ̆-chĭn.
-
+Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_7" class="note">7</a> hó tsò-pû tsṳ̆-chĭn.
 
 <!-- They calculated the time when custom would again bring the married ones to their mothers' houses, and fixed the full moon of the seventh month, as the night for their escape from life. -->
-&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_7" class="note">7</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ saⁿ-kò-gue̍h ău kâi tsa̍p-ngŏu-mêⁿ tsò-che̍k-ē thau-tsáu. 
+&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_8" class="note">8</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ saⁿ-kò gue̍h ău kâi tsa̍p-ngŏu-mêⁿ tsò-che̍k-ē thau-tsáu. 
 <!-- When the time arrived, six of them dressed themselves in festal garments, with flowers in their hair, went hand in hand in the moonlight to the shore, bound themselves together with a rope, and threw themselves into the sea. -->
 Sî kàu, ŭ la̍k-nâng chhēng sin-saⁿ, thâu-téng kat phau hue, sio-khan-chhiú sêng gue̍h lâi-kàu hái-kîⁿ-kha, ēng soh pa̍k tsò che̍k-ē tâu-hái ╌khṳ̀.
 <!-- The seventh, only thirteen years old, was discovered through some noise she made in searching for her best clothing in the night, and was prevented by her mother from leaving the house. -->
@@ -73,8 +72,9 @@ Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak
 3. <span id="note_3">tshûn, 只有，仅存；部分地方亦读 tshun；</span>
 4. <span id="note_4">chhĭⁿ, 接近；</span>
 5. <span id="note_6">n̂g-sng, 因长期疾病等导致皮肤失去光泽，也用于形容体弱多病（贬义）；</span>
-6. <span id="note_6">tshó-chhiàng, 约定；</span>
-7. <span id="note_7">huâ-sǹg, 估算。</span>
+6. <span id="note_6">m̆-su-kuè xxx, 亦读 m̆, su-kuè xxx ，即属于再强调 su-kuè，此处相当于 “要不然，不如 xxx”；</span>
+7. <span id="note_7">tshó-chhiàng, 约定；</span>
+8. <span id="note_8">huâ-sǹg, 估算。</span>
 
 
 ***[前页](PagodaShadowsPage005.html)***
