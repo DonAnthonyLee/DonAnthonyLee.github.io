@@ -9,7 +9,7 @@ tag: PUJ_article
 
 &nbsp;&nbsp;&nbsp;&nbsp;去年的某个时候，有位朋友曾经友善地提醒我，“罗马” 的 “马” 拼错了；当时确实未曾想他所指的是译音应当遵从本音选择文读。
 
-&nbsp;&nbsp;&nbsp;&nbsp;但是，想来想去不对头，“罗马”、“罗马数字” 自幼都读白读音 bé ，而文读音 má 仅仅出现在少数几个词中；然后，在网络上查了一下，[万维百科上潮州白话字](https://www.wanweibaike.net/wiki-%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97) 或 [中文维基百科上潮州白话字](https://m.so.studiodahu.com/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97) 条目内容中 “堂而皇之” 将 “汕头教会罗马字” 描述为 “ Suaⁿ-thâu Kà-huĕ Lô-má-jī ”（如果出自早期偏重官话表达的圣经白话字译文，我无话可说）。
+&nbsp;&nbsp;&nbsp;&nbsp;但是，想来想去不对头，“罗马”、“罗马数字” 自幼都读白读音 bé ，而文读音 má 仅仅出现在少数几个词中；然后，在网络上查了一下，[万维百科上潮州白话字](https://www.wanweibaike.net/wiki-%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97) 或 [中文维基百科上潮州白话字](https://m.so.studiodahu.com/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97) 条目内容中将 “汕头教会罗马字” 描述为 “ Suaⁿ-thâu Kà-huĕ Lô-má-jī ”。
 
 &nbsp;&nbsp;&nbsp;&nbsp;其实，地名有时候都不甚从主；离得比较近的地方，也许不会把 
 <ruby style="ruby-position:over">
@@ -68,11 +68,27 @@ tag: PUJ_article
 </ruby> 读作 Tṳ-tsô ，
 再鸡精鸡婆的人都不会去烦你，事不关己也。
 
-&nbsp;&nbsp;&nbsp;&nbsp;那么，“罗马” 要骑那匹马？似乎也就无甚紧要了；不过，这里不 “矫”，亦不 “正”，而是为了看看到底以前有无对应的读法。
+&nbsp;&nbsp;&nbsp;&nbsp;那么，“罗马” 要骑哪匹马？似乎也就无甚紧要了；不过，这里不 “矫”，亦不 “正”，而是为了看看到底以前有无对应的读法。
 
+## 圣经译文
+
+&nbsp;&nbsp;&nbsp;&nbsp;先来看看圣经译文相关内容，下图中，左侧为潮州白话字版的《使徒行传》（1892年出版）第二章，从 2.10 中可看到 “罗马人” 写为 “Lô-má nâng”；右侧为《我等救世主耶稣新遗诏书》（1840年出版）中采用中文书写的 “羅馬” 二字（据说此书是最早能查到此两字中文的书）。
+
+
+![96%](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E4%BD%BF%E5%BE%92%E8%A1%8C%E4%BC%A0%E7%AC%AC%E4%BA%8C%E7%AB%A0.png)
+
+
+## 同时期国内韵书情况
+
+***[ 未完，待续 ]***
+
+
+## 白话字词典中相应用字读音情况
 
 
 ***[ 未完，待续 ]***
+
+
 
 
 
