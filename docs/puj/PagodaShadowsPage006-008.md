@@ -55,7 +55,7 @@ Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_6" 
 
 
 <!-- They calculated the time when custom would again bring the married ones to their mothers' houses, and fixed the full moon of the seventh month, as the night for their escape from life. -->
-&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_7" class="note">7</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ chhit-gue̍h tsa̍p-ngŏu hṳ́-mêⁿ tsò-che̍k-ē thau-tsáu. 
+&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_7" class="note">7</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ saⁿ-kò-gue̍h ău kâi tsa̍p-ngŏu-mêⁿ tsò-che̍k-ē thau-tsáu. 
 <!-- When the time arrived, six of them dressed themselves in festal garments, with flowers in their hair, went hand in hand in the moonlight to the shore, bound themselves together with a rope, and threw themselves into the sea. -->
 Sî kàu, ŭ la̍k-nâng chhēng sin-saⁿ, thâu-téng kat phau hue, sio-khan-chhiú sêng gue̍h lâi-kàu hái-kîⁿ-kha, ēng soh pa̍k tsò che̍k-ē tâu-hái --khṳ̀.
 <!-- The seventh, only thirteen years old, was discovered through some noise she made in searching for her best clothing in the night, and was prevented by her mother from leaving the house. -->
