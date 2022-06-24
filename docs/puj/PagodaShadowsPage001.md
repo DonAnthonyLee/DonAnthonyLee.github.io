@@ -63,15 +63,16 @@ Tŏ chí-kâi Ki-tok kà-ngĭ kâi kám-huè kah chĕng-huè hāu-la̍t huân-li
 
 {:.changelog}
 
+
 | 更改日期 | 更改信息 |
 | --- | --- |
-| 2022-06-23 | modified for style |
-| 2022-06-17 | update pages & PUJ translation |
-| 2022-06-15 | update PUJ articles and translation |
-| 2022-06-14 | update PUJ translation |
-| 2022-06-12 | update PUJ translation |
-| 2022-06-11 | update PUJ article and translation |
-| 2022-06-11 | update translation |
-| 2022-06-11 | update PagodaShadowsPage001.md |
-| 2022-06-10 | updated PagodaShadowsPage001.md |
-| 2022-06-10 | added PagodaShadowsPage001.md |
+| 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
+| 2022-06-17 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3d8301ad3b10fabdfcb6eb7ebb3c12eed567fd76" target="_blank">update pages & PUJ translation</a> |
+| 2022-06-15 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/162bf353244a70af4199fad0ea69ed729d39db30" target="_blank">update PUJ articles and translation</a> |
+| 2022-06-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0edad7373b8835d6a840c819ac5fec8fc648ac0c" target="_blank">update PUJ translation</a> |
+| 2022-06-12 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e8f24752c89fe2aecb08f44eaf04ac23701b59b8" target="_blank">update PUJ translation</a> |
+| 2022-06-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/6e9ad6173ecdfa4ea224ec035fe8610d9e6f02f1" target="_blank">update PUJ article and translation</a> |
+| 2022-06-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/083c61c46d809c4722f135dd45dd5520f395316c" target="_blank">update translation</a> |
+| 2022-06-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/46fb971295f9a3d94e3cb6d4642f2119486e1405" target="_blank">update PagodaShadowsPage001.md</a> |
+| 2022-06-10 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/dab1ff5f9d42e812b4c1f852bc6f2e442ed3a61f" target="_blank">updated PagodaShadowsPage001.md</a> |
+| 2022-06-10 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/084a2972cc9e7fd742c8c4a59995023d6a06f2e8" target="_blank">added PagodaShadowsPage001.md</a> |
