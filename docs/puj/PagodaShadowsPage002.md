@@ -57,14 +57,14 @@ Sĭm-chì i--nâng huáⁿ₊ ŭ-piàn khṳh --nâng thóiⁿ-tsò sîn-sian, i
 
 | 更改日期 | 更改信息 |
 | --- | --- |
-| 2022-06-24 | updated spelling of "loot" |
-| 2022-06-23 | modified for style |
-| 2022-06-17 | update pages & PUJ translation |
-| 2022-06-15 | update PUJ articles and translation |
-| 2022-06-14 | fix PagodaShadowsPage002.md |
-| 2022-06-13 | update PUJ translation |
-| 2022-06-13 | update PUJ translation |
-| 2022-06-13 | update PUJ translation |
-| 2022-06-13 | update PUJ translation |
-| 2022-06-12 | fix PUJ translation |
-| 2022-06-12 | added PUJ translation |
+| 2022-06-24 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/fe598f9dd565ba8d239eac9643c2019ab01aba58" target="_blank">updated spelling of "loot"</a> |
+| 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
+| 2022-06-17 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3d8301ad3b10fabdfcb6eb7ebb3c12eed567fd76" target="_blank">update pages & PUJ translation</a> |
+| 2022-06-15 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/162bf353244a70af4199fad0ea69ed729d39db30" target="_blank">update PUJ articles and translation</a> |
+| 2022-06-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5b2346df19a12441694ed4f89a651eb0f22bf405" target="_blank">fix PagodaShadowsPage002.md</a> |
+| 2022-06-13 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0e6308eef1885901035046cfc1e00339a14726a3" target="_blank">update PUJ translation</a> |
+| 2022-06-13 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d1191ddfb244f68c0a20ec83991c1fc44fe7335f" target="_blank">update PUJ translation</a> |
+| 2022-06-13 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0eea9506444461e9abbb878f8395977777300934" target="_blank">update PUJ translation</a> |
+| 2022-06-13 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/574461d8c80da142507e11e643b8de99df424625" target="_blank">update PUJ translation</a> |
+| 2022-06-12 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c0aace0fcbdb7be4c30fc1b5bf2e665f0872e4cd" target="_blank">fix PUJ translation</a> |
+| 2022-06-12 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/81a0768b106e0a8fcacc209411209e7864c479f1" target="_blank">added PUJ translation</a> |

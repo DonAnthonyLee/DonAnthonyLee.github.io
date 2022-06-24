@@ -52,11 +52,11 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 
 | 更改日期 | 更改信息 |
 | --- | --- |
-| 2022-06-23 | modified for style |
-| 2022-06-22 | update PagodaShadowsPage004.md |
-| 2022-06-22 | update PagodaShadowsPage004.md |
-| 2022-06-22 | update PUJ translation |
-| 2022-06-21 | update PUJ translation |
-| 2022-06-20 | update PUJ translation |
-| 2022-06-17 | update pages & PUJ translation |
-| 2022-06-17 | add PagodaShadowsPage004.md |
+| 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
+| 2022-06-22 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4a18f46a69c3b80d24a716f5149e71f6617950b2" target="_blank">update PagodaShadowsPage004.md</a> |
+| 2022-06-22 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/7da449fa650972db041e97eb5271d8bc041269b9" target="_blank">update PagodaShadowsPage004.md</a> |
+| 2022-06-22 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/23591779f79e22ce879dfbff8f1a17beda763257" target="_blank">update PUJ translation</a> |
+| 2022-06-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/fb15991f3633fc6898028e67748a70219f38934b" target="_blank">update PUJ translation</a> |
+| 2022-06-20 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/9719cb808f8b62338f850c1f1fb4a52f261c9b80" target="_blank">update PUJ translation</a> |
+| 2022-06-17 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3d8301ad3b10fabdfcb6eb7ebb3c12eed567fd76" target="_blank">update pages & PUJ translation</a> |
+| 2022-06-17 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/744810da4037fdc93eea55fa2eda0a51cb7ba5f5" target="_blank">add PagodaShadowsPage004.md</a> |
