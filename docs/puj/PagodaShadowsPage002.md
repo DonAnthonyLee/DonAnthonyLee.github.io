@@ -10,7 +10,7 @@ tag: PUJ_translation
 
 <!-- 此页译文前后修改多次，一是英文原意把握欠奉而改动，一是打字时思绪比手脚运行速度更快而出现声调标错者较多 -->
 <!-- In a country where extortion is the chief use of office, and fear of it the main spur to obedience, neither women nor men claim political rights. -->
-&nbsp;&nbsp;Tŏ chiá kuaⁿ-gê lu nâng chîⁿ-ngṳ̂n siăng-khiàng, pua̍h-hehⁿ ngĕⁿ-teh mue̍h kàu --nâng chheⁿ-kiaⁿ kâi kok-ke --kò, ta-pou tsṳ-niôⁿ to tshó-lia̍k m̆-káⁿ kah kuaⁿ-ke piăn-poh.
+&nbsp;&nbsp;Tŏ chiá kuaⁿ-gê lu-ke̍h nâng chîⁿ-ngṳ̂n siăng-khiàng, pua̍h-hehⁿ ngĕⁿ-teh mue̍h kàu --nâng chheⁿ-kiaⁿ kâi kok-ke --kò, ta-pou tsṳ-niôⁿ to tshó-lia̍k m̆-káⁿ kah kuaⁿ-ke piăn-poh.
 <!-- But there is no law pre- venting women from following any occupation in which they may be skilled. -->
 Put-kuè, kuaⁿ-hú bô m̆-tsún tsṳ-niôⁿ-nâng tsoh i--nâng ŏi lia̍h-chhiú kâi khang-khuè-thâu-lōu.
 
