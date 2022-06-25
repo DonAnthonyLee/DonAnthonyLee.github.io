@@ -6,5 +6,5 @@ tag: PUJ_essay
 ---
 
 <section class="PUJ">
-Póiⁿ-liăng-khiang, ia̍h(iā/â) kiò-tsò "póiⁿ-phiaⁿ", tàⁿ hṳ̂ póiⁿ-tŏu bŏi-ua̍h ╌khṳ̀, a-sĭ mue̍h-kiăⁿ hian tsò sì-kha-chhiâu(thiâu)-thian ╌khṳ̀.
+Póiⁿ-liăng-khiang, ia̍h(iā/â) kiò-tsò "póiⁿ-phiaⁿ", tàⁿ hṳ̂ póiⁿ-tŏu bŏi-ua̍h --khṳ̀, a-sĭ mue̍h-kiăⁿ hian tsò sì-kha-chhiâu(thiâu)-thian --khṳ̀.
 </section>

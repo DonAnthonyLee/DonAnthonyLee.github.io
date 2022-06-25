@@ -20,20 +20,20 @@ tag: PUJ_translation
 
 <h4><i>TŎ TONG-KOK SEᴺ-UA̍H KÂI NGIAN-KIÙ</i><a href="#note_3" class="note">3</a></h4>
 
-Tsak╌chiá: Adele M. Fielde<a href="#note_1" class="note">1</a><br>
-Tshut-pán sî-kan: 1887 ╌nîⁿ<br>
-Tsho-pán sî-kan: 1884 ╌nîⁿ<br>
+Tsak--chiá: Adele M. Fielde<a href="#note_1" class="note">1</a><br>
+Tshut-pán sî-kan: 1887 --nîⁿ<br>
+Tsho-pán sî-kan: 1884 --nîⁿ<br>
 
 <!-- PREFACE. -->
 # TSÔIᴺ-NGÂN
 
 <!-- THESE studies have been made during a residence of ten years in China, with a knowledge of the language of the people, and an opportunity for close observation of their social customs. The autobiographies and the stories are exact translations of verbal narrations given to the author in the Swatow dialect. -->
-&nbsp;&nbsp;Khiă-khí tŏ Tong-kok chiâⁿ-tsa̍p-nîⁿ lăi, ŭ-tit lia̍h sì-chiu-ûi-tńg tshoh nâng tàⁿ kâi uē-gṳ́ lí-kói thong-thàu, kah ŭ ki-huĕ chiŭ-kṳ̆n liáu-kói in kâi lī-so̍k, uá tsò liáu chí-tshoh-kâi ngian-kiù. Chí lăi-tói kâi mue̍h-kiăⁿ-sṳ̄ lóng-tsóng sĭ i╌nâng ka-kī ēng Suàⁿ-thâu<a href="#note_2" class="note">2</a> pe̍h-uē só-tàⁿ kâi sît-chì tsuán-lo̍k.<br>
+&nbsp;&nbsp;Khiă-khí tŏ Tong-kok chiâⁿ-tsa̍p-nîⁿ lăi, ŭ-tit lia̍h sì-chiu-ûi-tńg tshoh nâng tàⁿ kâi uē-gṳ́ lí-kói thong-thàu, kah ŭ ki-huĕ chiŭ-kṳ̆n liáu-kói in kâi lī-so̍k, uá tsò liáu chí-tshoh-kâi ngian-kiù. Chí lăi-tói kâi mue̍h-kiăⁿ-sṳ̄ lóng-tsóng sĭ i--nâng ka-kī ēng Suàⁿ-thâu<a href="#note_2" class="note">2</a> pe̍h-uē só-tàⁿ kâi sît-chì tsuán-lo̍k.<br>
 
 <!-- A. M. F.-->
 Adele M. Fielde<br>
 <!-- SWATOW, CHINA, 1887 -->
-Tong-kok, Suàⁿ-thâu, 1887 ╌nîⁿ
+Tong-kok, Suàⁿ-thâu, 1887 --nîⁿ
 
 注：
 1. <span id="note_1">Adele M. Fielde (1839-1916年)，美国传教士，为《汕头方言词典》（1883年出版）作者，岭东浸会刊物称之“斐姑娘”；</span>
@@ -42,11 +42,11 @@ Tong-kok, Suàⁿ-thâu, 1887 ╌nîⁿ
 
 <br>
 <br>
-# E̍K╌CHIÁ NGÂN
+# E̍K--CHIÁ NGÂN
 
-&nbsp;&nbsp;Chí-pńg-tsṳ chiàu-iok pún-lâi sĭ tsak╌chiá pâi-jît só-kìⁿ_só-siŏⁿ ╌kâi tshòu tsò che̍k-ē, siá liáu jín-kàu tshàm-tshùi. Sìn_ta̍t_ngiá chiá kéng-kài khah kûiⁿ, put-kuè uá chĭn-liăng m̆ thiⁿ-ke-niap-kiám, to̍k-kù-to̍k-kù ēng siăng chih-kṳ̆n nguân-uē ╌kâi pe̍h-tît e̍k ╌tshut-lâi, m̆-tá-lí tī-tshoh thóiⁿ-huap tsua̍h-kâi a-sĭ niâm-nî-ka-thi.
+&nbsp;&nbsp;Chí-pńg-tsṳ chiàu-iok pún-lâi sĭ tsak--chiá pâi-jît só-kìⁿ_só-siŏⁿ --kâi tshòu tsò che̍k-ē, siá liáu jín-kàu tshàm-tshùi. Sìn_ta̍t_ngiá chiá kéng-kài khah kûiⁿ, put-kuè uá chĭn-liăng m̆ thiⁿ-ke-niap-kiám, to̍k-kù-to̍k-kù ēng siăng chih-kṳ̆n nguân-uē --kâi pe̍h-tît e̍k --tshut-lâi, m̆-tá-lí tī-tshoh thóiⁿ-huap tsua̍h-kâi a-sĭ niâm-nî-ka-thi.
 
-&nbsp;&nbsp;Chiá khang-khuè sĭ uá lîm-sî-hèng mue̍h ╌kâi, kú-kú mue̍h che̍k-hio̍h, lân-sî sim-sek-hèng uá ia̍h chhiau-tshuē lân-ló kū-tsá tàⁿ-huap sio-tsham ╌jîp-khṳ̀; uán-tshù lău-nâng tsṳ̆-liáu tàⁿ "Nán-kâi-uē che̍k-tsháu-buān-hō.", liáu chí-tói siá╌kâi tsōi-kâi sĭ ēng uá ka-kī hioⁿ-lí thóu-uē, lân-tshoh tàⁿ-huap ŭ-tsáu-tsua̍h a-sĭ tsò-che̍k-ē thóiⁿ bô, hiá so̍k-tsṳ chiàⁿ-siôⁿ; hí-tshoh bô-mih-nâng tsai-iáⁿ kâi tàⁿ-huap, uá khat-khóu chió siá ╌tăm-poh, mín ╌nâng thóiⁿ liáu khat-năi bāi.
+&nbsp;&nbsp;Chiá khang-khuè sĭ uá lîm-sî-hèng mue̍h --kâi, kú-kú mue̍h che̍k-hio̍h, lân-sî sim-sek-hèng uá ia̍h chhiau-tshuē lân-ló kū-tsá tàⁿ-huap sio-tsham --jîp-khṳ̀; uán-tshù lău-nâng tsṳ̆-liáu tàⁿ "Nán-kâi-uē che̍k-tsháu-buān-hō.", liáu chí-tói siá--kâi tsōi-kâi sĭ ēng uá ka-kī hioⁿ-lí thóu-uē, lân-tshoh tàⁿ-huap ŭ-tsáu-tsua̍h a-sĭ tsò-che̍k-ē thóiⁿ bô, hiá so̍k-tsṳ chiàⁿ-siôⁿ; hí-tshoh bô-mih-nâng tsai-iáⁿ kâi tàⁿ-huap, uá khat-khóu chió siá --tăm-poh, mín --nâng thóiⁿ liáu khat-năi bāi.
 
 &nbsp;&nbsp;
 <ruby style="ruby-position:over">
@@ -173,7 +173,7 @@ Tong-kok, Suàⁿ-thâu, 1887 ╌nîⁿ
 		<rb class="markup_main">李</rb>
 		<rp>(</rp><rt class="markup_over">Lí</rt><rp>)</rp>
 </ruby><br>
-2022 ╌nîⁿ
+2022 --nîⁿ
 
 
 ***[后页](PagodaShadowsPage001.html)***

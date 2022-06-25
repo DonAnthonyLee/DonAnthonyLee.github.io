@@ -28,8 +28,13 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+@font-face {
+  font-family: gnu-freeserif;
+  src: url(/css/FreeSerif.ttf);
+}
+
 .PUJ {
-  font-family: "FreeSerif", "Lucida Sans Unicode", "Tahoma", sans-serif;
+  font-family: gnu-freeserif, "Lucida Sans Unicode", "Tahoma", sans-serif;
   font-size: 18px;
 }
 

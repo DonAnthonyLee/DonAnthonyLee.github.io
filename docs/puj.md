@@ -11,8 +11,10 @@ tag: headline
 <section class="PUJ">
 Pe̍h-uē-jī sĭ kū-tsá i--nâng thuân-kà-sṳ̆--hué mue̍h lâi siá Tiê-chiu-uē kâi che̍k-thàu bûn-jī.<br>
 <br>
-<i>注：<br>本专栏所有潮州白话字用字规则，是在《卓威廉词典》（1883 年出版）的基础上，结合 <a href="https://www.ispeakmin.com/bbs/thread-2784-1.html" target="_blank">海墘闽语论坛相关帖</a> 中个别倡议，另增补零星内容而成；其中，因前变调无法分清本调或独立于传统八调之外的调符标识，为参考与同县某乡亲讨论内容而拟；在此向所有相关人士表示衷心感谢。</i>
-<br>
+<i>注：<br>
+1. 本专栏所有潮州白话字用字规则，是在《卓威廉词典》（1883 年出版）的基础上，结合 <a href="https://www.ispeakmin.com/bbs/thread-2784-1.html" target="_blank">海墘闽语论坛相关帖</a> 中个别倡议，另增补零星内容而成；其中，因前变调无法分清本调或独立于传统八调之外的调符标识，为参考与同县某乡亲讨论内容而拟；在此向所有相关人士表示衷心感谢。<br>
+2. 本专栏白话字所指定字体为 GNU FreeSerif, 已附带于<a href="../css/FreeSerif.ttf" target="_blank">此处</a>，其授权协议为 <a href="https://www.gnu.org/software/freefont/license.html" target="_blank">GPLv3</a> 。
+</i><br>
 <br>
 <hr>
 </section>

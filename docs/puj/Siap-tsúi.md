@@ -7,7 +7,7 @@ tag: PUJ_essay
 
 <section class="PUJ">
 
-Chí-pái thàng-mêⁿ-jît lo̍h-hŏu-tap_tih, hŏu-chia-pèⁿ hiah kú seⁿ-san, siap-tsúi túi m̆ khui; tiám tih-kiáⁿ tāu-iû ╌lo̍h-khṳ̀, chiat-sî ku̍t à liû-tn̄g, huang-tsham-hŏu to bŏi kiaⁿ.
+Chí-pái thàng-mêⁿ-jît lo̍h-hŏu-tap_tih, hŏu-chia-pèⁿ hiah kú seⁿ-san, siap-tsúi túi m̆ khui; tiám tih-kiáⁿ tāu-iû --lo̍h-khṳ̀, chiat-sî ku̍t à liû-tn̄g, huang-tsham-hŏu to bŏi kiaⁿ.
 
 <br>
 <br>
