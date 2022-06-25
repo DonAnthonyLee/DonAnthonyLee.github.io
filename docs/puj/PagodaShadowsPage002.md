@@ -38,7 +38,7 @@ Sĭm-chì i&#x002D;&#x002D;nâng huáⁿ₊ ŭ-piàn khṳh &#x002D;&#x002D;nân
 1. <span id="note_1">lâ-muāⁿ, 遍布；</span>
 2. <span id="note_2">pòng-hong, 夸大；</span>
 3. <span id="note_3">ún, 我们，此处采用作者所著词典中读法。现今部分地区读 uán[g]，原读 ún 的地区亦有变化为 ńg 者，后续篇章将沿用 ún；</span>
-4. <span id="note_4">--tiaⁿ⁎, 而已；仅此。声调符合平声轻声调或近似阳去，某些场合亦读 &#x002D;&#x002D;niaⁿ；</span>
+4. <span id="note_4">&#x002D;&#x002D;tiaⁿ⁎, 而已；仅此。声调符合平声轻声调或近似阳去，某些场合亦读 &#x002D;&#x002D;niaⁿ；</span>
 5. <span id="note_5">hṳ́, 那。存在 -ṳ́ 读法的部分地区有读 hí，后续篇章单用时将沿用 hṳ́；</span>
 6. <span id="note_6">seng-piáu, 旌表；</span>
 7. <span id="note_7">in-ūi，“因为”文读音；此词各地读音有差，此处按作者所著词典读音。</span>
