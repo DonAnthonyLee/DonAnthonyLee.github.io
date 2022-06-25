@@ -30,7 +30,9 @@ $on-laptop:        800px;
 
 @font-face {
   font-family: gnu-freeserif;
-  src: url(/css/FreeSerif.ttf);
+  src: url('/css/FreeSerif.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .PUJ {
