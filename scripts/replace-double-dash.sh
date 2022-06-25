@@ -1,4 +1,10 @@
 #!/bin/sh
+#
+# Run command below to prevent jekyll to convert two hyphen to an en dash automatically.
+#
+#	find ./ -name "*.md" -exec ./replace-double-dash.sh {} \; 
+#
+
 
 if [ -z "$1" ]; then
 	echo "Usage: $0 file"
@@ -24,7 +30,7 @@ if [ "x${HANDLE_FIRST}" != "x1" -a "x${HANDLE_MIDDLE}" != "x1" ]; then
 	printf "[NO NEED]\n"
 else
 	if [ "x${HANDLE_FIRST}" = "x1" ]; then
-		sed -i -r 's/^--([\,;,.,a-z,A-Z])/╌\1/g' $1
+		sed -i -r 's/^--([\,;,.,a-z,A-Z])/\&#x002D;\&#x002D;\1/g' $1
 		if [ "x$?" != "x0" ]; then
 			printf "\e[31m[FAILED]\e[0m\n"
 			exit 1
@@ -32,7 +38,7 @@ else
 	fi
 
 	if [ "x${HANDLE_MIDDLE}" = "x1" ]; then
-		sed -i -r 's/([ ,ⁿ,ᴺ,nbsp;,a-z,A-Z])--([\,;,.,a-z,A-Z])/\1╌\2/g' $1
+		sed -i -r 's/([ ,ⁿ,ᴺ,nbsp;,a-z,A-Z])--([\,;,.,a-z,A-Z])/\1\&#x002D;\&#x002D;\2/g' $1
 		if [ "x$?" != "x0" ]; then
 			printf "\e[31m[FAILED]\e[0m\n"
 			exit 1
