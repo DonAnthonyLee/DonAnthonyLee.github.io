@@ -48,8 +48,8 @@ tag: PUJ_article
 <ruby style="ruby-position:over">
 	<rb class="markup_main">厦门</rb>
 	<rp>(</rp><rt class="markup_over">Ĕ-mn̂g</rt><rp>)</rp>
-</ruby> 读成 Hē-mn̂g，量谁都不会（也无那功夫）特意和你计较。
-对于外国地名也是如此，如果你非要把 
+</ruby> 读成 Hē-mn̂g，量谁都不会（也无那功夫）特意和你计较；
+对于外国地名也是如此，如果你把 
 <ruby style="ruby-position:over">
 	<rb class="markup_main">马六甲</rb>
 	<rp>(</rp><rt class="markup_over">Muâⁿ-la̍k-kah</rt><rp>)</rp>
@@ -61,7 +61,7 @@ tag: PUJ_article
 <ruby style="ruby-position:over">
 	<rb class="markup_main">新加坡</rb>
 	<rp>(</rp><rt class="markup_over">Sît-la̍t</rt><rp>)</rp>
-</ruby> 读成 Sin-kia-po ，甚至把 
+</ruby> 读成 Sin-kia-po（旧时两种读法都有），甚至把 
 <ruby style="ruby-position:over">
 	<rb class="markup_main">暹罗</rb>
 	<rp>(</rp><rt class="markup_over">Siâm-lô</rt><rp>)</rp>
@@ -76,13 +76,14 @@ tag: PUJ_article
 
 
 ![《使徒行传》第二章](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E4%BD%BF%E5%BE%92%E8%A1%8C%E4%BC%A0%E7%AC%AC%E4%BA%8C%E7%AB%A0.png)
+<br>
 
 
 ## 民国时期韵书情况
 
 + 《汇集雅俗通十五音》（江夏懋亭氏著，1916年出版）
 
-&nbsp;&nbsp;&nbsp;&nbsp;如下图，家部（-e,-eh）、胶部（-a,-ah）与柑部（-aⁿ,-ahⁿ）均未出现 “馬”；此书已出现干部江部相混（即-an/-at与-ang/-ak），坚部姜部相混（即-ian/-iat与-iang/-iak），且无论是文读音还是收录文字数量都稍嫌不足，即***不能由此断定当时 “馬” 文读音不存在***。
+&nbsp;&nbsp;&nbsp;&nbsp;如下图，家部（-e,-eh）、胶部（-a,-ah）与柑部（-aⁿ,-ahⁿ）均未出现 “馬”；此书已出现干部江部相混（即-an与-ang,-at与-ak），坚部姜部相混（即-ian与-iang,-iat与-iak），且无论是文读音还是收录文字数量都稍嫌不足，即***不能由此断定当时 “馬” 文读音不存在***。
 
 ![《汇集雅俗通十五音》家部](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E6%B1%87%E9%9B%86%E9%9B%85%E4%BF%97%E9%80%9A%E5%8D%81%E4%BA%94%E9%9F%B3_%E5%AE%B6%E9%83%A8.png)
 
@@ -95,7 +96,7 @@ tag: PUJ_article
 
 + 《潮汕十五音》（鸣平著，1938年出版）
 
-&nbsp;&nbsp;&nbsp;&nbsp;如下图，在柑部出现 “馬” 文读音；虽然出版时间比《汇集雅俗通十五音》滞后20年左右，而此书干部江部（即-an/-at与-ang/-ak）只出现部分相混，坚部及关部相对完好，文读音收录相对同时期甚至至今的字典而言都相对更为完整（这也是我较为推崇此韵书的缘故），***甚至其中收录了化学元素用字读音（并采用小圆圈特别标注）***。
+&nbsp;&nbsp;&nbsp;&nbsp;如下图，在柑部出现 “馬” 文读音；虽然出版时间比《汇集雅俗通十五音》滞后20年左右，而此书干部江部（即-an与-ang,-at与-ak）只出现部分相混，坚部及关部相对完好，文读音收录相对同时期甚至至今的字典而言都相对更为完整（这也是我较为推崇此韵书的缘故），***甚至其中收录了化学元素用字读音（并采用小圆圈特别标注）***。
 
 ![《潮汕十五音》家部](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E6%BD%AE%E6%B1%95%E5%8D%81%E4%BA%94%E9%9F%B3_%E5%AE%B6%E9%83%A8.png)
 
@@ -131,8 +132,31 @@ tag: PUJ_article
 
 ## 白话字字典或词典中相应用字读音情况
 
++ 《A Chinese and English Vocabulary in the Tie-chiu dialect》（Josiah Goddard 著，1883年出版）
 
-***[ 未完，待续 ]***
+&nbsp;&nbsp;&nbsp;&nbsp;如下图，“馬” 记录了白读音，未见文读音。
+
+![高达德字典 be](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E9%AB%98%E8%BE%BE%E5%BE%B7%E5%AD%97%E5%85%B8_be.png)
+
+![高达德字典 ma](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E9%AB%98%E8%BE%BE%E5%BE%B7%E5%AD%97%E5%85%B8_ma.png)
+
+<i>注：此字典为海外教会组织出版。</i>
+<br>
+
++ 《A Pronouncing and Defining Dictionary of the Swatow Dialect》（Adele M. Fielde 著，1883年出版）
+
+&nbsp;&nbsp;&nbsp;&nbsp;如下图，“馬” 记录了白读音，未见文读音；虽然 1840 年已有中文书写，但 “羅” 条目中未见 “lô-má”，或许是只记录本地常见话语的缘故（其中有 暹罗 发音）。此词典即为“斐姑娘”所著。
+
+![菲尔德词典 bé](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E8%8F%B2%E5%B0%94%E5%BE%B7%E8%AF%8D%E5%85%B8_be2.png)
+
+![菲尔德词典 ma](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E8%8F%B2%E5%B0%94%E5%BE%B7%E8%AF%8D%E5%85%B8_ma.png)
+
+![菲尔德词典 lô](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E8%8F%B2%E5%B0%94%E5%BE%B7%E8%AF%8D%E5%85%B8_lo5.png)
+<br>
+
++ 《English-Chinese Vocabulary of the Vernacular of Spoken language of Swatow》（William Duffus 著，1883年出版）
+
+&nbsp;&nbsp;&nbsp;&nbsp;《卓威廉词典》中暂未找到与 Rome 相关词语。
 <br>
 
 
