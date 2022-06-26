@@ -82,7 +82,7 @@ tag: PUJ_article
 
 + 《汇集雅俗通十五音》（江夏懋亭氏著，1916年出版）
 
-&nbsp;&nbsp;&nbsp;&nbsp;如下图，家部（-e,-eh）、胶部（-a,-ah）与柑部（-aⁿ,-ahⁿ）均未出现 “馬”；此书虽然 -an/-at 等韵母相比其他后期韵书还保留较多（未合并至 -ang/-ak 等），但无论是文读音还是收录文字数量都稍嫌不足，即***不能由此断定当时 “馬” 文读音不存在***。
+&nbsp;&nbsp;&nbsp;&nbsp;如下图，家部（-e,-eh）、胶部（-a,-ah）与柑部（-aⁿ,-ahⁿ）均未出现 “馬”；此书已出现干部江部相混（即-an/-at与-ang/-ak），坚部姜部相混（即-ian/-iat与-iang/-iak），且无论是文读音还是收录文字数量都稍嫌不足，即***不能由此断定当时 “馬” 文读音不存在***。
 
 ![《汇集雅俗通十五音》家部](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E6%B1%87%E9%9B%86%E9%9B%85%E4%BF%97%E9%80%9A%E5%8D%81%E4%BA%94%E9%9F%B3_%E5%AE%B6%E9%83%A8.png)
 
@@ -93,9 +93,9 @@ tag: PUJ_article
 <i>注：上图资料引用自 <a href="https://www.mogher.com" target="_blank">潮州母语网</a> 。</i>
 <br>
 
-+ 《潮汕十五音》（黄钟鸣著，1938年出版）
++ 《潮汕十五音》（鸣平著，1938年出版）
 
-&nbsp;&nbsp;&nbsp;&nbsp;如下图，在柑部出现 “馬” 文读音；与上述《汇集雅俗通十五音》相比，此书 -an/-at 韵母出现部分合并至 -ang/-ak，但文读音收录相对同时期甚至至今的字典而言都相对更为完整（这也是我较为推崇此韵书的缘故），***甚至其中收录了化学元素用字读音（并采用小圆圈特别标注）***。
+&nbsp;&nbsp;&nbsp;&nbsp;如下图，在柑部出现 “馬” 文读音；虽然出版时间比《汇集雅俗通十五音》滞后20年左右，而此书干部江部（即-an/-at与-ang/-ak）只出现部分相混，坚部及关部相对完好，文读音收录相对同时期甚至至今的字典而言都相对更为完整（这也是我较为推崇此韵书的缘故），***甚至其中收录了化学元素用字读音（并采用小圆圈特别标注）***。
 
 ![《潮汕十五音》家部](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E6%BD%AE%E6%B1%95%E5%8D%81%E4%BA%94%E9%9F%B3_%E5%AE%B6%E9%83%A8.png)
 
@@ -106,7 +106,7 @@ tag: PUJ_article
 
 + 《潮语同音字汇（潮语十五音）》（蒋儒林著，1931年出版）
 
-&nbsp;&nbsp;&nbsp;&nbsp;如下图，在家部出现 “馬” 白读音；而在胶、柑部，与《汇集雅俗通十五音》一样，均未出现 “馬”；此书已出现 -n/-t 与 -ng/-k 大融合（可能与著书者所在地有关），在文读音收录上相对上述两部韵书而言有所减少，而***有意思的是该韵书收录了不少方言俗字***；此中等等，是否与当时社会相关就不得而知了。
+&nbsp;&nbsp;&nbsp;&nbsp;如下图，在家部出现 “馬” 白读音；而在胶、柑部，与《汇集雅俗通十五音》一样，均未出现 “馬”；此书已出现 -n/-t 与 -ng/-k 大融合（可能与著书者所在地有关），在文读音收录上相对上述两部韵书而言有所减少，而***有意思的是该韵书收录了不少方言俗字***。
 
 ![《潮语同音字汇》家部](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E6%BD%AE%E8%AF%AD%E5%90%8C%E9%9F%B3%E5%AD%97%E6%B1%87_%E5%AE%B6%E9%83%A8.png)
 
