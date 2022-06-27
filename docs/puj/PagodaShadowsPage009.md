@@ -18,28 +18,28 @@ tag: PUJ_translation
 <!-- ONCE upon a time, in the province of Kwang Tung, the department of Tie-Chiu, the district Kit-ie, and the village E Lim, lived a boy named A Si, which means Number Four. -->
 &nbsp;&nbsp;Soiⁿ-tiang-sî, tŏ Kńg-tang séⁿ, Tiê-chiu hú, Kit-iôⁿ kūiⁿ, kiò-tsò Ĕ-lîm kâi hioⁿ-lí, kâi ta-pou-kiáⁿ miâⁿ kiò-tsò A-sì, ì-sṳ̀ sĭ tŏiⁿ-sì.
 <!-- There were several boys of the same name in the village, and they were so called because they were fourth sons. -->
-Chí-kâi hioⁿ-lí ŭ kuá₊-kâi ta-pou-kiáⁿ kah i pêⁿ-tâng-miâⁿ, khí chiá miâⁿ lóng sĭ in-ūi i&#x002D;&#x002D;nâng sĭ ke-lăi pâi-hâng tŏiⁿ-sì.
+Chí-kâi hioⁿ-lí ŭ kuá₊-kâi ta-pou-kiáⁿ kah i pêⁿ-tâng-miâⁿ, khí chiá miâⁿ lóng-sĭ in-ūi i&#x002D;&#x002D;nâng sĭ ke-lăi pâi-hâng tŏiⁿ-sì.
 <!-- The girls interspersed among them in the families counted for nothing. -->
-Yi&#x002D;&#x002D;nâng chí-muē tŏ hiá ke-lăi bô-sǹg pâi-hâng. 
+Yi&#x002D;&#x002D;nâng chí-muē tŏ hiá ke-lăi bô sǹg pâi-hâng. 
 <!-- If you asked any of the people how many children they had, they only mentioned in reply the number of their sons, and said nothing about their daughters. -->
 Nâ-sĭ lṳ́ mn̄g zuăn&#x002D;&#x002D;tī-che̍k-nâng i ŭ kúi-kâi kiáⁿ, in chheng ìn lṳ́ hṳ́-lăi tau₊-kiáⁿ kâi siàu-ma̍k &#x002D;&#x002D;tiaⁿ, tsáu₊-kiáⁿ&#x002D;&#x002D;hué bô jîp chí-tiâu-siàu.
 
 <!-- This village, E Lim, had about two thousand inhabitants, and lay near the foot of a range of mountains, from which the level rice-fields stretched away, dotted thickly with villages. -->
 &nbsp;&nbsp;Chí-kâi hioⁿ-lí, Ĕ-lîm, khiă-khí ŭ chiâⁿ nŏⁿ-tshoiⁿ nâng, tŏ che̍k-tsō tuā-suaⁿ kha&#x002D;&#x002D;thâu, iû chí-kò, tshân-hn̂g it-jī<a href="#note_2" class="note">2</a> tshṳ-khui, che̍k-tuh che̍k-tuh lóng-sĭ hioⁿ-lí-kiáⁿ.
 <!-- All the people in it were of the same surname, and probably descended from one ancestor; -->
-Hioⁿ-lí lăi kâi nâng tsn̂g-kâi pêⁿ-tâng sèⁿ-sĭ, ùiⁿ-tit sĭ tâng-kâi lău-tsóu;
+Hioⁿ-lí-lăi kâi nâng tsn̂g-kâi pêⁿ-tâng sèⁿ-sĭ, ùiⁿ-tit sĭ tâng-kâi lău-tsóu;
 <!-- though that ancestor lived so long ago that the people did not know whether they themselves were fifth or fiftieth cousins to each other. -->
-sĭ-tàⁿ chiá lău-tsóu sĭ-kài iáu kú-uán<a href="#note_3" class="note">3</a>, in iā mue̍h m̆ chheng-tshó ka-kī sĭ-kài tŏiⁿ-ngŏu a-sĭ tŏiⁿ-ngŏu-tsa̍p tō &#x002D;&#x002D;liáu.
+sĭ-tàⁿ chiá lău-tsóu sĭ-kài iáu kú-uán<a href="#note_3" class="note">3</a>, in iā lí m̆ chheng-tshó ka-kī sĭ-kài tŏiⁿ-ngŏu a-sĭ tŏiⁿ-ngŏu-tsa̍p tō &#x002D;&#x002D;liáu.
 <!-- All the people in this village were named Heng; -->
 Khiă-khí tŏ chí-kâi hioⁿ-lí &#x002D;&#x002D;kâi tsn̂g-kâi sèⁿ Hêng;
 <!-- and one would need to be very familiar with the place in order to find any one he went to search for in it. -->
 liáu, nâ-sĭ ŭ-nâng àiⁿ lâi chí-kò tshuē nâng, hiá tio̍h tùi chiá tī-hng ŭ-kàu se̍k chiàⁿ ŭ-i-piàn.
 
 <!-- No matter where any inhabitant went to earn money, he always left his wife and children at home, with the ancestors who were dearer to him than his wife and children; -->
-&nbsp;&nbsp;Bô-lŭn i&#x002D;&#x002D;nâng tsáu-khṳ̀ tī-kò thó-thàn-chia̍h, ta-pou-nâng chhiâng-sî sĭ lia̍h ka-kī kâi bóu-kiáⁿ pàng nā lăi, iû-tsăi i&#x002D;&#x002D;nâng kah pí ka-kī kâi bóu-kiáⁿ huáⁿ₊ chhin kâi lău-puè tsò-che̍k-ē;
+&nbsp;&nbsp;Bô-lŭn i&#x002D;&#x002D;nâng tsáu-khṳ̀ tī-kò thó-thàn-chia̍h, ta-pou-nâng chhiâng-sî lia̍h ka-kī kâi bóu-kiáⁿ pàng nā lăi, iû-tsăi i&#x002D;&#x002D;nâng kah pí ka-kī kâi bóu-kiáⁿ huáⁿ₊ chhin kâi lău-puè tsò-che̍k-ē;
 <!-- and however far he might travel or however long he might be gone, he never lost the intention of coming back to this village before he died, and bringing
 with him all the money he might have. -->
-liáu, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-hn̆g, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-kú, in tsong-kú to-sĭ siŏⁿ-tio̍h sí-tsôiⁿ tio̍h tńg-lâi hioⁿ-lí, liáu, thàn ŭ jio̍h-tsōi to tio̍h tsn̂g-kâi pin-puaⁿ &#x002D;&#x002D;tńg-lâi.
+liáu, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-hn̆g, khṳ̀ tioh jio̍h-kú, in tsong-kú to-sĭ siŏⁿ-tio̍h sí-tsôiⁿ tio̍h tńg-lâi hioⁿ-lí --kò, liáu, thàn ŭ jio̍h-tsōi to tio̍h tsn̂g-kâi pin-puaⁿ &#x002D;&#x002D;tńg-lâi.
 <!-- To him, home was home though ever so homely. -->
 Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah, tsŭ-sǹg tuaⁿ-sûn(kan-chĕng) che̍k-koiⁿ-tshù tiaⁿ.
 
