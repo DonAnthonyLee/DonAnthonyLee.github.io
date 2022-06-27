@@ -27,17 +27,22 @@ Nâ-sĭ lṳ́ mn̄g zuăn&#x002D;&#x002D;tī-che̍k-nâng i ŭ kúi-kâi kiá�
 <!-- This village, E Lim, had about two thousand inhabitants, and lay near the foot of a range of mountains, from which the level rice-fields stretched away, dotted thickly with villages. -->
 &nbsp;&nbsp;Chí-kâi hioⁿ-lí, Ĕ-lîm, khiă-khí ŭ chiâⁿ nŏⁿ-tshoiⁿ nâng, tŏ che̍k-tsō tuā-suaⁿ kha&#x002D;&#x002D;thâu, iû chí-kò, tshân-hn̂g it-jī<a href="#note_2" class="note">2</a> tshṳ-khui, che̍k-tuh che̍k-tuh lóng-sĭ hioⁿ-lí-kiáⁿ.
 <!-- All the people in it were of the same surname, and probably descended from one ancestor; -->
+Hioⁿ-lí lăi kâi nâng tsn̂g-kâi pêⁿ-tâng sèⁿ-sĭ, ùiⁿ-tit sĭ tâng-kâi lău-tsóu;
 <!-- though that ancestor lived so long ago that the people did not know whether they themselves were fifth or fiftieth cousins to each other. -->
+sĭ-tàⁿ chiá lău-tsóu sĭ-kài iáu kú-uán<a href="#note_3" class="note">3</a>, in iā mue̍h m̆ chheng-tshó ka-kī sĭ-kài tŏiⁿ-ngŏu a-sĭ tŏiⁿ-ngŏu-tsa̍p tō &#x002D;&#x002D;liáu.
 <!-- All the people in this village were named Heng; -->
+Khiă-khí tŏ chí-kâi hioⁿ-lí &#x002D;&#x002D;kâi tsn̂g-kâi sèⁿ Hêng;
 <!-- and one would need to be very familiar with the place in order to find any one he went to search for in it. -->
+liáu, nâ-sĭ ŭ-nâng àiⁿ lâi chí-kò tshuē nâng, hiá tio̍h tùi chiá tī-hng ŭ-kàu se̍k chiàⁿ ŭ-i-piàn.
 
 <!-- No matter where any inhabitant went to earn money, he always left his wife and children at home, with the ancestors who were dearer to him than his wife and children; -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Bô-lŭn i&#x002D;&#x002D;nâng tsáu-khṳ̀ tī-kò thó-thàn-chia̍h, ta-pou-nâng chhiâng-sî sĭ lia̍h ka-kī kâi bóu-kiáⁿ pàng nā lăi, iû-tsăi i&#x002D;&#x002D;nâng kah pí ka-kī kâi bóu-kiáⁿ huáⁿ₊ chhin kâi lău-puè tsò-che̍k-ē;
 <!-- and however far he might travel or however long he might be gone, he never lost the intention of coming back to this village before he died, and bringing
-with him all the money he might have. To him, home was home though ever so homely. -->
+with him all the money he might have. -->
+liáu, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-hn̆g, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-kú, in tsong-kú to-sĭ siŏⁿ-tio̍h sí-tsôiⁿ tio̍h tńg-lâi hioⁿ-lí, liáu, thàn ŭ jio̍h-tsōi to tio̍h tsn̂g-kâi pin-puaⁿ &#x002D;&#x002D;tńg-lâi.
+<!-- To him, home was home though ever so homely. -->
+Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah, tsŭ-sǹg tuaⁿ-sûn(kan-chĕng) che̍k-koiⁿ-tshuè taiⁿ.
 
-
-***[Buē-mue̍h-tît]***
 <br>
 
 注：
@@ -46,10 +51,8 @@ with him all the money he might have. To him, home was home though ever so homel
 <rb class="markup_main">契丹</rb>
 <rp>(</rp><rt class="markup_over">khiat-tan</rt><rp>)</rp>
 </ruby>，为外国对中国称谓；《真光初临》译为“天朝”，此处直接使用“中国”；</span>
-2. <span id="note_2">it-jī, 连续不断；</span>
-
-
-***[Buē-mue̍h-tît]***
+2. <span id="note_2">it-jī, 逐渐；亦可两次组合表示“一边...一边...”；</span>
+3. <span id="note_2">kú-uán, 久远。</span>
 <br>
 
 ***[前页](PagodaShadowsPage006-008.html)***
