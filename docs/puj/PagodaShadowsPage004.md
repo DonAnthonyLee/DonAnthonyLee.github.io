@@ -33,7 +33,7 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 5. <span id="note_5">thâu-bóu, 正室；旧时多称之 tsháu-thâu，亦称 chiàⁿ-chhi；</span>
 6. <span id="note_6">jī-nâng, 妾；旧时亦称之 chhiah-kha；</span>
 7. <span id="note_7">[动词] tioh [事物], 此用法中通常意味着所指事物超出正常范围；</span>
-8. <span id="note_8">Bilhah, Rachel, 圣经故事人物，此处姑且以原文代替；</span>
+8. <span id="note_8">Bilhah, Rachel, 圣经故事人物，此处姑且以原文代替；《创世纪》潮州白话文版本第 29.29 分别翻译为 Phek-la̍h 及 La̍h-kiet ；</span>
 9. <span id="note_9">tau₊-kiáⁿ, 儿子。即 ta-pou-kiáⁿ；</span>
 10. <span id="note_10">khiau-kêng, 贫穷。现今大多单用 khiau 或 kêng；</span>
 11. <span id="note_11">khai-sṳ́, 开始。此处使用我处读音。</span>
