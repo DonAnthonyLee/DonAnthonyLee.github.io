@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 9 hio̍h)[*]"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 9 hio̍h)"
 date:   2022-06-27 13:30:00 +0800
 tag: PUJ_translation
 ---
@@ -41,7 +41,7 @@ liáu, nâ-sĭ ŭ-nâng àiⁿ lâi chí-kò tshuē nâng, hiá tio̍h tùi chi�
 with him all the money he might have. -->
 liáu, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-hn̆g, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-kú, in tsong-kú to-sĭ siŏⁿ-tio̍h sí-tsôiⁿ tio̍h tńg-lâi hioⁿ-lí, liáu, thàn ŭ jio̍h-tsōi to tio̍h tsn̂g-kâi pin-puaⁿ &#x002D;&#x002D;tńg-lâi.
 <!-- To him, home was home though ever so homely. -->
-Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah, tsŭ-sǹg tuaⁿ-sûn(kan-chĕng) che̍k-koiⁿ-tshuè taiⁿ.
+Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah, tsŭ-sǹg tuaⁿ-sûn(kan-chĕng) che̍k-koiⁿ-tshù tiaⁿ.
 
 <br>
 
@@ -66,6 +66,8 @@ Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah
 
 {:.changelog}
 
+
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/cffb008ee66fed9102c23a0ecb277e46598d15ee" target="_blank">PagodaShadowsPage009.md complete</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e8e932fbddbaf6f5ce36687955bbf17ab61ff675" target="_blank">add PagodaShadowsPage009.md</a> |
