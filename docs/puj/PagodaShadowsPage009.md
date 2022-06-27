@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 9 hio̍h)[*]"
-date:   2022-06-27 18:30:00 +0800
+date:   2022-06-27 13:30:00 +0800
 tag: PUJ_translation
 ---
 
@@ -12,20 +12,20 @@ tag: PUJ_translation
 # TŎIᴺ 2 CHIOᴺ
 
 <!-- CHILD-LIFE IN CATHAY: THE STORY OF NUMBER FOUR. -->
-<h4><i>TONG-KOK<a href="#note_1" class="note">1</a> NOU-KIÁᴺ SEᴺ-UA̍H: A-SÌ KÂI KŪ-SṲ̄.</i></h4>
+<h4><i>TONG-KOK<a href="#note_1" class="note">1</a> NOU-KIÁᴺ SEᴺ-UA̍H: A-SÌ KÂI KŪ-SṲ̄.</i></h4>
 
 
 <!-- ONCE upon a time, in the province of Kwang Tung, the department of Tie-Chiu, the district Kit-ie, and the village E Lim, lived a boy named A Si, which means Number Four. -->
-&nbsp;&nbsp;Soiⁿ-tiang-sî, tŏ Kńg-tang séⁿ, Tiê-chiu hú, Kit-iôⁿ kūiⁿ, kiò-tsò Ĕ-lîm kâi hióⁿ-lí, kâi ta-pou-kiáⁿ miâⁿ kiò-tsò A-sì, ì-sṳ̀ sĭ tŏiⁿ-sì.
+&nbsp;&nbsp;Soiⁿ-tiang-sî, tŏ Kńg-tang séⁿ, Tiê-chiu hú, Kit-iôⁿ kūiⁿ, kiò-tsò Ĕ-lîm kâi hioⁿ-lí, kâi ta-pou-kiáⁿ miâⁿ kiò-tsò A-sì, ì-sṳ̀ sĭ tŏiⁿ-sì.
 <!-- There were several boys of the same name in the village, and they were so called because they were fourth sons. -->
-Chí-kâi hioⁿ-lí ŭ kuá₊-kâi ta-pou-kiáⁿ kah i pêⁿ-tâng-miâⁿ, khí chiá miâⁿ lóng sĭ in-ūi i--nâng sĭ ke-lăi pâi-hâng tŏiⁿ-sì.
+Chí-kâi hioⁿ-lí ŭ kuá₊-kâi ta-pou-kiáⁿ kah i pêⁿ-tâng-miâⁿ, khí chiá miâⁿ lóng sĭ in-ūi i&#x002D;&#x002D;nâng sĭ ke-lăi pâi-hâng tŏiⁿ-sì.
 <!-- The girls interspersed among them in the families counted for nothing. -->
-Yi--nâng chí-muē tŏ hiá ke-lăi bô-sǹg pâi-hâng. 
+Yi&#x002D;&#x002D;nâng chí-muē tŏ hiá ke-lăi bô-sǹg pâi-hâng. 
 <!-- If you asked any of the people how many children they had, they only mentioned in reply the number of their sons, and said nothing about their daughters. -->
-Nâ-sĭ lṳ́ mn̄g zuăn--tī-che̍k-nâng i ŭ kúi-kâi kiáⁿ, in chheng ìn lṳ́ hṳ́-lăi tau₊-kiáⁿ kâi siàu-ma̍k --tiāⁿ, tsáu₊-kiáⁿ--hué bô jîp chí-tiâu-siàu.
+Nâ-sĭ lṳ́ mn̄g zuăn&#x002D;&#x002D;tī-che̍k-nâng i ŭ kúi-kâi kiáⁿ, in chheng ìn lṳ́ hṳ́-lăi tau₊-kiáⁿ kâi siàu-ma̍k &#x002D;&#x002D;tiaⁿ, tsáu₊-kiáⁿ&#x002D;&#x002D;hué bô jîp chí-tiâu-siàu.
 
 <!-- This village, E Lim, had about two thousand inhabitants, and lay near the foot of a range of mountains, from which the level rice-fields stretched away, dotted thickly with villages. -->
-&nbsp;&nbsp;Chí-kâi hioⁿ-lí, Ĕ-lîm, khiă-khí ŭ chiâⁿ nŏⁿ-tshoiⁿ nâng, tŏ che̍k-tsō tuā-suaⁿ kha--thâu, iû chí-kò, tshân-hn̂g it-jī<a href="#note_2" class="note">2</a> tshṳ-khui, che̍k-tuh che̍k-tuh lóng-sĭ hioⁿ-lí-kiáⁿ.
+&nbsp;&nbsp;Chí-kâi hioⁿ-lí, Ĕ-lîm, khiă-khí ŭ chiâⁿ nŏⁿ-tshoiⁿ nâng, tŏ che̍k-tsō tuā-suaⁿ kha&#x002D;&#x002D;thâu, iû chí-kò, tshân-hn̂g it-jī<a href="#note_2" class="note">2</a> tshṳ-khui, che̍k-tuh che̍k-tuh lóng-sĭ hioⁿ-lí-kiáⁿ.
 <!-- All the people in it were of the same surname, and probably descended from one ancestor; -->
 <!-- though that ancestor lived so long ago that the people did not know whether they themselves were fifth or fiftieth cousins to each other. -->
 <!-- All the people in this village were named Heng; -->
@@ -62,3 +62,7 @@ with him all the money he might have. To him, home was home though ever so homel
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e8e932fbddbaf6f5ce36687955bbf17ab61ff675" target="_blank">add PagodaShadowsPage009.md</a> |
