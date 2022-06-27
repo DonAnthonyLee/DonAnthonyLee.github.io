@@ -68,6 +68,7 @@ Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3a3e270acecb3d1b94b5bf445ddff6d94b6b0ef6" target="_blank">update comments about "Cathay"</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5cd7d586cdc76a818820b7723ec3bdcb6840e658" target="_blank">improve punctuation</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/cffb008ee66fed9102c23a0ecb277e46598d15ee" target="_blank">PagodaShadowsPage009.md complete</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e8e932fbddbaf6f5ce36687955bbf17ab61ff675" target="_blank">add PagodaShadowsPage009.md</a> |
