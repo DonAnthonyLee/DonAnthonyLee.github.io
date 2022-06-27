@@ -66,8 +66,8 @@ Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah
 
 {:.changelog}
 
-
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5cd7d586cdc76a818820b7723ec3bdcb6840e658" target="_blank">improve punctuation</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/cffb008ee66fed9102c23a0ecb277e46598d15ee" target="_blank">PagodaShadowsPage009.md complete</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e8e932fbddbaf6f5ce36687955bbf17ab61ff675" target="_blank">add PagodaShadowsPage009.md</a> |
