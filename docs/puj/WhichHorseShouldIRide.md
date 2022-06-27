@@ -154,9 +154,9 @@ tag: PUJ_article
 ![菲尔德词典 lô](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E8%8F%B2%E5%B0%94%E5%BE%B7%E8%AF%8D%E5%85%B8_lo5.png)
 <br>
 
-+ 《English-Chinese Vocabulary of the Vernacular of Spoken language of Swatow》（William Duffus 著，1883年出版）
++ 《English-Chinese Vocabulary of the Vernacular or Spoken language of Swatow》（William Duffus 著，1883年出版）
 
-&nbsp;&nbsp;&nbsp;&nbsp;《卓威廉词典》中暂未找到与 Rome 相关词语。
+&nbsp;&nbsp;&nbsp;&nbsp;《卓威廉词典》中未找到与 Rome 相关词语，亦找不到使用 “馬” 文读音的相关词。
 <br>
 
 
