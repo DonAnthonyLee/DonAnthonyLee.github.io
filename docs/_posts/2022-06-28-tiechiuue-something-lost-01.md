@@ -62,11 +62,12 @@ categories: 潮州话
 
 + 《菲尔德词典》 第 71 页
 
-上述 tsuàⁿ 的意思在《菲尔德词典》中有详细描述（如下图），看起来和上述 chiàⁿ 的意思相同。
+上述 tsuàⁿ 的意思在《菲尔德词典》中有详细描述（如下图），看起来和上述 chiàⁿ 的意思相同；有意思的是，<b>下图中出现对应的远指用法 huàⁿ-kâi</b>，看起来合音可能性大大增加。
+
 <i>注：据以前论坛伙伴当时告知，
 <ruby style="ruby-position:over">
 	<rb class="markup_main">𨻧隍</rb>
-	<rp>(</rp><rt class="markup_over">Liû-huăng</rt><rp>)</rp>
+	<rp>(</rp><rt class="markup_over">Liû-huâng</rt><rp>)</rp>
 </ruby>至今还保留该用法。</i>
 
 ![菲尔德词典 P71 tsuàⁿ](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E8%8F%B2%E5%B0%94%E5%BE%B7%E8%AF%8D%E5%85%B8_tsu%C3%A0%E2%81%BF.png)
