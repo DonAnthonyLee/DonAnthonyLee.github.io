@@ -52,6 +52,7 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e550502ce36b3ced23ea3f50b5ef56fd5389af64" target="_blank">update comments for translation of Bilhah, Rachel</a> |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
 | 2022-06-22 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4a18f46a69c3b80d24a716f5149e71f6617950b2" target="_blank">update PagodaShadowsPage004.md</a> |
 | 2022-06-22 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/7da449fa650972db041e97eb5271d8bc041269b9" target="_blank">update PagodaShadowsPage004.md</a> |
