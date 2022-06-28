@@ -26,7 +26,7 @@ Tong-kok che̍k-nîⁿ tsò tioh la̍k-tsa̍p-sì kâi sî-tsoih; tsò-sî-tsò-
 
 <!-- On the outskirts of the village was a temple, as handsomely built as the ancestral hall, and containing, for the convenience of those who preferred one god to another, the images of several gods. -->
 &nbsp;&nbsp;Hioⁿ-lí piⁿ&#x002D;&#x002D;thâu ŭ che̍k-koiⁿ biō, khí kàu kah sṳ̂-tn̂g pêⁿ ngiá, lăi-pôiⁿ sāi ŭ kuá₊-sin sîn-siòⁿ, àiⁿ pài tī-tsun sîn-siòⁿ siàng-hō nâng.
-<!-- To this temple came those who were going on a journey, those who had some business project in mind, those who wanted some especial thing, and those who feared some calamity, to worship and to make offerings of meats, cakes, and fruit to whichever god they thought had greatest influence on their particular case. -->Lâi chí biō pài kâi nâng, ŭ àiⁿ tshut-guā &#x002D;&#x002D;kâi, ŭ àiⁿ tsò seng-lí &#x002D;&#x002D;kâi, ŭ àiⁿ khiû pa̍t-mih-mue̍h &#x002D;&#x002D;kâi, ŭ àiⁿ khiû phek-siâ &#x002D;&#x002D;kâi; i&#x002D;&#x002D;nâng ēng ne̍k, kué, cheⁿ-kué(kué-chí) chí-tshoh-kâi lâi pài ka-kī siŏⁿ-tio̍h siăng sêng-ngiām(lêng-ngiām/sîn-ngiām) kâi sîn. 
+<!-- To this temple came those who were going on a journey, those who had some business project in mind, those who wanted some especial thing, and those who feared some calamity, to worship and to make offerings of meats, cakes, and fruit to whichever god they thought had greatest influence on their particular case. -->Lâi chí biō pài kâi nâng, ŭ àiⁿ tshut-guā &#x002D;&#x002D;kâi, ŭ àiⁿ tsò seng-lí &#x002D;&#x002D;kâi, ŭ àiⁿ khiû pa̍t-mih-mue̍h &#x002D;&#x002D;kâi, ŭ àiⁿ khiû phek-siâ &#x002D;&#x002D;kâi; i&#x002D;&#x002D;nâng ēng ne̍k, kué, chheⁿ-kué(kué-chí) chí-tshoh-kâi lâi pài ka-kī siŏⁿ-tio̍h siăng sêng-ngiām(lêng-ngiām/sîn-ngiām) kâi sîn. 
 <!-- They put the food on dishe in rows before the god, lighted incense-sticks to burn before him, and then got down on their hands and knees, and knocked their foreheads on the floor, explaining meanwhile their desires. -->
 Yi&#x002D;&#x002D;nâng pá-chiang chí-tsoh mue̍h-kiăⁿ pàng nā puâⁿ-tîh &#x002D;&#x002D;kò tŏ sîn-siòⁿ thâu-tsôiⁿ pái kàu-pâi, hioⁿ-chek tiám liáu, kŭiⁿ &#x002D;&#x002D;lo̍h-khṳ̀ sang-chhiú tah tī, ēng hia̍h-thâu kha̍p thôu-kha-ĕ, liáu tshùi-tói liām<a href="#note_7" class="note">7</a> i&#x002D;&#x002D;nâng khî-khiû sîn pó-hō kâi mue̍h-kiăⁿ-sṳ̄.
 <!-- Then they took away the meats offered to idols and ate them in their own houses. -->
@@ -61,4 +61,5 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn kâi ne̍k khio̍h tńg k
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/02701ae13aba883b680c53b11f23121948be9670" target="_blank">PagodaShadowsPage010.md complete</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4c5ad8236ebff44941baecd1e03312ac7c6b8e0" target="_blank">add PagodaShadowsPage010.md</a> |
