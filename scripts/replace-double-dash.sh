@@ -59,7 +59,6 @@ else
 	fi
 
 	if [ "x${HANDLE_MIDDLE_NORMAL}" = "x1" ]; then
-		echo "Handling NORMAL"
 		sed -i -r 's/([ ,\&nbsp;,a-z,A-Z])--([\,;,.,a-z,A-Z,\xC2,\xC3,\xC4,\xC5,\xC7,\xC8,\xC9,\xCC,\xCD,\xE1,\xE2])/\1\&#x002D;\&#x002D;\2/g' $1
 		if [ "x$?" != "x0" ]; then
 			printf "\e[31m[FAILED]\e[0m\n"

@@ -9,7 +9,7 @@ tag: PUJ_translation
 {% include changlog-table-style.html %}
 
 <!-- There was a strong stone wall around the village. -->
-&nbsp;&nbsp;Hioⁿ-lí ûi ŭ che̍k-khou chio̍h-pŏu<a href="#note_1" class="note">1</a> tsò &#x002D;&#x002D;kâi huang-ûi-chiôⁿ.
+&nbsp;&nbsp;Hioⁿ-lí ûi ŭ che̍k-khou chio̍h-pŏu<a href="#note_1" class="note">1</a> tsò &#x002D;&#x002D;kâi huang-ûi-chhiôⁿ.
 <!-- The houses were all only one storey high, and the streets were so narrow that it was more convenient for two persons to walk in file than side by side. -->
 Hiá tshù tsn̂g-kâi che̍k-în kûiⁿ, liáu, koi-lōu o̍ih kàu nŏⁿ-nâng kiâⁿ che̍k-lît<a href="#note_2" class="note">2</a> kōi kuè kiâⁿ che̍k-pâi.
 <!-- The pigs and chickens lived in the streets, before the door of the family to which they belonged, and went indoors at night. -->
@@ -53,3 +53,7 @@ Kak-ke-kak-hŏu kâi tṳ kah koi lóng-tsóng chhī tŏ i&#x002D;&#x002D;nâng 
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4c5ad8236ebff44941baecd1e03312ac7c6b8e0" target="_blank">add PagodaShadowsPage010.md</a> |
