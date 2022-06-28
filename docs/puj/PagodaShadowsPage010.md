@@ -61,8 +61,10 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn kâi ne̍k khio̍h tńg k
 
 {:.changelog}
 
+
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c84418b8733461a39a1d42c2dd5e9d4c6bfc1b21" target="_blank">fixed the other spelling of "gilded" which I wasn't familiar with by refering to 潮汕十五音</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/61cb2fc43537f8fd15f7f3a188939010db702697" target="_blank">adjust translation of gilded things; add comments</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/02701ae13aba883b680c53b11f23121948be9670" target="_blank">PagodaShadowsPage010.md complete</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4c5ad8236ebff44941baecd1e03312ac7c6b8e0" target="_blank">add PagodaShadowsPage010.md</a> |
