@@ -18,7 +18,7 @@ Kak-ke-kak-hŏu kâi tṳ kah koi lóng-tsóng chhī tŏ i&#x002D;&#x002D;nâng 
 <!-- In the centre of the village was an ancestral hall, toward the building of which all had contributed. -->
 &nbsp;&nbsp;Hioⁿ-lí chiàⁿ-ta-ng<a href="#note_4" class="note">4</a> sĭ kak-nâng to-ŭ phài-chîⁿ lâi khí kâi sṳ̂-tn̂g<a href="#note_5" class="note">5</a>.
 <!-- It had carved and gilded flowers, crabs and tigers ornamenting the bare beams of the roof inside, porcelain flowers and birds on the ridgepole outside, and stone lions at the door. -->
-Sṳ̂-tn̂g lăi-pôiⁿ kâi tshù-êⁿ khat(khek) ŭ tōu(liû) liáu kim kâi hue, hŏi kah hóuⁿ<a href="#note_6" class="note">6</a>, tshù-téng tong-chit-êⁿ &#x002D;&#x002D;kò tuè ŭ hûi tsò &#x002D;&#x002D;kâi hue-chiáu, tuā-mn̂g-tshùi sāi ŭ nŏⁿ-chiah chio̍h-sai.
+Sṳ̂-tn̂g lăi-pôiⁿ kâi tshù-êⁿ khat(khek) ŭ tōu(liū) liáu kim kâi hue, hŏi kah hóuⁿ<a href="#note_6" class="note">6</a>, tshù-téng tong-chit-êⁿ &#x002D;&#x002D;kò tuè ŭ hûi tsò &#x002D;&#x002D;kâi hue-chiáu, tuā-mn̂g-tshùi sāi ŭ nŏⁿ-chiah chio̍h-sai.
 <!-- On one side were shelves full of little wooden tablets, with the names of ancestors thereon. -->
 Che̍k-pôiⁿ kâi kè-téng pái kàu tsn̂g-kâi siá ŭ tsóu-soiⁿ miâⁿ-hō kâi sîn-tsú-pâi. 
 <!-- At festivals, of which there are sixty-four in the Chinese year, people came and burned pieces of gilt paper, called spirit-money, and worshipped the tablets of their dead grandfathers and grandmothers. -->
