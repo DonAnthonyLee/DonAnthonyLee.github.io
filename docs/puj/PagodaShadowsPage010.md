@@ -46,7 +46,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn kâi ne̍k khio̍h tńg k
 6. <span id="note_6">现时祠堂似乎未见有蟹、虎之类木雕，此处暂且按原文直译；</span>
 7. <span id="note_7">旧时工艺难以查究，此处权且按 “贴金箔” 翻译，而现今做法通常非金亦非银；</span>
 8. <span id="note_8">chîⁿ-tsuá，拜神用的纸钱。此处采用作者所著词典中说法，部分地方更常用 ngṳ̂n-tiăⁿ; khò 等；</span>
-9. <span id="note_9">liām，念。此处采用作者所著词典中说法，此类阳声韵各地声母不一定相同，我处更是除极少数之外不分，后续篇章将沿用作者所著字典中读法，不再一一注解。</span>
+9. <span id="note_9">liām，念。此处采用作者所著词典中说法，此类阳声韵各地声母不一定相同，我处更是合口韵尾者除极少数之外不分，后续篇章将沿用作者所著字典中读法，不再一一注解。</span>
 <br>
 
 
@@ -63,5 +63,6 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn kâi ne̍k khio̍h tńg k
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/61cb2fc43537f8fd15f7f3a188939010db702697" target="_blank">adjust translation of gilded things; add comments</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/02701ae13aba883b680c53b11f23121948be9670" target="_blank">PagodaShadowsPage010.md complete</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4c5ad8236ebff44941baecd1e03312ac7c6b8e0" target="_blank">add PagodaShadowsPage010.md</a> |
