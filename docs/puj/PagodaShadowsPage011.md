@@ -17,7 +17,7 @@ tag: PUJ_translation
 <!-- Several times a year the wealthy men of the village subscribed a sum equal to twelve or more pounds, sufficient to pay a company of actors to come there and play for three or more days and nights. -->
 Hioⁿ-lí-lăi tuā-thàn(pá-tsháu) kâi nâng che̍k-nîⁿ tôi tioh kuá₊-tsuā chîⁿ, che̍k-pái m̆-khéng<a href="#note_1" class="note">1</a> sì-tsa̍p-nióⁿ &#x002D;&#x002D;tŏ-kò, ŭ-kàu chhiah kàu-kâi hì-pan khṳ̀ hṳ́-kò tsò tioh saⁿ-jît-saⁿ-mêⁿ to m̆-khéng.
 <!-- The actors wore the costumes of ancient times, and had their garments of silk and crape embroidered with gold thread. -->
-Tsò-hì &#x002D;&#x002D;kâi chhēng tio̍h lău-kóu-ki<a href="#note_2" class="note">2</a> saⁿ-khòu, che̍k-sin kún ŭ kim-si-suàⁿ kâi lêng-lô-tiū-tn̄g.
+Tsò-hì &#x002D;&#x002D;kâi chhēng tio̍h lău-kóu-ki<a href="#note_2" class="note">2</a> saⁿ-khòu, che̍k-sin kún ŭ kim-si-suàⁿ kâi lêng-lô_tiû-tn̄g.
 <!-- They enacted the ancient history of China; and every one went to see them, though they spoke in the court language, which none of the common people understood. -->
 Yi&#x002D;&#x002D;nâng în &#x002D;&#x002D;kâi sĭ Tong-kok kóu-sṳ́; liáu, thong-hioⁿ-lí tsn̂g-kâi khṳ̀ thóiⁿ &#x002D;&#x002D;in, sĭ-tàⁿ hì-thâi-téng kâi-kâi káng kuaⁿ-uē<a href="#note_3" class="note">3</a>, tshó-lia̍k &#x002D;&#x002D;nâng thiaⁿ bô.
 <!-- At the beginning of the play, the chief idol of the temple was carried in a decorated chair, followed by a long procession of actors and others dressed in uniform, round the village and to some of the neighbouring villages, and was then brought back to be the chief spectator at the succeeding performances. -->
