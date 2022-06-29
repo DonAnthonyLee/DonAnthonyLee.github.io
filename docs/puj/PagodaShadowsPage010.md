@@ -13,7 +13,7 @@ tag: PUJ_translation
 <!-- The houses were all only one storey high, and the streets were so narrow that it was more convenient for two persons to walk in file than side by side. -->
 Hiá tshù tsn̂g-kâi che̍k-în kûiⁿ, liáu, koi-lōu o̍ih kàu nŏⁿ-nâng kiâⁿ che̍k-lît<a href="#note_2" class="note">2</a> kōi kuè kiâⁿ che̍k-pâi.
 <!-- The pigs and chickens lived in the streets, before the door of the family to which they belonged, and went indoors at night. -->
-Kak-ke-kak-hŏu kâi tṳ kah koi lóng-tsóng chhī tŏ i&#x002D;&#x002D;nâng mn̂g-kha-kháu, mêⁿ-kuà<a href="#note_3" class="note">3</a> chiàⁿ jîp-lăi.
+Kak-ke-kak-hŏu kâi tṳ kah koi lóng-tsóng chhī tŏ i&#x002D;&#x002D;nâng mn̂g-kha-kháu, mêⁿ-kuà<a href="#note_3" class="note">3</a> chiàⁿ jiāu jîp-lăi.
 
 <!-- In the centre of the village was an ancestral hall, toward the building of which all had contributed. -->
 &nbsp;&nbsp;Hioⁿ-lí chiàⁿ-ta-ng<a href="#note_4" class="note">4</a> sĭ kak-nâng to-ŭ phài-chîⁿ lâi khí kâi sṳ̂-tn̂g<a href="#note_5" class="note">5</a>.
@@ -30,13 +30,13 @@ Tong-kok che̍k-nîⁿ tsò tioh la̍k-tsa̍p-sì kâi sî-tsoih; tsò-sî-tsò-
 <!-- They put the food on dishe in rows before the god, lighted incense-sticks to burn before him, and then got down on their hands and knees, and knocked their foreheads on the floor, explaining meanwhile their desires. -->
 Yi&#x002D;&#x002D;nâng pá-chiang chí-tsoh mue̍h-kiăⁿ pàng nā puâⁿ-tîh &#x002D;&#x002D;kò tŏ sîn-siòⁿ thâu-tsôiⁿ pái kàu-pâi, hioⁿ-chek tiám liáu, kŭiⁿ &#x002D;&#x002D;lo̍h-khṳ̀ sang-chhiú tah tī, ēng hia̍h-thâu kha̍p thôu-kha-ĕ, liáu tshùi-tói liām<a href="#note_9" class="note">9</a> i&#x002D;&#x002D;nâng khî-khiû sîn pó-hō kâi mue̍h-kiăⁿ-sṳ̄.
 <!-- Then they took away the meats offered to idols and ate them in their own houses. -->
-Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn kâi ne̍k khio̍h tńg ka-kī tshù-lăi, liáu, lia̍h i chia̍h-tiāu.
+Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="note">10</a> kâi ne̍k khio̍h tńg ka-kī tshù-lăi, liáu, lia̍h i chia̍h-tiāu.
 
 <br>
 注：
 1. <span id="note_1">chio̍h-pŏu，石头。此处采用作者所著词典中说法，我处读为 chio̍h-kŏu ；</span>
-2. <span id="note_2">lît，列；</span>
-3. <span id="note_3">mêⁿ-kuà，夜晚时分。此处采用作者所著词典中说法，我处更常用 mêⁿ&#x002D;&#x002D;tsṳ̏ （《卓威廉词典》记载为 mêⁿ&#x002D;&#x002D;tsṳ́ ）；</span>
+2. <span id="note_2">lît，列；亦多用 sué ；</span>
+3. <span id="note_3">mêⁿ-kuà，夜晚时分。此处采用作者所著词典中说法，我处更常用 mêⁿ&#x002D;&#x002D;tsṳ̏ （《卓威廉词典》记载为 mêⁿ&#x002D;&#x002D;tsṳ́ ）等；</span>
 4. <span id="note_4">chiàⁿ-ta-ng，正中央；部分地方更常用 tìn-tang ；</span>
 5. <span id="note_5">sṳ̂-tn̂g，祠堂；此处采用作者所著词典中说法；我处读为
 <ruby style="ruby-position:over">
@@ -46,7 +46,8 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn kâi ne̍k khio̍h tńg k
 6. <span id="note_6">现时祠堂似乎未见有蟹、虎之类木雕，此处暂且按原文直译；</span>
 7. <span id="note_7">旧时工艺难以查究，此处权且按 “贴金箔” 翻译，而现今做法通常非金亦非银；</span>
 8. <span id="note_8">chîⁿ-tsuá，拜神用的纸钱。此处采用作者所著词典中说法，部分地方更常用 ngṳ̂n-tiăⁿ; khò 等；</span>
-9. <span id="note_9">liām，念。此处采用作者所著词典中说法，此类阳声韵各地声母不一定相同，我处更是合口韵尾者除极少数之外不分，后续篇章将沿用作者所著字典中读法，不再一一注解。</span>
+9. <span id="note_9">liām，念。此处采用作者所著词典中说法，此类阳声韵各地声母不一定相同，我处更是合口韵尾者除极少数之外不分，后续篇章将沿用作者所著字典中读法，不再一一注解；</span>
+10. <span id="note_10">原文描写拜祭祖先之类时，多用 “idol” 进行称呼，即 tshâ-thâu-ang-kiáⁿ ，此类词语译者通通将其置换为 sîn 之类敬语，后续篇章不再一一注解。</span>
 <br>
 
 
