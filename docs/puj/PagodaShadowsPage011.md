@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 11 hio̍h)[*]"
-date:   2022-06-29 12:00:00 +0800
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 11 hio̍h)"
+date:   2022-06-30 00:00:00 +0800
 tag: PUJ_translation
 ---
 
@@ -41,7 +41,7 @@ Tong-kok lông-le̍h jī--gue̍h, ŭ lău-tsóu kàm tŏ chí-kò kâi nâng ló
 注：
 1. <span id="note_1">m̆-khéng，不止；</span>
 2. <span id="note_2">lău-kóu-ki，古时候；</span>
-3. <span id="note_3">原文为 “court language”，结合故事时间与其中指明一般人无法听懂的描述，可能并非潮州白字戏（潮剧），而是其他剧种，因而此处暂且以 “官话” 代替；</span>
+3. <span id="note_3">原文为 “court language”，结合故事时间与其中指明一般人无法听懂的描述，可能并非潮州白字戏（潮剧），而是其他剧种，因而此处暂且以 “官话” 代替。</span>
 <br>
 
 
@@ -58,6 +58,7 @@ Tong-kok lông-le̍h jī--gue̍h, ŭ lău-tsóu kàm tŏ chí-kò kâi nâng ló
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b4e0d98c2ec836674e99bbde6bfc70ae466f6e0e" target="_blank">PagodaShadowsPage011.md complete</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b349598966c8e3c3f9abb3ffc16bb85bee9aa6c5" target="_blank">finish first paragraph of PagodaShadowsPage011.md</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/dcc31ab20f4a4441fcc18efc98a7548d86de5ccb" target="_blank">fixed tones</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4a206a8ceb17454139e33977b56bc11755b615a" target="_blank">add PagodaShadowsPage011.md</a> |
