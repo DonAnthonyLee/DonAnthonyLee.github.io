@@ -8,8 +8,6 @@ tag: PUJ_translation
 {% include puj-style.html %}
 {% include changlog-table-style.html %}
 
-<!-- 这一页颠覆了我对潮剧的认知，需要好好查资料再说 -->
-
 <!-- The ancestral hall and the temple were the only public buildings of the place. -->
 &nbsp;&nbsp;Hioⁿ-lí-lăi ŭ-tit sio-kāng-ēng kâi tī-hng tshûn sṳ̂-tn̂g kah biō chí nŏⁿ-khou-ūi &#x002D;&#x002D;tiaⁿ.
 <!-- Sometimes a shed was put up in front of the temple, as a theatrical stage. -->
@@ -21,11 +19,11 @@ Tsò-hì&#x002D;&#x002D;kâi chhēng hiá lău-kóu-ki<a href="#note_2" class="n
 <!-- They enacted the ancient history of China; and every one went to see them, though they spoke in the court language, which none of the common people understood. -->
 Yi&#x002D;&#x002D;nâng în &#x002D;&#x002D;kâi sĭ Tong-kok kóu-sṳ́; liáu, thong-hioⁿ-lí tsn̂g-kâi tsáu-khṳ̀ thóiⁿ &#x002D;&#x002D;in, sĭ-tàⁿ hì-thâi-téng kâi-kâi tàⁿ kóu-bûn<a href="#note_3" class="note">3</a>, tshó-lia̍k &#x002D;&#x002D;nâng thiaⁿ bô.
 <!-- At the beginning of the play, the chief idol of the temple was carried in a decorated chair, followed by a long procession of actors and others dressed in uniform, round the village and to some of the neighbouring villages, and was then brought back to be the chief spectator at the succeeding performances. -->
-Siăng-thâu-tshái, &#x002D;&#x002D;nâng ēng íⁿ-kiō kng khí biō-lăi kâi tsú-sîn-siòⁿ, sûi-ău tuè che̍k-tuā-phiâⁿ tsò-hì &#x002D;&#x002D;kâi, kah tshoh chhēng pêⁿ-tâng-iōⁿ saⁿ-khòu &#x002D;&#x002D;kâi, ûi tio̍h hṳ́-kò kah kha&#x002D;&#x002D;thâu che̍k-lân-kâi hióⁿ-lí hui-khou, liáu-ău, tuè&#x002D;&#x002D;tńg-lâi kâi nâng tsŭ pìⁿ tsò suà&#x002D;&#x002D;lo̍h-lâi tsuan-kang thóiⁿ-hì &#x002D;&#x002D;kâi.
+Siăng-thâu-tshái, &#x002D;&#x002D;nâng ēng íⁿ-kiō kng khí biō-lăi kâi tsú-sîn-siòⁿ, sûi-ău tuè che̍k-tuā-phiâⁿ tsò-hì &#x002D;&#x002D;kâi, kah tshoh chhēng pêⁿ-tâng-iōⁿ saⁿ-khòu &#x002D;&#x002D;kâi, ûi tio̍h hṳ́-kò kah kha&#x002D;&#x002D;thâu che̍k-lân-kâi hioⁿ-lí hui-khou, liáu-ău, tuè&#x002D;&#x002D;tńg-lâi kâi nâng tsŭ pìⁿ tsò suà&#x002D;&#x002D;lo̍h-lâi tsuan-kang thóiⁿ-hì &#x002D;&#x002D;kâi.
 <!-- These theatres were the chief recreation of the people, and were attended by old and young. -->
-Chèng-nâng ôiⁿ-ôiⁿ bô-sṳ̄ tshòu-lāu-jia̍t siăng-hàuⁿ tsŭ-sĭ thòiⁿ-hì, lău-hău-seⁿ lóng hàuⁿ.
+Chèng-nâng ôiⁿ-ôiⁿ bô-sṳ̄ tshòu-lāu-jia̍t siăng-hàuⁿ tsŭ-sĭ thóiⁿ-hì, lău-hău-seⁿ lóng hàuⁿ.
 <!-- Many guests from other villages were entertained at that time, and many came to the play bringing their own provision of food for the day. -->
-Hṳ́-jît pa̍t-kâi hioⁿ-lí lâi tshoh nâng-kheh iā ŭ-nâng chio-hou, liáu i&#x002D;&#x002D;nâng tsōi-kâi liân chia̍h kâi mue̍h-kiăⁿ iā tsò-che̍k-ē tuà &#x002D;&#x002D;khṳ̀.
+Hṳ́-jît pa̍t-kâi hioⁿ-lí lâi tshoh nâng-kheh iā ŭ-nâng chio-hou, liáu i&#x002D;&#x002D;nâng tsōi-kâi liân chia̍h kâi mue̍h-kiăⁿ to tsò-che̍k-ē tuà khṳ̀ thóiⁿ-hì.
 
 <!-- Back on the mountain were the graves of all who had been buried from this village for hundreds of years. -->
 <!-- The graves were dug horizontally into the hill, and before each was horseshoe-shaped masonry, three or four feet high in the centre, and sloping down to the ground the ends. Seen from a distance, the burying-ground looked like a great city. -->
@@ -67,4 +65,6 @@ before it. -->
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b349598966c8e3c3f9abb3ffc16bb85bee9aa6c5" target="_blank">finish first paragraph of PagodaShadowsPage011.md</a> |
+| 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/dcc31ab20f4a4441fcc18efc98a7548d86de5ccb" target="_blank">fixed tones</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4a206a8ceb17454139e33977b56bc11755b615a" target="_blank">add PagodaShadowsPage011.md</a> |
