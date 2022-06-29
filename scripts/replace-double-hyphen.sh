@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Run command below to prevent jekyll to convert double hyphens into an em dash automatically.
+# Run command below to prevent jekyll to convert double hyphen into an em dash automatically.
 #
 #	find ./ -name "*.md" -exec ./replace-double-dash.sh {} \; 
 #
