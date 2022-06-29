@@ -58,6 +58,7 @@ Tong-kok lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò 
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5b47794e5b0069194c21be43994f713dd0c83e38" target="_blank">fixed tones</a> |
 | 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b4e0d98c2ec836674e99bbde6bfc70ae466f6e0e" target="_blank">PagodaShadowsPage011.md complete</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b349598966c8e3c3f9abb3ffc16bb85bee9aa6c5" target="_blank">finish first paragraph of PagodaShadowsPage011.md</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/dcc31ab20f4a4441fcc18efc98a7548d86de5ccb" target="_blank">fixed tones</a> |
