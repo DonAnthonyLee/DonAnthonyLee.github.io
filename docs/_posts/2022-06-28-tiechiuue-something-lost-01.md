@@ -72,3 +72,16 @@ categories: 潮州话
 
 ![菲尔德词典 P71 tsuàⁿ](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/%E8%8F%B2%E5%B0%94%E5%BE%B7%E8%AF%8D%E5%85%B8_tsu%C3%A0%E2%81%BF.png)
 <br>
+
++ <b>猜测 （2022.6.29 补充）</b>
+
+&emsp;&emsp;平时用于人的量词亦可用 
+<ruby style="ruby-position:over">
+	<rb class="markup_main">主</rb>
+	<rp>(</rp><rt class="markup_over">tsú</rt><rp>)</rp>
+</ruby>
+，用于物的量词可用
+<ruby style="ruby-position:over">
+	<rb class="markup_main">样</rb>
+	<rp>(</rp><rt class="markup_over">iōⁿ</rt><rp>)</rp>
+</ruby>，既然可能是合音，有无可能是类似此等词语的组合呢？也许需要从旁支或近邻去找找了。
