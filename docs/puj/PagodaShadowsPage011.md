@@ -19,7 +19,7 @@ Hioⁿ-lí-lăi tuā-thàn(pá-tsháu) kâi nâng che̍k-nîⁿ tôi tioh kuá�
 <!-- The actors wore the costumes of ancient times, and had their garments of silk and crape embroidered with gold thread. -->
 Tsò-hì &#x002D;&#x002D;kâi chhēng tio̍h lău-kóu-ki<a href="#note_2" class="note">2</a> saⁿ-khòu, che̍k-sin kún ŭ kim-si-suàⁿ kâi lêng-lô-tiū-tn̄g.
 <!-- They enacted the ancient history of China; and every one went to see them, though they spoke in the court language, which none of the common people understood. -->
-Yi&#x002D;&#x002D;nâng în &#x002D;&#x002D;kâi sĭ Tong-kok kóu-sṳ́; liáu, thong-hioⁿ-lí tsn̂g-kâi khṳ̀ thóiⁿ &#x002D;&#x002D;in, sĭ-tàⁿ hì-thâi-téng kâi-kâi káng kuaⁿ-uē<a href="#note_2" class="note">2</a>, tshó-lia̍k &#x002D;&#x002D;nâng thiaⁿ bô.
+Yi&#x002D;&#x002D;nâng în &#x002D;&#x002D;kâi sĭ Tong-kok kóu-sṳ́; liáu, thong-hioⁿ-lí tsn̂g-kâi khṳ̀ thóiⁿ &#x002D;&#x002D;in, sĭ-tàⁿ hì-thâi-téng kâi-kâi káng kuaⁿ-uē<a href="#note_3" class="note">3</a>, tshó-lia̍k &#x002D;&#x002D;nâng thiaⁿ bô.
 <!-- At the beginning of the play, the chief idol of the temple was carried in a decorated chair, followed by a long procession of actors and others dressed in uniform, round the village and to some of the neighbouring villages, and was then brought back to be the chief spectator at the succeeding performances. -->
 <!-- These theatres were the chief recreation of the people, and were attended by old and young. -->
 <!-- Many guests from other villages were entertained at that time, and many came to the play bringing their own provision of food for the day. -->
@@ -43,7 +43,7 @@ before it. -->
 注：
 1. <span id="note_1">m̆-khéng，不止；</span>
 2. <span id="note_2">lău-kóu-ki，古时候的（通常用于服装）；</span>
-3. <span id="note_3">原文为 “court language”，结合故事时间与其中指明一般人无法听懂的描述，可能并非潮州白字戏（潮剧），而是西秦戏、外江戏之类，因而此处暂且已 “官话” 代替；</span>
+3. <span id="note_3">原文为 “court language”，结合故事时间与其中指明一般人无法听懂的描述，可能并非潮州白字戏（潮剧），而是西秦戏、外江戏之类，因而此处暂且以 “官话” 代替；</span>
 <br>
 
 <br>
@@ -62,3 +62,7 @@ before it. -->
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4a206a8ceb17454139e33977b56bc11755b615a" target="_blank">add PagodaShadowsPage011.md</a> |
