@@ -32,7 +32,7 @@ Hṳ́-tshoh phûn-mŏ tsn̂g-kâi sŭn huêⁿ-sì che̍k-kâi che̍k-kái liú
 <!-- Those of the Heng family who had died far outnumbered those who remained alive. -->
 Thóiⁿ-tioh chiá Hêng-sĭ tsong-tso̍k kuè-sin &#x002D;&#x002D;kâi pí tŏ-sì &#x002D;&#x002D;kâi tsōi tioh kuè-tsōi.
 <!-- During the second month of the Chinese year, all who had ancestors buried here came and fastened gilded paper to flutter over the grave, and worshipped before it. -->
-Tong-kok lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kàm tŏ chí-kò kâi nâng lóng lâi &#x002D;&#x002D;kàu, ēng chîⁿ-tsuá lia̍h phûn-téng kuà kàu tsâu-tsâu, liáu tsŭ kâi-kâi tŏ phûn-tiâⁿ(phûn-tsôiⁿ) &#x002D;&#x002D;kò pài.
+Tong-kok lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò kâi nâng lóng lâi &#x002D;&#x002D;kàu, ēng chîⁿ-tsuá lia̍h phûn-téng kuà kàu tsâu-tsâu, liáu tsŭ kâi-kâi tŏ phûn-tiâⁿ(phûn-tsôiⁿ) &#x002D;&#x002D;kò pài.
 <!-- If any grave lacked for three years these offerings of paper, showing that it had not been visited by the descendants of the person buried in it, the land on which it was made could no longer be claimed as private property. -->
 &#x002D;&#x002D;Nâ-sĭ &#x002D;&#x002D;ŭ &#x002D;&#x002D;tī-che̍k-kâi &#x002D;&#x002D;phûn saⁿ-nîⁿ bô-nâng kuè-tsuá, tsŭ-sĭ tàⁿ i&#x002D;&#x002D;nâng kiáⁿ-sun m̆-pat lâi &#x002D;&#x002D;kuè, hiá, hṳ́-khou phûn-ūi tsŭ tǹg-tsò bô-nâng kâi.
 <br>
