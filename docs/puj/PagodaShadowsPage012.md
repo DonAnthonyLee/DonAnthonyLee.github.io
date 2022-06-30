@@ -58,3 +58,7 @@ Tsṳ-niôⁿ-nâng kuè-chió tshut-mn̂g, chiu-jît tŏ m̆-ôiⁿ tsṳ́-chi
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/481d83b11d90cb51c48f96daee55a5865fe49088" target="_blank">add PagodaShadowsPage012.md</a> |
