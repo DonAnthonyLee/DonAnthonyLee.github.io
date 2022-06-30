@@ -4,7 +4,7 @@ if [ -z "$1" ]; then
 	exit 1
 fi
 
-printf "Checking $1 ..."
+printf "Checking $1 ... "
 grep "{:.changelog}" $1 > /dev/null 2>&1
 if [ "x$?" != "x0" ]; then
 	printf "[NO NEED]\n"
@@ -14,7 +14,7 @@ fi
 sed -i '/{:.changelog}/,$d' $1
 if [ "x$?" != "x0" ]; then
 	printf "\e[31m[FAILED]\e[0m\n"
-	exit 0
+	exit 1
 fi
 
 echo "{:.changelog}" >> $1
