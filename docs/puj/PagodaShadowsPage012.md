@@ -27,9 +27,9 @@ Thiⁿ-sî chhìn, tshù-lăi bô-ŭ hué-lôu lâi puē-sio<a href="#note_5" cl
 <!-- Long before he had teeth, his mother fed him with soft-boiled rice, which she deftly tucked into his mouth with her fingers, and on which he thrived wonderfully. -->
 Yi huáⁿ₊ buē huat-khí, in âi tsang kho̍h kàu kôu-kôu kâi muê, ēng chhiú-tsóiⁿ che̍k-khih-kiáⁿ che̍k-khih-kiáⁿ khuaⁿ&#x002D;&#x002D;nî chhī &#x002D;&#x002D;i, tsŭ chiòⁿ-seⁿ, nou-kiáⁿ chheⁿ gâu-tuā.
 <!-- When he fretted much, he was put into a pocket on the back of his eight-year-old sister, and she ran about or swayed to and fro to quiet him. -->
-Yi àiⁿ khì-sèⁿ, i poih-huè tuā kâi a-ché ēng pì-tō pì tŏ ka-chiah-ău, liáu kiâⁿ-lâi-kiâⁿ-khṳ̀ a-sĭ koiⁿ-sì-thâu chhèng-lâi-chhèng-khṳ̀ khŏng-a-khŏng lâi ŏng i chĕⁿ.
+Yi àiⁿ khì-sèⁿ, i poih-huè tuā kâi a-ché ēng pì-tō pì tŏ ka-chiah-ău, liáu kiâⁿ-lâi-kiâⁿ-khṳ̀ a-sĭ koiⁿ[-sì]-thâu chhèng-lâi-chhèng-khṳ̀ khŏng-a-khŏng lâi ŏng i chĕⁿ.
 <!-- Indeed, he spent the greater part of first five years of his life on his mother's or his sister's back, sitting in a scarf tied over her shoulders, his arms around her neck, his legs dangling at her sides, and his head bobbing back, looking at the roof or the sky. -->
-Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām ǹg tŏ in âi a-sĭ a-ché kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng koiⁿ-thâu kâi pì-tiâu lam &#x002D;&#x002D;tŏ-kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thiⁿ-téng-thâu.
+Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām khò tŏ in âi a-sĭ a-ché kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng koiⁿ-thâu kâi pì-tiâu &#x002D;&#x002D;kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thiⁿ-téng-thâu.
 <!-- When he was three years old, the hair on his crown was allowed to grow long to be braided into a queue. -->
 Yi saⁿ-huè tuā, thâu-khak-téng tshoh mô seⁿ-liáu ŭ-kàu tn̂g, &#x002D;&#x002D;nâng tsŭ lia̍h i pĭⁿ-tsò piⁿ.
 <!-- Almost as soon as he could walk and carry a basket and rake, he went with his next elder brother to gather fuel on the hills. -->
