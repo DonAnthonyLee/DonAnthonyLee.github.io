@@ -7,6 +7,10 @@ tag: PUJ_translation
 
 {% include puj-style.html %}
 
+
+![1887年版封面](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/PagodaShadowsCover.png)
+
+<br>
 <h2>
 <ruby style="ruby-position:over">
 		<rb class="markup_main">宝塔</rb>
