@@ -19,7 +19,7 @@ Tsṳ-niôⁿ-nâng kuè-chió tshut-mn̂g, chiu-jît tŏ m̆-ôiⁿ tsṳ́-chi
 &nbsp;&nbsp;A-sì tŏ chí-kâi hioⁿ-lí tshut-sì hṳ́-che̍k-jît, iaⁿ₊<a href="#note_3" class="note">3</a> pĕ-âi tshuân huaⁿ-hí &#x002D;&#x002D;kâi; in siŏⁿ-tàⁿ tsóng-kài bô-nâng ŭ-tit tǹg in seⁿ tioh chiòⁿ tsōi-kâi tau₊-kiáⁿ &#x002D;&#x002D;kâi.
 <!-- He was wrapped in a clean rag and laid in a basket, which hung by two cords over a beam in the roof, and in which he was swung to sleep. -->
 Tuā&#x002D;&#x002D;nâng ēng che̍k-niáⁿ chheng-khih kâi phuà-saⁿ lia̍h i pau &#x002D;&#x002D;tiāⁿ, pàng i nā tek-nâⁿ &#x002D;&#x002D;kò, tsài ēng nŏⁿ-kóu soh phuân tuè tshù-êⁿ tsang tek-nâⁿ tiàu(liū) &#x002D;&#x002D;khí-lâi;
-àn(àiⁿ)-chiòⁿ-seⁿ, tek-nâⁿ-kiáⁿ iô-a-iô(iŏ), nou-kiáⁿ che̍k-ē tsŭ u̍t<a href="#note_4" class="note">4</a> kàu tsuh-tsuh.
+àn-chiòⁿ-seⁿ, tek-nâⁿ-kiáⁿ iô-a-iô(iŏ-a-iŏ), nou-kiáⁿ che̍k-ē tsŭ u̍t<a href="#note_4" class="note">4</a> kàu tsuh-tsuh.
 <!-- When he was one month old he had his head shaven in spots, and when he was four months old it was shaven clean. -->
 Yi chiàⁿ muáⁿ-gue̍h, thâu-mô tsŭ pun &#x002D;&#x002D;nâng thì tsò tiáⁿ-kiáⁿ-lih, kàu sì-kâi-gue̍h tuā, thâu-mô tsn̂g-kâi thì kng-kng.
 <!-- As it was cold weather, and there was never a fire in the house, he was kept warm by a little jacket thickly quilted with cotton, and by two old jackets of his father's wrapped around his legs. -->
@@ -29,7 +29,7 @@ Yi huáⁿ₊ buē huat-khí, in âi tsang kho̍h kàu kôu-kôu kâi muê, ēng
 <!-- When he fretted much, he was put into a pocket on the back of his eight-year-old sister, and she ran about or swayed to and fro to quiet him. -->
 Yi àiⁿ khì-sèⁿ, i poih-huè tuā kâi a-ché ēng pì-tō pì tŏ ka-chiah-ău, liáu kiâⁿ-lâi-kiâⁿ-khṳ̀ a-sĭ koiⁿ-sì-thâu chhèng-lâi-chhèng-khṳ̀ khŏng-a-khŏng lâi ŏng i chĕⁿ.
 <!-- Indeed, he spent the greater part of first five years of his life on his mother's or his sister's back, sitting in a scarf tied over her shoulders, his arms around her neck, his legs dangling at her sides, and his head bobbing back, looking at the roof or the sky. -->
-Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām ǹg tŏ in âi a-sĭ a-ché kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng koiⁿ-thâu kâi pì-tiâu-lam &#x002D;&#x002D;kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thiⁿ-téng-thâu.
+Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām ǹg tŏ in âi a-sĭ a-ché kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng koiⁿ-thâu kâi pì-tiâu lam &#x002D;&#x002D;tŏ-kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thiⁿ-téng-thâu.
 <!-- When he was three years old, the hair on his crown was allowed to grow long to be braided into a queue. -->
 Yi saⁿ-huè tuā, thâu-khak-téng tshoh mô seⁿ-liáu ŭ-kàu tn̂g, &#x002D;&#x002D;nâng tsŭ lia̍h i pĭⁿ-tsò piⁿ.
 <!-- Almost as soon as he could walk and carry a basket and rake, he went with his next elder brother to gather fuel on the hills. -->
@@ -45,7 +45,7 @@ Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng kâi mue̍h-hiâⁿ, nâ-m
 1. <span id="note_1">tang，用为稻谷收割次数，无论是否冬收；</span>
 2. <span id="note_2">cheh-tsòi，编织亚麻织物；此词取自作者所著词典，现今鲜有耳闻；</span>
 3. <span id="note_3">iaⁿ₊，他的；他们的；</span>
-4. <span id="note_4">u̍t，睡觉，原读音 gu̍t，现亦多读 n̍gh。同义者，部分地方更常用 ĭⁿ 等；</span>
+4. <span id="note_4">u̍t，睡觉，原读音 gu̍t，现亦多读 n̍gh；</span>
 5. <span id="note_5">村舍冬天门窗紧闭，构造上不允许在屋内生火，因而此处译者将原文意思稍加修改。</span>
 <br>
 
