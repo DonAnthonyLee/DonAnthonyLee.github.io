@@ -25,15 +25,15 @@ Yi chiàⁿ muáⁿ-gue̍h, thâu-mô tsŭ pun &#x002D;&#x002D;nâng thì tsò t
 <!-- As it was cold weather, and there was never a fire in the house, he was kept warm by a little jacket thickly quilted with cotton, and by two old jackets of his father's wrapped around his legs. -->
 Thiⁿ-sî chhìn, tshù-lăi bô-ŭ hué-lôu lâi puē-sio<a href="#note_5" class="note">5</a>, i sin chhēng che̍k-niáⁿ mîⁿ-hiûⁿ-kiáⁿ, sang-kha lam tio̍h i lău-pĕ nŏⁿ-niáⁿ kū kah-kiáⁿ, chiòⁿ-seⁿ chiàⁿ ŭ-kàu sio.
 <!-- Long before he had teeth, his mother fed him with soft-boiled rice, which she deftly tucked into his mouth with her fingers, and on which he thrived wonderfully. -->
-Yi huáⁿ₊ buē huat-khí, in âi tsang kho̍h kàu kôu-kôu kâi muê, ēng chhiú-tsóiⁿ che̍k-khih-kiáⁿ che̍k-khih-kiáⁿ khuaⁿ&#x002D;&#x002D;nî chhī i, tsŭ chiòⁿ-seⁿ, nou-kiáⁿ chheⁿ gâu-tuā.
+Yi huáⁿ₊ buē huat-khí, in âi tsang kho̍h kàu kôu-kôu kâi muê, ēng chhiú-tsóiⁿ che̍k-khih-kiáⁿ che̍k-khih-kiáⁿ khuaⁿ&#x002D;&#x002D;nî chhī &#x002D;&#x002D;i, tsŭ chiòⁿ-seⁿ, nou-kiáⁿ chheⁿ gâu-tuā.
 <!-- When he fretted much, he was put into a pocket on the back of his eight-year-old sister, and she ran about or swayed to and fro to quiet him. -->
 Yi àiⁿ khì-sèⁿ, i poih-huè tuā kâi a-ché ēng pì-tō pì tŏ ka-chiah-ău, liáu kiâⁿ-lâi-kiâⁿ-khṳ̀ a-sĭ koiⁿ-sì-thâu chhēng-lâi-chhēng-khṳ̀ lâi ŏng i chĕⁿ.
 <!-- Indeed, he spent the greater part of first five years of his life on his mother's or his sister's back, sitting in a scarf tied over her shoulders, his arms around her neck, his legs dangling at her sides, and his head bobbing back, looking at the roof or the sky. -->
-Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām ǹg tŏ in âi a-sĭ a-ché kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng koiⁿ-thâu kâi pì-tiâu-lam &#x002D;&#x002D;kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thíⁿ-téng-thâu.
+Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām ǹg tŏ in âi a-sĭ a-ché kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng koiⁿ-thâu kâi pì-tiâu-lam &#x002D;&#x002D;kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thiⁿ-téng-thâu.
 <!-- When he was three years old, the hair on his crown was allowed to grow long to be braided into a queue. -->
 Yi saⁿ-huè tuā, thâu-khak-téng tshoh mô seⁿ-liáu ŭ-kàu tn̂g, &#x002D;&#x002D;nâng tsŭ lia̍h i pĭⁿ-tsò piⁿ.
 <!-- Almost as soon as he could walk and carry a basket and rake, he went with his next elder brother to gather fuel on the hills. -->
-Tàⁿ-chiàⁿ ŏi hiáu pì kâi nâⁿ-kiáⁿ kah áu ki khau-pê sì-tshù kiâⁿ, i tsŭ kah i sŭn-suà kâi a-hiaⁿ tsò-che̍k-ē khṳ̀ suaⁿ-téng khioh mue̍h-hiâⁿ.
+Taⁿ-chiàⁿ ŏi hiáu pì kâi nâⁿ-kiáⁿ kah áu ki khau-pê sì-tshù kiâⁿ, i tsŭ kah i sŭn-suà kâi a-hiaⁿ tsò-che̍k-ē khṳ̀ suaⁿ-téng khioh mue̍h-hiâⁿ.
 <!-- They scraped up the dry wild grass and the fallen needles of the pine-trees, and everything else they could gather to make the pot boil. -->
 Hiaⁿ-tĭ-kiáⁿ sio-tàu nueh hṳ́ thôu-kha-ĕ kâi ta-tsháu kah sêng-peh-chhiū téng ka-la̍uh &#x002D;&#x002D;lo̍h-lâi kâi tshâ-ki-kiáⁿ, kah pa̍t-mih-iōⁿ hó hiâⁿ-hué &#x002D;&#x002D;kâi lóng-tsóng khit-khioh tsò-che̍k-ē.
 <!-- They had to supply all the fuel that was used for the family cooking, and rarely got beaten except when they failed to gather enough. -->
@@ -63,4 +63,6 @@ Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng kâi mue̍h-hiâⁿ, nâ-m
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/bcf619ae41ba396774025610461b0b5286e5525e" target="_blank">PagodaShadowsPage012.md complete</a> |
+| 2022-07-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/76e14aa33c1661049817a7ea7d88a0c60f2a9413" target="_blank">try the second sentence of the second paragraph</a> |
 | 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/481d83b11d90cb51c48f96daee55a5865fe49088" target="_blank">add PagodaShadowsPage012.md</a> |
