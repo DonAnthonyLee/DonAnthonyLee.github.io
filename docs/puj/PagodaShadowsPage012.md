@@ -63,6 +63,7 @@ Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng kâi mue̍h-hiâⁿ, nâ-m
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/dd3fdba25c90860d2e9f431823be3a069ff092cc" target="_blank">fixed tones about "sway" and "fro"</a> |
 | 2022-07-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/bcf619ae41ba396774025610461b0b5286e5525e" target="_blank">PagodaShadowsPage012.md complete</a> |
 | 2022-07-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/76e14aa33c1661049817a7ea7d88a0c60f2a9413" target="_blank">try the second sentence of the second paragraph</a> |
 | 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/481d83b11d90cb51c48f96daee55a5865fe49088" target="_blank">add PagodaShadowsPage012.md</a> |
