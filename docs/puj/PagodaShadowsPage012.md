@@ -37,7 +37,7 @@ Taⁿ-chiàⁿ ŏi hiáu pì kâi nâⁿ-kiáⁿ kah áu ki khau-pê sì-tshù k
 <!-- They scraped up the dry wild grass and the fallen needles of the pine-trees, and everything else they could gather to make the pot boil. -->
 Hiaⁿ-tĭ-kiáⁿ sio-tàu nueh hṳ́ thôu-kha-ĕ kâi ta-tsháu kah sêng-peh-chhiū téng ka-la̍uh &#x002D;&#x002D;lo̍h-lâi kâi tshâ-ki-kiáⁿ, kah pa̍t-mih-iōⁿ hó hiâⁿ-hué &#x002D;&#x002D;kâi lóng-tsóng khit-khioh tsò-che̍k-ē.
 <!-- They had to supply all the fuel that was used for the family cooking, and rarely got beaten except when they failed to gather enough. -->
-Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng kâi mue̍h-hiâⁿ, nâ-m̆-sĭ khioh bô-kàu, hoh-chió ŏi khṳh &#x002D;&#x002D;nâng ku̍t(khîp).
+Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng kâi mue̍h-hiâⁿ, nâ-m̆-sĭ khioh bô-kàu, i--nâng pĕ-âi hán-tit phah &#x002D;&#x002D;in.
 <br>
 
 <br>
