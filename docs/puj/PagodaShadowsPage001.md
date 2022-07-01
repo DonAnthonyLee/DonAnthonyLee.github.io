@@ -63,7 +63,6 @@ Tŏ chí-kâi Ki-tok kà-ngĭ kâi kám-huè kah chĕng-huè hāu-la̍t huân-li
 
 {:.changelog}
 
-
 | 更改日期 | 更改信息 |
 | --- | --- |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
