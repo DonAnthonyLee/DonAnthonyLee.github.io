@@ -51,7 +51,7 @@ Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng kâi mue̍h-hiâⁿ, nâ-m
 
 
 ***[前页](PagodaShadowsPage011.html)***
-<!-- ***[后页](PagodaShadowsPage013.html)*** -->
+***[后页](PagodaShadowsPage013.html)***
 
 
 ---
