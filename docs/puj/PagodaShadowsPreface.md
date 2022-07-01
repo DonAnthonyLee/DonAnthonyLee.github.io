@@ -40,9 +40,9 @@ Adele M. Fielde<br>
 Tong-kok, Suàⁿ-thâu, 1887 &#x002D;&#x002D;nîⁿ
 
 注：
-1. <span id="note_1">Adele M. Fielde (1839-1916年)，美国传教士，为《汕头方言词典》（1883年出版）作者，岭东浸会刊物称之“斐姑娘”；</span>
+1. <span id="note_1">Adele M. Fielde (1839-1916年)，美国传教士，为《A Pronouncing and Defining Dictionary of the Swatow Dialect》（1883年出版）作者，岭东浸会刊物称之“斐姑娘”；</span>
 2. <span id="note_2">上述“汕头”仍作“Suàⁿ-thâu”，当时“汕头埠”叫“Suàⁿ-thâu-pou”；现今“汕头”大多作“Suaⁿ-thâu”；</span>
-3. <span id="note_3">书名《Pagoda Shadows: Studies from life in China》，2016年出版的中译本（译者：郭甦）中译为《真光初临》；此处摈弃书面语雅化形式而采用直译。</span>
+3. <span id="note_3">书名《Pagoda Shadows: Studies from life in China》，2016年出版的中文译本中译为《真光初临》（译者：郭甦）；此处摈弃书面语雅化形式而采用直译。</span>
 
 <br>
 <br>
@@ -52,131 +52,7 @@ Tong-kok, Suàⁿ-thâu, 1887 &#x002D;&#x002D;nîⁿ
 
 &nbsp;&nbsp;Chiá khang-khuè sĭ uá lîm-sî-hèng mue̍h &#x002D;&#x002D;kâi, kú-kú mue̍h che̍k-hio̍h, lân-sî sim-sek-hèng uá ia̍h chhiau-tshuē lân-ló kū-tsá tàⁿ-huap sio-tsham &#x002D;&#x002D;jîp-khṳ̀; uán-tshù lău-nâng tsṳ̆-liáu tàⁿ "Nán-kâi-uē che̍k-tsháu-buān-hō.", liáu chí-tói siá&#x002D;&#x002D;kâi tsōi-kâi sĭ ēng uá ka-kī hioⁿ-lí thóu-uē, lân-tshoh tàⁿ-huap ŭ-tsáu-tsua̍h a-sĭ tsò-che̍k-ē thóiⁿ bô, hiá so̍k-tsṳ chiàⁿ-siôⁿ; hí-tshoh bô-mih-nâng tsai-iáⁿ kâi tàⁿ-huap, uá khat-khóu chió siá &#x002D;&#x002D;tăm-poh, mín &#x002D;&#x002D;nâng thóiⁿ liáu khat-năi bāi.
 
-&nbsp;&nbsp;
-<ruby style="ruby-position:over">
-		<rb class="markup_main">不才</rb>
-		<rp>(</rp><rt class="markup_over">Put-tshâi</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">甚</rb>
-		<rp>(</rp><rt class="markup_over">sĭm</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">觉</rb>
-		<rp>(</rp><rt class="markup_over">kak</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">汉字</rb>
-		<rp>(</rp><rt class="markup_over">hàn-jī</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">书写</rb>
-		<rp>(</rp><rt class="markup_over">tsṳ-siá</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">译文</rb>
-		<rp>(</rp><rt class="markup_over">e̍k-bûn</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">易</rb>
-		<rp>(</rp><rt class="markup_over">kōi</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">禁锢</rb>
-		<rp>(</rp><rt class="markup_over">kìm-kù</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">思绪</rb>
-		<rp>(</rp><rt class="markup_over">sṳ-sú</rt><rp>)</rp>
-</ruby>
-，
-<ruby style="ruby-position:over">
-		<rb class="markup_main">而</rb>
-		<rp>(</rp><rt class="markup_over">zṳ̂</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">能力</rb>
-		<rp>(</rp><rt class="markup_over">lêng-la̍t</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">实属</rb>
-		<rp>(</rp><rt class="markup_over">sît-so̍k</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">有限</rb>
-		<rp>(</rp><rt class="markup_over">ŭ-hăn</rt><rp>)</rp>
-</ruby>
-，
-<ruby style="ruby-position:over">
-		<rb class="markup_main">亦</rb>
-		<rp>(</rp><rt class="markup_over">e̍k</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">无意</rb>
-		<rp>(</rp><rt class="markup_over">bô-ì</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">标榜</rb>
-		<rp>(</rp><rt class="markup_over">phiau-páng</rt><rp>)</rp>
-</ruby>
-“
-<ruby style="ruby-position:over">
-		<rb class="markup_main">正字</rb>
-		<rp>(</rp><rt class="markup_over">chiàⁿ-jī</rt><rp>)</rp>
-</ruby>
-”，
-<ruby style="ruby-position:over">
-		<rb class="markup_main">故此</rb>
-		<rp>(</rp><rt class="markup_over">kù-tshṳ́</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">译文</rb>
-		<rp>(</rp><rt class="markup_over">e̍k-bûn</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">均</rb>
-		<rp>(</rp><rt class="markup_over">kṳn</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">以</rb>
-		<rp>(</rp><rt class="markup_over">íⁿ</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">白话字</rb>
-		<rp>(</rp><rt class="markup_over">pe̍h-uē-jī</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">书写</rb>
-		<rp>(</rp><rt class="markup_over">tsṳ-siá</rt><rp>)</rp>
-</ruby>
-，
-<ruby style="ruby-position:over">
-		<rb class="markup_main">仅此</rb>
-		<rp>(</rp><rt class="markup_over">kṳ́n-tshṳ́</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">注解</rb>
-		<rp>(</rp><rt class="markup_over">tsù-kói</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">若干</rb>
-		<rp>(</rp><rt class="markup_over">jia̍k-kan</rt><rp>)</rp>
-</ruby>
-。<br>
-
-<br>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">海山</rb>
-		<rp>(</rp><rt class="markup_over">Hái-suaⁿ</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">老</rb>
-		<rp>(</rp><rt class="markup_over">lău</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-		<rb class="markup_main">李</rb>
-		<rp>(</rp><rt class="markup_over">Lí</rt><rp>)</rp>
-</ruby><br>
+Hái-suaⁿ lău Lí<br>
 2022 &#x002D;&#x002D;nîⁿ
 
 
