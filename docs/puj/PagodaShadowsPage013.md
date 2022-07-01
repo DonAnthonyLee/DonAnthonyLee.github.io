@@ -10,9 +10,11 @@ tag: PUJ_translation
 
 
 <!-- Number Four wore a bamboo hat, made in basketwork, lined with leaves, and as large as a parasol. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;A-sì tì che̍k-téng ēng tek-bîh pĭⁿ &#x002D;&#x002D;kâi tek-bō<a href="#note_1" class="note">1</a>, bō-ne̍k ēng &#x002D;&#x002D;kâi sĭ tek-hio̍h, téng-bō kah chia-jît &#x002D;&#x002D;kâi hŏu-chia-kiáⁿ tsha-m̆-to tuā.
 <!-- The remainder of his costume was a short cotton jacket and very loose short cotton trousers. -->
+Yi téng-kue̍h chhēng che̍k-niáⁿ tó-lut-tó-lut &#x002D;&#x002D;kâi mîⁿ-hiûⁿ, ĕ-kue̍h chhēng kâi khuah-lòng-khuah-lòng &#x002D;&#x002D;kâi tó-mîⁿ-khòu,
 <!-- His skin was yellow, and his eyes and hair jet black. -->
+che̍k-sin phuê-hu n̂g-n̂g, sang-ma̍k kah thâu-mô ou-tsṳ-ou-tsṳ.
 
 <!-- When Number Four grew older he had another employment, that of leading the buffalo which his father owned, and which helped to work the land. -->
 &nbsp;&nbsp;
@@ -31,14 +33,21 @@ tag: PUJ_translation
 
 <br>
 
+
 <br>
 注：
-1. <span id="note_1">；</span>
+1. <span id="note_1">此处为作者描述
+<ruby style="ruby-position:over">
+	<rb class="markup_main">竹笠</rb>
+	<rp>(</rp><rt class="markup_over">tek-lo̍ih</rt><rp>)</rp>
+</ruby>构成，权且以 “竹帽” 代替，而口语无此叫法；</span>
 <br>
 
 <br>
 
 ***[Buē-mue̍h-tît]***
+
+<br>
 
 <br>
 
