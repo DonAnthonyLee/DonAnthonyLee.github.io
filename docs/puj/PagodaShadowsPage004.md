@@ -29,7 +29,7 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 1. <span id="note_1">chhiâng-tshá, 争吵不停。此处可用更为普遍的 sio-mē; sio-chhiâng; sio-à 等代替，但似乎欠缺意味；此处所指是“七出”（无子、淫佚、不事姑舅、口舌、盗窃、妒忌、恶疾）与“三不去”；</span>
 2. <span id="note_2">thái-ko, 麻风病。我处此词使用上已近乎 bái-thóiⁿ，因而此处另加 "seⁿ"；</span>
 3. <span id="note_3">tsun-tshûn, 尊重且敬畏。照理为“遵循”；</span>
-4. <span id="note_4">nâ-sĭ, 如果。作者所著词典记录为 ā-sĭ，同时期另一白话字词典记录为 nă-sĭ，此处结合府城腔变调规律及另一白话字词典特点，声调按我处前变调进行修正，后续篇章将沿用此音；但需要提醒的是，《厦英大辞典》（1873年出版）中该词读法为 nā-sī；</span>
+4. <span id="note_4">nâ-sĭ, 如果。作者所著词典记录为 ā-sĭ，同时期另一白话字词典记录为 nă-sĭ 及 nâ-sĭ，此处结合府城腔变调规律及另一白话字词典特点，声调按我处前变调进行修正，后续篇章将沿用此音；但需要提醒的是，《厦英大辞典》（1873年出版）中该词读法为 nā-sī；</span>
 5. <span id="note_5">thâu-bóu, 正室；旧时多称之 tsháu-thâu，亦称 chiàⁿ-chhi；</span>
 6. <span id="note_6">jī-nâng, 妾；旧时亦称之 chhiah-kha；</span>
 7. <span id="note_7">[动词] tioh [事物], 此用法中通常意味着所指事物超出正常范围；</span>
