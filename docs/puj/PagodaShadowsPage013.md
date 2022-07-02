@@ -62,6 +62,7 @@ Tsúi-chhia tio̍h ēng kha ta̍h, saⁿ-nâng kak-nâng ta̍h tŏ chhia-lín th
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b688c4afe1a6246cb351e4401d53d123a6e15b06" target="_blank">fix translation of "eyes"</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c7db23520c36b2288a2840a9dc646b0ee51a3ca1" target="_blank">fix translation of "skin"</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a5e0137fa6fd6791768b9a3151e30f27b8fb2b3c" target="_blank">PagodaShadowsPage013.md complete</a> |
