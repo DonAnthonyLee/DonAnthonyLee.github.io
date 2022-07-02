@@ -29,9 +29,9 @@ Tsúi-gû thua tio̍h lôi-pê tŏ tshân-hn̂g &#x002D;&#x002D;kò lôi-tshân,
 <!-- for there were no fences between the fields. -->
 me tshân kah tshân bô keh tek-lî.
 <!-- It was governed by a rope tied to a ring through its nostril. -->
-&#x002D;&#x002D;Nâng ēng tiâu soh pa̍k tuè gû-kǹg-phī lâi kuán-hat chiah-gû.
+&#x002D;&#x002D;Nâng ēng tiâu soh pa̍k tuè gû-kǹg-phīⁿ lâi kuán-hat chiah-gû.
 <!-- Number Four liked to ride home from the rice-field on its back, and then watch it while it rested and wallowed in a pool of muddy water. -->
-A-sì siăng ngiàn khiâ-gû tùi tshân-hn̂g kàu tshù-lăi, liáu, nā piⁿ&#x002D;&#x002D;thâu chióⁿ chiah-gû bô-sṳ̄ tŏ chĕng thôu-ko-muê &#x002D;&#x002D;kâi tî-tói húiⁿ-ká-kún.  
+A-sì siăng ngiàn khiâ-gû tùi tshân-hn̂g kàu tshù-lăi, liáu, nā piⁿ&#x002D;&#x002D;thâu chióⁿ chiah-gû bô-sṳ̄ tŏ chĕng thôu-ko-muê &#x002D;&#x002D;kâi tî-tói húiⁿ-ká-kún.
 <!-- When there was not enough rain, Four had also to help to turn the chain pump, which raised water from the creek to the level of the rice-fields, to water the growing crop. -->
 Thiⁿ iáu chió lo̍h-hŏu &#x002D;&#x002D;hṳ́-ē, A-sì tio̍h khṳ̀ sio-hŭ ta̍h tsúi-chhia, lia̍h khoi-tói kâi tsúi khat kàu tshân-hn̂g &#x002D;&#x002D;kò lâi èng-tshân. 
 <!-- This pump was turned by the feet, three persons stepping together on the flanges of a wheel, which turned the endless chain that brought up the water. -->
@@ -62,4 +62,6 @@ Tsúi-chhia tio̍h ēng kha ta̍h, saⁿ-nâng kak-nâng ta̍h tŏ chhia-lín th
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a5e0137fa6fd6791768b9a3151e30f27b8fb2b3c" target="_blank">PagodaShadowsPage013.md complete</a> |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/819c2bc04bbf31a2ad29194457d4f66eeb6fcbf9" target="_blank">finish the first paragraph</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/85a8ab721006a636bfab9288f084aa9c494b827a" target="_blank">add PagodaShadowsPage013.md</a> |
