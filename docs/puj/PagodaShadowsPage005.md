@@ -77,6 +77,7 @@ Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha &#x002D;&#x002D;kâi kiáⁿ, 
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c8bb252b8921f2b580a79001e34f014a10366c02" target="_blank">add comments</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/88c3b2f86c49bc35dbf690ea81f7e8c8ce3788b3" target="_blank">update PagodaShadowsPage005.md</a> |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
