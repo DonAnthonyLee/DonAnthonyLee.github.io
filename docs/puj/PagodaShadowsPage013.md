@@ -21,7 +21,7 @@ Yi &#x002D;&#x002D;kâi ne̍k-sek né n̂g-n̂g, sang-ma̍k kah thâu-mô ou-ts�
 <!-- This buffalo was larger than a common ox; -->
 Chí-chiah tsúi-gû pí pâi-jît tshó-lia̍k &#x002D;&#x002D;kâi gû àiⁿ iáu tuā-chiah;
 <!-- its skin was like a pig's, and covered with coarse, sparse, mouse-coloured hair; -->
-i &#x002D;&#x002D;kâi ne̍k-chí kah tṳ pêⁿ-iōⁿ, che̍k-sin hué-hu-sek &#x002D;&#x002D;kâi mô siu-lang-siu-lang liáu_li tshou-tshou;
+i &#x002D;&#x002D;kâi phuê kah tṳ pêⁿ-iōⁿ, che̍k-sin hué-hu-sek &#x002D;&#x002D;kâi mô siu-lang-siu-lang liáu_li tshou-tshou;
 <!-- and its horns were long, sharp, and curved. -->
 i &#x002D;&#x002D;kâi kak iŭ tn̂g iŭ chiam huáⁿ₊ uan-khiau.
 <!-- It dragged the plough and harrow over the rice-fields, and when at rest as well as when at work must have an attendant to lead it from place to place to feed, and to see that it did not destroy the grain; -->
