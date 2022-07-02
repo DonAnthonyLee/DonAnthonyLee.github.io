@@ -33,7 +33,7 @@ me tshân kah tshân bô keh tek-lî.
 <!-- Number Four liked to ride home from the rice-field on its back, and then watch it while it rested and wallowed in a pool of muddy water. -->
 A-sì siăng ngiàn khiâ-gû tùi tshân-hn̂g kàu tshù-lăi, liáu, nā piⁿ&#x002D;&#x002D;thâu chióⁿ chiah-gû bô-sṳ̄ tŏ chĕng thôu-ko-muê &#x002D;&#x002D;kâi tî-tói húiⁿ-ká-kún.
 <!-- When there was not enough rain, Four had also to help to turn the chain pump, which raised water from the creek to the level of the rice-fields, to water the growing crop. -->
-Thiⁿ iáu chió lo̍h-hŏu &#x002D;&#x002D;hṳ́-ē, A-sì tio̍h khṳ̀ sio-hŭ ta̍h tsúi-chhia, lia̍h khoi-tói kâi tsúi khat kàu tshân-hn̂g &#x002D;&#x002D;kò lâi èng-tshân. 
+Thiⁿ iáu chió lo̍h-hŏu &#x002D;&#x002D;hṳ́-ē, A-sì tio̍h khṳ̀ sio-hŭ ta̍h tsúi-chhia, lia̍h khoi-tói &#x002D;&#x002D;kâi tsúi khat kàu tshân-hn̂g &#x002D;&#x002D;kò lâi èng-tshân. 
 <!-- This pump was turned by the feet, three persons stepping together on the flanges of a wheel, which turned the endless chain that brought up the water. -->
 Tsúi-chhia tio̍h ēng kha ta̍h, saⁿ-nâng kak-nâng ta̍h tŏ chhia-lín thóu&#x002D;&#x002D;tshut-lâi kò tshâ &#x002D;&#x002D;kò tsò-che̍k-ē tshut-la̍t, hiá-tsúi tsŭ sio-lîn-suà iû kĕ khat kàu kûiⁿ &#x002D;&#x002D;kò.
 <br>

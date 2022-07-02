@@ -9,11 +9,11 @@ tag: PUJ_translation
 {% include changlog-table-style.html %}
 
 <!-- So greatly does the welfare of the wife depend on her having sons, that it is not strange that they are her greatest desire, and her chief pride. -->
-&nbsp;&nbsp;Tsṳ-niôⁿ-nâng ŭ-bô tau₊-kiáⁿ, tsha-m̆-to tsù-tiāⁿ che̍k-sì-nâng ŏi-bŏi khuàⁿ-ua̍h, hiá, i&#x002D;&#x002D;nâng lia̍h ka-kī kâi kiáⁿ tǹg-tsò siăng chhiat-iàu kah siăng huaⁿ-hí &#x002D;&#x002D;kâi to iā ha̍h-chhêng-ha̍h-lí.
+&nbsp;&nbsp;Tsṳ-niôⁿ-nâng ŭ-bô tau₊-kiáⁿ, tsha-m̆-to tsù-tiāⁿ che̍k-sì-nâng ŏi-bŏi khuàⁿ-ua̍h, hiá, i&#x002D;&#x002D;nâng lia̍h ka-kī &#x002D;&#x002D;kâi kiáⁿ tǹg-tsò siăng chhiat-iàu kah siăng huaⁿ-hí &#x002D;&#x002D;kâi to iā ha̍h-chhêng-ha̍h-lí.
 <!-- For them she will sacrifice all else. Her daughters leave her and become legally and truly an integral part of another family for ever. -->
 Ūi-tio̍h tshoh-kiáⁿ, i&#x002D;&#x002D;nâng sĭm-mih-kâi<a href="#note_1" class="note">1</a> to hó mài(thōu-tiāu). Tshoh tsáu₊-kiáⁿ iā lī-khui i&#x002D;&#x002D;nâng kè &#x002D;&#x002D;tshut-khṳ̀, tsong-kú pìⁿ-tsò pa̍t-ke&#x002D;&#x002D;kâi &#x002D;&#x002D;khṳ̀.
 <!-- For domestic service, care in sickness, help in old age, and offerings for the sustenance of her spirit after death, she must rely on her son's wife, while her own daughter performs these services for someone else. -->
-Ke-lăi khang-khuè, chia̍h-lău a-sĭ phuà-pēⁿ tio̍h &#x002D;&#x002D;nâng khâng-khiâ, kuè-sin ău ŭ-nâng sio-hioⁿ, chí-tshoh-kâi i&#x002D;&#x002D;nâng ngĕⁿ-hóuⁿ tio̍h ǹg in sim-pŭ, me<a href="#note_2" class="note">2</a> ka-kī kâi tsáu₊-kiáⁿ<a href="#note_3" class="note">3</a> iā-sĭ pêⁿ-iōⁿ ho̍k-sṳ̆ pa̍t-nâng &#x002D;&#x002D;tŏ. 
+Ke-lăi khang-khuè, chia̍h-lău a-sĭ phuà-pēⁿ tio̍h &#x002D;&#x002D;nâng khâng-khiâ, kuè-sin ău ŭ-nâng sio-hioⁿ, chí-tshoh-kâi i&#x002D;&#x002D;nâng ngĕⁿ-hóuⁿ tio̍h ǹg in sim-pŭ, me<a href="#note_2" class="note">2</a> ka-kī &#x002D;&#x002D;kâi tsáu₊-kiáⁿ<a href="#note_3" class="note">3</a> iā-sĭ pêⁿ-iōⁿ ho̍k-sṳ̆ pa̍t-nâng &#x002D;&#x002D;tŏ. 
 <!-- The prosperity of a Chinese household is in proportion to the number of its sons. -->
 Tŏ chiá Tong-kok, kiáⁿ-sun zú tsōi, pâng-thâu zú heng-sĕng.
 
@@ -22,9 +22,9 @@ Tŏ chiá Tong-kok, kiáⁿ-sun zú tsōi, pâng-thâu zú heng-sĕng.
 <!-- Though ever so young, a second marriage would bring reproach and disgrace. -->
 Yi&#x002D;&#x002D;nâng chin-tsò sĭ hău-hău-seⁿ-seⁿ, kè ke &#x002D;&#x002D;che̍k-tsuā ŏi bô-lián-mīn kah khṳh &#x002D;&#x002D;nâng hiâm.
 <!-- Unlike an Israelite, she cannot legally marry one of her husband's brothers, nor any person of the same surname. -->
-Kah Yíⁿ-sek-lia̍t-nâng bŏi sio-tâng, i&#x002D;&#x002D;nâng mó kè pun in ang kâi hiaⁿ-tĭ, iā mó kè pun pêⁿ-tâng sèⁿ-sĭ &#x002D;&#x002D;kâi.
+Kah Yíⁿ-sek-lia̍t-nâng bŏi sio-tâng, i&#x002D;&#x002D;nâng mó kè pun in ang &#x002D;&#x002D;kâi hiaⁿ-tĭ, iā mó kè pun pêⁿ-tâng sèⁿ-sĭ &#x002D;&#x002D;kâi.
 <!-- If childless, she may adopt sons, who may inherit her husband's property as surely as would his own offspring; but should she marry afterward, the estate reverts to her husband's brothers. -->
-Nâ-sĭ bô seⁿ-kiáⁿ, i&#x002D;&#x002D;nâng ŭ-hó siu-iáng &#x002D;&#x002D;nâng tsò-kiáⁿ, chiá iáng-kiáⁿ hó tǹg chhin-seⁿ-kiáⁿ pêⁿ-iōⁿ sêng-kì in ang kâi ke-ngia̍p; put-kuè i nâ-sĭ ău-chhiú tsài kè-nâng, chí-tshoh ke-ngia̍p tsŭ tio̍h kui in ang kâi hiaⁿ-tĭ.
+Nâ-sĭ bô seⁿ-kiáⁿ, i&#x002D;&#x002D;nâng ŭ-hó siu-iáng &#x002D;&#x002D;nâng tsò-kiáⁿ, chiá iáng-kiáⁿ hó tǹg chhin-seⁿ-kiáⁿ pêⁿ-iōⁿ sêng-kì in ang &#x002D;&#x002D;kâi ke-ngia̍p; put-kuè i nâ-sĭ ău-chhiú tsài kè-nâng, chí-tshoh ke-ngia̍p tsŭ tio̍h kui in ang &#x002D;&#x002D;kâi hiaⁿ-tĭ.
 
 <!-- She is apt to remain in widowhood if there be ricefields affording her a living, unless she be driven to marry by the persecutions of her brothers-in-law. -->
 &nbsp;&nbsp;Nâ-sĭ ŭ che̍k-khu-tshân kàu chhī-ua̍h ka-kī, i&#x002D;&#x002D;nâng chhêng-nguăn siú-kuáⁿ, bô_li sĭ-kài pun tshoh chek-peh tṳ̂ kàu bô-piàn chiàⁿ tsài kè-nâng.
@@ -51,7 +51,7 @@ Taⁿ-chiàⁿ tńg kàu tshù-lăi, chek-peh&#x002D;&#x002D;hué lia̍h i ngĕ�
 <!-- The next day they sold her for a sum amounting to nearly twenty pounds, to an old man in another village, whose wife had lately died; and as she refused to go to his house, they hired a ruffian, for twelve shillings, to tie a rope around her and drag her there. -->
 Keh-jît, chek-peh&#x002D;&#x002D;hué lia̍h i bōi liáu tsha-m̆-to chhit-tsa̍p nióⁿ ngṳ̂n<a href="#note_8" class="note">8</a>, sĭ bōi kàu pa̍t-kâi hioⁿ-lí pun kâi lău-ta-pou; lău-ta-pou in bóu taⁿ-chiàⁿ sí bô-kú; chek-peh&#x002D;&#x002D;hué bô-iông-chhêng i m̆-nguăn khṳ̀, ēng nŏⁿ nióⁿ ngṳ̂n kòu liáu kâi pháiⁿ-kiáⁿ, lia̍h i pît-pa̍k-liáu thua kàu lău-ta-pou &#x002D;&#x002D;kò.
 <!-- Her boy, who had never before been separated from her by day nor night, clung to her screaming, but was torn away and kept in the family of his uncles. -->
-Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha kâi kiáⁿ, khím tuè i kâi saⁿ-kṳ khàu m̆-hiah, liáu_li khṳh &#x002D;&#x002D;nâng thua tsáu, kìm tŏ i&#x002D;&#x002D;nâng chek-peh kâi tshù-lăi &#x002D;&#x002D;kò.
+Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha &#x002D;&#x002D;kâi kiáⁿ, khím tuè i &#x002D;&#x002D;kâi saⁿ-kṳ khàu m̆-hiah, liáu_li khṳh &#x002D;&#x002D;nâng thua tsáu, kìm tŏ i&#x002D;&#x002D;nâng chek-peh &#x002D;&#x002D;kâi tshù-lăi &#x002D;&#x002D;kò.
 
 注：
 1. <span id="note_1">sĭm-mih-kâi, 何物。现大多省略为 mih-kâi，部分地方读 sím-mih-kâi 等，后续篇章将采用 mih-kâi；</span>

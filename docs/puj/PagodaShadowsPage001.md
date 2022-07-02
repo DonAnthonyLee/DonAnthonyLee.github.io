@@ -16,17 +16,17 @@ tag: PUJ_translation
 # TŎIᴺ 1 CHIOᴺ
 
 <!-- THE STATUS OF WOMAN. -->
-<h4><i>TSṲ-NIÔᴺ-NÂNG KÂI KÉNG-NGŎ</i></h4>
+<h4><i>TSṲ-NIÔᴺ-NÂNG &#x002D;&#x002D;KÂI KÉNG-NGŎ</i></h4>
 
 <!-- LIFE, in China, is a stern thing for both men and women; but, as in all places where Christ is not, the heaviest burdens are put upon the weakest. -->
-&nbsp;&nbsp;Tŏ Tong-kok, m̆-lí lṳ́ sĭ ta-pou a-sĭ tsṳ-niôⁿ, nâng che̍k-seⁿ-sì tsóng-sĭ kuè kàu kan-khóu tsăi; liáu, kah pa̍t-kò bô Ki-tok kâi tī-hng pêⁿ-iōⁿ, nâng zú nńg-chiáⁿ, seⁿ-ua̍h zú thiám.
+&nbsp;&nbsp;Tŏ Tong-kok, m̆-lí lṳ́ sĭ ta-pou a-sĭ tsṳ-niôⁿ, nâng che̍k-seⁿ-sì tsóng-sĭ kuè kàu kan-khóu tsăi; liáu, kah pa̍t-kò bô Ki-tok &#x002D;&#x002D;kâi tī-hng pêⁿ-iōⁿ, nâng zú nńg-chiáⁿ, seⁿ-ua̍h zú thiám.
 <!--The Chinese woman does not walk in the street with her husband; she does not eat with him, but takes what is left after the men of the family have finished their meal; she has no legal right to anything whatever, apart from her male relatives. -->
 Tong-kok tsṳ-niôⁿ bô kah ang-sài tsò-pû hui-koi;
-i&#x002D;&#x002D;nâng bô kah tshù-lăi kâi ta-pou-nâng tsò-che̍k-ē chia̍h,
+i&#x002D;&#x002D;nâng bô kah tshù-lăi &#x002D;&#x002D;kâi ta-pou-nâng tsò-che̍k-ē chia̍h,
 tio̍h thĕng<a href="#note_1" class="note">1</a> ta-pou-nâng chia̍h-tît chiàⁿ chia̍h in chia̍h-tshûn &#x002D;&#x002D;kâi;
-lī-khui ka-kī kâi hiaⁿ-tĭ-chek-sun, i&#x002D;&#x002D;nâng mih-sì-sṳ̄ to bô-piàn tsò&#x002D;&#x002D;tit.
+lī-khui ka-kī &#x002D;&#x002D;kâi hiaⁿ-tĭ-chek-sun, i&#x002D;&#x002D;nâng mih-sì-sṳ̄ to bô-piàn tsò&#x002D;&#x002D;tit.
 <!-- Yet her condition is, in some respects, better than that of her sisters in neighbouring countries. -->
-Sui-sĭ chiòⁿ-seⁿ, tùi móng-tī-kâi tsân-mīn lâi thóiⁿ, i&#x002D;&#x002D;nâng kâi kéng-ngŏ huân-liáu<a href="#note_2" class="note">2</a> hó kuè sio-keh kok-ke kâi chí-muē&#x002D;&#x002D;hué.
+Sui-sĭ chiòⁿ-seⁿ, tùi móng-tī-kâi tsân-mīn lâi thóiⁿ, i&#x002D;&#x002D;nâng &#x002D;&#x002D;kâi kéng-ngŏ huân-liáu<a href="#note_2" class="note">2</a> hó kuè sio-keh kok-ke &#x002D;&#x002D;kâi chí-muē&#x002D;&#x002D;hué.
  <!-- She is not a sufferer through any system of caste, as in India; she is not shut up in a harem, as in Turkey; she is not denied the possession of a soul and the religious privileges of men, as in Burma ; she is not degraded by polyandry, as in Thibet; she is not in a climate which keeps her bare and lazy, like the women of Siam. -->
 Yi&#x002D;&#x002D;nâng bŏi chhin-chhiŏⁿ Yìn-tōu hiòⁿ-seⁿ tio̍h sêng-siŭ &#x002D;&#x002D;nâng àn chéng-tsa̍k pun-lūi;
 i&#x002D;&#x002D;nâng bŏi jiân Thóu-zṳ́-khî tsṳ-niôⁿ hiòⁿ-seⁿ khṳt<a href="#note_3" class="note">3</a> &#x002D;&#x002D;nâng kìm tŏ pâng-lăi;
@@ -34,13 +34,13 @@ i&#x002D;&#x002D;nâng bŏi tǹg Miân-tiăn tsṳ-niôⁿ hiòⁿ-seⁿ tsò-�
 i&#x002D;&#x002D;nâng bŏi siău Sai-tsăng che̍k-tshoh tī-hng che̍k-nâng ho̍k-sṳ̆ ku-ā-nâng<a href="#note_4" class="note">4</a> hiòⁿ bô-hó miāⁿ-keh;
 i&#x002D;&#x002D;nâng bŏi jiân-tǹg Siâm-lô tsṳ-niôⁿ hiòⁿ-seⁿ che̍k-ē thiⁿ-sî pek-zua̍h, mue̍h kàu &#x002D;&#x002D;nâng liân tá-tia̍p to pân-tuăⁿ<a href="#note_6" class="note">6</a>.
 <!-- Her virtue is as carefully guarded and as highly esteemed as in any country in the world. -->
-Tsṳ-niôⁿ-nâng kâi tek-hĕng, kah tshuân-sì-kài pa̍t-kâi kok-ke pêⁿ-iōⁿ, kâi-kâi sió-sim pó-hŭ, tsun-tŏng kàu ŭ-tshûn.
+Tsṳ-niôⁿ-nâng &#x002D;&#x002D;kâi tek-hĕng, kah tshuân-sì-kài pa̍t-kâi kok-ke pêⁿ-iōⁿ, kâi-kâi sió-sim pó-hŭ, tsun-tŏng kàu ŭ-tshûn.
 <!-- Female children and elderly women associate with persons of the same age and of the other sex, on terms of apparent equality. -->
 Tsṳ-niôⁿ-nâng bô-lŭn lău-hău-seⁿ, kah tâng-în ta-pou-nâng tŏ nâng-lâi-kheh-khṳ̀ &#x002D;&#x002D;kò thóiⁿ-tio̍h pêⁿ-ke tī-ūi lóng siang-tang.
 <!-- Girls, though not kept in such seclusion as in India, do not go out alone, nor appear before male visitors. -->
 Tsṳ-niôⁿ-kiáⁿ-nâng, sui-sĭ bŏi jiân-tǹg Yìn-tōu hiòⁿ-seⁿ chia-tsa̍h kàu mi-mi-ba̍t-ba̍t, liáu, in mó ka-kī che̍k-nâng tshut-mn̂g, iā<a href="#note_5" class="note">5</a> mó kìⁿ ta-pou nâng-kheh.
 <!-- The Chinese give woman all the social freedom j that is discreet for her in a land where the cleansing and controlling power of Christian principle is unknown. -->
-Tŏ chí-kâi Ki-tok kà-ngĭ kâi kám-huè kah chĕng-huè hāu-la̍t huân-liáu bô-nâng-tsai kâi kok-tōu, Tong-kok-nâng khṳt tsṳ-niôⁿ-nâng kâi siă-huĕ tsṳ̆-iû thóiⁿ&#x002D;&#x002D;khí-lâi kah-kah-hó.
+Tŏ chí-kâi Ki-tok kà-ngĭ &#x002D;&#x002D;kâi kám-huè kah chĕng-huè hāu-la̍t huân-liáu bô-nâng-tsai &#x002D;&#x002D;kâi kok-tōu, Tong-kok-nâng khṳt tsṳ-niôⁿ-nâng &#x002D;&#x002D;kâi siă-huĕ tsṳ̆-iû thóiⁿ&#x002D;&#x002D;khí-lâi kah-kah-hó.
 
 
 注：
