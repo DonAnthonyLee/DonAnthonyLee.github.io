@@ -32,7 +32,7 @@ Hṳ́-tshoh phûn-mŏ tsn̂g-kâi sŭn huêⁿ-sì che̍k-kâi che̍k-kâi liú
 <!-- Those of the Heng family who had died far outnumbered those who remained alive. -->
 Thóiⁿ-lâi chiá Hêng-sĭ tsong-tso̍k kuè-sin &#x002D;&#x002D;kâi pí tŏ-sì &#x002D;&#x002D;kâi tsōi tioh kuè-tsōi.
 <!-- During the second month of the Chinese year, all who had ancestors buried here came and fastened gilded paper to flutter over the grave, and worshipped before it. -->
-Lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò &#x002D;&#x002D;kâi nâng lóng lâi &#x002D;&#x002D;kàu, ēng chîⁿ-tsuá lia̍h phûn-téng kuà kàu tsâu-tsâu, liáu, kâi-kâi tŏ phûn-tiâⁿ(phûn-tsôiⁿ) &#x002D;&#x002D;kò pài.
+Lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò &#x002D;&#x002D;kâi nâng lóng lâi &#x002D;&#x002D;kàu, ēng chîⁿ-tsuá lia̍h phûn-téng ih<a href="#note_3" class="note">4</a> kàu tsâu-tsâu, liáu, kâi-kâi tŏ phûn-tiâⁿ(phûn-tsôiⁿ) &#x002D;&#x002D;kò pài.
 <!-- If any grave lacked for three years these offerings of paper, showing that it had not been visited by the descendants of the person buried in it, the land on which it was made could no longer be claimed as private property. -->
 &#x002D;&#x002D;Nâ-sĭ &#x002D;&#x002D;ŭ &#x002D;&#x002D;tī-che̍k-kâi &#x002D;&#x002D;phûn saⁿ-nîⁿ bô-nâng kuè-tsuá, tsŭ-sĭ tàⁿ i&#x002D;&#x002D;nâng kiáⁿ-sun m̆-pat lâi &#x002D;&#x002D;kuè, hiá, hṳ́-khou phûn-ūi tsŭ tǹg-tsò bô-nâng-kâi.
 <br>
@@ -41,7 +41,9 @@ Lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò &#x002D;&
 注：
 1. <span id="note_1">m̆-khéng，不止；</span>
 2. <span id="note_2">lău-kóu-ki，古时候；</span>
-3. <span id="note_3">原文为 “court language”，结合故事时间与其中指明一般人无法听懂的描述，可能并非潮州白字戏（潮剧），而是其他剧种，因而此处暂且以 “官话” 代替。</span>
+3. <span id="note_3">原文为 “court language”，结合故事时间与其中指明一般人无法听懂的描述，可能并非潮州白字戏（潮剧），而是其他剧种，因而此处暂且以 “官话” 代替；</span>
+4. <span id="note_2">ih，将某物或其一端轻轻地置于土中，常用于播种、插秧等。此处原文用词为 “fasten”，即固定，而现今常见做法有多种，有将纸钱用土块压紧者，有用新土盖住长条纸钱一端者，还有我处采用覆盖新土后将长条纸钱一端轻轻置于土中者等等；虽然事隔一百多年，但风俗可能有所不同，此处不好揣测当年做法，因而暂按我处常见做法进行翻译。</span>
+
 <br>
 
 
