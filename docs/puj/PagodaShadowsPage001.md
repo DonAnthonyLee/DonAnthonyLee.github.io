@@ -65,6 +65,7 @@ Tŏ chí-kâi Ki-tok kà-ngĭ &#x002D;&#x002D;kâi kám-huè kah chĕng-huè hā
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
 | 2022-06-17 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3d8301ad3b10fabdfcb6eb7ebb3c12eed567fd76" target="_blank">update pages & PUJ translation</a> |
 | 2022-06-15 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/162bf353244a70af4199fad0ea69ed729d39db30" target="_blank">update PUJ articles and translation</a> |

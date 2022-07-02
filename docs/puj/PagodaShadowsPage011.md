@@ -58,6 +58,7 @@ Lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò &#x002D;&
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/481d83b11d90cb51c48f96daee55a5865fe49088" target="_blank">add PagodaShadowsPage012.md</a> |
 | 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5b47794e5b0069194c21be43994f713dd0c83e38" target="_blank">fixed tones</a> |
 | 2022-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b4e0d98c2ec836674e99bbde6bfc70ae466f6e0e" target="_blank">PagodaShadowsPage011.md complete</a> |

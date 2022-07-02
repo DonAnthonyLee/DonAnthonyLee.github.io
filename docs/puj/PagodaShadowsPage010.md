@@ -64,6 +64,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/14968ffcc3c1f1bf7bd72ba411822199a0d2750a" target="_blank">add comments</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c84418b8733461a39a1d42c2dd5e9d4c6bfc1b21" target="_blank">fixed the other spelling of "gilded" which I wasn't familiar with by refering to 潮汕十五音</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/61cb2fc43537f8fd15f7f3a188939010db702697" target="_blank">adjust translation of gilded things; add comments</a> |

@@ -61,6 +61,7 @@ Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng &#x002D;&#x002D;kâi mue̍
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a21672c7182901c57760213c4d3f05d818477c28" target="_blank">flatten translation</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/85a8ab721006a636bfab9288f084aa9c494b827a" target="_blank">add PagodaShadowsPage013.md</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e1bf428fed0838fc66865f352257e9b08fc0c936" target="_blank">readjust descriptions</a> |

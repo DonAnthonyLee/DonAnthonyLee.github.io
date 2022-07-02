@@ -69,6 +69,7 @@ Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
 | 2022-06-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/2c9c4dacad9127801de5ef3948e82fdc19a031b1" target="_blank">update PUJ translation</a> |
 | 2022-06-19 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e7b3c397d2d23b146212834256bfc4940716a71b" target="_blank">update PagodaShadowsPage003.md</a> |

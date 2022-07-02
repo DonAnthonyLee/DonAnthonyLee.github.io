@@ -57,6 +57,7 @@ Sĭm-chì i&#x002D;&#x002D;nâng huáⁿ₊ ŭ-piàn khṳh &#x002D;&#x002D;nân
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-24 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/fe598f9dd565ba8d239eac9643c2019ab01aba58" target="_blank">updated spelling of "loot"</a> |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
 | 2022-06-17 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3d8301ad3b10fabdfcb6eb7ebb3c12eed567fd76" target="_blank">update pages & PUJ translation</a> |
