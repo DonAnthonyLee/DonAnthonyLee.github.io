@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 13 hio̍h)[*]"
-date:   2022-07-02 00:00:00 +0800
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 13 hio̍h)"
+date:   2022-07-02 12:00:00 +0800
 tag: PUJ_translation
 ---
 
@@ -12,27 +12,31 @@ tag: PUJ_translation
 <!-- Number Four wore a bamboo hat, made in basketwork, lined with leaves, and as large as a parasol. -->
 &nbsp;&nbsp;A-sì tì che̍k-téng ēng tek-bîh pĭⁿ &#x002D;&#x002D;kâi tek-bō<a href="#note_1" class="note">1</a>, bō-ne̍k ēng &#x002D;&#x002D;kâi sĭ tek-hio̍h, téng-bō kah chia-jît &#x002D;&#x002D;kâi hŏu-chia-kiáⁿ tsha-m̆-to tuā.
 <!-- The remainder of his costume was a short cotton jacket and very loose short cotton trousers. -->
-Yi téng-kue̍h chhēng che̍k-niáⁿ tó-lut-tó-lut &#x002D;&#x002D;kâi mîⁿ-hiûⁿ, ĕ-kue̍h chhēng kâi khuah-lòng-khuah-lòng &#x002D;&#x002D;kâi tó-mîⁿ-khòu,
+Yi téng-kue̍h chhēng che̍k-niáⁿ tó-lut-tó-lut &#x002D;&#x002D;kâi mîⁿ-hiûⁿ, ĕ-kue̍h chhēng kâi khuah-lòng-khuah-lòng &#x002D;&#x002D;kâi tó-mîⁿ-khòu.
 <!-- His skin was yellow, and his eyes and hair jet black. -->
-che̍k-sin phuê-hu n̂g-n̂g, sang-ma̍k kah thâu-mô ou-tsṳ-ou-tsṳ.
+Yi &#x002D;&#x002D;kâi ne̍k-sek né n̂g-n̂g, sang-ma̍k kah thâu-mô ou-tsṳ-ou-tsṳ.
 
 <!-- When Number Four grew older he had another employment, that of leading the buffalo which his father owned, and which helped to work the land. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;A-sì chia̍h tsài tuā &#x002D;&#x002D;kò-kiáⁿ, ke-lăi an-pâi i tsoh pa̍t-hăng khang-khuè, tsŭ-sĭ chióⁿ i-a-pĕ hṳ́-chiah sio-hŭ lôi-tshân &#x002D;&#x002D;kâi tuā-tsúi-gû.
 <!-- This buffalo was larger than a common ox; -->
+Chí-chiah tsúi-gû pí pâi-jît tshó-lia̍k &#x002D;&#x002D;kâi gû àiⁿ iáu tuā-chiah;
 <!-- its skin was like a pig's, and covered with coarse, sparse, mouse-coloured hair; -->
-<!-- and its horns were long, sharp, and curved. It dragged the plough and harrow over the rice-fields, and when at rest as well as when at work must have an attendant to lead it from place to place to feed, and to see that it did not destroy the grain; -->
+i &#x002D;&#x002D;kâi ne̍k-chí kah tṳ pêⁿ-iōⁿ, che̍k-sin hué-hu-sek &#x002D;&#x002D;kâi mô siu-lang-siu-lang liáu_li tshou-tshou;
+<!-- and its horns were long, sharp, and curved. -->
+i &#x002D;&#x002D;kâi kak iŭ tn̂g iŭ chiam huáⁿ₊ uan-khiau.
+<!-- It dragged the plough and harrow over the rice-fields, and when at rest as well as when at work must have an attendant to lead it from place to place to feed, and to see that it did not destroy the grain; -->
+Tsúi-gû thua tio̍h lôi-pê tŏ tshân-hn̂g &#x002D;&#x002D;kò lôi-tshân, bô-lŭn keⁿ-tsoh a-sĭ hiah-he̍k to tio̍h &#x002D;&#x002D;nâng tsuan-kang khan i kiâⁿ, kah tio̍h tsai-kuan i mài khṳ̀ mue̍h-tiāu tshoh tiŭ;
 <!-- for there were no fences between the fields. -->
-<!-- It was governed by a rope tied to a ring through its nostril. Number Four liked to ride home from the rice-field on its back, and then watch it while it rested and wallowed in a pool of muddy water. -->
+me tshân kah tshân bô keh tek-lî.
+<!-- It was governed by a rope tied to a ring through its nostril. -->
+&#x002D;&#x002D;Nâng ēng tiâu soh pa̍k tuè gû-kǹg-phī lâi kuán-hat chiah-gû.
+<!-- Number Four liked to ride home from the rice-field on its back, and then watch it while it rested and wallowed in a pool of muddy water. -->
+A-sì siăng ngiàn khiâ-gû tùi tshân-hn̂g kàu tshù-lăi, liáu, nā piⁿ&#x002D;&#x002D;thâu chióⁿ chiah-gû bô-sṳ̄ tŏ chĕng thôu-ko-muê &#x002D;&#x002D;kâi tî-tói húiⁿ-ká-kún.  
 <!-- When there was not enough rain, Four had also to help to turn the chain pump, which raised water from the creek to the level of the rice-fields, to water the growing crop. -->
+Thiⁿ iáu chió lo̍h-hŏu &#x002D;&#x002D;hṳ́-ē, A-sì tio̍h khṳ̀ sio-hŭ ta̍h tsúi-chhia, lia̍h khoi-tói kâi tsúi khat kàu tshân-hn̂g &#x002D;&#x002D;kò lâi èng-tshân. 
 <!-- This pump was turned by the feet, three persons stepping together on the flanges of a wheel, which turned the endless chain that brought up the water. -->
+Tsúi-chhia tio̍h ēng kha ta̍h, saⁿ-nâng kak-nâng ta̍h tŏ chhia-lín thóu&#x002D;&#x002D;tshut-lâi kò tshâ &#x002D;&#x002D;kò tsò-che̍k-ē tshut-la̍t, hiá-tsúi tsŭ sio-lîn-suà iû kĕ khat kàu kûiⁿ &#x002D;&#x002D;kò.
 <br>
-
-<br>
-
-***[Buē-mue̍h-tît]***
-
-<br>
-
 
 <br>
 注：
@@ -40,13 +44,7 @@ che̍k-sin phuê-hu n̂g-n̂g, sang-ma̍k kah thâu-mô ou-tsṳ-ou-tsṳ.
 <ruby style="ruby-position:over">
 	<rb class="markup_main">竹笠</rb>
 	<rp>(</rp><rt class="markup_over">tek-lo̍ih</rt><rp>)</rp>
-</ruby>构成，权且以 “竹帽” 代替，而口语无此叫法；</span>
-<br>
-
-<br>
-
-***[Buē-mue̍h-tît]***
-
+</ruby>构成，权且以 “竹帽” 代替，而口语无此叫法。</span>
 <br>
 
 <br>
