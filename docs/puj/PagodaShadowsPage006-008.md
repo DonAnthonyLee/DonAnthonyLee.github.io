@@ -11,7 +11,7 @@ tag: PUJ_translation
 <!-- One source of great unhappiness to Chinese women is in the law which forbids the breaking of betrothal contracts, even though these be made in the infancy of the parties involved. -->
 &nbsp;&nbsp;Tong-kok tsṳ-niôⁿ siăng khóu-miāⁿ &#x002D;&#x002D;kâi sĭ lu̍t-huap m̆-tsún i&#x002D;&#x002D;nâng húiⁿ-tiāu hun-ioh, tsŭ-sǹg chí-tsuang hun-ioh sĭ jī-ke tsò nou-kiáⁿ &#x002D;&#x002D;sî tiāⁿ &#x002D;&#x002D;lo̍h-lâi &#x002D;&#x002D;kâi. 
 <!-- At one of the chapels somewhat remote from Swatow, a beautiful girl nineteen years old fled from her home to me and begged me to adopt her as my daughter. -->
-Tŏ lī Suàⁿ-thâu<a href="#note_1" class="note">1</a> ŭ se-su-kiáⁿ<a href="#note_2" class="note">2</a> hn̆g kâi che̍k-kâi lói-pài-tn̂g &#x002D;&#x002D;kò, ŭ kâi tsa̍p-káu huè, seⁿ liáu ngiá-ngiá kâi tsṳ-niôⁿ-kiáⁿ, tùi hṳ́-tshù thau-tsáu kàu uá chí-kò, liáu khiû uá siu i tsò tsáu₊-kiáⁿ.
+Tŏ lī Suàⁿ-thâu<a href="#note_1" class="note">1</a> ŭ se-su-kiáⁿ<a href="#note_2" class="note">2</a> hn̆g &#x002D;&#x002D;kâi che̍k-kâi lói-pài-tn̂g &#x002D;&#x002D;kò, ŭ kâi tsa̍p-káu huè, seⁿ liáu ngiá-ngiá &#x002D;&#x002D;kâi tsṳ-niôⁿ-kiáⁿ, tùi hṳ́-tshù thau-tsáu kàu uá chí-kò, liáu khiû uá siu i tsò tsáu₊-kiáⁿ.
 <!-- She said she would serve mes as a slave if I would but steal her and carry her away concealed in my boat. -->
 Yi tàⁿ nâ-sĭ chĕⁿ-chĕⁿ lia̍h i khǹg nā uá chiah tsûn &#x002D;&#x002D;kò, liáu tuè uá tsáu, i ŏi tsò uá kâi nôu-po̍k ho̍k-sṳ̆ &#x002D;&#x002D;uá. 
 <!-- She had been betrothed in childhood to a boy who had since developed a loathsome and incurable disease; -->
@@ -19,17 +19,17 @@ Yi tsṳ̆-sòi tsŭ pun &#x002D;&#x002D;nâng tsò khṳh kâi ta-pou-kiáⁿ, 
 <!-- and though she had not seen him, she knew how horrible he was, and would die rather than marry him. -->
 tsŭ-sǹg m̆-pat kìⁿ-kuè chí-kâi ta-pou-kiáⁿ, i to ŏi tsai kò hêng kài-tio̍h jio̍h kiaⁿ-nâng, lêng-nguăn sí to m̆ kè &#x002D;&#x002D;pun &#x002D;&#x002D;i.
 <!-- Her parents were not willing to carry out the contract they had made many years previously, but the boy's parents would not release them from the bargain. -->
-Tsṳ-niôⁿ-kiáⁿ kâi pĕ-bó bô siŏⁿ-àiⁿ tsò-chiâⁿ chí-tsuang hoh-tsōi nîⁿ tsôiⁿ tiāⁿ &#x002D;&#x002D;lo̍h-lâi kâi hun-ioh, liáu ta-pou-kiáⁿ kâi pĕ-bó seⁿ-sí m̆-hàuⁿ.
+Tsṳ-niôⁿ-kiáⁿ &#x002D;&#x002D;kâi pĕ-bó bô siŏⁿ-àiⁿ tsò-chiâⁿ chí-tsuang hoh-tsōi nîⁿ tsôiⁿ tiāⁿ &#x002D;&#x002D;lo̍h-lâi &#x002D;&#x002D;kâi hun-ioh, liáu ta-pou-kiáⁿ &#x002D;&#x002D;kâi pĕ-bó seⁿ-sí m̆-hàuⁿ.
 <!-- Her mother urged her to kill herself, as the only solution of the question. -->
-Tsṳ-niôⁿ-kiáⁿ kâi âi kiò i khṳ̀ tsṳ̆-chĭn, tàⁿ tshûn<a href="#note_3" class="note">3</a> chí-tiâu-lōu hó-kiâⁿ &#x002D;&#x002D;tiaⁿ.
+Tsṳ-niôⁿ-kiáⁿ &#x002D;&#x002D;kâi âi kiò i khṳ̀ tsṳ̆-chĭn, tàⁿ tshûn<a href="#note_3" class="note">3</a> chí-tiâu-lōu hó-kiâⁿ &#x002D;&#x002D;tiaⁿ.
 <!-- I sent agents to negotiate with the boy's parents, but could make no terms with them; -->
-Uá chhiah liáu kâi tong-nâng khṳ̀ kah hṳ́-kâi ta-pou-kiáⁿ kâi pĕ-bó phue̍h, liáu, jīm phue̍h phue̍h m̆ tshái-tāi;
+Uá chhiah liáu kâi tong-nâng khṳ̀ kah hṳ́-kâi ta-pou-kiáⁿ &#x002D;&#x002D;kâi pĕ-bó phue̍h, liáu, jīm phue̍h phue̍h m̆ tshái-tāi;
 <!-- and I also sought the officials and learned that they would not condone the withholding of a bride from even such a bridegroom. -->
 uá iā tshuē kuè kuaⁿ-gê, liáu chiàⁿ-tsai, tsŭ-sǹg kâi sin-nn̂g chiòⁿ-seⁿ, i&#x002D;&#x002D;nâng iā bô-iông-chhêng &#x002D;&#x002D;nâng pé-pa̍k sin-niôⁿ kè-nâng. 
 <!-- There was no legal way in which this child could be saved from her fate. -->
-Chí-kâi nou-kiáⁿ kâi miāⁿ-keh àiⁿ kói-kiù liân tiâu chiàⁿ-lōu to bô.
+Chí-kâi nou-kiáⁿ &#x002D;&#x002D;kâi miāⁿ-keh àiⁿ kói-kiù liân tiâu chiàⁿ-lōu to bô.
 <!-- Some weeks later she was taken to the house of her husband's parents, and soon after I heard of her death. -->
-Keh kuá₊ lói-pài ău, i khṳh &#x002D;&#x002D;nâng lia̍h khṳ̀ in kong-má kâi tshù-só &#x002D;&#x002D;khṳ̀, keh-keh bô-jio̍h-kú uá tsŭ thiaⁿ-tàⁿ i sí&#x002D;&#x002D;khṳ̀ &#x002D;&#x002D;liáu.
+Keh kuá₊ lói-pài ău, i khṳh &#x002D;&#x002D;nâng lia̍h khṳ̀ in kong-má &#x002D;&#x002D;kâi tshù-só &#x002D;&#x002D;khṳ̀, keh-keh bô-jio̍h-kú uá tsŭ thiaⁿ-tàⁿ i sí&#x002D;&#x002D;khṳ̀ &#x002D;&#x002D;liáu.
 <!-- Whether she died of grief or by suicide, I do not know. -->
 Uá m̆-tsai i kài-sĭ tshám-sí a-sĭ tsṳ̆-chĭn.
 <!-- Suicided is not uncommon among brides, nor among older women. -->
@@ -43,26 +43,26 @@ Chí-khûn tsṳ-niôⁿ-kiáⁿ, tsṳ̆-sòi tsò-pû sńg, iŭ-sĭ tshù-pi�
 <!-- Mutual confidences revealed mutual griefs. -->
 Sim-lăi-uē che̍k phue̍h &#x002D;&#x002D;khí-lâi, kâi-kâi tàu chhi-tshám.
 <!-- One was married to an opium-smoker, a yellow bundle of bones, vibrating between besotted sleep and sottish waking. -->
-Ŭ che̍k-nâng kè pun kâi kuh a-phiàn &#x002D;&#x002D;kâi, chiá ta-pou, n̂g-sng-n̂g-sng<a href="#note_5" class="note">5</a>, thong-sin tshûn hù kut, thàng-jît nuàⁿ nā phou&#x002D;&#x002D;kò khok_khok_tòng.
+Ŭ che̍k-nâng kè pun kâi kuh a-phiàn &#x002D;&#x002D;kâi, hiá ta-pou, n̂g-sng-n̂g-sng<a href="#note_5" class="note">5</a>, thong-sin tshûn hù kut, thàng-jît nuàⁿ nā phou&#x002D;&#x002D;kò khok_khok_tòng.
 <!-- One was wedded to a gambler, who spent his days and nights wasting the family substance. -->
-Ŭ che̍k-nâng kè pun kâi hàuⁿ pua̍h-chîⁿ &#x002D;&#x002D;kâi, chiá ta-pou, mêⁿ-jît to tŏ phuà-ke.
+Ŭ che̍k-nâng kè pun kâi hàuⁿ pua̍h-chîⁿ &#x002D;&#x002D;kâi, hiá ta-pou, mêⁿ_suà-jît tiām tŏ phuà-ke.
 <!-- One had a mother-in-law so stern and cruel that life was torment to those under her authority. -->
-Ŭ che̍k-nâng kâi ta-ke iŭ ngiâm-tiâu &#x002D;&#x002D;lâi iŭ hiau-huêⁿ, khṳh i kuán-hat &#x002D;&#x002D;tio̍h tshám kàu bŏi luh-ám.
+Ŭ che̍k-nâng &#x002D;&#x002D;kâi ta-ke iŭ ngiâm-tiâu &#x002D;&#x002D;lâi iŭ hiau-huêⁿ, khṳh i kuán-hat &#x002D;&#x002D;tio̍h tshám kàu bŏi luh-ám.
 <!-- All three of the brides were miserable, and as they mingled their lamentations, their four unmarried friends and companions said to each other, "This is such sorrow as we must feel by-and-by. How better to be dead!" -->
-Chí saⁿ-kâi sin-niôⁿ-kiáⁿ ŭ-kàu tshám, liáu i&#x002D;&#x002D;nâng lia̍h chhi-liâng-khóu-kéng lin-liau tsò-che̍k-ē, lĕng-guā sì-kâi buē-chêng-kè kâi chí-muē tsham-siâng tàⁿ-, "Bô-kú-ău nán iā tio̍h chiòⁿ tshám. M̆-su-kuè<a href="#note_6" class="note">6</a> lái-khṳ̀ sí &#x002D;&#x002D;hó!"
+Chí saⁿ-kâi sin-niôⁿ-kiáⁿ ŭ-kàu tshám, liáu i&#x002D;&#x002D;nâng lia̍h chhi-liâng-khóu-kéng lin-liau tsò-che̍k-ē, lĕng-guā sì-kâi buē-chêng-kè &#x002D;&#x002D;kâi chí-muē tsham-siâng tàⁿ-, "Bô-kú-ău nán iā tio̍h chiòⁿ tshám. M̆-su-kuè<a href="#note_6" class="note">6</a> lái-khṳ̀ sí &#x002D;&#x002D;hó!"
 <!-- All agreed in this, and entered secretly into a covenant to end their lives together. -->
 Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_7" class="note">7</a> hó tsò-pû tsṳ̆-chĭn.
 
 <!-- They calculated the time when custom would again bring the married ones to their mothers' houses, and fixed the full moon of the seventh month, as the night for their escape from life. -->
-&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_8" class="note">8</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke kâi jît-chí, tàⁿ-tiāⁿ saⁿ-kò gue̍h ău kâi tsa̍p-ngŏu-mêⁿ tsò-che̍k-ē thau-tsáu. 
+&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_8" class="note">8</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke &#x002D;&#x002D;kâi jît-chí, tàⁿ-tiāⁿ saⁿ-kò gue̍h ău &#x002D;&#x002D;kâi tsa̍p-ngŏu-mêⁿ tsò-che̍k-ē thau-tsáu. 
 <!-- When the time arrived, six of them dressed themselves in festal garments, with flowers in their hair, went hand in hand in the moonlight to the shore, bound themselves together with a rope, and threw themselves into the sea. -->
 Sî kàu, ŭ la̍k-nâng chhēng sin-saⁿ, thâu-téng kat phau hue, sio-khan-chhiú sêng gue̍h lâi-kàu hái-kîⁿ-kha, ēng soh pa̍k tsò che̍k-ē tâu-hái &#x002D;&#x002D;khṳ̀.
 <!-- The seventh, only thirteen years old, was discovered through some noise she made in searching for her best clothing in the night, and was prevented by her mother from leaving the house. -->
 Tŏiⁿ-chhit-nâng, chiàⁿ tsa̍p-saⁿ huè tuā &#x002D;&#x002D;tiaⁿ, hṳ́-mêⁿ chhiau-tshuē sin-saⁿ tsak tio̍h nâng pun &#x002D;&#x002D;nâng thóiⁿ&#x002D;&#x002D;kìⁿ, liáu in âi méⁿ-méⁿ tsa̍h-tuè, m̆-tsún i tshut&#x002D;&#x002D;khṳ̀.
 <!-- From her the fate of the other six was afterwards ascertained, and their bodies were recovered and buried in one grave. -->
-Yiû i chiàⁿ chhê tio̍h lĕng-guā la̍k-nâng, liáu, la̍k-nâng kâi si-sin tshuē-tio̍h ău kám tŏ tâng-kâi phûn &#x002D;&#x002D;kò.
+Yiû i chiàⁿ chhê tio̍h lĕng-guā la̍k-nâng, liáu, la̍k-nâng &#x002D;&#x002D;kâi sin-si tshuē-tio̍h ău kám tŏ tâng-kâi phûn &#x002D;&#x002D;kò.
 <!-- These are cases of extreme though not uncommon unhappiness, under the Chinese marriage-system. -->
-Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak liáu_li iā chia̍p(chhiâng-sî) kìⁿ&#x002D;&#x002D;tio̍h kâi chhi-tshám-sṳ̄.
+Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak liáu_li iā chia̍p(chhiâng-sî) kìⁿ&#x002D;&#x002D;tio̍h &#x002D;&#x002D;kâi chhi-tshám-sṳ̄.
 
 ***[Tŏiⁿ 1 chioⁿ liáu.]***
 

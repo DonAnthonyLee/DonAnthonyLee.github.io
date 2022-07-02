@@ -13,24 +13,24 @@ tag: PUJ_translation
 <!-- The houses were all only one storey high, and the streets were so narrow that it was more convenient for two persons to walk in file than side by side. -->
 Hiá tshù tsn̂g-kâi che̍k-în kûiⁿ, liáu, koi-lōu o̍ih kàu nŏⁿ-nâng kiâⁿ che̍k-lît<a href="#note_2" class="note">2</a> kōi kuè kiâⁿ che̍k-pâi.
 <!-- The pigs and chickens lived in the streets, before the door of the family to which they belonged, and went indoors at night. -->
-Kak-ke-kak-hŏu kâi tṳ kah koi lóng-tsóng chhī tŏ i&#x002D;&#x002D;nâng mn̂g-kha-kháu, mêⁿ-kuà<a href="#note_3" class="note">3</a> chiàⁿ jiāu jîp-lăi.
+Kak-ke-kak-hŏu &#x002D;&#x002D;kâi tṳ kah koi lóng-tsóng chhī tŏ i&#x002D;&#x002D;nâng mn̂g-kha-kháu, mêⁿ-kuà<a href="#note_3" class="note">3</a> chiàⁿ jiāu jîp-lăi.
 
 <!-- In the centre of the village was an ancestral hall, toward the building of which all had contributed. -->
-&nbsp;&nbsp;Hioⁿ-lí chiàⁿ-ta-ng<a href="#note_4" class="note">4</a> sĭ kak-nâng to-ŭ phài-chîⁿ lâi khí kâi sṳ̂-tn̂g<a href="#note_5" class="note">5</a>.
+&nbsp;&nbsp;Hioⁿ-lí chiàⁿ-ta-ng<a href="#note_4" class="note">4</a> sĭ kak-nâng to-ŭ phài-chîⁿ lâi khí &#x002D;&#x002D;kâi sṳ̂-tn̂g<a href="#note_5" class="note">5</a>.
 <!-- It had carved and gilded flowers, crabs and tigers ornamenting the bare beams of the roof inside, porcelain flowers and birds on the ridgepole outside, and stone lions at the door. -->
-Sṳ̂-tn̂g lăi-pôiⁿ kâi tshù-êⁿ khat(khek) ŭ tōu(liū) liáu kim kâi hue, hŏi kah hóuⁿ<a href="#note_6" class="note">6</a>, tshù-téng tong-chit-êⁿ &#x002D;&#x002D;kò tuè ŭ hûi tsò &#x002D;&#x002D;kâi hue-chiáu, tuā-mn̂g-tshùi sāi ŭ nŏⁿ-chiah chio̍h-sai.
+Sṳ̂-tn̂g lăi-pôiⁿ &#x002D;&#x002D;kâi tshù-êⁿ khat(khek) ŭ tōu(liū) liáu kim &#x002D;&#x002D;kâi hue, hŏi kah hóuⁿ<a href="#note_6" class="note">6</a>, tshù-téng tong-chit-êⁿ &#x002D;&#x002D;kò tuè ŭ hûi tsò &#x002D;&#x002D;kâi hue-chiáu, tuā-mn̂g-tshùi sāi ŭ nŏⁿ-chiah chio̍h-sai.
 <!-- On one side were shelves full of little wooden tablets, with the names of ancestors thereon. -->
-Che̍k-pôiⁿ kâi kè-téng pái kàu tsn̂g-kâi siá ŭ tsóu-soiⁿ miâⁿ-hō kâi sîn-tsú-pâi. 
+Che̍k-pôiⁿ &#x002D;&#x002D;kâi kè-téng pái kàu tsn̂g-kâi siá ŭ tsóu-soiⁿ miâⁿ-hō &#x002D;&#x002D;kâi sîn-tsú-pâi. 
 <!-- At festivals, of which there are sixty-four in the Chinese year, people came and burned pieces of gilt paper, called spirit-money, and worshipped the tablets of their dead grandfathers and grandmothers. -->
-Tong-kok che̍k-nîⁿ tsò tioh la̍k-tsa̍p-sì kâi sî-tsoih; tsò-sî-tsò-tsoih tshoh-nâng tsŭ lâi-kàu sṳ̂-tn̂g sio tah liáu kim-po̍h<a href="#note_7" class="note">7</a> kâi tsuá, i&#x002D;&#x002D;nâng kiò tsò chîⁿ-tsuá<a href="#note_8" class="note">8</a>, liáu, pài i&#x002D;&#x002D;nâng tsóu-kong tsóu-má kâi sîn-tsú-pâi.
+Tong-kok che̍k-nîⁿ tsò tioh la̍k-tsa̍p-sì kâi sî-tsoih; tsò-sî-tsò-tsoih tshoh-nâng tsŭ lâi-kàu sṳ̂-tn̂g sio tah liáu kim-po̍h<a href="#note_7" class="note">7</a> &#x002D;&#x002D;kâi tsuá, i&#x002D;&#x002D;nâng kiò tsò chîⁿ-tsuá<a href="#note_8" class="note">8</a>, liáu, pài i&#x002D;&#x002D;nâng tsóu-kong tsóu-má &#x002D;&#x002D;kâi sîn-tsú-pâi.
 
 <!-- On the outskirts of the village was a temple, as handsomely built as the ancestral hall, and containing, for the convenience of those who preferred one god to another, the images of several gods. -->
 &nbsp;&nbsp;Hioⁿ-lí piⁿ&#x002D;&#x002D;thâu ŭ che̍k-koiⁿ biō, khí kàu kah sṳ̂-tn̂g pêⁿ ngiá, lăi-pôiⁿ sāi ŭ kuá₊-sin sîn-siòⁿ, àiⁿ pài tī-tsun sîn-siòⁿ siàng-hō nâng.
-<!-- To this temple came those who were going on a journey, those who had some business project in mind, those who wanted some especial thing, and those who feared some calamity, to worship and to make offerings of meats, cakes, and fruit to whichever god they thought had greatest influence on their particular case. -->Lâi chí biō pài kâi nâng, ŭ àiⁿ tshut-guā &#x002D;&#x002D;kâi, ŭ àiⁿ tsò seng-lí &#x002D;&#x002D;kâi, ŭ àiⁿ khiû pa̍t-mih-mue̍h &#x002D;&#x002D;kâi, ŭ àiⁿ khiû phek-siâ &#x002D;&#x002D;kâi; i&#x002D;&#x002D;nâng ēng ne̍k, kué, chheⁿ-kué(kué-chí) chí-tshoh-kâi lâi pài ka-kī siŏⁿ-tio̍h siăng sêng-ngiām(lêng-ngiām/sîn-ngiām) kâi sîn. 
+<!-- To this temple came those who were going on a journey, those who had some business project in mind, those who wanted some especial thing, and those who feared some calamity, to worship and to make offerings of meats, cakes, and fruit to whichever god they thought had greatest influence on their particular case. -->Lâi chí biō pài &#x002D;&#x002D;kâi nâng, ŭ àiⁿ tshut-guā &#x002D;&#x002D;kâi, ŭ àiⁿ tsò seng-lí &#x002D;&#x002D;kâi, ŭ àiⁿ khiû pa̍t-mih-mue̍h &#x002D;&#x002D;kâi, ŭ àiⁿ khiû phek-siâ khṳ̀-tsai &#x002D;&#x002D;kâi; i&#x002D;&#x002D;nâng ēng ne̍k, kué, chheⁿ-kué(kué-chí) chí-tshoh-kâi lâi pài ka-kī siŏⁿ-tio̍h siăng sêng-ngiām(lêng-ngiām/sîn-ngiām) &#x002D;&#x002D;kâi sîn. 
 <!-- They put the food on dishe in rows before the god, lighted incense-sticks to burn before him, and then got down on their hands and knees, and knocked their foreheads on the floor, explaining meanwhile their desires. -->
-Yi&#x002D;&#x002D;nâng pá-chiang chí-tsoh mue̍h-kiăⁿ pàng nā puâⁿ-tîh &#x002D;&#x002D;kò tŏ sîn-siòⁿ thâu-tsôiⁿ pái kàu-pâi, hioⁿ-chek tiám liáu, kŭiⁿ &#x002D;&#x002D;lo̍h-khṳ̀ sang-chhiú tah tī, ēng hia̍h-thâu kha̍p thôu-kha-ĕ, liáu tshùi-tói liām<a href="#note_9" class="note">9</a> i&#x002D;&#x002D;nâng khî-khiû sîn pó-hō kâi mue̍h-kiăⁿ-sṳ̄.
+Yi&#x002D;&#x002D;nâng pá-chiang chí-tsoh mue̍h-kiăⁿ pàng nā puâⁿ-tîh &#x002D;&#x002D;kò tŏ sîn-siòⁿ thâu-tsôiⁿ pái kàu-pâi, hioⁿ-chek tiám liáu, kŭiⁿ &#x002D;&#x002D;lo̍h-khṳ̀ sang-chhiú tah tī, ēng hia̍h-thâu kha̍p thôu-kha-ĕ, liáu tshùi-tói liām<a href="#note_9" class="note">9</a> i&#x002D;&#x002D;nâng khî-khiû sîn pó-hō &#x002D;&#x002D;kâi mue̍h-kiăⁿ-sṳ̄.
 <!-- Then they took away the meats offered to idols and ate them in their own houses. -->
-Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="note">10</a> kâi ne̍k khio̍h tńg ka-kī tshù-lăi, liáu, lia̍h i chia̍h-tiāu.
+Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="note">10</a> &#x002D;&#x002D;kâi ne̍k khio̍h tńg ka-kī tshù-lăi, liáu, lia̍h i chia̍h-tiāu.
 
 <br>
 注：
