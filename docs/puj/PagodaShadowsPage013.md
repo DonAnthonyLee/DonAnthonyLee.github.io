@@ -50,7 +50,7 @@ Tsúi-chhia tio̍h ēng kha ta̍h, saⁿ-nâng kak-nâng ta̍h tŏ chhia-lín th
 <br>
 
 ***[前页](PagodaShadowsPage012.html)***
-<!-- ***[后页](PagodaShadowsPage014.html)*** -->
+***[后页](PagodaShadowsPage014.html)***
 
 
 ---
