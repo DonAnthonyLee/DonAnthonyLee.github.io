@@ -14,7 +14,7 @@ tag: PUJ_translation
 <!-- The remainder of his costume was a short cotton jacket and very loose short cotton trousers. -->
 Yi téng-kue̍h chhēng che̍k-niáⁿ tó-lut-tó-lut &#x002D;&#x002D;kâi mîⁿ-hiûⁿ, ĕ-kue̍h chhēng kâi khuah-lòng-khuah-lòng &#x002D;&#x002D;kâi tó-mîⁿ-khòu.
 <!-- His skin was yellow, and his eyes and hair jet black. -->
-Yi &#x002D;&#x002D;kâi ne̍k-sek né n̂g-n̂g, sang-ma̍k kah thâu-mô ou-tsṳ-ou-tsṳ.
+Yi &#x002D;&#x002D;kâi ne̍k-sek né n̂g-n̂g, sang-ma̍k-jîn kah thâu-mô ou-tsṳ-ou-tsṳ.
 
 <!-- When Number Four grew older he had another employment, that of leading the buffalo which his father owned, and which helped to work the land. -->
 &nbsp;&nbsp;A-sì chia̍h tsài tuā &#x002D;&#x002D;kò-kiáⁿ, ke-lăi an-pâi i tsoh pa̍t-hăng khang-khuè, tsŭ-sĭ chióⁿ i-a-pĕ hṳ́-chiah sio-hŭ lôi-tshân &#x002D;&#x002D;kâi tuā-tsúi-gû.
