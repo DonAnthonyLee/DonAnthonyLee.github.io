@@ -170,4 +170,5 @@ Tŏ i khiă-khí &#x002D;&#x002D;kò &#x002D;&#x002D;kâi nâng-khûn-peh-chèng
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/645569bae75448272952c276d363656a5512ce2d" target="_blank">finish the first paragraph</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d22be68965fb58c606f5271d40ac09729fcf3a89" target="_blank">add PagodaShadowsPage014.md</a> |
