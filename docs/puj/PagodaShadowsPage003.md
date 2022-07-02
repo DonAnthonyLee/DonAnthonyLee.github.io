@@ -51,7 +51,7 @@ Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ
 6. <span id="note_6">khàn-sṳ̀, 端详。部分地方亦用 khàn-siòⁿ；</span>
 7. <span id="note_7">tín-tăng, 活动。有时亦读 tȉn-tăng；</span>
 8. <span id="note_8">chiŏⁿ-lo̍h, 串门。亦多用 kiâⁿ-ta̍h；</span>
-9. <span id="note_9">siàng-hō, 取决于；依...而定；</span>
+9. <span id="note_9">siàng-hō, 取决于；依...而定；亦用 khuà-chhiàng 等；</span>
 10. <span id="note_10">kó-keh, 素性，近似于 phî-phiah；若结合个别地方近似词汇变调规律，此词亦有可能是 kŏ&#x002D;&#x002D;keh，类似前音本调读法在我处常见有 tăi&#x002D;&#x002D;keh 一词；</span>
 11. <span id="note_11">tsáu₊-kúi, 婢女。即 tsa-bóu-kúi。</span>
 
