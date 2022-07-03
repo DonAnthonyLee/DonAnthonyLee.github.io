@@ -70,7 +70,7 @@ Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak
 1. <span id="note_1">Suàⁿ-thâu, 汕头。后续篇章将采用今音 Suaⁿ-thâu；</span>
 2. <span id="note_2">se-su-kiáⁿ, 些许；部分地方读 siam-su-kiáⁿ 等；</span>
 3. <span id="note_3">tshûn, 只有，仅存；部分地方亦读 tshun；</span>
-4. <span id="note_4">chhĭⁿ, 接近。近义者有读 chîⁿ（chîⁿ-chhiôⁿ-peh-piah），部分场合不能混用；</span>
+4. <span id="note_4">chhĭⁿ, 接近。近义者有读 chhîⁿ（chhîⁿ-chhiôⁿ-peh-piah），部分场合不能混用；</span>
 5. <span id="note_6">n̂g-sng, 因长期疾病等导致皮肤失去光泽，也用于形容体弱多病（贬义）；</span>
 6. <span id="note_6">m̆-su-kuè xxx, 亦读 m̆, su-kuè xxx ，即属于再强调 su-kuè，此处相当于 “要不然，不如 xxx”；</span>
 7. <span id="note_7">tshó-chhiàng, 约定；</span>
