@@ -23,7 +23,7 @@ Siăng-thâu-tshái, &#x002D;&#x002D;nâng ēng íⁿ-kiō kng khí biō-lăi &#
 <!-- These theatres were the chief recreation of the people, and were attended by old and young. -->
 Chèng-nâng ôiⁿ-ôiⁿ bô-sṳ̄ siăng-hàuⁿ tsŭ-sĭ thóiⁿ-hì, lău-hău-seⁿ lóng hàuⁿ.
 <!-- Many guests from other villages were entertained at that time, and many came to the play bringing their own provision of food for the day. -->
-Hṳ́-jît pa̍t-kâi hioⁿ-lí lâi tshoh nâng-kheh iā --nâng chio-hou khṳ̀ thóiⁿ-hì, liáu i&#x002D;&#x002D;nâng tsōi-kâi liân chia̍h &#x002D;&#x002D;kâi mue̍h-kiăⁿ to tsò-che̍k-ē tsah &#x002D;&#x002D;khṳ̀.
+Hṳ́-jît pa̍t-kâi hioⁿ-lí lâi tshoh nâng-kheh iā &#x002D;&#x002D;nâng chio-hou khṳ̀ thóiⁿ-hì, liáu i&#x002D;&#x002D;nâng tsōi-kâi liân chia̍h &#x002D;&#x002D;kâi mue̍h-kiăⁿ to tsò-che̍k-ē tsah &#x002D;&#x002D;khṳ̀.
 
 <!-- Back on the mountain were the graves of all who had been buried from this village for hundreds of years. -->
 &nbsp;&nbsp;Kúi-peh-nîⁿ lâi chí-kâi hioⁿ-lí i&#x002D;&#x002D;nâng tsóu-puè lóng-tsóng kám tŏ ău-suaⁿ &#x002D;&#x002D;kò.
