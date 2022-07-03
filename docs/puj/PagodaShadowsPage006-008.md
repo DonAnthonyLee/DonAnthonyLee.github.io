@@ -90,6 +90,7 @@ Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/f4e3f9b9910bb340d6528e1a88f04f7ee2fdb01a" target="_blank">add comments</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e8e932fbddbaf6f5ce36687955bbf17ab61ff675" target="_blank">add PagodaShadowsPage009.md</a> |
 | 2022-06-25 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0177da602344a62337b3042cfbb985923a5fb5d0" target="_blank">improve punctuation and add comments</a> |
