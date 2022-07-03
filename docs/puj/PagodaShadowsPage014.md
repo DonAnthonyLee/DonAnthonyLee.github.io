@@ -197,5 +197,6 @@ Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-soh pa̍k t
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a1b803380434cf6ed07ba674e4790b5144abdae5" target="_blank">PagodaShadowsPage014.md complete</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/645569bae75448272952c276d363656a5512ce2d" target="_blank">finish the first paragraph</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d22be68965fb58c606f5271d40ac09729fcf3a89" target="_blank">add PagodaShadowsPage014.md</a> |
