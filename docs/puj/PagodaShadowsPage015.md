@@ -47,7 +47,7 @@ Phûn-ūi kah tī-jît chiŏⁿ-suaⁿ, lóng-sĭ tsá-tsá tshuē hiá ŏi-hiá
 
 <br>
 注：
-1. <span id="note_1">原文为 “the mourners”，但按风俗并非所有送殡者均可穿麻衣戴孝，此处略作修改；</span>
+1. <span id="note_1">原文为 “the mourners”，但按风俗并非所有送殡者均可披麻戴孝，此处略作修改；</span>
 <br>
 
 ***[Buē-mue̍h-tît]***
@@ -70,4 +70,5 @@ Phûn-ūi kah tī-jît chiŏⁿ-suaⁿ, lóng-sĭ tsá-tsá tshuē hiá ŏi-hiá
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-04 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/748f4cc5ee832f5d31f142b6896b48bce73d1e2d" target="_blank">finish the first paragraph</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3c7dcffcff9c9a3f291608032caa9ccd9e12bf15" target="_blank">add PagodaShadowsPage015.md</a> |
