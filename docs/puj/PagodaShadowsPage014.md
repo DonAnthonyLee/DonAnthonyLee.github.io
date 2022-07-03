@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 14 hio̍h)[*]"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 14 hio̍h)"
 date:   2022-07-03 00:00:00 +0800
 tag: PUJ_translation
 ---
@@ -117,7 +117,7 @@ tsò-sṳ̄ mín ùiⁿ siáu-lí, tǹg chiá-,
 <rp>(</rp><rt class="markup_over">teng</rt><rp>)</rp>
 </ruby>";
 <!-- contentment by, "All ten fingers can't be of the same length"; -->
-nâng mín siang-ṳ́-lŭn, tǹg chiá-,
+nâng mín sio-pí, tǹg chiá-,
 "<ruby style="ruby-position:over">
 <rb class="markup_main">十指</rb>
 <rp>(</rp><rt class="markup_over">Tsa̍p-tsóiⁿ</rt><rp>)</rp>
@@ -131,7 +131,7 @@ nâng mín siang-ṳ́-lŭn, tǹg chiá-,
 <rp>(</rp><rt class="markup_over">tn̂g-tó</rt><rp>)</rp>
 </ruby>";
 <!-- mutual dependence by, "There is no peace for the mouth when one tooth is aching"; -->
-mue̍h-kiăⁿ-sṳ̄ lóng sio-khan-thua, tǹg chiá-,
+mue̍h-kiăⁿ-sṳ̄ lóng sio-kau-tîⁿ, tǹg chiá-,
 "<ruby style="ruby-position:over">
 <rb class="markup_main">唇齿</rb>
 <rp>(</rp><rt class="markup_over">Tûn-khí</rt><rp>)</rp>
@@ -152,7 +152,7 @@ liáu, tek-hĕng &#x002D;&#x002D;huang-mīn, i&#x002D;&#x002D;nâng ŭ Khóng-ts
 </ruby>，
 <ruby style="ruby-position:over">
 <rb class="markup_main">勿</rb>
-<rp>(</rp><rt class="markup_over">mu̍t</rt><rp>)</rp>
+<rp>(</rp><rt class="markup_over">mu̍t/mài</rt><rp>)</rp>
 </ruby>
 <ruby style="ruby-position:over">
 <rb class="markup_main">施于</rb>
@@ -166,17 +166,20 @@ liáu, tek-hĕng &#x002D;&#x002D;huang-mīn, i&#x002D;&#x002D;nâng ŭ Khóng-ts
 Tŏ i khiă-khí &#x002D;&#x002D;kò &#x002D;&#x002D;kâi nâng-khûn-peh-chèng, tŏ i sì-chiu-ûi-tńg &#x002D;&#x002D;kâi nâng-chhêng-sì-sṳ̄, kah tŏ i ngĕⁿ tio̍h taⁿ-tng &#x002D;&#x002D;kâi mue̍h-kiăⁿ-sṳ̄ &#x002D;&#x002D;kò, i o̍h-ŏi liáu iak-sok ka-kī, thun-lún, kah la̍t-siòⁿ; chí-tshoh-kâi tùi pa̍t-tī-kò &#x002D;&#x002D;kâi ta-pou-kiáⁿ &#x002D;&#x002D;lâi-tàⁿ sĭ hoh-chió ŭ-piàn tú&#x002D;&#x002D;tio̍h &#x002D;&#x002D;kâi.
 
 <!-- Besides attending the theatre, and going through the religious ceremonies, Four did not often play, except in November when he flew a kite. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;M̆-sǹg thóiⁿ-hì kah kuè-tsoih, A-sì hoh-chió tshut-khṳ̀ thit-thô, che̍k-nîⁿ chheng tsa̍p-it&#x002D;&#x002D;gue̍h pàng huang-khîm<a href="#note_1" class="note">1</a> &#x002D;&#x002D;tiaⁿ.
 <!-- The kites used were a paper star, fish, or bird, brilliantly painted; -->
+Huang-khîm sĭ ēng tsuá tsò-tsò chheⁿ &#x002D;&#x002D;a, hṳ̂ &#x002D;&#x002D;a, chiáu &#x002D;&#x002D;a chí-iōⁿ-kâi, tsò-liáu kuè súi-khùi;
 <!-- and the boys would send them up to fight with each other aloft. -->
+liáu, tiām ŭ kìⁿ-tio̍h ta-pou-kiáⁿ&#x002D;&#x002D;hué lia̍h huang-khîm pàng khí-khṳ̀ thiⁿ-téng sio-phah.
 <!-- Some of them had a little wheel attached, and this, when turned by the wind, hummed as it went. -->
+Lân-tshoh huang-khîm tuè ŭ kâi huang-húiⁿ-kiáⁿ, pun huang che̍k-ē tshue, hm̆_hm̆_kiò chheⁿ hiáng.
 <!-- Sometimes the boys fastened the strings of their kites, and left them humming all night, high in the air. -->
+Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-soh pa̍k tuè mue̍h-kiăⁿ &#x002D;&#x002D;kò, liáu, pàng-thăi i tŏ thiⁿ-ta-ng hiáng kàu-mêⁿ.
 <br>
 
 <br>
-
-***[Buē-mue̍h-tît]***
-
+注：
+1. <span id="note_1">huang-khîm，风筝。部分地方更常用 tsuá-iō 等。</span>
 <br>
 
 <br>
