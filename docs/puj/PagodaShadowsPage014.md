@@ -185,7 +185,7 @@ Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-soh pa̍k t
 <br>
 
 ***[前页](PagodaShadowsPage013.html)***
-<!-- ***[后页](PagodaShadowsPage015.html)*** -->
+***[后页](PagodaShadowsPage015.html)***
 
 
 ---
