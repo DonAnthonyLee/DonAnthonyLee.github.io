@@ -198,6 +198,7 @@ Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-soh<a href=
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/bc81443e3c9cde92e098bda7c84355c54daf0648" target="_blank">add comments about "rope"</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3c7dcffcff9c9a3f291608032caa9ccd9e12bf15" target="_blank">add PagodaShadowsPage015.md</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a1b803380434cf6ed07ba674e4790b5144abdae5" target="_blank">PagodaShadowsPage014.md complete</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/645569bae75448272952c276d363656a5512ce2d" target="_blank">finish the first paragraph</a> |
