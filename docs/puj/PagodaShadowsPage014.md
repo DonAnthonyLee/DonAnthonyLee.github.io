@@ -174,12 +174,13 @@ liáu, tiām ŭ kìⁿ-tio̍h ta-pou-kiáⁿ&#x002D;&#x002D;hué lia̍h huang-kh
 <!-- Some of them had a little wheel attached, and this, when turned by the wind, hummed as it went. -->
 Lân-tshoh huang-khîm tuè ŭ kâi huang-húiⁿ-kiáⁿ, pun huang che̍k-ē tshue, hm̆_hm̆_kiò chheⁿ hiáng.
 <!-- Sometimes the boys fastened the strings of their kites, and left them humming all night, high in the air. -->
-Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-soh pa̍k tuè mue̍h-kiăⁿ &#x002D;&#x002D;kò, liáu, pàng-thăi i tŏ thiⁿ-ta-ng hiáng kàu-mêⁿ.
+Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-soh<a href="#note_2" class="note">2</a> pa̍k tuè mue̍h-kiăⁿ &#x002D;&#x002D;kò, liáu, pàng-thăi i tŏ thiⁿ-ta-ng hiáng kàu-mêⁿ.
 <br>
 
 <br>
 注：
-1. <span id="note_1">huang-khîm，风筝。部分地方更常用 tsuá-iō 等。</span>
+1. <span id="note_1">huang-khîm，风筝。部分地方更常用 tsuá-iō 等；</span>
+2. <span id="note_2">通常 soh 用于指编织过的绳索，suàⁿ 用于较细且未编织的丝线，sîn 则用于稍细者（无论编织与否）；现今系风筝者多为尼龙线，此等者即称为 suàⁿ。</span>
 <br>
 
 <br>
