@@ -58,7 +58,7 @@ A-sì &#x002D;&#x002D;kâi a-muē, &#x002D;&#x002D;nâng khio̍h liáu la̍k-ni�
 <br>
 
 ***[前页](PagodaShadowsPage014.html)***
-<!-- ***[后页](PagodaShadowsPage016.html)*** -->
+***[后页](PagodaShadowsPage016.html)***
 
 
 ---
