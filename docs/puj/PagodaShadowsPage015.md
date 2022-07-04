@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 15 hio̍h)"
-date:   2022-07-04 12:00:00 +0800
+date:   2022-07-04 11:30:00 +0800
 tag: PUJ_translation
 ---
 
@@ -29,7 +29,7 @@ Phûn-ūi kah tī-jît chiŏⁿ-suaⁿ<a href="#note_2" class="note">2</a>, lón
 <!-- Shortly after this, a great man, from whom the father had borrowed money, came and demanded immediate payment. -->
 &nbsp;&nbsp;Sng-sṳ̄ chiàⁿ lí-tît, chioh-chîⁿ pun in-a-pĕ &#x002D;&#x002D;kâi tuā-tshâi-tsú tsáu-lâi kiò-tàⁿ in tio̍h chiat-khek hôiⁿ-chîⁿ.
 <!-- The family were in great distress, not having the means to pay the debt without selling the land on which their support depended. -->
-Chí-ke-nâng kuè-jît lóng kŏu i&#x002D;&#x002D;nâng kò tshân-hn̂g, liáu, bô bōi-tiāu li bô-piàn hôiⁿ tiâu seⁿ-chè, thong-ke-kiáⁿ tiám kàu bŏi-tháu-khùi.
+Chí-ke-nâng kuè-jît lóng kŏu i&#x002D;&#x002D;nâng kò tshân-hn̂g, liáu, bô bōi-tiāu li bô-piàn hôiⁿ tiâu seⁿ-chè, thong-ke-kiáⁿ thiám kàu bŏi-tháu-khùi.
 <!-- After much trouble, and many threats from the creditor, the mother decided to accept the offer of a rich relative to whom she had applied for help, and for a sum amounting to nearly twenty pounds let him have Number Four for his own son. -->
 Khṳh chè-tsú tô-tia̍p kàu chheⁿ-kiaⁿ, in-âi kuat-tuàn chih-siŭ kâi pù-nâng-chhin-chiâⁿ &#x002D;&#x002D;kâi tsú-ì; i pat khṳ̀ khiû chí-kâi chhin-chiâⁿ sio-hŭ, &#x002D;&#x002D;nâng tàⁿ tio̍h A-sì kuè pun i tsò-kiáⁿ tsŭ khṳh i chhit-tsa̍p-nióⁿ ngṳ̂n.
 <!-- Four and his mother and brothers all cried over it; -->
