@@ -19,7 +19,9 @@ khai lṳ́ tàⁿ = kah lṳ́ tàⁿ;
 
 khai lṳ́ &#x002D;&#x002D;tàⁿ = iû lṳ́ tàⁿ;
 
-khai móng-nâng khio̍h mue̍h-kiăⁿ = thòi móng-nâng khio̍h mue̍h-kiăⁿ.
+khai móng-nâng khio̍h mue̍h-kiăⁿ =
++ thòi móng-nâng khio̍h mue̍h-kiăⁿ
++ kah móng-nâng thó mue̍h-kiăⁿ
 
 
 ## Thai
