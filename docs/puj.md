@@ -28,7 +28,8 @@ Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x00
 <ruby style="ruby-position:over">
 		<rb class="markup_main">李</rb>
 		<rp>(</rp><rt class="markup_over">Lí</rt><rp>)</rp>
-</ruby>，未注明授权协议时均可在遵守 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" target="_blank">知识共享许可协议 CC BY-SA 4.0</a> 协议前提下使用与传播。</b>
+</ruby>，未注明授权协议时均可在遵守 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" target="_blank">知识共享许可协议 CC BY-SA 4.0</a> 协议前提下使用与传播；</b>
+4. <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/discussions/10" target="_blank">有空且是 github 用户者可在讨论区留言</a>。
 <br>
 <hr>
 <br>
