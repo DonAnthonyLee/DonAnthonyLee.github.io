@@ -45,13 +45,14 @@ A-sì &#x002D;&#x002D;kâi a-ché, hoh-kú-tsôiⁿ tsŭ kè-nâng &#x002D;&#x00
 <!-- His younger sister was then betrothed for two pounds, and went at once to be brought up by the mother of her future husband. -->
 A-sì &#x002D;&#x002D;kâi a-muē, &#x002D;&#x002D;nâng khio̍h liáu la̍k-nióⁿ ngṳ̂n tsò-tiāⁿ, iā pun ĕ-jît &#x002D;&#x002D;kâi ta-ke kiau khṳ̀ chhī-tuā &#x002D;&#x002D;liáu.
 <!-- So the money due to the hard creditor was made up, and the mother had three boys left to support her in old age. -->
-Àn-chiòⁿ-seⁿ, tiâu seⁿ-chè chiàⁿ tshòu ŭ-kàu hôiⁿ &#x002D;&#x002D;nâng; liáu, in-âi jît-ău tsŭ khò tshûn&#x002D;&#x002D;lo̍h-lâi hṳ́ saⁿ-kâi-kiáⁿ iáng-láu &#x002D;&#x002D;liáu. 
+Àn-chiòⁿ-seⁿ<a href="#note_3" class="note">3</a>, tiâu seⁿ-chè chiàⁿ tshòu ŭ-kàu hôiⁿ &#x002D;&#x002D;nâng; liáu, in-âi jît-ău tsŭ khò tshûn&#x002D;&#x002D;lo̍h-lâi hṳ́ saⁿ-kâi-kiáⁿ iáng-láu &#x002D;&#x002D;liáu. 
 <br>
 
 <br>
 注：
 1. <span id="note_1">原文为 “the mourners”，但按风俗并非所有送殡者均可披麻戴孝，此处略作修改；</span>
-2. <span id="note_2">chiŏⁿ-suaⁿ，出殡。部分地方亦用 tshut-suaⁿ 等。</span>
+2. <span id="note_2">chiŏⁿ-suaⁿ，出殡。部分地方亦用 tshut-suaⁿ 等；</span>
+3. <span id="note_3">àn-chiòⁿ-seⁿ，就这样。我处常变化为 àiⁿ-jiò-seⁿ（语义同时变化为 居然这样），部分地方变化为 àn[g]-ne 等。</span>
 <br>
 
 
