@@ -27,7 +27,8 @@ tio̍h thĕng<a href="#note_1" class="note">1</a> ta-pou-nâng chia̍h-tît chi�
 lī-khui ka-kī &#x002D;&#x002D;kâi hiaⁿ-tĭ-chek-sun, i&#x002D;&#x002D;nâng mih-sì-sṳ̄ to bô-piàn tsò&#x002D;&#x002D;tit.
 <!-- Yet her condition is, in some respects, better than that of her sisters in neighbouring countries. -->
 Sui-sĭ chiòⁿ-seⁿ, tùi móng-tī-kâi tsân-mīn lâi thóiⁿ, i&#x002D;&#x002D;nâng &#x002D;&#x002D;kâi kéng-ngŏ huân-liáu<a href="#note_2" class="note">2</a> hó kuè sio-keh kok-ke &#x002D;&#x002D;kâi chí-muē&#x002D;&#x002D;hué.
- <!-- She is not a sufferer through any system of caste, as in India; she is not shut up in a harem, as in Turkey; she is not denied the possession of a soul and the religious privileges of men, as in Burma ; she is not degraded by polyandry, as in Thibet; she is not in a climate which keeps her bare and lazy, like the women of Siam. -->
+<!-- She is not a sufferer through any system of caste, as in India; she is not shut up in a harem, as in Turkey; she is not denied the possession of a soul and the religious privileges of men, as in Burma ; she is not degraded by polyandry, as in Thibet; she is not in a climate which keeps her bare and lazy, like the women of Siam. -->
+<!-- chéng-tsa̍k, 《卓威廉词典》中均为 chéng-tsa̍t, 此字典中有个别词的 -k 韵尾混入 -t，比如 壮（tsàn，此音我处常见），此处结合《潮汕十五音》区分两者而注写 -k 韵尾。 -->
 Yi&#x002D;&#x002D;nâng bŏi chhin-chhiŏⁿ Yìn-tōu hiòⁿ-seⁿ tio̍h sêng-siŭ &#x002D;&#x002D;nâng àn chéng-tsa̍k pun-lūi;
 i&#x002D;&#x002D;nâng bŏi jiân Thóu-zṳ́-khî tsṳ-niôⁿ hiòⁿ-seⁿ khṳt<a href="#note_3" class="note">3</a> &#x002D;&#x002D;nâng kìm tŏ pâng-lăi;
 i&#x002D;&#x002D;nâng bŏi tǹg Miân-tiăn tsṳ-niôⁿ hiòⁿ-seⁿ tsò-ē bô tī-ūi kah chheng ta-pou chiàⁿ ŭ tsong-kà te̍k-khuân;
