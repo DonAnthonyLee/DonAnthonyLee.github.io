@@ -72,6 +72,8 @@ A-sì &#x002D;&#x002D;kâi a-muē, &#x002D;&#x002D;nâng khio̍h liáu la̍k-ni�
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/609c08456e2078dbca545e52ab1483d594ef77d3" target="_blank">hide redundant comments</a> |
+| 2022-07-04 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a6c261e0bbf5be64fa69c8e2bf2f91ebe7beb131" target="_blank">add comments for translation of "so"</a> |
 | 2022-07-04 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/57f1991218ffc97e21ef2d396cb7787b7fd8f182" target="_blank">add PagodaShadowsPage016.md</a> |
 | 2022-07-04 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/dee2e80643a4a00f2a1e87d14ab4e935795fca1f" target="_blank">PagodaShadowsPage015.md complete</a> |
 | 2022-07-04 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/748f4cc5ee832f5d31f142b6896b48bce73d1e2d" target="_blank">finish the first paragraph</a> |
