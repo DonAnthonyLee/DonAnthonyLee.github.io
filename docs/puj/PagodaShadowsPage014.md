@@ -15,7 +15,7 @@ Chí-tshoh khang-khuè m̆-ôiⁿ kàu i kiâⁿ-m̆-khui-kha, sui-sĭ che̍k-n�
 <!-- His education was that which most effectively moulds the mind; it lay in the opinions and the practices of those around him. -->
 Sì-chiu-ûi-tńg hiá-nâng só-tsò_só-tàⁿ tùi i &#x002D;&#x002D;kâi kà-tău chhim-chhim &#x002D;&#x002D;kâi khek tŏ i thâu-náu-tói.
 <!-- He was never taught not to lie, but he was certainly punished if he stole, and so he learned to respect the rights of property. -->
-Bô-nâng kà i mó láu-nâng(kuang-phiàn/phìn-nâng), liáu, i nâ-sĭ káⁿ thau-khio̍h mue̍h-kiăⁿ tsŭ tio̍h &#x002D;&#x002D;nâng hua̍t, i tsŭ o̍h-ŏi "pa̍t-nâng mue̍h-kiăⁿ mó suàⁿ-thăng" &#x002D;&#x002D;liáu.
+Bô-nâng kà i mó láu-nâng(kuang-phiàn), liáu, i nâ-sĭ káⁿ thau-khio̍h mue̍h-kiăⁿ tsŭ tio̍h &#x002D;&#x002D;nâng hua̍t, i tsŭ o̍h-ŏi "pa̍t-nâng mue̍h-kiăⁿ mó suàⁿ-thăng" &#x002D;&#x002D;liáu.
 <!-- He constantly heard maxims from the ancient sages, and proverbs in which the wisdom of generations was concentrated. -->
 Yi tiām ŭ thiaⁿ tio̍h lău-puè-nâng tàⁿ &#x002D;&#x002D;kâi keh-ngân kah so̍k-gṳ́, chí-tshoh-kâi sĭ kuè-tsōi-tō-nâng &#x002D;&#x002D;kâi khiàu-tsúi chit-cheh &#x002D;&#x002D;lo̍h-lâi &#x002D;&#x002D;kâi. 
 <!-- He was taught worldly caution by, "Don't lace your boot in a melon-field, nor adjust your hat under a plum-tree"; -->
