@@ -202,6 +202,7 @@ Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-suàⁿ pa�
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/2c925f10d71028ba3a2032d914d3bd987ad18c1a" target="_blank">remove rare expression of "lie"</a> |
 | 2022-07-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c02ccbb1bc17f33be3b8b086f2bf72c660f9d1bf" target="_blank">change translation of "patience"</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/107df0e0a07551e4f554f07261f30cde7314033f" target="_blank">change translation of "strings of kite" for some reasons</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/bc81443e3c9cde92e098bda7c84355c54daf0648" target="_blank">add comments about "rope"</a> |
