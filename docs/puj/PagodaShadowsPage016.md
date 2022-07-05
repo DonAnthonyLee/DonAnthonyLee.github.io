@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 16 hio̍h)[*]"
-date:   2022-07-04 12:00:00 +0800
+date:   2022-07-05 12:00:00 +0800
 tag: PUJ_translation
 ---
 
@@ -9,15 +9,23 @@ tag: PUJ_translation
 {% include changlog-table-style.html %}
 
 <!-- A Si, in his new home, was no longer Number Four. -->
-&nbsp;&nbsp;A-sì, tŏ i sin &#x002D;&#x002D;kâi ke-lăi, bô-tsài pâi-hâng tŏiⁿ-sì. 
+&nbsp;&nbsp;A-sì, tŏ i sin &#x002D;&#x002D;kâi ke-lăi, bô-tsài pâi-hâng tŏiⁿ-sì.
 <!-- His name was changed to Kai Bun, which means "an aspirant in literature"; -->
+&#x002D;&#x002D;Nâng kah i kói liáu kâi tsṳ-miâⁿ kiò-tsò Kai-bûn, i-sṳ̀ sĭ "hàuⁿ-ha̍k_tsṳ-sṳ̆";
 <!-- and his estate was so much improved, that it was only at times that he remembered his former home with regret. -->
+i &#x002D;&#x002D;kâi seⁿ-ua̍h mih-iōⁿ-kâi to pí nguân-tsá hó kuè-tsōi, chheng lân-sî siàu-liām tio̍h kū-tsá tshù-lăi ŏi sim-kuaⁿ-thâu né tsa̍t-tsa̍t.
 <!-- He here had one elder brother, who was also an adopted child; -->
+Yi tŏ chí-kò ŭ kâi a-hiaⁿ, pêⁿ-iōⁿ &#x002D;&#x002D;nâng siu-iáng &#x002D;&#x002D;kâi;
 <!-- for this couple had no children of their own, and they must have some one to rear up as theirs, to make offerings for their welfare in the spirit-world after their death. -->
+chí-tùi ang-chiá ka-kī bô kiáⁿ, tio̍h chhī kâi lâi tsò kiáⁿ, kuè-sin ău chiàⁿ ŭ-nâng sio-chîⁿ-tsuá khṳh &#x002D;&#x002D;in.
 <!-- Before this, Four had eaten boiled sweet-potatoes three times a day; -->
+Tsṳ̆-tsá, A-sì che̍k-jît saⁿ-tǹg chia̍h huan-kuah<a href="#note_2" class="note">2</a>;
 <!-- but now he had rice, with fish, vegetables, pork, and poultry. -->
+liáu chí&#x002D;&#x002D;ē, bí-pn̄g, hṳ̂, chheⁿ-tshài, tṳ-ne̍k, koi-gô-ah-ne̍k, i lóng-tsŏng ŭ-hó chia̍h. 
 <!-- He wore shoes with wooden soles an inch thick, and nankeen stockings, with his trousers tucked in at the top, and fastened there by bright blue silk garters. -->
+Yi chhēng che̍k-sang nŏⁿ-kong-hun kău &#x002D;&#x002D;kâi tshâ-kia̍h, che̍k-sang chhiah-sek &#x002D;&#x002D;kâi bue̍h, khòu-kha ēng thian-lâm-sek &#x002D;&#x002D;kâi si-tuà sok tŏ bue̍h-thóng téng-tsat.
 <!-- His jacket was now long and fine, and he wore a black satin cap. -->
+Yi niáⁿ hiûⁿ chí&#x002D;&#x002D;ē iŭ tn̂g iŭ zû, kah tì liáu téng ou-chiⁿ-bō.
 <!-- He also began to go to school. -->
 <!-- In reading, he began at what you would call the back of the book, and read down the columns of letters, beginning at the upper right-hand corner of the page, and ending at the lower left-hand corner. -->
 <!-- His teacher first read a few columns to him, and Kai Bun repeated these after him. -->
@@ -32,14 +40,21 @@ tag: PUJ_translation
 
 <br>
 
-***[Buē-mue̍h-tît]***
+**[Buē-mue̍h-tît]**
 
+<br>
+
+
+<br>
+注：
+1. <span id="note_1">huan-kuah，番薯；亦叫 han-kuah, huan-tsṳ̂, han-tsṳ̂；</span>
+2. <span id="note_1">bue̍h，袜子；部分地方读 gue̍h；</span>
 <br>
 
 <br>
 
 ***[前页](PagodaShadowsPage015.html)***
-<!-- ***[后页](PagodaShadowsPage017.html)*** -->
+<!-- ***[后页](PagodaShadowsPage017-018.html)*** -->
 
 
 ---
