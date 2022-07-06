@@ -41,11 +41,11 @@ Kàu-pńg-tsṳ i&#x002D;&#x002D;nâng lóng-tsóng chiòⁿ-seⁿ tha̍k-huap.
 <!-- When he was older, the meaning would be explained to him. -->
 Tán-kàu i chia̍h iáu tuā &#x002D;&#x002D;ē, sin-seⁿ chiàⁿ kah i káng-kói só-tha̍k tshoh-tsṳ &#x002D;&#x002D;kâi ì-sṳ̀.
 <!-- He learned also to write, beginning by putting his copy under thin paper, and following it with a little brush wet with ink. -->
-Yi iā o̍h siá-jī, soiⁿ lia̍h tsṳ-thiap thoih tŏ suan-tsuá ĕ-pŏiⁿ, tsài che̍k-ki ùn liáu ba̍k &#x002D;&#x002D;kâi mô-pit tuè tsṳ-thiap lâi siá.
+Yi iā o̍h siá-jī, soiⁿ lia̍h tsṳ-thiap thoih tŏ suan-tsuá ĕ-pŏiⁿ, tsài ēng che̍k-ki ùn liáu ba̍k &#x002D;&#x002D;kâi mô-pit tuè tsṳ-thiap lâi siá.
 <!-- After he had learned to hold his brush and guide his hand well, he wrote the copy from memory. -->
 Tán i o̍h kàu lĭm pit lĭm hó-sì kah chhiú ŭ-kàu ún &#x002D;&#x002D;hṳ́-ē, i tsŭ chiŭ kì-tî tît-chiap-siá, mín-ēng tsṳ-thiap &#x002D;&#x002D;liáu.
 <!-- Reading and writing would be his only studies, no matter how many years he remained at school. -->
-Tŏ hiá tsṳ-che, i tsŭ kan-chĕng chiòⁿ-seⁿ thóiⁿ-tsṳ kah siá-jī, tha̍k tioh jio̍h-tsōi-nîⁿ to-sĭ chiòⁿ-seⁿ-iōⁿ. 
+Tŏ hiá tsṳ-che, i tsŭ kan-chĕng chiòⁿ-seⁿ thóiⁿ-tsṳ kah siá-jī, tha̍k tio̍h &#x002D;&#x002D;jio̍h-tsōi-nîⁿ to-sĭ chiòⁿ-seⁿ-iōⁿ. 
 <br>
 
 <br>
