@@ -69,4 +69,7 @@ Tŏ hiá tsṳ-che, i tsŭ kan-chĕng chiòⁿ-seⁿ thóiⁿ-tsṳ kah siá-jī
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/637dc163d2c84faf726871f227a31957cbb1012a" target="_blank">PagodaShadowsPage016.md complete</a> |
+| 2022-07-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/30e0c63fcf3f807524cc5e22f10d5c214e7fefec" target="_blank">fix translation of "a black satin cap"</a> |
+| 2022-07-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/68884aae3428374212d0feeefbe72a2624ddf537" target="_blank">half of the paragraph translated</a> |
 | 2022-07-04 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/57f1991218ffc97e21ef2d396cb7787b7fd8f182" target="_blank">add PagodaShadowsPage016.md</a> |
