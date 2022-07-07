@@ -14,16 +14,21 @@ tag: PUJ_translation
 
 <!-- FOOT-BINDING. -->
 <h4><i>PHUÂN-KIOK-KIÁU<a href="#note_1" class="note">1</a></i></h4>
+<!-- 注：phuân-kiok-kiáu 特指女人缠脚，而 phuân-kha-kiáu 特指旧时行军之人用布条缠束小腿处裤管，两者不可混用 -->
 
 <!--THE process of binding, the style of shoe worn, and the social condition of the victim, vary considerably in different parts of the empire. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Tŏ Tong-kok, tsṳ-niôⁿ-nâng hiá kha tī-seⁿ tîⁿ-huap, hiá ôi tī-seⁿ chhēng-huap, hiá nâng sin-hūn tsăi-seⁿ, tī-hng m̆-sio-tâng hiá chhêng-hêng iā tuā m̆-sio-tâng.
 <!-- The rich bind the feet of their daughters at six or eight years; the poor, at thirteen or fourteen. -->
+Pù-kùi-nâng-ke tsáu₊-kiáⁿ tsōi-kâi la̍k-huè a-sĭ poih-huè tuā tîⁿ-kha; khùn-khóu-nâng-ke &#x002D;&#x002D;kâi, li-sĭ tŏ tsa̍p-saⁿ-sì-huè &#x002D;&#x002D;sî.
 <!-- They are seldom bound later than at fifteen; -->
+Yi&#x002D;&#x002D;nâng hán-tit kìⁿ-tio̍h ŭ hiá tsa̍p-ngŏu-huè ta̍h-khí chiàⁿ tîⁿ-kha &#x002D;&#x002D;kâi;
 <!-- though a case is known in which poor parents, who had sold their daughter as a slave, became rich, reclaimed her, and bound her feet when she was twenty years old. -->
+sui-sĭ ŭ-nâng hong-siaⁿ tàⁿ-, ŭ chek-kâi tsṳ-niôⁿ-kiáⁿ, khṳh in khiau-kiáⁿ pĕ-bó tsṳ̆-sòi bōi pun nâng tsò nôu-po̍k, pĕ-bó huat-tshâi ău chhiú i tò-tńg, liáu jī-tsa̍p-huè chiàⁿ tîⁿ-kha.
 
 <!-- The appliances for binding include no iron nor wooden shoe. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Tîⁿ-kha &#x002D;&#x002D;kâi mue̍h-kiăⁿ bô-ēng thih-ôi, iā bô-ēng tshâ-kia̍h,
 <!-- Only long strips of firm, flexible cloth are used. -->
+tuaⁿ-sûn ēng tn̂g-tn̂g zūn-zūn iŭ tsài-năi-la̍t kâi pòu-tiâu.
 <!-- We are often asked to admire the moulding power of soft influences; -->
 <!-- perhaps we too seldom consider that they are as powerful for evil as for good. -->
 <!-- I once saw a sturdy tree inwreathed and clasped to death by a fragile vine. -->
@@ -49,11 +54,7 @@ the rebinding would be very painful. -->
 <br>
 
 注：
-1. <span id="note_1">phuân-kiok-kiáu, 即
-<ruby style="ruby-position:over">
-	<rb class="markup_main">缠跤</rb>
-	<rp>(</rp><rt class="markup_over">tîⁿ-kha</rt><rp>)</rp>
-</ruby>；</span>
+1. <span id="note_1">phuân-kiok-kiáu, 特指女人缠脚；<span>
 <br>
 
 <br>
