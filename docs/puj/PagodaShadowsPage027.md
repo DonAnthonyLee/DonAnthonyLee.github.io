@@ -78,3 +78,6 @@ the rebinding would be very painful. -->
 
 {:.changelog}
 
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5fa37ab74cb1c515729ea1ef15c083ca845b3ecf" target="_blank">add PagodaShadowsPage027.md</a> |
