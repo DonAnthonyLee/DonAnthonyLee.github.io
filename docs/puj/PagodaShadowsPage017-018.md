@@ -21,7 +21,7 @@ Lân-kâi nou-kiáⁿ mn̄g-tàⁿ i sang-ma̍k kài-sĭ só-seⁿ chheⁿ-lim-c
 <!-- some asked her if she could see at all; -->
 lân-kâi mn̄g-tàⁿ i kài-sĭ ŭ-piàn thóiⁿ-kìⁿ mue̍h-kiăⁿ a bô;
 <!-- and others asked if with such eyes she could see through a wall. -->
-huáⁿ₊ lân-kâi mn̄g-tàⁿ i kài-sĭ seⁿ-sêng hiá-ma̍k liáu ŭ-piàn thóiⁿ-thàng chiôⁿ a bô.
+huáⁿ₊ lân-kâi mn̄g-tàⁿ i kài-sĭ seⁿ-sêng hiá-ma̍k liáu ŭ-piàn thóiⁿ-thàng chhiôⁿ &#x002D;&#x002D;a &#x002D;&#x002D;&#x002D;&#x002D;nô.
 <!-- Some asked if all the people in the country she came from had red hair; -->
 Che̍k-tshoh nou-kiáⁿ mn̄g-tàⁿ sĭ-mĭ i&#x002D;&#x002D;nâng kok-tōu tsn̂g-kâi seⁿ âng-mô;
 <!-- and some, if she painted her hands, as well as her face, to make them white. -->
