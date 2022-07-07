@@ -11,7 +11,7 @@ tag: PUJ_translation
 <!-- A Si, in his new home, was no longer Number Four. -->
 &nbsp;&nbsp;A-sì, tŏ i sin &#x002D;&#x002D;kâi ke-lăi, bô-tsài pâi-hâng tŏiⁿ-sì.
 <!-- His name was changed to Kai Bun, which means "an aspirant in literature"; -->
-&#x002D;&#x002D;Nâng kah i kói liáu kâi tsṳ-miâⁿ kiò-tsò Kai-bûn, i-sṳ̀ sĭ "hàuⁿ-ha̍k_tsṳ-sṳ̆";
+&#x002D;&#x002D;Nâng kah i kói liáu kâi tsṳ-miâⁿ kiò-tsò Kai-bûn, ì-sṳ̀ sĭ "hàuⁿ-ha̍k_tsṳ-sṳ̆";
 <!-- and his estate was so much improved, that it was only at times that he remembered his former home with regret. -->
 i &#x002D;&#x002D;kâi seⁿ-ua̍h mih-iōⁿ-kâi to pí nguân-tsá hó kuè-tsōi, chheng lân-sî siàu-liām tio̍h kū-tsá tshù-lăi ŏi sim-kuaⁿ-thâu né tsa̍t-tsa̍t.
 <!-- He here had one elder brother, who was also an adopted child; -->
@@ -23,7 +23,7 @@ Tsṳ̆-tsá, A-sì che̍k-jît saⁿ-tǹg chia̍h huan-kuah<a href="#note_1" c
 <!-- but now he had rice, with fish, vegetables, pork, and poultry. -->
 liáu chí&#x002D;&#x002D;ē, bí-pn̄g, hṳ̂, chheⁿ-tshài, tṳ-ne̍k, koi-gô-ah-ne̍k, i lóng-tsóng ŭ-hó chia̍h. 
 <!-- He wore shoes with wooden soles an inch thick, and nankeen stockings, with his trousers tucked in at the top, and fastened there by bright blue silk garters. -->
-Yi chhēng che̍k-sang nŏⁿ-kong-hun kău &#x002D;&#x002D;kâi tshâ-kia̍h, che̍k-sang chhiah-sek &#x002D;&#x002D;kâi bue̍h<a href="#note_2" class="note">2</a>, khòu-kha ēng thian-lâm-sek &#x002D;&#x002D;kâi si-tuà sok tŏ bue̍h-thóng téng-tsat.
+Yi chhēng che̍k-sang nŏⁿ-kong-hun-kău &#x002D;&#x002D;kâi tshâ-kia̍h, che̍k-sang chhiah-sek &#x002D;&#x002D;kâi bue̍h<a href="#note_2" class="note">2</a>, khòu-kha ēng thian-lâm-sek &#x002D;&#x002D;kâi si-tuà sok tŏ bue̍h-thóng téng-tsat.
 <!-- His jacket was now long and fine, and he wore a black satin cap. -->
 Yi niáⁿ hiûⁿ chí&#x002D;&#x002D;ē iŭ tn̂g iŭ zû, kah tì liáu che̍k-téng ēng tn̄g tsò&#x002D;&#x002D;kâi ou-bō.
 <!-- He also began to go to school. -->
@@ -35,7 +35,7 @@ Kà-tsṳ-sin-seⁿ soiⁿ tha̍k kúi-kù-tsṳ khṳh i thiaⁿ, liáu Kai-bû
 <!-- Then he went to his seat and studied aloud at the top of his voice, as all the other boys did, until he had learned the lesson. -->
 Tuè sin-seⁿ tha̍k-tît, i tò-tńg khṳ̀ ka-kī &#x002D;&#x002D;kâi tsŏ-ūi, liáu kah pa̍t-tshoh ta-pou-kiáⁿ pêⁿ-iōⁿ, tuā-tuā-siaⁿ tiām tha̍k, tha̍k kàu ŏi it-tit chiàⁿ-hó hiah.
 <!-- Then he went and turned his back toward his teacher and repeated his lesson from memory. -->
-Kuè-ău, i kiâⁿ-khṳ̀ sin-seⁿ kha&#x002D;&#x002D;thâu, hui-tńg-sin kâi ka-chiah ǹg-tùi sin-seⁿ, liáu têng-kò(têng-huan) chiŭ kì-tî tha̍k thâu-tsá sin-seⁿ kà &#x002D;&#x002D;kâi hṳ́-kúi-kù-tsṳ.
+Kuè-ău, i kiâⁿ-khṳ̀ sin-seⁿ kha&#x002D;&#x002D;thâu, hui-tńg-sin kâi ka-chiah ǹg-tùi sin-seⁿ, liáu têng-huan(tsài-kò) chiŭ kì-tî tha̍k thâu-tsá sin-seⁿ kà &#x002D;&#x002D;kâi hṳ́-kúi-kù-tsṳ.
 <!-- In this way he went over the whole book. -->
 Kàu-pńg-tsṳ i&#x002D;&#x002D;nâng lóng-tsóng chiòⁿ-seⁿ tha̍k-huap.
 <!-- When he was older, the meaning would be explained to him. -->
