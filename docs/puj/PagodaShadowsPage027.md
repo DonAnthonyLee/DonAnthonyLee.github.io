@@ -47,13 +47,13 @@ tsài khan i pau-tuè sì-chiah kha-tsóiⁿ, lia̍h i ngĕⁿ túi kàu kha-ts�
 <!-- then it passes under the foot, over the instep, and around the heel, drawing the heel and toe nearer together, making a bulge on the instep, and a deep niche in the sole underneath; -->
 tsài khan kuè kha-pù, hâ tùi kha-puâⁿ téng-pôiⁿ, uat tùi ău-kha-teⁿ, tshut tuā-sí-bó-la̍t liah kha-ău-teⁿ kah kha-tsóiⁿ tshui i siu-kṳ̆n, mue̍h kàu kha-puâⁿ kéng kâi ku, kha-tói nap kâi tuā-uh;
 <!-- thence it follows its former course until the bandage is all applied, and the last end is sewn down firmly on the underlying cloth. -->
-àn-chiòⁿ-seⁿ che̍k-în-chek-în tîⁿ kàu pang-pòu tsng-kâi tîⁿ-liáu, pang-pòu-bué kah ĕ-mīn tĭⁿ&#x002D;&#x002D;tŏ-kò &#x002D;&#x002D;kâi pang-pòu tsài tshó kàu khiàng-khiàng. 
+àn-chiòⁿ-seⁿ che̍k-în-chek-în tîⁿ kàu pang-pòu tsng-kâi tîⁿ-liáu, pang-pòu-bué kah ĕ-mīn tîⁿ&#x002D;&#x002D;tŏ-kò &#x002D;&#x002D;kâi pang-pòu tsài tshó kàu khiàng-khiàng. 
 <!-- Once a month or oftener, the feet, with the bandages upon them, are put into a bucket of hot water and soaked. -->
-Kâi-gue̍h khiă-kha, chiah-kha hăm(huăm) mīn-téng &#x002D;&#x002D;kâi pang-pòu, tsò-che̍k-ē chiⁿ(chìm) lo̍h-khṳ̀ tháng sio-tsúi &#x002D;&#x002D;kò.
+Kâi-gue̍h khiă-kha, chiah-kha hăm(huăm) mīn-téng &#x002D;&#x002D;kâi pang-pòu, tsò-che̍k-ē chhiⁿ(chìm) lo̍h-khṳ̀ tháng sio-tsúi &#x002D;&#x002D;kò.
 <!-- Then the bandages are removed, the dead skin is rubbed off, the foot is kneaded more fully into the desired shape, pulverized alum is laid on, and clean bandages quickly applied. -->
-Liáu-ău thiah-tiau pang-pòu, sí-phuê lak-tiāu, mān-mān lia̍h chiah-kha zuê tsò àiⁿ &#x002D;&#x002D;kâi hṳ́-kò-hêng, pe̍h-huân-bua̍h buah &#x002D;&#x002D;khí-khṳ̀, liáu méⁿ-méⁿ ēng ta-tn̆g &#x002D;&#x002D;kâi pang-pòu tsài tîⁿ &#x002D;&#x002D;khí-lâi.
+Liáu-ău thiah-tiāu pang-pòu, sí-phuê lak-tiāu, mān-mān lia̍h chiah-kha zuê tsò àiⁿ &#x002D;&#x002D;kâi hṳ́-kò-hêng, pe̍h-huân-bua̍h buah &#x002D;&#x002D;khí-khṳ̀, liáu méⁿ-méⁿ ēng ta-tn̆g &#x002D;&#x002D;kâi pang-pòu tsài tîⁿ &#x002D;&#x002D;khí-lâi.
 <!-- If the bandages are long left off, the blood would again circulate in the feet, and the rebinding would be very painful. -->
-Nâ-sĭ pang-pòu khah-kú bô uāⁿ, hia hueh ŏi kiâⁿ tùi kha &#x002D;&#x002D;kò, liáu têng-huan tîⁿ tio̍h kiaⁿ-nâng thiàⁿ.
+Nâ-sĭ pang-pòu khah-kú bô uāⁿ, hiá hueh ŏi kiâⁿ tùi kha &#x002D;&#x002D;kò, liáu têng-huan tîⁿ tio̍h kiaⁿ-nâng thiàⁿ.
 <!-- The pain is least when the feet are so firmly and so constantly bound as to be benumbed by the pressure of the bandages. -->
 Tio̍h thĕng chiah-kha khṳh pang-pòu tîⁿ kàu khiàng-khiàng liáu tau tio̍h né tshâ-tshâ pì-pì m̆-tsai-ne̍k &#x002D;&#x002D;hṳ́-ē, kha chiàⁿ thiàⁿ bô hiòⁿ tuā-la̍t.
 <br>
@@ -79,6 +79,7 @@ Tio̍h thĕng chiah-kha khṳh pang-pòu tîⁿ kàu khiàng-khiàng liáu tau t
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/01b085537571b0433cdaef682739b9a860901900" target="_blank">PagodaShadowsPage027.md complete</a> |
 | 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/ab8f6ba8e9ddf43920bcc3ff93d6dfacb963598e" target="_blank">finish the second paragraph</a> |
 | 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/65e7e0ad5694439d47432da2afd0cc63398ec238" target="_blank">finish the first paragraph</a> |
 | 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5fa37ab74cb1c515729ea1ef15c083ca845b3ecf" target="_blank">add PagodaShadowsPage027.md</a> |
