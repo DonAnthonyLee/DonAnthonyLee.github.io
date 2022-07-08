@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 27 hio̍h)[*]"
-date:   2022-07-07 18:00:00 +0800
+date:   2022-07-08 12:00:00 +0800
 tag: PUJ_translation
 ---
 
@@ -38,7 +38,7 @@ Nán tiām tàⁿ tio̍h kèng-ùiⁿ nńg-sèⁿ in-sù iáⁿ-hiáng mue̍h-ki
 Uá pat thóiⁿ-kuè che̍k-tsâng hó-hó-chhiū pun tiâu sòi-sòi-khou &#x002D;&#x002D;kâi tîn phuân-tuè liáu tshui kàu i ta liáu tó &#x002D;&#x002D;khṳ̀.
 
 <!-- The bandages used in mis-shaping the feet are woven in small hand-looms, and are about two inches wide and ten feet long. -->
-&nbsp;&nbsp;Ēng-lâi tîⁿ-kha --kâi pang-pòu sĭ ēng sòi-keⁿ-pòu-kui chit --kâi, ŭ ngŏu-kong-hun khuah, saⁿ-bí-guā tn̂g.
+&nbsp;&nbsp;Ēng-lâi tîⁿ-kha &#x002D;&#x002D;kâi pang-pòu sĭ ēng sòi-keⁿ-pòu-kui chit &#x002D;&#x002D;kâi, ŭ ngŏu-kong-hun khuah, saⁿ-bí-guā tn̂g.
 <!-- One end of the bandage is laid on the inside of the instep; -->
 <!-- thence it is carried over the four small toes, drawing them down upon the sole; -->
 <!-- then it passes under the foot, over the instep, and around the heel, drawing the heel and toe nearer together, making a bulge on the instep, and a deep niche in the sole underneath; -->
@@ -83,5 +83,6 @@ Uá pat thóiⁿ-kuè che̍k-tsâng hó-hó-chhiū pun tiâu sòi-sòi-khou &#x0
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/ab8f6ba8e9ddf43920bcc3ff93d6dfacb963598e" target="_blank">finish the second paragraph</a> |
 | 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/65e7e0ad5694439d47432da2afd0cc63398ec238" target="_blank">finish the first paragraph</a> |
 | 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5fa37ab74cb1c515729ea1ef15c083ca845b3ecf" target="_blank">add PagodaShadowsPage027.md</a> |
