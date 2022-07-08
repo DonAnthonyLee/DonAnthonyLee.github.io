@@ -21,7 +21,7 @@ Lân-kâi nou-kiáⁿ mn̄g-tàⁿ i sang-ma̍k-jîn kài-sĭ só-seⁿ chheⁿ-
 <!-- some asked her if she could see at all; -->
 lân-kâi mn̄g-tàⁿ i kài-sĭ ŭ-piàn thóiⁿ-kìⁿ mue̍h-kiăⁿ a bô;
 <!-- and others asked if with such eyes she could see through a wall. -->
-lân-kâi mn̄g-tàⁿ i kài-sĭ seⁿ-sêng hiá-ma̍k liáu ŭ-piàn thóiⁿ-thàng chhiôⁿ &#x002D;&#x002D;a &#x002D;&#x002D;&#x002D;&#x002D;nô.
+lân-kâi mn̄g-tàⁿ i kài-sĭ seⁿ-sêng hiá-ma̍k liáu ŭ-piàn thóiⁿ-thàng chhiôⁿ &#x002D;&#x002D;a &#x002D;&#x002D;&#x002D;&#x002D;nô<a href="#note_1" class="note">1</a>.
 <!-- Some asked if all the people in the country she came from had red hair; -->
 Che̍k-tshoh nou-kiáⁿ mn̄g-tàⁿ sĭ-mĭ₊ i&#x002D;&#x002D;nâng kok-tōu tsn̂g-kâi seⁿ âng-mô;
 <!-- and some, if she painted her hands, as well as her face, to make them white. -->
@@ -42,6 +42,12 @@ Guā-kok tsṳ-niôⁿ tsah liáu kuá₊-pńg-tsṳ, in-ūi Kai-bûn ŏi pat-j�
 ***[Tŏiⁿ 2 chioⁿ liáu.]***
 
 <br>
+
+注：
+1. <span id="note_1">&#x002D;&#x002D;&#x002D;&#x002D;nô, 二次轻声读法，表疑问语气。无此类习惯者，可读为惯常轻声调即可。<span>
+<br>
+
+
 <br>
 
 ***[前页](PagodaShadowsPage016.html)***
