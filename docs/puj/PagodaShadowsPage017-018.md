@@ -63,6 +63,7 @@ Guā-kok tsṳ-niôⁿ tsah liáu kuá₊-pńg-tsṳ, in-ūi Kai-bûn ŏi pat-j�
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a8d7fe05ba12125cc06532f495e2eafd449100bb" target="_blank">add comments</a> |
 | 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5d288c4388bfb290396d59f7d12932536aa6eaee" target="_blank">adjust punctuations and hypens, &etc.</a> |
 | 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/98e470e5bec4348f2dff8c271f2823828cfa107c" target="_blank">PagodaShadowsPage017-018.md complete</a> |
 | 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/770334c704ca2d94a6dd49120723861bcf363d24" target="_blank">add PagodaShadowsPage017-018.md</a> |

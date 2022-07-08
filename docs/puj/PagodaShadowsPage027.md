@@ -80,6 +80,7 @@ Tio̍h thĕng chiah-kha khṳh pang-pòu tîⁿ kàu khiàng-khiàng liáu tau t
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/42b24af3efe6d0f793035aa28d202034ac1d198f" target="_blank">change some inelegant expressions</a> |
 | 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/01b085537571b0433cdaef682739b9a860901900" target="_blank">PagodaShadowsPage027.md complete</a> |
 | 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/ab8f6ba8e9ddf43920bcc3ff93d6dfacb963598e" target="_blank">finish the second paragraph</a> |
 | 2022-07-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/65e7e0ad5694439d47432da2afd0cc63398ec238" target="_blank">finish the first paragraph</a> |
