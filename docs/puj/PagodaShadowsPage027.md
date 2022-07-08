@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 27 hio̍h)[*]"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 27 hio̍h)"
 date:   2022-07-08 12:00:00 +0800
 tag: PUJ_translation
 ---
@@ -37,42 +37,38 @@ Nán tiām tàⁿ tio̍h kèng-ùiⁿ nńg-sèⁿ in-sù iáⁿ-hiáng mue̍h-ki
 <!-- I once saw a sturdy tree inwreathed and clasped to death by a fragile vine. -->
 Uá pat thóiⁿ-kuè che̍k-tsâng hó-hó-chhiū pun tiâu sòi-sòi-khou &#x002D;&#x002D;kâi tîn phuân-tuè liáu tshui kàu i ta liáu tó &#x002D;&#x002D;khṳ̀.
 
+<!-- 这段翻译得好费气力，未曾亲眼看过，只能想象了... -->
 <!-- The bandages used in mis-shaping the feet are woven in small hand-looms, and are about two inches wide and ten feet long. -->
 &nbsp;&nbsp;Ēng-lâi tîⁿ-kha &#x002D;&#x002D;kâi pang-pòu sĭ ēng sòi-keⁿ-pòu-kui chit &#x002D;&#x002D;kâi, ŭ ngŏu-kong-hun khuah, saⁿ-bí-guā tn̂g.
 <!-- One end of the bandage is laid on the inside of the instep; -->
+Pang-pòu che̍k-thâu soiⁿ thiap tŏ kha-puâⁿ khò-lăi &#x002D;&#x002D;kò;
 <!-- thence it is carried over the four small toes, drawing them down upon the sole; -->
+tsài khan i pau-tuè sì-chiah kha-tsóiⁿ, lia̍h i ngĕⁿ túi kàu kha-tsóiⁿ tah-tio̍h kha-tói;
 <!-- then it passes under the foot, over the instep, and around the heel, drawing the heel and toe nearer together, making a bulge on the instep, and a deep niche in the sole underneath; -->
+tsài khan kuè kha-pù, hâ tùi kha-puâⁿ téng-pôiⁿ, uat tùi ău-kha-teⁿ, tshut tuā-sí-bó-la̍t liah kha-ău-teⁿ kah kha-tsóiⁿ tshui i siu-kṳ̆n, mue̍h kàu kha-puâⁿ kéng kâi ku, kha-tói nap kâi tuā-uh;
 <!-- thence it follows its former course until the bandage is all applied, and the last end is sewn down firmly on the underlying cloth. -->
+àn-chiòⁿ-seⁿ che̍k-în-chek-în tîⁿ kàu pang-pòu tsng-kâi tîⁿ-liáu, pang-pòu-bué kah ĕ-mīn tĭⁿ&#x002D;&#x002D;tŏ-kò &#x002D;&#x002D;kâi pang-pòu tsài tshó kàu khiàng-khiàng. 
 <!-- Once a month or oftener, the feet, with the bandages upon them, are put into a bucket of hot water and soaked. -->
+Kâi-gue̍h khiă-kha, chiah-kha hăm(huăm) mīn-téng &#x002D;&#x002D;kâi pang-pòu, tsò-che̍k-ē chiⁿ(chìm) lo̍h-khṳ̀ tháng sio-tsúi &#x002D;&#x002D;kò.
 <!-- Then the bandages are removed, the dead skin is rubbed off, the foot is kneaded more fully into the desired shape, pulverized alum is laid on, and clean bandages quickly applied. -->
+Liáu-ău thiah-tiau pang-pòu, sí-phuê lak-tiāu, mān-mān lia̍h chiah-kha zuê tsò àiⁿ &#x002D;&#x002D;kâi hṳ́-kò-hêng, pe̍h-huân-bua̍h buah &#x002D;&#x002D;khí-khṳ̀, liáu méⁿ-méⁿ ēng ta-tn̆g &#x002D;&#x002D;kâi pang-pòu tsài tîⁿ &#x002D;&#x002D;khí-lâi.
 <!-- If the bandages are long left off, the blood would again circulate in the feet, and the rebinding would be very painful. -->
+Nâ-sĭ pang-pòu khah-kú bô uāⁿ, hia hueh ŏi kiâⁿ tùi kha &#x002D;&#x002D;kò, liáu têng-huan tîⁿ tio̍h kiaⁿ-nâng thiàⁿ.
 <!-- The pain is least when the feet are so firmly and so constantly bound as to be benumbed by the pressure of the bandages. -->
+Tio̍h thĕng chiah-kha khṳh pang-pòu tîⁿ kàu khiàng-khiàng liáu tau tio̍h né tshâ-tshâ pì-pì m̆-tsai-ne̍k &#x002D;&#x002D;hṳ́-ē, kha chiàⁿ thiàⁿ bô hiòⁿ tuā-la̍t.
 <br>
 
-<br>
-
-**[Buē-mue̍h-tît]**
-
-<br>
 
 注：
-1. <span id="note_1">phuân-kiok-kiáu, 特指女人缠脚；<span>
+1. <span id="note_1">phuân-kiok-kiáu, 特指女人缠脚。<span>
 <br>
 
-<br>
-
-**[Buē-mue̍h-tît]**
 
 <br>
 
-<!--
-
-<br>
-
-***[前页](PagodaShadowsPage026.html)***
+<!-- ***[前页](PagodaShadowsPage026.html)*** -->
 ***[后页](PagodaShadowsPage028.html)***
 
--->
 
 ---
 <br>
