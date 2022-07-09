@@ -53,7 +53,7 @@ A-sì &#x002D;&#x002D;kâi a-muē, &#x002D;&#x002D;nâng khio̍h liáu la̍k-ni�
 1. <span id="note_1">原文为 “the mourners”，但按风俗并非所有送殡者均可披麻戴孝，此处略作修改；</span>
 2. <span id="note_2">chiŏⁿ-suaⁿ，出殡。部分地方亦用 tshut-suaⁿ 等。</span>
 <!-- 过多提及与后续翻译统一表达方式无关者，累牍却无意义，后续篇章将尽量减少注解此类 -->
-<!-- 3. <span id="note_3">àn-chiòⁿ-seⁿ，就这样。我处常变化为 àiⁿ-jiò-seⁿ（语义同时变化为 居然这样），部分地方变化为 àn[g]-ne 等。</span> -->
+<!-- 3. <span id="note_3">àn-chiòⁿ-seⁿ，就这样。译者处常变化为 àiⁿ-jiò-seⁿ（语义同时变化为 居然这样），部分地方变化为 àn[g]-ne 等。</span> -->
 <br>
 
 

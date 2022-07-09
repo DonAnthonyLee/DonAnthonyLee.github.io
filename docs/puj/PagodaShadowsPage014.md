@@ -164,7 +164,7 @@ liáu, tek-hĕng &#x002D;&#x002D;huang-mīn, i&#x002D;&#x002D;nâng ŭ Khóng-ts
 </ruby>."
 <!-- In the densely crowded quarters where he lived, in his varied and numerous social relationships, and in the distinct duties enforced upon him, he learned self-control, patience, and diligence to an extent seldom attained by boys of other lands. -->
 Tŏ i khiă-khí &#x002D;&#x002D;kò &#x002D;&#x002D;kâi nâng-khûn-peh-chèng, tŏ i sì-chiu-ûi-tńg &#x002D;&#x002D;kâi nâng-chhêng-sì-sṳ̄, kah tŏ i ngĕⁿ tio̍h taⁿ-tng &#x002D;&#x002D;kâi mue̍h-kiăⁿ-sṳ̄ &#x002D;&#x002D;kò, i o̍h-ŏi liáu iak-sok ka-kī, khat-khóu, kah la̍t-siòⁿ; chí-tshoh-kâi tùi pa̍t-tī-kâi kok-ke &#x002D;&#x002D;kâi ta-pou-kiáⁿ &#x002D;&#x002D;lâi-tàⁿ sĭ hoh-chió ŭ-piàn tú&#x002D;&#x002D;tio̍h &#x002D;&#x002D;kâi.
-<!-- self-control: “自制力”在我处无专用的传统用词，“tsṳ̆-tŏng” 却又有所偏差，因而此处采用半文白方式进行翻译。 -->
+<!-- self-control: “自制力”在译者处无专用的传统用词，“tsṳ̆-tŏng” 却又有所偏差，因而此处采用半文白方式进行翻译。 -->
 <!-- patience: 对应此英文单词有多种说法，比如 thun-lún（被动耐受，偏负面）; khat-khóu（主动耐受）; ŭ-sim-sèⁿ（偏重耐心）; ŭ-kang-la̍t（偏重细心） 等等，结合全章，作者应该是指勤与劳，此处选择 khat-kóu（偏重 劳） 与 lat-siòⁿ（偏重 勤）正好呼应。 -->
 
 <!-- Besides attending the theatre, and going through the religious ceremonies, Four did not often play, except in November when he flew a kite. -->

@@ -28,7 +28,7 @@ lī-khui ka-kī &#x002D;&#x002D;kâi hiaⁿ-tĭ-chek-sun, i&#x002D;&#x002D;nâng
 <!-- Yet her condition is, in some respects, better than that of her sisters in neighbouring countries. -->
 Sui-sĭ chiòⁿ-seⁿ, tùi móng-tī-kâi tsân-mīn lâi thóiⁿ, i&#x002D;&#x002D;nâng &#x002D;&#x002D;kâi kéng-ngŏ huân-liáu<a href="#note_2" class="note">2</a> hó kuè sio-keh kok-ke &#x002D;&#x002D;kâi chí-muē&#x002D;&#x002D;hué.
 <!-- She is not a sufferer through any system of caste, as in India; she is not shut up in a harem, as in Turkey; she is not denied the possession of a soul and the religious privileges of men, as in Burma ; she is not degraded by polyandry, as in Thibet; she is not in a climate which keeps her bare and lazy, like the women of Siam. -->
-<!-- chéng-tsa̍k, 《卓威廉词典》中均为 chéng-tsa̍t, 此字典中有个别词的 -k 韵尾混入 -t，比如 壮（tsàn，此音我处常见），此处结合《潮汕十五音》区分两者而注写 -k 韵尾。 -->
+<!-- chéng-tsa̍k, 《卓威廉词典》中均为 chéng-tsa̍t, 此字典中有个别词的 -k 韵尾混入 -t，比如 壮（tsàn，此音译者处常见），此处结合《潮汕十五音》区分两者而注写 -k 韵尾。 -->
 Yi&#x002D;&#x002D;nâng bŏi chhin-chhiŏⁿ Yìn-tōu hiòⁿ-seⁿ tio̍h sêng-siŭ &#x002D;&#x002D;nâng àn chéng-tsa̍k pun-lūi;
 i&#x002D;&#x002D;nâng bŏi jiân Thóu-zṳ́-khî tsṳ-niôⁿ hiòⁿ-seⁿ khṳt<a href="#note_3" class="note">3</a> &#x002D;&#x002D;nâng kìm tŏ pâng-lăi;
 i&#x002D;&#x002D;nâng bŏi tǹg Miân-tiăn tsṳ-niôⁿ hiòⁿ-seⁿ tsò-ē bô tī-ūi kah chheng ta-pou chiàⁿ ŭ tsong-kà te̍k-khuân;
@@ -48,7 +48,8 @@ Tŏ chí-kâi Ki-tok kà-ngĭ &#x002D;&#x002D;kâi kám-huè kah chĕng-huè hā
 1. <span id="note_1">thĕng, 等待。部分地方更常用 tán; thăi ；</span>
 2. <span id="note_1">huân-liáu, 还；依然。现今多数地方合音为 huáⁿ₊; háⁿ₊ 等，后续篇章将采用 huáⁿ₊；</span>
 3. <span id="note_1">khṳt, 被；给予。现今原用此音的地区多读 khṳh，此处仅为对应当时语音而已，后续篇章将采用今音 khṳh；</span>
-4. <span id="note_1">ku-ā, 多（个），此处声调采用作者所著词典中声调，同时期另一白话字词典中记录为 kúi-uā[-kâi]。现今多数地方合音为 kuá₊，我处个别场合读 kú-â，后续篇章将采用合音 kuá₊；</span>
+<!-- 注：ku-ā, 译者处个别场合读 kú-â -->
+4. <span id="note_1">ku-ā, 多（个），此处声调采用作者所著词典中声调，同时期另一白话字词典中记录为 kúi-uā[-kâi]。现今多数地方合音为 kuá₊，后续篇章将采用合音 kuá₊；</span>
 5. <span id="note_1">iā, 亦，此处声调采用作者所著词典中声调。此义现今口语中因虚词变化而读音各异，后续篇章将沿用此音；</span>
 6. <span id="note_1">pân-tuăⁿ, 懒惰。</span>
 

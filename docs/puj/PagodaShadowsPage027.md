@@ -46,7 +46,7 @@ Pang-pòu che̍k-thâu soiⁿ thiap tŏ kha-puâⁿ khò-lăi &#x002D;&#x002D;k�
 tsài khan i pau-tuè sì-chiah kha-tsóiⁿ, lia̍h i ngĕⁿ túi kàu kha-tsóiⁿ tah-tio̍h kha-tói;
 <!-- then it passes under the foot, over the instep, and around the heel, drawing the heel and toe nearer together, making a bulge on the instep, and a deep niche in the sole underneath; -->
 tsài khan kuè kha-pù, hâ tùi kha-puâⁿ téng-pôiⁿ, uat(ut) tùi kha-ău-teⁿ, tshut tuā-tuā-la̍t liah kha-ău-teⁿ kah kha-tsóiⁿ tshui i siu-kṳ̆n, mue̍h kàu kha-puâⁿ kéng kâi ku, kha-tói nap kâi tuā-uh(khuh);
-<!-- 注：上句中原译法 tuā-sí-bó-la̍t 换为 tuā-tuā-la̍t，皆因此前未注意词中含有不雅语素。我处不注重繁文缛节，类似 siu-kou-lôu（义为收手尾等，原字：收骷髅） 等在口语中几乎察觉不出异样，写出来深究才恍然大悟，稍不留神便容易直接采用... -->
+<!-- 注：上句中原译法 tuā-sí-bó-la̍t 换为 tuā-tuā-la̍t，皆因此前未注意词中含有不雅语素。译者处多为村夫，不注重繁文缛节，类似 siu-kou-lôu（义为收手尾等，原字：收骷髅） 等在口语中几乎察觉不出异样，写出来深究才恍然大悟，稍不留神便容易直接采用... -->
 <!-- thence it follows its former course until the bandage is all applied, and the last end is sewn down firmly on the underlying cloth. -->
 àn-chiòⁿ-seⁿ che̍k-în-chek-în tîⁿ kàu pang-pòu tsng-kâi tîⁿ-liáu, pang-pòu-bué kah ĕ-mīn tîⁿ&#x002D;&#x002D;tŏ-kò &#x002D;&#x002D;kâi pang-pòu tsài tshó kàu khiàng-khiàng. 
 <!-- Once a month or oftener, the feet, with the bandages upon them, are put into a bucket of hot water and soaked. -->
