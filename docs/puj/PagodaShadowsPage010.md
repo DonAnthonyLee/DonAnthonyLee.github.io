@@ -34,11 +34,11 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 
 <br>
 注：
-1. <span id="note_1">chio̍h-pŏu，石头。此处采用作者所著词典中说法，我处读为 chio̍h-kŏu ；</span>
+1. <span id="note_1">chio̍h-pŏu，石头。此处采用作者所著词典中说法，译者处读为 chio̍h-kŏu ；</span>
 2. <span id="note_2">lît，列；亦多用 sué ；</span>
-3. <span id="note_3">mêⁿ-kuà，夜晚时分。此处采用作者所著词典中说法，我处更常用 mêⁿ&#x002D;&#x002D;tsṳ̏ （《卓威廉词典》记载为 mêⁿ&#x002D;&#x002D;tsṳ́ ）等；</span>
+3. <span id="note_3">mêⁿ-kuà，夜晚时分。此处采用作者所著词典中说法，译者处更常用 mêⁿ&#x002D;&#x002D;tsṳ̏ （《卓威廉词典》记载为 mêⁿ&#x002D;&#x002D;tsṳ́ ）等；</span>
 4. <span id="note_4">chiàⁿ-ta-ng，正中央；部分地方更常用 tìn-tang ；</span>
-5. <span id="note_5">sṳ̂-tn̂g，祠堂；此处采用作者所著词典中说法；我处读为
+5. <span id="note_5">sṳ̂-tn̂g，祠堂；此处采用作者所著词典中说法；译者处读为
 <ruby style="ruby-position:over">
 	<rb class="markup_main">祀堂</rb>
 	<rp>(</rp><rt class="markup_over">sṳ̆-tn̂g</rt><rp>)</rp>
@@ -46,7 +46,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 6. <span id="note_6">现时祠堂似乎未见有蟹、虎之类木雕，此处暂且按原文直译；</span>
 7. <span id="note_7">旧时工艺难以查究，此处权且按 “贴金箔” 翻译，而现今做法通常非金亦非银；</span>
 8. <span id="note_8">chîⁿ-tsuá，拜神用的纸钱。此处采用作者所著词典中说法，部分地方更常用 ngṳ̂n-tiăⁿ; khò 等；</span>
-9. <span id="note_9">liām，念。此处采用作者所著词典中说法，此类阳声韵各地声母不一定相同，我处更是合口韵尾者除极少数之外不分，后续篇章将沿用作者所著字典中读法，不再一一注解；</span>
+9. <span id="note_9">liām，念。此处采用作者所著词典中说法，此类阳声韵各地声母不一定相同，译者处更是合口韵尾者除极少数之外不分，后续篇章将沿用作者所著字典中读法，不再一一注解；</span>
 10. <span id="note_10">原文描写拜祭祖先之类时，多用 “idol” 进行称呼，即 tshâ-thâu-ang-kiáⁿ ，此类词语译者通通将其置换为 sîn 之类敬语，后续篇章不再一一注解。</span>
 <br>
 
