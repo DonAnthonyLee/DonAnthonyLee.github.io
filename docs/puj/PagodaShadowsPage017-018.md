@@ -44,7 +44,7 @@ Guā-kok tsṳ-niôⁿ tsah liáu kuá₊-pńg-tsṳ, in-ūi Kai-bûn ŏi pat-j�
 <br>
 
 注：
-1. <span id="note_1">&#x002D;&#x002D;&#x002D;&#x002D;nô, 二次轻声读法，表疑问语气。无此类习惯者，可读为惯常轻声调即可。<span>
+1. <span id="note_1">&#x002D;&#x002D;&#x002D;&#x002D;nô, 二次轻声读法表疑问；无此习惯者仅读为一次轻声即可。<span>
 <br>
 
 
