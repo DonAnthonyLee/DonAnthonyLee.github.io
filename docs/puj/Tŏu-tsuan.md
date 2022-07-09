@@ -17,4 +17,4 @@ Nguân-lâi khŏng-khŏng tian &#x002D;&#x002D;kâi pua̍h lo̍h tî, khiă tiā
 注：
 1. sȁi-hiau, 故意；
 2. tŏu-tsuan, 故意；tȍu-tsuan 前音本调无法区分阳上、阳去，按 《卓威廉词典》 中 tiău-tsuan 定为阳上；
-3. tŏu, 与 kóu(confiscate) 同为别处读 -iau/-iou 而我处读 -ou 的个例；疑为外乡词输入，实情如何天知道。
+3. tŏu, 与 kóu(confiscate) 同为别处读 -iau/-iou 而作者处读 -ou 的个例；疑为外乡词输入，实情如何天知道。
