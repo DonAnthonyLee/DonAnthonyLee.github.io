@@ -43,6 +43,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 	<rb class="markup_main">祀堂</rb>
 	<rp>(</rp><rt class="markup_over">sṳ̆-tn̂g</rt><rp>)</rp>
 </ruby>；</span>
+<!-- 注：译者处虽然称呼祠堂为祀堂，但独立指某祠堂时仍读 sṳ̂，比如 Sai-sṳ̂; Lí-tshù-sṳ̂ 等，即有可能是较早说法留存，亦有可能是混淆或互训了 “祠” 与 “祀”。 -->
 6. <span id="note_6">现时祠堂似乎未见有蟹、虎之类木雕，此处暂且按原文直译；</span>
 7. <span id="note_7">旧时工艺难以查究，此处权且按 “贴金箔” 翻译，而现今做法通常非金亦非银；</span>
 8. <span id="note_8">chîⁿ-tsuá，拜神用的纸钱。此处采用作者所著词典中说法，部分地方更常用 ngṳ̂n-tiăⁿ; khò 等；</span>
