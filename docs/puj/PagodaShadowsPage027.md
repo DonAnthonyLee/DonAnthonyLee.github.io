@@ -48,7 +48,7 @@ tsài khan i pau-tuè sì-chiah kha-tsóiⁿ, lia̍h i ngĕⁿ túi kàu kha-ts�
 tsài khan kuè kha-pù, hâ tùi kha-puâⁿ téng-pôiⁿ, uat(ut) tùi kha-ău-teⁿ, tshut tuā-tuā-la̍t liah kha-ău-teⁿ kah kha-tsóiⁿ tshui i siu-kṳ̆n, mue̍h kàu kha-puâⁿ kéng kâi ku, kha-tói nap kâi tuā-uh(khuh);
 <!-- 注：上句中原译法 tuā-sí-bó-la̍t 换为 tuā-tuā-la̍t，皆因此前未注意词中含有不雅语素。译者处多为村夫，不注重繁文缛节，类似 siu-kou-lôu（义为收手尾等，原字：收骷髅） 等在口语中几乎察觉不出异样，写出来深究才恍然大悟，稍不留神便容易直接采用... -->
 <!-- thence it follows its former course until the bandage is all applied, and the last end is sewn down firmly on the underlying cloth. -->
-àn-chiòⁿ-seⁿ che̍k-în-chek-în tîⁿ kàu pang-pòu tsng-kâi tîⁿ-liáu, pang-pòu-bué kah ĕ-mīn tîⁿ&#x002D;&#x002D;tŏ-kò &#x002D;&#x002D;kâi pang-pòu tsài tshó kàu khiàng-khiàng. 
+àn-chiòⁿ-seⁿ che̍k-în-chek-în tîⁿ kàu pang-pòu tsn̂g-kâi tîⁿ-liáu, pang-pòu-bué kah ĕ-mīn tîⁿ&#x002D;&#x002D;tŏ-kò &#x002D;&#x002D;kâi pang-pòu tsài tshó kàu khiàng-khiàng. 
 <!-- Once a month or oftener, the feet, with the bandages upon them, are put into a bucket of hot water and soaked. -->
 Kâi-gue̍h khiă-kha, chiah-kha hăm(huăm) mīn-téng &#x002D;&#x002D;kâi pang-pòu, tsò-che̍k-ē chhiⁿ(chìm) lo̍h-khṳ̀ tháng sio-tsúi &#x002D;&#x002D;kò.
 <!-- Then the bandages are removed, the dead skin is rubbed off, the foot is kneaded more fully into the desired shape, pulverized alum is laid on, and clean bandages quickly applied. -->
