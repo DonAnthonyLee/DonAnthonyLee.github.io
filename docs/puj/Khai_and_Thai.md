@@ -11,19 +11,19 @@ Khai i khṳ̀, thai i khṳ̀, pàng-thăi i khṳ̀, iû-tsăi i khṳ̀, kh�
 
 ## Khai
 
-khai uá lâi = iû uá lâi;
-
-khai lṳ́ &#x002D;&#x002D;lâi = iû lṳ́ lâi;
-
-khai lṳ́ tàⁿ = kah lṳ́ tàⁿ;
-
-khai lṳ́ &#x002D;&#x002D;tàⁿ = iû lṳ́ tàⁿ;
+khai uá lâi = iû uá lâi;<br>
+khai lṳ́ &#x002D;&#x002D;lâi = iû lṳ́ lâi;<br>
+khai lṳ́ tàⁿ = kah lṳ́ tàⁿ;<br>
+khai lṳ́ &#x002D;&#x002D;tàⁿ = iû lṳ́ tàⁿ;<br>
 
 khai móng-nâng khio̍h mue̍h-kiăⁿ =
 + thòi móng-nâng khio̍h mue̍h-kiăⁿ
 + kah móng-nâng thó mue̍h-kiăⁿ
 
+khai-tǹg = jiân-tǹg = tǹg-kuè;<br>
+khai i pêⁿ-iōⁿ = kah i pêⁿ-iōⁿ;<br>
+
 
 ## Thai
 
-thai, tuaⁿ-sin-to̍k-hàn che̍k-kâi-sṳ̂.
+thai, tuaⁿ-sin-to̍k-hàn ēng ló "thai i khṳ̀" che̍k-kâi-sṳ̂; hán-tit ēng-tio̍h "thăi i khṳ̀", iáu chia̍p ēng "pàng-thăi i khṳ̀".
