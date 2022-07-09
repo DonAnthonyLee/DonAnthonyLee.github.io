@@ -27,5 +27,5 @@ tag: PUJ_essay
 </ruby>.
 3. phuà-keh, àu-khuán; bô-khuán-khiàu. keh, kó-keh.
 4. tsn̂g-kâi, tshuân-kâi; hȁm-kâi(hâⁿ₊).
-5. hȁm-kâi, 《卓威廉词典》记录有 hâm-kâi 及 hăm-kâi，《菲尔德词典》记录为 hăm-kâi，若取此两部词典共通并符合我处前变调规律即为 hăm-kâi.
+5. hȁm-kâi, 《卓威廉词典》记录有 hâm-kâi 及 hăm-kâi，《菲尔德词典》记录为 hăm-kâi，若取此两部词典共通并符合作者处前变调规律即为 hăm-kâi.
 
