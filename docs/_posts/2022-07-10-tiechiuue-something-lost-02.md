@@ -18,7 +18,7 @@ categories: 潮州话
 
 + <b>《卓威廉词典》 第 9 页</b>
 
-**and**, pẽng; íⁿ-ki̍p; kiam; kah; ***kuã***; kāng; iũ. *tell him to come and I will pay him*, hàm-i-lâi, uá chiũ àiⁿ-hôiⁿ&#x002D;&#x002D;i. *you must speak the truth and then people will believe you*, lṳ́ tie̍h tàⁿ-si̍t-uē nâng chiàⁿ-ũ-si̍n&#x002D;&#x002D;lṳ̍.
+**and**, pẽng; íⁿ-ki̍p; kiam; kah; ***kuã***; kāng; iũ. *tell him to come and I will pay him*, hàm-i-lâi, uá chiũ àiⁿ-hôiⁿ&#x002D;&#x002D;i. *you must speak the truth and then people will believe you*, lṳ́ tie̍h tàⁿ-si̍t-uē nâng chiàⁿ-ũ-sìn&#x002D;&#x002D;lṳ̍.
 <br>
 
 + <b>《菲尔德词典》 第 272 页</b>
