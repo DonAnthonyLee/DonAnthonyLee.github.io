@@ -23,7 +23,7 @@ khai móng-nâng khio̍h mue̍h-kiăⁿ =
 khai-tǹg = jiân-tǹg = tǹg-kuè;<br>
 khai i pêⁿ-iōⁿ = kah i pêⁿ-iōⁿ;<br>
 
-注：khai 用法于作者处属于基本语素，即其他地方用 kah, hôiⁿ 之类场合在作者处均由其担当。
+注：khai 用法于作者处属于基本语素，即其他地方用 kah, hôiⁿ 表示 “同”、“随” 之类词义场合在作者处多数由其担当。
 
 
 ## Thai
