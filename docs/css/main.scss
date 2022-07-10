@@ -30,8 +30,7 @@ $on-laptop:        800px;
 
 @font-face {
   font-family: gnu-freeserif;
-  src: url('../css/FreeSerif.woff') format('woff'),
-       url('../css/FreeSerif.ttf') format('truetype');
+  src: url('{{ "/css/FreeSerif.woff" | absolute_url }}') format('woff');
   font-variant-ligatures: none;
 }
 
