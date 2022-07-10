@@ -7,5 +7,5 @@ tag: PUJ_essay
 
 {% include puj-style.html %}
 
-&nbsp;&nbsp;Tsò a-tĭ --kâi chia̍h-kháu thiⁿ-tui hó, tshui kàu mông--tsṳ̏; a-hiaⁿ li tăi--keh --theh-néⁿ, chia̍h mue̍h-kiăⁿ niⁿ-si-niⁿ-si.<br>
+&nbsp;&nbsp;Tsò a-tĭ &#x002D;&#x002D;kâi chia̍h-kháu thiⁿ-tui hó, tshui kàu mông&#x002D;&#x002D;tsṳ̏; a-hiaⁿ li tăi&#x002D;&#x002D;keh &#x002D;&#x002D;theh-néⁿ, chia̍h mue̍h-kiăⁿ niⁿ-si-niⁿ-si.<br>
 
