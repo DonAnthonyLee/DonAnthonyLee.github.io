@@ -69,6 +69,7 @@ Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0e0cef40560e6666e572ed6c9abf7488cc8fced0" target="_blank">add internal comments about "it-jī"</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d4c5ad8236ebff44941baecd1e03312ac7c6b8e0" target="_blank">add PagodaShadowsPage010.md</a> |
 | 2022-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3a3e270acecb3d1b94b5bf445ddff6d94b6b0ef6" target="_blank">update comments about "Cathay"</a> |
