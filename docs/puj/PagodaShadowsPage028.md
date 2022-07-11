@@ -13,7 +13,7 @@ tag: PUJ_translation
 <!-- Sometimes a toe or more drop off. -->
 Lân-sî iáu-suà lak tioh che̍k-lân-kâi kha-tsóiⁿ.
 <!-- In this case the feet are much smaller than they could else be made, and elegance is secured at the cost of months of suffering. -->
-Tú-tio̍h lak-kha-tsóiⁿ, kha tsŭ ŭ-piàn pí pa̍t-nâng zú-kèng sòi-chiah, liáu chiá ngiá-thóiⁿ sĭ tio̍h lún tioh ke kuá₊-kâi-gue̍h chiàⁿ uāⁿ &#x002D;&#x002D;tńg-lâi &#x002D;&#x002D;kâi. 
+Tú-tio̍h lak-kha-tsóiⁿ, kha tsŭ ŭ-piàn pí pa̍t-nâng zú-kèng sòi-chiah, liáu chiá ngiá-thóiⁿ sĭ tio̍h khóu tioh ke kuá₊-kâi-gue̍h chiàⁿ uāⁿ &#x002D;&#x002D;tńg-lâi &#x002D;&#x002D;kâi. 
 <!-- The pain ordinarily continues about a year, then gradually diminishes, till at the end of two years the feet are practically dead and painless. -->
 Chiá kha-thiàⁿ ŭ-thang thiàⁿ chiâⁿ-nîⁿ, liáu chiàⁿ kìⁿ-jît kìⁿ-jît tsua̍h, tán kàu tîⁿ liáu nŏⁿ-nîⁿ chìn-thò, sang-kha tǹg-kuè sí-ne̍k chiàⁿ bŏi-thàiⁿ.
 
@@ -25,7 +25,7 @@ Tsŭ chiòⁿ-seⁿ, i sang-kha hiat-a-hiat, kah tiām kiò-khóu(hâiⁿ)<a hre
 Yi&#x002D;&#x002D;nâng tàⁿ thiàⁿ-liáu jiân-tǹg thong-sin kut-tsat khṳh tsam puh&#x002D;&#x002D;tio̍h pêⁿ-iōⁿ.
 
 <!-- While the feet are being formed they are useless, and their owner moves about the room to which she is confined, by putting her knees on two stools, so that her feet will not touch the floor, and throwing her weight upon one knee at a time, while she moves the stools alternately forward with her hands. -->
-&nbsp;&nbsp;Sang-kha tîⁿ &#x002D;&#x002D;tŏ-kò, nâng bô-tit ēng kiâⁿ, tio̍h chiu-jît kìm nā pâng-koiⁿ-lăi; i nâ-sĭ àiⁿ suá-khui-suá-buâ, tsŭ lia̍h nŏ-kâi kha-thau-u kŭiⁿ tŏ nŏ-chiah íⁿ-kiáⁿ téng, chiòⁿ-seⁿ sang-kha tsŭ bŏi tap tio̍h thôu-kha-ĕ, liáu kâi-nâng khi-sin ēng che̍k-pôiⁿ kha-thâu-u chia̍h-la̍t, sang-chhiú puaⁿ lĕng-guā che̍k-pôiⁿ kha kah íⁿ-kiáⁿ tsò-che̍k-ē tùi tsôiⁿ &#x002D;&#x002D;khṳ̀.
+&nbsp;&nbsp;Sang-kha tîⁿ &#x002D;&#x002D;tŏ-kò, nâng bô-tit ēng kiâⁿ, tio̍h chiu-jît kìm nā pâng-koiⁿ-lăi; i nâ-sĭ àiⁿ suá-khui-suá-buâ, tsŭ lia̍h nŏ-kâi kha-thâu-u kŭiⁿ tŏ nŏ-chiah íⁿ-kiáⁿ téng, chiòⁿ-seⁿ sang-kha tsŭ bŏi tap tio̍h thôu-kha-ĕ, liáu kâi-nâng khi-sin ēng che̍k-pôiⁿ kha-thâu-u chia̍h-la̍t, sang-chhiú puaⁿ lĕng-guā che̍k-pôiⁿ kha kah íⁿ-kiáⁿ tsò-che̍k-ē tùi tsôiⁿ &#x002D;&#x002D;khṳ̀.
 <br>
 
 注：
