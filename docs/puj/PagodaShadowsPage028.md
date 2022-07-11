@@ -37,7 +37,7 @@ Yi&#x002D;&#x002D;nâng tàⁿ thiàⁿ-liáu jiân-tǹg thong-sin kut-tsat kh�
 <br>
 
 ***[前页](PagodaShadowsPage027.html)***
-<!-- ***[后页](PagodaShadowsPage029.html)*** -->
+***[后页](PagodaShadowsPage029.html)***
 
 ---
 <br>
@@ -48,5 +48,6 @@ Yi&#x002D;&#x002D;nâng tàⁿ thiàⁿ-liáu jiân-tǹg thong-sin kut-tsat kh�
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0e1e7126fcd0b75dc202a91dddaf6c75fbfd789c" target="_blank">add internal comments about "chia̍h-la̍t"</a> |
 | 2022-07-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/bbe3de7be3807f2624c24e04e9e4e755f0e0f3f4" target="_blank">PagodaShadowsPage028.md complete</a> |
 | 2022-07-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4efc250e2930b3d3dae4064c03d9bb60a69333d4" target="_blank">add PagodaShadowsPage028.md</a> |
