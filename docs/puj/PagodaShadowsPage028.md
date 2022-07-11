@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 28 hio̍h)[*]"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 28 hio̍h)"
 date:   2022-07-10 23:30:00 +0800
 tag: PUJ_translation
 ---
