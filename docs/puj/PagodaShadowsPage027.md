@@ -50,13 +50,13 @@ tsài khan kuè kha-pù, hâ tùi kha-puâⁿ téng-pôiⁿ, uat(ut) tùi kha-ă
 <!-- thence it follows its former course until the bandage is all applied, and the last end is sewn down firmly on the underlying cloth. -->
 àn-chiòⁿ-seⁿ che̍k-în-chek-în tîⁿ kàu pang-pòu tsn̂g-kâi tîⁿ-liáu, pang-pòu-bué kah ĕ-mīn tîⁿ&#x002D;&#x002D;tŏ-kò &#x002D;&#x002D;kâi pang-pòu tsài tshó kàu khiàng-khiàng(khín-khín).
 <!-- Once a month or oftener, the feet, with the bandages upon them, are put into a bucket of hot water and soaked. -->
-Kâi-gue̍h khiă-kha, chiah-kha hăm(huăm) mīn-téng &#x002D;&#x002D;kâi pang-pòu, tsò-che̍k-ē chhiⁿ(chìm) lo̍h-khṳ̀ tháng sio-tsúi &#x002D;&#x002D;kò.
+Kâi-gue̍h khiă-kha, sang-kha hăm(huăm) mīn-téng(mīn-chiōⁿ) &#x002D;&#x002D;kâi pang-pòu, tsò-che̍k-ē chhiⁿ(chìm) lo̍h-khṳ̀ tháng sio-tsúi &#x002D;&#x002D;kò.
 <!-- Then the bandages are removed, the dead skin is rubbed off, the foot is kneaded more fully into the desired shape, pulverized alum is laid on, and clean bandages quickly applied. -->
-Liáu-ău thiah-tiāu pang-pòu, sí-phuê lak-tiāu, mān-mān(khuaⁿ-khuaⁿ) lia̍h chiah-kha nia̍p tsò àiⁿ &#x002D;&#x002D;kâi hṳ́-kò-hêng, pe̍h-huân-bua̍h(mêng-huân-bua̍h) buah &#x002D;&#x002D;khí-khṳ̀, liáu méⁿ-méⁿ ēng ta-tn̆g &#x002D;&#x002D;kâi pang-pòu tsài tîⁿ &#x002D;&#x002D;khí-lâi.
+Liáu-ău thiah-tiāu pang-pòu, sí-phuê lak-tiāu, mān-mān(khuaⁿ-khuaⁿ) lia̍h sang-kha nia̍p tsò àiⁿ &#x002D;&#x002D;kâi hṳ́-kò-hêng, pe̍h-huân-bua̍h(mêng-huân-bua̍h) buah &#x002D;&#x002D;khí-khṳ̀, liáu méⁿ-méⁿ ēng ta-tn̆g &#x002D;&#x002D;kâi pang-pòu tsài tîⁿ &#x002D;&#x002D;khí-lâi.
 <!-- If the bandages are long left off, the blood would again circulate in the feet, and the rebinding would be very painful. -->
 Nâ-sĭ pang-pòu khah-kú bô uāⁿ, hiá hueh ŏi kiâⁿ tùi kha &#x002D;&#x002D;kò, liáu têng-huan tîⁿ tio̍h kiaⁿ-nâng thiàⁿ.
 <!-- The pain is least when the feet are so firmly and so constantly bound as to be benumbed by the pressure of the bandages. -->
-Tio̍h thĕng chiah-kha khṳh pang-pòu tîⁿ kàu khiàng-khiàng liáu tau tio̍h né(tshó-lia̍k) tshâ-tshâ pì-pì m̆-tsai-ne̍k &#x002D;&#x002D;hṳ́-ē, kha chiàⁿ thiàⁿ bô hiòⁿ tuā-la̍t.
+Tio̍h thĕng sang-kha khṳh pang-pòu tîⁿ kàu khiàng-khiàng liáu tau tio̍h né(tshó-lia̍k) tshâ-tshâ pì-pì m̆-tsai-ne̍k &#x002D;&#x002D;hṳ́-ē, kha chiàⁿ thiàⁿ bô hiòⁿ tuā-la̍t.
 <br>
 
 
