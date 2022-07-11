@@ -52,6 +52,7 @@ Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah
 <rp>(</rp><rt class="markup_over">khiat-tan</rt><rp>)</rp>
 </ruby>，为外国对中国称谓；《真光初临》变译为“潮汕”，《天朝一隅》译为“天朝”，此处直接使用“中国”；</span>
 2. <span id="note_2">it-jī, 逐渐；亦可两次组合表示“一边...一边...”；</span>
+<!-- 注：it-jī 此词广州话有对应同义词读若 “一字”（日常口语鲜有耳闻，但讲古经常出现），即不太可能是 “一二”。 -->
 3. <span id="note_2">kú-uán, 久远。</span>
 <br>
 
