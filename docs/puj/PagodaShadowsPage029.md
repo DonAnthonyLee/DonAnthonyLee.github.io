@@ -27,14 +27,55 @@ tag: PUJ_translation
 <!-- What is visible appears to be the petal of a field-lily. -->
 
 <!-- Even outside barbarians often admire this fairy foot. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Liân guā-kháu hiá tṳ-ko-sian<a href="#note_1" class="note">1</a> iā tiām thóiⁿ-siŏⁿ chiá sian-nńg-kha.
 <!-- Yet the poet cannot say of the owner, -->
-<!-- POET QUOTE: "Her foot so light, her step so true, Scarce from the harebell brushed the dew." -->
+Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_2" class="note">2</a>
+<!-- "Her foot so light, her step so true, Scarce from the harebell brushed the dew." -->
+> <ruby style="ruby-position:over">
+<rb class="markup_main">骹</rb>
+<rp>(</rp><rt class="markup_over">Kha</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">轻轻</rb>
+<rp>(</rp><rt class="markup_over">kheng-kheng</rt><rp>)</rp>
+</ruby>，
+<ruby style="ruby-position:over">
+<rb class="markup_main">步</rb>
+<rp>(</rp><rt class="markup_over">pōu</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">娉婷</rb>
+<rp>(</rp><rt class="markup_over">phèng-thêng</rt><rp>)</rp>
+</ruby>，
+<ruby style="ruby-position:over">
+<rb class="markup_main">庸脂俗粉</rb>
+<rp>(</rp><rt class="markup_over">iông-chiⁿ_so̍k-hún</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">无</rb>
+<rp>(</rp><rt class="markup_over">bô</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">者形</rb>
+<rp>(</rp><rt class="markup_over">chiá-hêng</rt><rp>)</rp>
+</ruby>。
 
 <!-- Her dainty feet toddle and clump, and her gait is exactly that of one walking on the points of the the heels. -->
 &nbsp;&nbsp;
 <!-- Though the Chinese poet compares her motion to that of the swaying willow, one never sees among Chinese women one who walks gracefully. -->
 <!-- Those who have natural feet imitate the vacillating hobble of the bound-footed, verifying the Italian proverb, "If you always live with those who are lame, you will yourself learn to limp." -->
+<br>
+
+<br>
+
+**[Buē-mue̍h-tît]**
+
+<br>
+
+
+注：
+1. <span id="note_1">原文为 “barbarians”，此处权且按 “好色之徒” 理解；<span>
+2. <span id="note_2">原文所引诗句译文意思大概为 “步履轻盈，身姿曼妙，...” 之类，译者不懂诗词，随便把 “袜罗微步，流水青苹” 之类唯恐不妥，故胡乱写了两句；<span>
 <br>
 
 <br>
