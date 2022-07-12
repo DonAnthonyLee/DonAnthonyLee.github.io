@@ -98,4 +98,5 @@ Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_2" class="
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-13 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/414ca9ad4dbe6cf7768f73233c2a2c0daf2f9d99" target="_blank">finish the third paragraph</a> |
 | 2022-07-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/476d0de1787c76416496c7722a2167dfaaefa90d" target="_blank">add PaogdaShadowsPage029.md</a> |
