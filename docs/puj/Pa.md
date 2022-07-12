@@ -11,7 +11,7 @@ tag: PUJ_essay
 
 **pa-liau**, lău-nâng-nou-kiáⁿ bô-gê liáu ēng khí-ngṳ̂n pōu mue̍h-kiăⁿ;
 
-**ka-liau**, pài thiⁿ-kong --sî ēng ngṳ̂n-tiăⁿ hòu-khí-hòu-lo̍h lâi tsàn-hok;
+**ka-liau**, pài thiⁿ-kong &#x002D;&#x002D;sî ēng ngṳ̂n-tiăⁿ hòu-khí-hòu-lo̍h lâi tsàn-hok;
 
 **hue-pa-lí-lok**, hue-tsham-jī-hō mih sek-sîn ŭ;
 
