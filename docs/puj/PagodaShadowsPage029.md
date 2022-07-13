@@ -13,7 +13,7 @@ tag: PUJ_translation
 <!-- The four small toes are so twisted that their ends may be seen on the inside of the foot; -->
 Sì-chiah kha-tsóiⁿ-kiáⁿ á kàu ŭ-piàn kha-tói khò-lăi &#x002D;&#x002D;kò kîⁿ&#x002D;&#x002D;thâu tsŭ thóiⁿ&#x002D;&#x002D;kìⁿ;
 <!-- and the broken and distorted bones of the middle of the foot are pressed into a mass where the instep should be. -->
-hiá nguân-tí hó-hó kha-puáⁿ, phah-chek kàu tsn̂g-kâi tshap-tshùi, liáu kut-thâu in-oiⁿ tŏ ta-ng kit-kàu-uân. 
+hiá nguân-tí hó-hó kha-puâⁿ, phah-chek kàu tsn̂g-kâi tshap-tshùi, liáu kut-thâu in-oiⁿ tŏ ta-ng kit-kàu-uân. 
 <!-- The shape is like a hen's head, the big toe representing the bill. -->
 Kha-chióⁿ kò hêng jiân kâi koi-thâu, hṳ́-chiah tsńg-thâu-kong huáng-sṳ̆ ki koi-tshùi.
 <!-- There is little beside skin and bone below the knee. -->
