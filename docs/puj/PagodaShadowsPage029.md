@@ -32,7 +32,7 @@ Yi u̍t tŏ mn̂g-tshn̂g&#x002D;&#x002D;kò iā-sĭ ēng che̍k-sang mîⁿ-ôi
 <!-- The bandages and alum-powder are always worn; -->
 Pang-pòu kah pe̍h-huân-bua̍h lóng tio̍h ēng&#x002D;&#x002D;tio̍h;
 <!-- but the bandages are shortened one-half their length, and fine black ones are often put on over the white ones. -->
-put-kuè pang-pòu tn̂g-tōu pìⁿ-tsò tháu-khí tîⁿ-kha tiang-sî &#x002D;&#x002D;kâi che̍k-uê, liáu tŏ pe̍h-pang-pòu mīn-chiōⁿ tsài phuân ke kúi-khou iáu-zû-jiân &#x002D;&#x002D;kâi ou-pòu-tiâu.
+put-kuè pang-pòu tn̂g-tōu pìⁿ-tsò thâu-khí tîⁿ-kha tiang-sî &#x002D;&#x002D;kâi che̍k-uê, liáu tŏ pe̍h-pang-pòu mīn-chiōⁿ tsài phuân ke kúi-khou iáu-zû-jiân &#x002D;&#x002D;kâi ou-pòu-tiâu.
 <!-- Embroidered satin shoes, with brightly painted heels, are worn, and a neat pantalet covers all but the toe. -->
 Yi&#x002D;&#x002D;nâng chhēng &#x002D;&#x002D;kâi sĭ ôi-teⁿ tsng kàu súi-súi kâi siù-hue-ôi, liáu khòu-kha tn̂g-tn̂g khàm kàu tshûn thóiⁿ-kìⁿ kha-tsóiⁿ.
 <!-- What is visible appears to be the petal of a field-lily. -->
