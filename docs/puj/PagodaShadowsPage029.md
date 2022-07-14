@@ -106,6 +106,8 @@ Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_3" class="
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4aa10df51f8dc0cbadc15db077b4e1209e59f50a" target="_blank">restore the translation of "below the knee", finish the second paragraph</a> |
+| 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/99b07fe1c9227542f8dc09269f77705d43189d11" target="_blank">change translation of "below the knee"</a> |
 | 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/5470be4982a99a7f1b587d4e5bb36bf8fee13b15" target="_blank">finish the first paragraph with no satisfaction</a> |
 | 2022-07-13 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/414ca9ad4dbe6cf7768f73233c2a2c0daf2f9d99" target="_blank">finish the third paragraph</a> |
 | 2022-07-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/476d0de1787c76416496c7722a2167dfaaefa90d" target="_blank">add PaogdaShadowsPage029.md</a> |
