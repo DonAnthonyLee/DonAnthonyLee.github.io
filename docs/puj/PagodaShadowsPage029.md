@@ -76,9 +76,9 @@ Liáu, m̆-tsai kài-sĭ tī-nâng tsò chiá si-kù tàⁿ-,<a href="#note_3" c
 <!-- Her dainty feet toddle and clump, and her gait is exactly that of one walking on the points of the the heels. -->
 &nbsp;&nbsp;Yi&#x002D;&#x002D;nâng hiá kha-kiáⁿ kiâⁿ-lōu lèng-a-lèng liáu chhiăng-a-chhiăng, kò kè-sì kah hiá nâng ēng kha-ău-teⁿ kiâⁿ-lōu pêⁿ-iōⁿ.
 <!-- Though the Chinese poet compares her motion to that of the swaying willow, one never sees among Chinese women one who walks gracefully. -->
-Sui-sĭ Tong-kok si-jîn lia̍h i&#x002D;&#x002D;nâng hiá kè-sì pí-tsò sûi-liú phiau-iâu, liáu_li hiá kiâⁿ-lōu-hêng chin-chiàⁿ ngiá-thóiⁿ &#x002D;&#x002D;kâi &#x002D;&#x002D;nâng to m̆-pat ngŏ&#x002D;&#x002D;tio̍h.  
+Sui-sĭ Tong-kok si-jîn lia̍h i&#x002D;&#x002D;nâng hiá kè-sì pí-tsò sûi-liú phiau-iâu, liáu_li hiá kiâⁿ-lōu-hêng chin-chiàⁿ ngiá-thóiⁿ &#x002D;&#x002D;kâi &#x002D;&#x002D;nâng to m̆-pat ngŏ&#x002D;&#x002D;tio̍h.
 <!-- Those who have natural feet imitate the vacillating hobble of the bound-footed, verifying the Italian proverb, "If you always live with those who are lame, you will yourself learn to limp." -->
-Hṳ́-tshoh tāu-kha &#x002D;&#x002D;kâi ŏi o̍h i&#x002D;&#x002D;nâng tîⁿ-kha &#x002D;&#x002D;kâi na̍h-na̍h-tsŭn, èng-ngiām tio̍h Yì-tăi-lĭ-nâng hṳ́-kù so̍k-uē, "Nâ-sĭ tiām kah kuáiⁿ-kha(phái-kha) &#x002D;&#x002D;kâi tsò-che̍k-ē khiă-khí, kat-ke̍k lṳ́ iā-tio̍h kiâⁿ-lōu kha thí-thí."
+Hṳ́-tshoh tuā-kha &#x002D;&#x002D;kâi ŏi o̍h i&#x002D;&#x002D;nâng tîⁿ-kha &#x002D;&#x002D;kâi na̍h-na̍h-tsŭn, èng-ngiām tio̍h Yì-tăi-lĭ-nâng hṳ́-kù so̍k-uē, "Nâ-sĭ tiām kah kuáiⁿ-kha(phái-kha) &#x002D;&#x002D;kâi tsò-che̍k-ē khiă-khí, kat-ke̍k lṳ́ iā-tio̍h kiâⁿ-lōu kha thí-thí."
 <br>
 
 注：
