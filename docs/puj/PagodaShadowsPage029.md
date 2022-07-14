@@ -15,9 +15,9 @@ Sì-chiah kha-tsóiⁿ-kiáⁿ á kàu ŭ-piàn kha-tói khò-lăi &#x002D;&#x00
 <!-- and the broken and distorted bones of the middle of the foot are pressed into a mass where the instep should be. -->
 hiá nguân-tí hó-hó kha-puâⁿ, phah-chek kàu tsn̂g-kâi tshap-tshùi, liáu kut-thâu in-oiⁿ tŏ ta-ng kit-kàu-uân. 
 <!-- The shape is like a hen's head, the big toe representing the bill. -->
-Kha-chióⁿ kò hêng jiân chiah-koi-bó kâi thâu, tsńg-thâu-kong tsŭ huáng-sṳ̆ hṳ́-ki koi-tshùi.
+Kha-chióⁿ kò hêng jiân chiah-koi-bó &#x002D;&#x002D;kâi thâu, tsńg-thâu-kong tsŭ huáng-sṳ̆ hṳ́-ki koi-tshùi.
 <!-- There is little beside skin and bone below the knee. -->
-Kha-ma̍k<a href="#note_1" class="note">1</a> lo̍h-kĕ bô puàⁿ-khih-kiáⁿ ne̍k-chí<a href="#note_2" class="note">2</a>. 
+Kha-thâu-u lo̍h-kĕ bô puàⁿ-khih-kiáⁿ ne̍k-chí<a href="#note_1" class="note">1</a>. 
 <!-- The foot cannot be stood on without its bandages, and can never be restored to its natural shape. -->
 Hiá-kha bô tîⁿ-pang-pòu tsŭ bô-piàn khiă &#x002D;&#x002D;khí-lâi, liáu àiⁿ tò-tńg nguân-tsá kò hêng sĭ ióng-kú bô-huap &#x002D;&#x002D;liáu.
 <!-- It is a frightful and fetid thing. -->
@@ -25,19 +25,23 @@ Chiá mue̍h-kiăⁿ-sṳ̄ thóiⁿ-tio̍h chhi-gî liáu kiaⁿ kàu phah-tsh�
 <!-- No bound-footed woman ever willingly lets her bare feet be seen, even by those who are maimed like herself. -->
 Bô tī-kâi tîⁿ-kha &#x002D;&#x002D;kâi tsṳ-niôⁿ-nâng ŏi hàuⁿ thǹg-chhiah-kha pun &#x002D;&#x002D;nâng thóiⁿ&#x002D;&#x002D;kìⁿ, jín-tsò pêⁿ-ke tîⁿ-kha &#x002D;&#x002D;kâi.
 <!-- She wears little cotton shoes when in bed, putting as it were her night-cap on her feet. -->
-Yi u̍t tŏ phou&#x002D;&#x002D;kò iā-sĭ chhēng mîⁿ-ôi-kiáⁿ, tǹg-kuè kha-bué lap liáu che̍k-téng-bō.
+Yi u̍t tŏ mn̂g-tshn̂g&#x002D;&#x002D;kò iā-sĭ ēng che̍k-sang mîⁿ-ôi-kiáⁿ tǹg bō pêⁿ-iōⁿ lap tŏ kha-bué &#x002D;&#x002D;kò.
 
 <!-- The sepulchre for these mummied feet is very gorgeous. -->
-&nbsp;&nbsp;**[Tŏiⁿ-jī-tn̄g buē-e̍k]**
+&nbsp;&nbsp;Ēng-lâi thap chiá sí-ne̍k &#x002D;&#x002D;khṳ̀ &#x002D;&#x002D;kâi kha &#x002D;&#x002D;kâi mue̍h-kiăⁿ sĭ siang-tang phâi-chhiâng.
 <!-- The bandages and alum-powder are always worn; -->
+Pang-pòu kah pe̍h-huân-bua̍h lóng tio̍h ēng&#x002D;&#x002D;tio̍h;
 <!-- but the bandages are shortened one-half their length, and fine black ones are often put on over the white ones. -->
+put-kuè pang-pòu tn̂g-tōu pìⁿ-tsò tháu-khí tîⁿ-kha tiang-sî &#x002D;&#x002D;kâi che̍k-uê, liáu tŏ pe̍h-pang-pòu mīn-chiōⁿ tsài phuân ke kúi-khou iáu-zû-jiân &#x002D;&#x002D;kâi ou-pòu-tiâu.
 <!-- Embroidered satin shoes, with brightly painted heels, are worn, and a neat pantalet covers all but the toe. -->
+Yi&#x002D;&#x002D;nâng chhēng &#x002D;&#x002D;kâi sĭ ôi-teⁿ tsng kàu súi-súi kâi siù-hue-ôi, liáu khòu-kha tn̂g-tn̂g khàm kàu tshûn thóiⁿ-kìⁿ kha-tsóiⁿ.
 <!-- What is visible appears to be the petal of a field-lily. -->
+Thóiⁿ ŏi-tit tio̍h &#x002D;&#x002D;kâi huáng-sṳ̆ peh-ha̍h-hue hiá hue-hah.
 
 <!-- Even outside barbarians often admire this fairy foot. -->
-&nbsp;&nbsp;Liân guā-kháu hiá tṳ-ko-sian<a href="#note_3" class="note">3</a> iā tiām thóiⁿ-siŏⁿ chiá sian-nńg-kha.
+&nbsp;&nbsp;Liân guā-kháu hiá tṳ-ko-sian<a href="#note_2" class="note">2</a> iā tiām thóiⁿ-siŏⁿ chiá sian-nńg-kha.
 <!-- Yet the poet cannot say of the owner, -->
-Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_4" class="note">4</a>
+Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_3" class="note">3</a>
 <!-- "Her foot so light, her step so true, Scarce from the harebell brushed the dew." -->
 > <ruby style="ruby-position:over">
 <rb class="markup_main">骹</rb>
@@ -76,10 +80,10 @@ Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_4" class="
 <br>
 
 注：
-1. <span id="note_1">原文为 “knee”，若按膝盖理解，与译者亲眼所见有所不同，所以此处改为脚踝；<span>
-2. <span id="note_2">ne̍k-chí，肌肉；<span>
-3. <span id="note_3">原文为 “barbarians”，此处权且按 “好色之徒” 理解；<span>
-4. <span id="note_4">原文所引诗句译文意思大概为 “步履轻盈，身姿曼妙，...” ，译者不懂诗词，随便写上 “袜罗微步，流水青苹” 之类唯恐不妥，便胡乱写了两句，纯属杜撰；<span>
+<!-- 文中写膝盖以下皮包骨头，与译者所见有所不同，一度改为脚踝以下，但也许是译者所见为已放脚多年老人的形态，所以再度照原文翻译。 -->
+1. <span id="note_1">ne̍k-chí，肌肉；<span>
+2. <span id="note_2">原文为 “barbarians”，此处权且按 “好色之徒” 理解；<span>
+3. <span id="note_3">原文所引诗句译文意思大概为 “步履轻盈，身姿曼妙，...” ，译者不懂诗词，随便写上 “袜罗微步，流水青苹” 之类唯恐不妥，便胡乱写了两句，纯属杜撰；<span>
 <br>
 
 <br>
