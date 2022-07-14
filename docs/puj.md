@@ -100,3 +100,22 @@ Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x00
 </ol>
 </section>
 <br>
+
+# Ah-kiáⁿ thiaⁿ-lûi, kī_kōm_lōm
+
+<h4><i>雅调</i></h4>
+
+<section class="PUJ container posts-content">
+<ol class="posts-list">
+{% assign sorted_pages = site.pages | sort: "date" | reverse %}
+{% for post in sorted_pages %}
+  {% if post.tag == "PUJ_writing_and_reading" %}
+      <li class="posts-list-item">
+        <span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
+        <a class="posts-list-name" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+  {% endif %}
+{% endfor %}
+</ol>
+</section>
+<br>
