@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 29 hio̍h)[*]"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 29 hio̍h)"
 date:   2022-07-11 17:00:00 +0800
 tag: PUJ_translation
 ---
@@ -34,14 +34,14 @@ Pang-pòu kah pe̍h-huân-bua̍h lóng tio̍h ēng&#x002D;&#x002D;tio̍h;
 <!-- but the bandages are shortened one-half their length, and fine black ones are often put on over the white ones. -->
 put-kuè pang-pòu tn̂g-tōu pìⁿ-tsò thâu-khí tîⁿ-kha tiang-sî &#x002D;&#x002D;kâi che̍k-uê, liáu tŏ pe̍h-pang-pòu mīn-chiōⁿ tsài phuân ke kúi-khou iáu-zû-jiân &#x002D;&#x002D;kâi ou-pòu-tiâu.
 <!-- Embroidered satin shoes, with brightly painted heels, are worn, and a neat pantalet covers all but the toe. -->
-Yi&#x002D;&#x002D;nâng chhēng &#x002D;&#x002D;kâi sĭ ôi-teⁿ tsng kàu súi-súi kâi siù-hue-ôi, liáu khòu-kha tn̂g-tn̂g khàm kàu tshûn thóiⁿ-kìⁿ kha-tsóiⁿ.
+Yi&#x002D;&#x002D;nâng chhēng &#x002D;&#x002D;kâi sĭ ôi-teⁿ tsng kàu súi-súi kâi siù-hue-ôi, liáu khòu-kha tn̂g-tn̂g khàm kàu tshûn thóiⁿ-kìⁿ kha-chiam.
 <!-- What is visible appears to be the petal of a field-lily. -->
 Thóiⁿ ŏi-tit tio̍h &#x002D;&#x002D;kâi huáng-sṳ̆ peh-ha̍h-hue hiá hue-hah.
 
 <!-- Even outside barbarians often admire this fairy foot. -->
-&nbsp;&nbsp;Liân guā-kháu hiá tṳ-ko-sian<a href="#note_2" class="note">2</a> iā tiām thóiⁿ-siŏⁿ chiá sian-nńg-kha.
+&nbsp;&nbsp;Liân guā-kháu hiá tṳ-ko-sian<a href="#note_2" class="note">2</a> iā tsōi-kâi thóiⁿ-siŏⁿ chiá sian-nńg-kha.
 <!-- Yet the poet cannot say of the owner, -->
-Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_3" class="note">3</a>
+Liáu, m̆-tsai kài-sĭ tī-nâng tsò chiá si-kù tàⁿ-,<a href="#note_3" class="note">3</a>
 <!-- "Her foot so light, her step so true, Scarce from the harebell brushed the dew." -->
 > <ruby style="ruby-position:over">
 <rb class="markup_main">骹</rb>
@@ -74,22 +74,18 @@ Liáu, m̆-tsai kài-sĭ tī-kâi si-jîn siá-tàⁿ-,<a href="#note_3" class="
 <!-- 注：上句中 “诗句” 纯属杜撰，既然采用口语，“轻” 直接使用白读音而不管是否押韵了，遗憾是 “娉婷” 想不到能押韵的口语说法。 -->
 
 <!-- Her dainty feet toddle and clump, and her gait is exactly that of one walking on the points of the the heels. -->
-&nbsp;&nbsp;**[Tŏiⁿ-sì-tn̄g buē-e̍k]**
+&nbsp;&nbsp;Yi&#x002D;&#x002D;nâng hiá kha-kiáⁿ kiâⁿ-lōu lèng-a-lèng liáu chhiăng-a-chhiăng, kò kè-sì kah hiá nâng ēng kha-ău-teⁿ kiâⁿ-lōu pêⁿ-iōⁿ.
 <!-- Though the Chinese poet compares her motion to that of the swaying willow, one never sees among Chinese women one who walks gracefully. -->
+Sui-sĭ Tong-kok si-jîn lia̍h i&#x002D;&#x002D;nâng hiá kè-sì pí-tsò sûi-liú phiau-iâu, liáu_li hiá kiâⁿ-lōu-hêng chin-chiàⁿ ngiá-thóiⁿ &#x002D;&#x002D;kâi &#x002D;&#x002D;nâng to m̆-pat ngŏ&#x002D;&#x002D;tio̍h.  
 <!-- Those who have natural feet imitate the vacillating hobble of the bound-footed, verifying the Italian proverb, "If you always live with those who are lame, you will yourself learn to limp." -->
+Hṳ́-tshoh tāu-kha &#x002D;&#x002D;kâi ŏi o̍h i&#x002D;&#x002D;nâng tîⁿ-kha &#x002D;&#x002D;kâi na̍h-na̍h-tsŭn, èng-ngiām tio̍h Yì-tăi-lĭ-nâng hṳ́-kù so̍k-uē, "Nâ-sĭ tiām kah kuáiⁿ-kha(phái-kha) &#x002D;&#x002D;kâi tsò-che̍k-ē khiă-khí, kat-ke̍k lṳ́ iā-tio̍h kiâⁿ-lōu kha thí-thí."
 <br>
 
 注：
 <!-- 文中写膝盖以下皮包骨头，与译者所见有所不同，一度改为脚踝以下，但也许是译者所见为已放脚多年老人的形态，所以再度照原文翻译。 -->
 1. <span id="note_1">ne̍k-chí，肌肉；<span>
 2. <span id="note_2">原文为 “barbarians”，此处权且按 “好色之徒” 理解；<span>
-3. <span id="note_3">原文所引诗句译文意思大概为 “步履轻盈，身姿曼妙，...” ，译者不懂诗词，随便写上 “袜罗微步，流水青苹” 之类唯恐不妥，便胡乱写了两句，纯属杜撰；<span>
-<br>
-
-<br>
-
-**[Buē-mue̍h-tît]**
-
+3. <span id="note_3">原文所引诗句译文意思大概为 “步履轻盈，身姿曼妙，...” ，译者不懂诗词，随便写上 “袜罗微步，流水青苹” 之类唯恐不妥，便胡乱写了两句，纯属杜撰。<span>
 <br>
 
 <br>
