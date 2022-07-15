@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 31-32 hio̍h)[*]"
-date:   2022-07-13 12:30:00 +0800
+date:   2022-07-15 12:00:00 +0800
 tag: PUJ_translation
 ---
 
 {% include puj-style.html %}
 {% include changlog-table-style.html %}
 
-<!-- The Hakka women do not bind their feet j they lead a vigorous physical life, working chiefly in the open air. -->
+<!-- The Hakka women do not bind their feet; they lead a vigorous physical life, working chiefly in the open air. -->
 &nbsp;&nbsp;
 <!-- The better custom of these people influences those living on their borders, and the country women in their vicinity do not bind their feet. -->
 <!-- On their side of Tie Chiu, among those who live in hamlets and small villages, the custom is slowly dying out. -->
