@@ -25,7 +25,7 @@ Tsŭ chiòⁿ-seⁿ, i sang-kha hiat-a-hiat, kah tiām kiò-khóu(hâiⁿ)<a hre
 Yi&#x002D;&#x002D;nâng tàⁿ thiàⁿ-liáu jiân-tǹg thong-sin kut-tsat khṳh tsam puh&#x002D;&#x002D;tio̍h pêⁿ-iōⁿ.
 
 <!-- While the feet are being formed they are useless, and their owner moves about the room to which she is confined, by putting her knees on two stools, so that her feet will not touch the floor, and throwing her weight upon one knee at a time, while she moves the stools alternately forward with her hands. -->
-&nbsp;&nbsp;Sang-kha tîⁿ &#x002D;&#x002D;tŏ-kò, nâng bô-tit ēng kiâⁿ, tio̍h chiu-jît kìm nā pâng-koiⁿ-lăi; i nâ-sĭ àiⁿ suá-khui-suá-buâ, tsŭ lia̍h nŏ-kâi kha-thâu-u kŭiⁿ tŏ nŏ-chiah íⁿ-kiáⁿ téng, chiòⁿ-seⁿ sang-kha tsŭ bŏi tap tio̍h thôu-kha-ĕ, liáu kâi-nâng khi-sin ēng che̍k-pôiⁿ kha-thâu-u chia̍h-la̍t, sang-chhiú puaⁿ lĕng-guā che̍k-pôiⁿ kha kah íⁿ-kiáⁿ tsò-che̍k-ē tùi tsôiⁿ &#x002D;&#x002D;khṳ̀.
+&nbsp;&nbsp;Sang-kha tîⁿ &#x002D;&#x002D;tŏ-kò, nâng bô-tit ēng kiâⁿ, tio̍h chiu-jît kìm nā pâng-koiⁿ-lăi; i nâ-sĭ àiⁿ suá-khui-suá-buâ, tsŭ lia̍h nŏⁿ-kâi kha-thâu-u kŭiⁿ tŏ nŏⁿ-chiah íⁿ-kiáⁿ téng, chiòⁿ-seⁿ sang-kha tsŭ bŏi tap tio̍h thôu-kha-ĕ, liáu kâi-nâng khi-sin ēng che̍k-pôiⁿ kha-thâu-u chia̍h-la̍t, sang-chhiú puaⁿ lĕng-guā che̍k-pôiⁿ kha kah íⁿ-kiáⁿ tsò-che̍k-ē tùi tsôiⁿ &#x002D;&#x002D;khṳ̀.
 <!--  注：chia̍h-la̍t，在此处表示全部受力。不同于 tsah-la̍t（用力） 与  tsat-la̍t（巧用力）。 -->
 <br>
 
