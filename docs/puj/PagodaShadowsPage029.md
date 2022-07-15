@@ -13,9 +13,9 @@ tag: PUJ_translation
 <!-- The four small toes are so twisted that their ends may be seen on the inside of the foot; -->
 Sì-chiah kha-tsóiⁿ-kiáⁿ á kàu ŭ-piàn kha-tói khò-lăi &#x002D;&#x002D;kò kîⁿ&#x002D;&#x002D;thâu tsŭ thóiⁿ&#x002D;&#x002D;kìⁿ;
 <!-- and the broken and distorted bones of the middle of the foot are pressed into a mass where the instep should be. -->
-hiá nguân-tí hó-hó kha-puâⁿ, phah-chek kàu tsn̂g-kâi tshap-tshùi, liáu kut-thâu in-oiⁿ tŏ ta-ng kit-kàu-uân. 
+hiá nguân-tí hó-hó-kha-puâⁿ, phah-chek kàu tsn̂g-kâi tshap-tshùi, liáu kut-thâu in-oiⁿ tŏ ta-ng kit-kàu-uân. 
 <!-- The shape is like a hen's head, the big toe representing the bill. -->
-Kha-chióⁿ kò hêng jiân chiah-koi-bó &#x002D;&#x002D;kâi thâu, tsńg-thâu-kong tsŭ huáng-sṳ̆ hṳ́-ki koi-tshùi.
+Kha-chióⁿ kò hêng jiân koi-bó &#x002D;&#x002D;kâi thâu, tsńg-thâu-kong tsŭ huáng-sṳ̆ hṳ́-ki koi-tshùi.
 <!-- There is little beside skin and bone below the knee. -->
 Kha-thâu-u lo̍h-kĕ bô puàⁿ-khih-kiáⁿ ne̍k-chí<a href="#note_1" class="note">1</a>. 
 <!-- The foot cannot be stood on without its bandages, and can never be restored to its natural shape. -->
@@ -34,7 +34,7 @@ Pang-pòu kah pe̍h-huân-bua̍h lóng tio̍h ēng&#x002D;&#x002D;tio̍h;
 <!-- but the bandages are shortened one-half their length, and fine black ones are often put on over the white ones. -->
 put-kuè pang-pòu tn̂g-tōu pìⁿ-tsò thâu-khí tîⁿ-kha tiang-sî &#x002D;&#x002D;kâi che̍k-uê, liáu tŏ pe̍h-pang-pòu mīn-chiōⁿ tsài phuân ke kúi-khou iáu-zû-jiân &#x002D;&#x002D;kâi ou-pòu-tiâu.
 <!-- Embroidered satin shoes, with brightly painted heels, are worn, and a neat pantalet covers all but the toe. -->
-Yi&#x002D;&#x002D;nâng chhēng &#x002D;&#x002D;kâi sĭ ôi-teⁿ tsng kàu súi-súi kâi siù-hue-ôi, liáu khòu-kha tn̂g-tn̂g khàm kàu tshûn thóiⁿ-kìⁿ kha-chiam.
+Yi&#x002D;&#x002D;nâng chhēng &#x002D;&#x002D;kâi sĭ ôi-teⁿ tsng kàu súi-súi(ngiá-tsăi-tsăi) kâi siù-hue-ôi, liáu khòu-kha tn̂g-tn̂g khàm kàu tshûn thóiⁿ-kìⁿ kha-chiam.
 <!-- What is visible appears to be the petal of a field-lily. -->
 Thóiⁿ ŏi-tit tio̍h &#x002D;&#x002D;kâi huáng-sṳ̆ peh-ha̍h-hue hiá hue-hah.
 
@@ -74,7 +74,7 @@ Liáu, m̆-tsai kài-sĭ tī-nâng tsò chiá si-kù tàⁿ-,<a href="#note_3" c
 <!-- 注：上句中 “诗句” 纯属杜撰，既然采用口语，“轻” 直接使用白读音而不管是否押韵了，遗憾是 “娉婷” 想不到能押韵的口语说法。 -->
 
 <!-- Her dainty feet toddle and clump, and her gait is exactly that of one walking on the points of the the heels. -->
-&nbsp;&nbsp;Yi&#x002D;&#x002D;nâng hiá kha-kiáⁿ kiâⁿ-lōu lèng-a-lèng liáu chhiăng-a-chhiăng, kò kè-sì kah hiá nâng ēng kha-ău-teⁿ kiâⁿ-lōu pêⁿ-iōⁿ.
+&nbsp;&nbsp;Yi&#x002D;&#x002D;nâng hiá kha-kiáⁿ kiâⁿ-lōu lèng-a-lèng liáu kuâ-a-kuâ, kò kè-sì kah hiá nâng ēng kha-ău-teⁿ kiâⁿ-lōu pêⁿ-iōⁿ.
 <!-- Though the Chinese poet compares her motion to that of the swaying willow, one never sees among Chinese women one who walks gracefully. -->
 Sui-sĭ Tong-kok si-jîn lia̍h i&#x002D;&#x002D;nâng hiá kè-sì pí-tsò sûi-liú phiau-iâu, liáu_li hiá kiâⁿ-lōu-hêng chin-chiàⁿ ngiá-thóiⁿ &#x002D;&#x002D;kâi &#x002D;&#x002D;nâng to m̆-pat ngŏ&#x002D;&#x002D;tio̍h.
 <!-- Those who have natural feet imitate the vacillating hobble of the bound-footed, verifying the Italian proverb, "If you always live with those who are lame, you will yourself learn to limp." -->
