@@ -102,6 +102,7 @@ Hṳ́-tshoh tuā-kha &#x002D;&#x002D;kâi ŏi o̍h i&#x002D;&#x002D;nâng tî�
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-15 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/94d5851f348665358b3d08af757bfca703b22041" target="_blank">improve punctuations & expressions</a> |
 | 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/7e01af23ae40104235da790deddd1e6bcfdfaa96" target="_blank">PagodaShadowsPage029.md complete</a> |
 | 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4aa10df51f8dc0cbadc15db077b4e1209e59f50a" target="_blank">restore the translation of "below the knee", finish the second paragraph</a> |
 | 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/99b07fe1c9227542f8dc09269f77705d43189d11" target="_blank">change translation of "below the knee"</a> |
