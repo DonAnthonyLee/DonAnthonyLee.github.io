@@ -11,11 +11,11 @@ tag: PUJ_translation
 <!-- It not infrequently happens that the flesh becomes putrescent during the process of binding, and portions slough off from the sole. -->
 &nbsp;&nbsp;Tîⁿ-kha hṳ́-tiang-sî, chhiâng-chhiâng ŏi hiá ne̍k mî &#x002D;&#x002D;khṳ̀ liáu tùi kha-tói lak &#x002D;&#x002D;lo̍h-lâi.
 <!-- Sometimes a toe or more drop off. -->
-Lân-sî iáu-suà lak tioh che̍k-lân-kâi kha-tsóiⁿ.
+Lân-sî iáu-suà lak tioh che̍k-lân-chiah kha-tsóiⁿ.
 <!-- In this case the feet are much smaller than they could else be made, and elegance is secured at the cost of months of suffering. -->
 Tú-tio̍h lak-kha-tsóiⁿ, kha tsŭ ŭ-piàn pí pa̍t-nâng zú-kèng sòi-chiah, liáu chiá ngiá-thóiⁿ sĭ tio̍h khóu tioh ke kuá₊-kâi-gue̍h chiàⁿ uāⁿ &#x002D;&#x002D;tńg-lâi &#x002D;&#x002D;kâi. 
 <!-- The pain ordinarily continues about a year, then gradually diminishes, till at the end of two years the feet are practically dead and painless. -->
-Chiá kha-thiàⁿ ŭ-thang thiàⁿ chiâⁿ-nîⁿ, liáu chiàⁿ kìⁿ-jît kìⁿ-jît tsua̍h, tán kàu tîⁿ liáu nŏⁿ-nîⁿ chìn-thò, sang-kha tǹg-kuè sí-ne̍k chiàⁿ bŏi-thàiⁿ.
+Chiá kha-thiàⁿ ŭ-thang thiàⁿ chiâⁿ-nîⁿ, liáu chiàⁿ kìⁿ-jît kìⁿ-jît tsua̍h, tán kàu tîⁿ liáu nŏⁿ-nîⁿ chìn-thò, sang-kha tǹg-kuè sí-ne̍k chiàⁿ bŏi-thiàⁿ.
 
 <!-- During this time the victim of fashion sleeps only on her back, lying across the bed, with her feet dangling over the side, so that the edge of the bedstead presses on the nerves behind the knees in such a way as to dull the pain somewhat. -->
 &nbsp;&nbsp;Tŏ chí-tn̄g sî-kan lăi, chiá tîⁿ-kha &#x002D;&#x002D;kâi nâng tio̍h che̍k-sin phah-huêⁿ liáu pêⁿ-sin u̍t tŏ mn̂g-tshn̂g(mîn-tshn̂g) &#x002D;&#x002D;kò, iû-tsăi sang-kha thūi nā phou-kîⁿ, chiòⁿ-seⁿ kha-uat tiâu sîn-keng-kṳn teh tio̍h phou-kîⁿ, hiá kha-thiàⁿ chiàⁿ iáu tsua̍h &#x002D;&#x002D;kò-kiáⁿ.

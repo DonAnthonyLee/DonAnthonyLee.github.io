@@ -25,7 +25,7 @@ liáu chí&#x002D;&#x002D;ē, bí-pn̄g, hṳ̂, chheⁿ-tshài, tṳ-ne̍k, koi
 <!-- He wore shoes with wooden soles an inch thick, and nankeen stockings, with his trousers tucked in at the top, and fastened there by bright blue silk garters. -->
 Yi chhēng che̍k-sang nŏⁿ-kong-hun-kău &#x002D;&#x002D;kâi tshâ-kia̍h, che̍k-sang chhiah-sek &#x002D;&#x002D;kâi bue̍h<a href="#note_2" class="note">2</a>, khòu-kha ēng thian-lâm-sek &#x002D;&#x002D;kâi si-tuà sok tŏ bue̍h-thóng téng-tsat.
 <!-- His jacket was now long and fine, and he wore a black satin cap. -->
-Yi niáⁿ hiûⁿ chí&#x002D;&#x002D;ē iŭ tn̂g iŭ zû, kah tì liáu che̍k-téng ēng tn̄g tsò&#x002D;&#x002D;kâi ou-bō.
+Yi-niáⁿ-hiûⁿ chí&#x002D;&#x002D;ē iŭ tn̂g iŭ zû, kah tì liáu che̍k-téng ēng tn̄g tsò&#x002D;&#x002D;kâi ou-bō.
 <!-- He also began to go to school. -->
 Yi iā khai-sṳ́ khṳ̀ tsṳ-che tha̍k-tsṳ &#x002D;&#x002D;liáu.
 <!-- In reading, he began at what you would call the back of the book, and read down the columns of letters, beginning at the upper right-hand corner of the page, and ending at the lower left-hand corner. -->
