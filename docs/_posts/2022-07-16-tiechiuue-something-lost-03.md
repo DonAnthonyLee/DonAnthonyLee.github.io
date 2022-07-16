@@ -16,11 +16,12 @@ categories: 潮州话
 &emsp;&emsp;这个词在诸多潮州白话字译本中亦极其常用，也见于《卓威廉词典》，而《菲尔德词典》中 “從” 条目不见此组合；现今用法多取其中之一，即 tshông 或 tŏ；另外也存在其他同义词，比如：tùi; iû; chiŭ; tó/ló（可能为 tŏ 之变化） 等等。
 
 + <b>《卓威廉词典》 第 88 页</b>
- **emanate**, *from*, lâu-tshut; huat-tshut; liû-thûan; tshông-tõ hṳ́-kò khí.
+
+ **emanate**, *from*, lâu-tshut; huat-tshut; liû-thûan; ***tshông-tõ*** hṳ́-kò khí.
  <br>
 
  
- ## che̍k-èng
+## che̍k-èng
  
- &emsp;&emsp;这个词意思是 “一直”，在《创世记》第 5 章中接连出现。该词我记得我处祖辈（上世纪 20 年代出生那一代）亦常用，只是现今更多用 che̍k-khùi-thâu; che̍k-hùi; che̍k-huê; 等等较为 “通俗” 的词语了。
+ &emsp;&emsp;这个词意思是 “一直”，在《创世记》第 5 章中接连出现。该词我记得我处祖辈（上世纪 10-20 年代出生那一代）亦常用，只是现今更多用 che̍k-khùi-thâu; che̍k-hùi; che̍k-huê; 等等较为 “通俗” 的词语了。
  
