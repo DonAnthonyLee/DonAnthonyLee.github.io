@@ -7,7 +7,7 @@ categories: 潮州话
 
 {% include puj-style.html %}
 
-&emsp;&emsp;继续[此前话题](https://donanthonylee.github.io/%E6%BD%AE%E5%B7%9E%E8%AF%9D/2022/06/27/tiechiuue-something-lost-02.html)。
+&emsp;&emsp;继续[此前话题](https://donanthonylee.github.io/%E6%BD%AE%E5%B7%9E%E8%AF%9D/2022/07/10/tiechiuue-something-lost-02.html)。
 
 &emsp;&emsp;再来看看另外两个词，这两个词严格上来说并不是 “消失”，而是同义的词较多，也许因而慢慢变化或者退出了日常用法了。
 
@@ -23,5 +23,5 @@ categories: 潮州话
  
 ## che̍k-èng
  
- &emsp;&emsp;这个词意思是 “一直”，在《创世记》第 5 章中接连出现。该词我记得我处祖辈（上世纪 10-20 年代出生那一代）亦常用，只是现今更多用 che̍k-khùi-thâu; che̍k-hùi; che̍k-huê; 等等较为 “通俗” 的词语了。
+ &emsp;&emsp;这个词意思是 “一直”，在《创世记》第 5 章中接连出现。该词我记得我处祖辈（上世纪 10-20 年代出生那一代）亦常用，只是现今更多用 che̍k-khùi-thâu; che̍k-hùi; che̍k-huê 等等较为 “通俗” 的词语了。
  
