@@ -7,7 +7,8 @@ tag: PUJ_essay
 
 {% include puj-style.html %}
 
-**khiau kàu la̍t-soh**, khiau kàu pak-le̍k.
+Thong-sin tn̆g hun-ngṳ̂n, --nâng tàⁿ "khiau kàu la̍t-soh (khiau kàu pak-le̍k)".
+Uán--kò, thó-chè-kiáⁿ phû-hiau-huêⁿ --nâng tàⁿ "hiau kuè pak-te̍k". 
 <br>
 
 注：
