@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 31-32 hio̍h)[*]"
-date:   2022-07-15 12:00:00 +0800
+date:   2022-07-19 11:30:00 +0800
 tag: PUJ_translation
 ---
 
@@ -9,12 +9,17 @@ tag: PUJ_translation
 {% include changlog-table-style.html %}
 
 <!-- The Hakka women do not bind their feet; they lead a vigorous physical life, working chiefly in the open air. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Kheh-ke tsṳ-niôⁿ bô tîⁿ-kha; i--nâng chhiâng-sî tŏ tshù-guā tsoh-khang-khuè, seⁿ-ua̍h kōi-kuè mín khau-peh(ha̍uh-peh).
 <!-- The better custom of these people influences those living on their borders, and the country women in their vicinity do not bind their feet. -->
+Chí-tshoh-nâng chiá hó--kâi hong-so̍k suà iáⁿ-hiáng tio̍h i--nâng sio-keh hioⁿ-lí; chí-tshoh hioⁿ-lí --kâi hioⁿ-ĕ-tsṳ-niôⁿ iā-bô tîⁿ-kha.
 <!-- On their side of Tie Chiu, among those who live in hamlets and small villages, the custom is slowly dying out. -->
+Tŏ Tiê-chiu --kâi che̍k-tshoh hioⁿ-lí-kiáⁿ --kò, tîⁿ-kha --kâi hong-so̍k iā zú-lâi zú-chió-nâng tuè(sĕng) --liáu.
 <!-- In one cluster of hamlets where twenty years ago every girl's feet were bound, no one now binds a daughter's feet. -->
+Che̍k-tshoh hioⁿ-lí-kiáⁿ --kò, jī-tsa̍p-nîⁿ-tsôiⁿ hiá tsṳ-niôⁿ tsn̂g-kâi tîⁿ-kha, hīn-tshṳ́-tsăi bô-nâng tsài lia̍h ka-kī --kâi tsáu₊-kiáⁿ khṳ̀ tîⁿ-kha --liáu. 
 <!-- This laxity is unfortunately confined to the country villages in the neighbourhood of the Hakkas. -->
+Chí-hō-kâi tsṳ̆-tsăi bô-hó-tshái chheng Kheh-ke kha--thâu hiá hioⁿ-ĕ tī-hng chiàⁿ ŭ.
 <!-- In the cities and large towns, all women, except slaves and bond-servants, have deformed feet. -->
+Tŏ siâⁿ-chhĭ kah tuā-tī-mīn --kò, hiá tsṳ-niôⁿ-nâng, tṳ̂-liáu nôu-po̍k kah kòu-kang tshoh-kâi, nâng-nâng sang-kha huán-hêng.
 
 <!-- Foot-binding is not so much a matter of class as of locality. -->
 &nbsp;&nbsp;
