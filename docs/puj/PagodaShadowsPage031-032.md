@@ -9,17 +9,17 @@ tag: PUJ_translation
 {% include changlog-table-style.html %}
 
 <!-- The Hakka women do not bind their feet; they lead a vigorous physical life, working chiefly in the open air. -->
-&nbsp;&nbsp;Kheh-ke tsṳ-niôⁿ bô tîⁿ-kha; i--nâng chhiâng-sî tŏ tshù-guā tsoh-khang-khuè, seⁿ-ua̍h kōi-kuè mín khau-peh(ha̍uh-peh).
+&nbsp;&nbsp;Kheh-ke tsṳ-niôⁿ bô tîⁿ-kha; i&#x002D;&#x002D;nâng chhiâng-sî tŏ tshù-guā tsoh-khang-khuè, seⁿ-ua̍h kōi-kuè mín khau-peh(ha̍uh-peh).
 <!-- The better custom of these people influences those living on their borders, and the country women in their vicinity do not bind their feet. -->
-Chí-tshoh-nâng chiá hó--kâi hong-so̍k suà iáⁿ-hiáng tio̍h i--nâng sio-keh hioⁿ-lí; chí-tshoh hioⁿ-lí --kâi hioⁿ-ĕ-tsṳ-niôⁿ iā-bô tîⁿ-kha.
+Chí-tshoh-nâng chiá hó&#x002D;&#x002D;kâi hong-so̍k suà iáⁿ-hiáng tio̍h i&#x002D;&#x002D;nâng sio-keh hioⁿ-lí; chí-tshoh hioⁿ-lí &#x002D;&#x002D;kâi hioⁿ-ĕ-tsṳ-niôⁿ iā-bô tîⁿ-kha.
 <!-- On their side of Tie Chiu, among those who live in hamlets and small villages, the custom is slowly dying out. -->
-Tŏ Tiê-chiu --kâi che̍k-tshoh hioⁿ-lí-kiáⁿ --kò, tîⁿ-kha --kâi hong-so̍k iā zú-lâi zú-chió-nâng tuè(sĕng) --liáu.
+Tŏ Tiê-chiu &#x002D;&#x002D;kâi che̍k-tshoh hioⁿ-lí-kiáⁿ &#x002D;&#x002D;kò, tîⁿ-kha &#x002D;&#x002D;kâi hong-so̍k iā zú-lâi zú-chió-nâng tuè(sĕng) &#x002D;&#x002D;liáu.
 <!-- In one cluster of hamlets where twenty years ago every girl's feet were bound, no one now binds a daughter's feet. -->
-Che̍k-tshoh hioⁿ-lí-kiáⁿ --kò, jī-tsa̍p-nîⁿ-tsôiⁿ hiá tsṳ-niôⁿ tsn̂g-kâi tîⁿ-kha, hīn-tshṳ́-tsăi bô-nâng tsài lia̍h ka-kī --kâi tsáu₊-kiáⁿ khṳ̀ tîⁿ-kha --liáu. 
+Che̍k-tshoh hioⁿ-lí-kiáⁿ &#x002D;&#x002D;kò, jī-tsa̍p-nîⁿ-tsôiⁿ hiá tsṳ-niôⁿ tsn̂g-kâi tîⁿ-kha, hīn-tshṳ́-tsăi bô-nâng tsài lia̍h ka-kī &#x002D;&#x002D;kâi tsáu₊-kiáⁿ khṳ̀ tîⁿ-kha &#x002D;&#x002D;liáu. 
 <!-- This laxity is unfortunately confined to the country villages in the neighbourhood of the Hakkas. -->
-Chí-hō-kâi tsṳ̆-tsăi bô-hó-tshái chheng Kheh-ke kha--thâu hiá hioⁿ-ĕ tī-hng chiàⁿ ŭ.
+Chí-hō-kâi tsṳ̆-tsăi bô-hó-tshái chheng Kheh-ke kha&#x002D;&#x002D;thâu hiá hioⁿ-ĕ tī-hng chiàⁿ ŭ.
 <!-- In the cities and large towns, all women, except slaves and bond-servants, have deformed feet. -->
-Tŏ siâⁿ-chhĭ kah tuā-tī-mīn --kò, hiá tsṳ-niôⁿ-nâng, tṳ̂-liáu nôu-po̍k kah kòu-kang tshoh-kâi, nâng-nâng sang-kha huán-hêng.
+Tŏ siâⁿ-chhĭ kah tuā-tī-mīn &#x002D;&#x002D;kò, hiá tsṳ-niôⁿ-nâng, tṳ̂-liáu nôu-po̍k kah kòu-kang tshoh-kâi, nâng-nâng sang-kha huán-hêng.
 
 <!-- Foot-binding is not so much a matter of class as of locality. -->
 &nbsp;&nbsp;
@@ -70,4 +70,5 @@ Tŏ siâⁿ-chhĭ kah tuā-tī-mīn --kò, hiá tsṳ-niôⁿ-nâng, tṳ̂-liá
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-19 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/afead2917d89a0bf618b4292211a2645a565eda9" target="_blank">finish the first paragraph</a> |
 | 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/6d02da4c3c0f148a7f157af3ea372779f07970ef" target="_blank">add PagodaShadowsPage030-032</a> |
