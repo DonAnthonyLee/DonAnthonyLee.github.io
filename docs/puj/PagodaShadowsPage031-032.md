@@ -22,12 +22,17 @@ Chí-hō-kâi tsṳ̆-tsăi bô-hó-tshái chheng Kheh-ke kha&#x002D;&#x002D;th�
 Tŏ siâⁿ-chhĭ kah tuā-tī-mīn &#x002D;&#x002D;kò, hiá tsṳ-niôⁿ-nâng, tṳ̂-liáu nôu-po̍k kah kòu-kang tshoh-kâi, nâng-nâng sang-kha huán-hêng.
 
 <!-- Foot-binding is not so much a matter of class as of locality. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Tîⁿ-kha chiá mue̍h-kiăⁿ-sṳ̄ kah siă-huĕ-kai-tsân bô-mih siang-kan, tò-sĭ kah kŭ-thí tī-hng iáu-tuā kuan-hĭ.
 <!-- Near the coast, even in the farmsteads and among the most indigent, every woman has bound feet. -->
+Uá-kṳ̆n hái-kîⁿ-kha, nâng thih-khiau, sĭm-chì tsoh-lông &#x002D;&#x002D;kâi, hiá tsṳ-niôⁿ-nâng iā kai-kai tîⁿ-kha.
 <!-- It is not a voucher for respectability, for the vilest are often bound-footed. -->
+Chiá-mue̍h-kiăⁿ-sṳ̄ iā m̆-sĭ lia̍h-lâi tsò miâⁿ-sek-tói &#x002D;&#x002D;kâi,  in-ūi hiá siăng tshou-phue &#x002D;&#x002D;kâi iā tsōi-kâi tîⁿ-kha.
 <!-- Neither is it a sign of wealth, for in those places where the custom prevails, the poorest follow it. -->
+Yi iā m̆-sĭ tsún-zû i&#x002D;&#x002D;nâng ŭ-chîⁿ &#x002D;&#x002D;kâi, in-ūi tŏ sĕng-kiâⁿ chí-chéng hong-so̍k &#x002D;&#x002D;kâi tī-hng, hiá siăng bô-chîⁿ &#x002D;&#x002D;kiâ iā sio-tuè tîⁿ-kha.
 <!-- Inferior wives, unless they come as bond-maids into the household, are usually bound-footed women. -->
+Kè pun &#x002D;&#x002D;nâng tsò jī-nâng &#x002D;&#x002D;kâi, nâ-m̆-sĭ nguân-tsá tŏ hṳ́-ke-nâng &#x002D;&#x002D;kò tsò ia-huân &#x002D;&#x002D;kâi, tsōi-kâi iā tîⁿ-kha. 
 <!-- Taking all China together, probably nine-tenths of the women have bound feet. -->
+Lia̍h tshuân Tong-kok tsò-che̍k-ē sǹg-lo̍h, ùiⁿ-tit hiá tsṳ-niôⁿ-nâng ŭ tîⁿ-kha &#x002D;&#x002D;kâi chiàm tioh ŭ káu-siâⁿ.
 
 <!-- The evils that accrue from this custom are very great. -->
 &nbsp;&nbsp;
