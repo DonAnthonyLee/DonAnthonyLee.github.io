@@ -27,7 +27,7 @@ Tio̍h hiá ke-sṳ̄ kuè-ŭ &#x002D;&#x002D;kâi chiàⁿ năi-ŏi-tit-khṳ̀
 <!-- Middle-class women, with bound feet, sometimes walk four or five miles in a day. -->
 &nbsp;&nbsp;Ke-sṳ̄ tong-pān-tong-pān iŭ tîⁿ-kha &#x002D;&#x002D;kâi tsṳ-niôⁿ-nâng, lân-sî che̍k-jît tio̍h kiâⁿ tioh che̍k-nŏⁿ-phòu-lōu.
 <!-- Many whose feet are apparently bound have natural shaped feet, merely dressed in the style of the bound-footed. -->
-Che̍k-tshoh tsṳ-niôⁿ-nâng thóiⁿ-tio̍h ŭ-tîⁿ-kha &#x002D;&#x002D;kâi sang-kha li iáu khuah-pán(khuah-phiáng), tuaⁿ-tī(tuaⁿ-tí) chhēng-liáu jiân tîⁿ-kha-khuán &#x002D;&#x002D;tiaⁿ.
+Che̍k-tshoh tsṳ-niôⁿ-nâng thóiⁿ-tio̍h ŭ-tîⁿ-kha &#x002D;&#x002D;kâi sang-kha li iáu khuah-pán(khuah-phiáng), tuaⁿ-tī chhēng-liáu jiân tîⁿ-kha-khuán &#x002D;&#x002D;tiaⁿ.
 <!-- In some villages, the girls have their feet slightly bound just before marriage, and unbind them soon after the wedding festivities are past. -->
 Che̍k-tshoh hioⁿ-lí &#x002D;&#x002D;kò, hiá tsṳ-niôⁿ-kiáⁿ sin-hun-tsôiⁿ ké-ì zuăn &#x002D;&#x002D;tîⁿ-ē-kha, liáu tuā-lói kiâⁿ&#x002D;&#x002D;kuè tsŭ méⁿ-méⁿ pit-pak-tiāu.
 <!-- In some hamlets the women are all large-footed, and wade streams and walk long distances bare-footed; -->
