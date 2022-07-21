@@ -50,6 +50,7 @@ liáu khṳ̀-kàu koi-chhĭ a-sĭ lîm-tshún tsò-tsoih, i&#x002D;&#x002D;nân
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/1d8672f8946260feaad6cc048bf6a7b807f26c23" target="_blank">remove the rare expression of "only" which might come from affecting by Mandarin</a> |
 | 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/49c59c00f044996e65de2d7594deb7db31855520" target="_blank">add comment and adjust tone of translation of "support"</a> |
 | 2022-07-18 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b59dce077ee6e452b495ea32e70aebd942f9bab0" target="_blank">add translation for "helpless"</a> |
 | 2022-07-15 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/aee2a7d788aaf20827db71950fa648d014ccfed3" target="_blank">PagodaShadowsPage030.md complete</a> |
