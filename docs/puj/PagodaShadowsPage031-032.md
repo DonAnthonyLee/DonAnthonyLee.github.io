@@ -83,6 +83,7 @@ Chiá-hong-so̍k sĭ-kài tī-seⁿ tshut-tshú, nîⁿ-ko khah-tn̂g, bô-nâng
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a4c6ee45e44a1e21025563d7654e81d01cc11158" target="_blank">finish the third paragraph</a> |
 | 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0b138ac98862d6867bd491a732902b54afb724dd" target="_blank">add internal comment and change the translation of "bond-maids"</a> |
 | 2022-07-20 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/aa176f9e997a3e89e7f7e85e0cd4acf66f5425fd" target="_blank">finish the second paragraph</a> |
 | 2022-07-19 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/afead2917d89a0bf618b4292211a2645a565eda9" target="_blank">finish the first paragraph</a> |
