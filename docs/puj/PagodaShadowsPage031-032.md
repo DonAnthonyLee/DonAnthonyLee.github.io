@@ -76,6 +76,7 @@ Lia̍h tshuân Tong-kok tsò-che̍k-ē sǹg-lo̍h, ùiⁿ-tit hiá tsṳ-niô�
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0b138ac98862d6867bd491a732902b54afb724dd" target="_blank">add internal comment and change the translation of "bond-maids"</a> |
 | 2022-07-20 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/aa176f9e997a3e89e7f7e85e0cd4acf66f5425fd" target="_blank">finish the second paragraph</a> |
 | 2022-07-19 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/afead2917d89a0bf618b4292211a2645a565eda9" target="_blank">finish the first paragraph</a> |
 | 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/6d02da4c3c0f148a7f157af3ea372779f07970ef" target="_blank">add PagodaShadowsPage030-032</a> |
