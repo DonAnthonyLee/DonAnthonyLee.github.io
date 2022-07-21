@@ -50,6 +50,7 @@ liáu khṳ̀-kàu koi-chhĭ a-sĭ lîm-tshún tsò-tsoih, i&#x002D;&#x002D;nân
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/49c59c00f044996e65de2d7594deb7db31855520" target="_blank">add comment and adjust tone of translation of "support"</a> |
 | 2022-07-18 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b59dce077ee6e452b495ea32e70aebd942f9bab0" target="_blank">add translation for "helpless"</a> |
 | 2022-07-15 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/aee2a7d788aaf20827db71950fa648d014ccfed3" target="_blank">PagodaShadowsPage030.md complete</a> |
 | 2022-07-14 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/6d02da4c3c0f148a7f157af3ea372779f07970ef" target="_blank">add PagodaShadowsPage030-032</a> |
