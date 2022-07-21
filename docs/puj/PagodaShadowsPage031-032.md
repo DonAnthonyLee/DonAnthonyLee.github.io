@@ -17,7 +17,7 @@ Tŏ Tiê-chiu &#x002D;&#x002D;kâi che̍k-tshoh hioⁿ-lí-kiáⁿ &#x002D;&#x00
 <!-- In one cluster of hamlets where twenty years ago every girl's feet were bound, no one now binds a daughter's feet. -->
 Che̍k-tshoh hioⁿ-lí-kiáⁿ &#x002D;&#x002D;kò, jī-tsa̍p-nîⁿ-tsôiⁿ hiá tsṳ-niôⁿ tsn̂g-kâi tîⁿ-kha, hīn-tshṳ́-tsăi bô-nâng tsài lia̍h ka-kī &#x002D;&#x002D;kâi tsáu₊-kiáⁿ khṳ̀ tîⁿ-kha &#x002D;&#x002D;liáu. 
 <!-- This laxity is unfortunately confined to the country villages in the neighbourhood of the Hakkas. -->
-Chí-hō-kâi tsṳ̆-tsăi bô-hó-tshái chheng Kheh-ke kha&#x002D;&#x002D;thâu hiá hioⁿ-ĕ tī-hng chiàⁿ ŭ.
+Chí-hō-kâi tsṳ̆-tsăi bô-hó-tshái chheng kah Kheh-ke sio-kiam-kài hiá hioⁿ-ĕ tī-hng chiàⁿ ŭ&#x002D;&#x002D;tit.
 <!-- In the cities and large towns, all women, except slaves and bond-servants, have deformed feet. -->
 Tŏ siâⁿ-chhĭ kah tuā-tī-mīn &#x002D;&#x002D;kò, hiá tsṳ-niôⁿ-nâng, tṳ̂-liáu nôu-po̍k kah kòu-kang tshoh-kâi, nâng-nâng sang-kha huán-hêng.
 
@@ -36,14 +36,21 @@ Kè pun &#x002D;&#x002D;nâng tsò jī-nâng &#x002D;&#x002D;kâi, nâ-m̆-sĭ n
 Lia̍h tshuân Tong-kok tsò-che̍k-ē sǹg-lo̍h, ùiⁿ-tit hiá tsṳ-niôⁿ-nâng ŭ tîⁿ-kha &#x002D;&#x002D;kâi chiàm tioh ŭ káu-siâⁿ.
 
 <!-- The evils that accrue from this custom are very great. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Chí-chéng hóng-so̍k tsṳ̀-seⁿ(tsuàⁿ-seⁿ) hiá ak-sèⁿ hīn-siăng kuè-tsōi.
 <!-- It makes cripples of nearly half the population, and adds immensely to the misery of the poverty-stricken multitudes. -->
+Yi chiau-tsat(tsau-that) kàu che̍k-uê-nâng kuáiⁿ-kha-chhiăng-chhiú, liáu khùn-khóu-nâng-ke seⁿ-ua̍h zú-kèng taⁿ-tăng-tàⁿ.
 <!-- It disables women from supporting themselves and from caring for their children, and is one of the causes of the great prevalence of infanticide. -->
+Yi chhîp-at liáu hiá tsṳ-niôⁿ-nâng tsò-che̍k-ē bô-piàn ka-kī ióⁿ-ua̍h ka-kī kah nou-kiáⁿ, chiá-kâi sĭ sì-tshù ŭ kek-sí nou-kiáⁿ hiá hīn-siăng &#x002D;&#x002D;kâi in-iû tsṳ-che̍k. 
 <!-- It renders women too weak to keep their houses clean, and makes their homes filthy and cheerless. -->
+Yi tău-tì hiá tsṳ-niôⁿ-nâng nńg-chiáⁿ kàu bô-piàn siu-sàu tshù-lăi, mue̍h-kàu tshù-lăi thong-koiⁿ chhi-gî-chhi-tak, zṳ̂-thâu-tin-tò.
 <!-- It incapacitates woman for travelling, and keeps her and her thoughts in the narrowest of spheres. -->
+Yi pé-pa̍k liáu hiá tsṳ-niôⁿ-nâng bô-piàn tshut-mn̂g, lia̍h i&#x002D;&#x002D;nâng kah i&#x002D;&#x002D;nâng &#x002D;&#x002D;kâi thâu-náu só-sí tŏ khih-kiáⁿ-tuā &#x002D;&#x002D;kâi huăm-ûi lăi.
 <!-- Why any should follow so pernicious a practice is one of the mysteries of human perversity. -->
+Tsò-nî ŏi ŭ-nâng tuè chiá ṳ̀-tsṳ̀ ak-sèⁿ &#x002D;&#x002D;kâi mue̍h-kiăⁿ-sṳ̄, chí-kâi mn̄g-tôi iā-sĭ nâng-lūi siâ-phiah mĭ-tôi tsṳ-che̍k. 
 <!-- There is no law that women shall bind their feet, and the women of the imperial palace at Peking are all natural-footed. -->
+Bô lu̍t-lī kui-tiāⁿ tsṳ-niôⁿ-nâng tio̍h tîⁿ-kha, liáu Pak-kiaⁿ hiá huâng-keng &#x002D;&#x002D;kò &#x002D;&#x002D;kâi tsṳ-niôⁿ-nâng lóng-tsóng bô tîⁿ-kha.
 <!-- The origin of the custom is unknown lost in the mists of antiquity. -->
+Chiá-hong-so̍k sĭ-kài tī-seⁿ tshut-tshú, nîⁿ-ko khah-tn̂g, bô-nâng ŏi tsai.
 
 <!-- The only reason that I have heard in favour of it, aside from the common one that women would be laughed at and despised if their feet were like men's, was given me by a man, who said that it was necessary that women's feet should be bound, else they would be as strong as their husbands, and then they could not be kept in subjection by beating. -->
 &nbsp;&nbsp;
