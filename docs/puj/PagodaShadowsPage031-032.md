@@ -31,7 +31,7 @@ Chiá-mue̍h-kiăⁿ-sṳ̄ iā m̆-sĭ lia̍h-lâi tsò miâⁿ-sek-tói &#x002
 Yi iā m̆-sĭ tsún-zû i&#x002D;&#x002D;nâng ŭ-chîⁿ &#x002D;&#x002D;kâi, in-ūi tŏ sĕng-kiâⁿ chí-chéng hong-so̍k &#x002D;&#x002D;kâi tī-hng, hiá siăng bô-chîⁿ &#x002D;&#x002D;kâi iā sio-tuè tîⁿ-kha.
 <!-- Inferior wives, unless they come as bond-maids into the household, are usually bound-footed women. -->
 Kè pun &#x002D;&#x002D;nâng tsò jī-nâng &#x002D;&#x002D;kâi, nâ-m̆-sĭ nguân-tsá tŏ hṳ́-ke-nâng &#x002D;&#x002D;kò tsò a-huân &#x002D;&#x002D;kâi, tsōi-kâi iā tîⁿ-kha.
-<!-- 注：“丫环” 在《菲尔德词典》中读 hia-huân，而译者处 “丫” 有俗读音 ia，现更改为文读音 a-huân 。 --> 
+<!-- 注：“丫环” 在《菲尔德词典》中读 hia-huân，而译者处 “丫” 有俗读音 ia，现更改为文读音 a-huân 。 -->
 <!-- Taking all China together, probably nine-tenths of the women have bound feet. -->
 Lia̍h tshuân Tong-kok tsò-che̍k-ē sǹg-lo̍h, ùiⁿ-tit hiá tsṳ-niôⁿ-nâng ŭ tîⁿ-kha &#x002D;&#x002D;kâi chiàm tioh ŭ káu-siâⁿ.
 
