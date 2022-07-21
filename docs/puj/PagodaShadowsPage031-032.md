@@ -36,7 +36,7 @@ Kè pun &#x002D;&#x002D;nâng tsò jī-nâng &#x002D;&#x002D;kâi, nâ-m̆-sĭ n
 Lia̍h tshuân Tong-kok tsò-che̍k-ē sǹg-lo̍h, ùiⁿ-tit hiá tsṳ-niôⁿ-nâng ŭ tîⁿ-kha &#x002D;&#x002D;kâi chiàm tioh ŭ káu-siâⁿ.
 
 <!-- The evils that accrue from this custom are very great. -->
-&nbsp;&nbsp;Chí-chéng hóng-so̍k tsṳ̀-seⁿ(tsuàⁿ-seⁿ) hiá ak-sèⁿ hīn-siăng kuè-tsōi.
+&nbsp;&nbsp;Chí-chéng hong-so̍k tsṳ̀-seⁿ(tsuàⁿ-seⁿ) hiá ak-sèⁿ hīn-siăng kuè-tsōi.
 <!-- It makes cripples of nearly half the population, and adds immensely to the misery of the poverty-stricken multitudes. -->
 Yi chiau-tsat(tsau-that) kàu che̍k-uê-nâng kuáiⁿ-kha-chhiăng-chhiú, liáu khùn-khóu-nâng-ke seⁿ-ua̍h zú-kèng taⁿ-tăng-tàⁿ.
 <!-- It disables women from supporting themselves and from caring for their children, and is one of the causes of the great prevalence of infanticide. -->
