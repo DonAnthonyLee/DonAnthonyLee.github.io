@@ -9,7 +9,8 @@ tag: PUJ_translation
 {% include changlog-table-style.html %}
 
 <!-- In walking, the small-footed lean on a child's shoulder or use a supporting staff. -->
-&nbsp;&nbsp;Siáu-khiáu-kha &#x002D;&#x002D;kâi, kiâⁿ-lōu tio̍h che̍k-chhiú huāⁿ piⁿ&#x002D;&#x002D;thâu nou-kiáⁿ &#x002D;&#x002D;kâi koiⁿ-thâu a-sĭ kṳ̆ ki kuáiⁿ-chiăng.
+&nbsp;&nbsp;Siáu-khiáu-kha &#x002D;&#x002D;kâi, kiâⁿ-lōu tio̍h che̍k-chhiú huāⁿ piⁿ&#x002D;&#x002D;thâu nou-kiáⁿ &#x002D;&#x002D;kâi koiⁿ-thâu a-sĭ kṳ̂ ki kuáiⁿ-chiăng.
+<!-- 注：“拄”拐杖 的 “拄” 义，声调暂按《菲尔德词典》中所注（kṳ̂），译者对该音所记忆声调（kṳ̆）有点不甚确定，待确定后若有差异再注明。 -->
 <!-- Those who can afford it, have large-footed female slaves who carry them about on their backs, for short distances. -->
 Hṳ́-tshoh ŭ-chîⁿ &#x002D;&#x002D;kâi, che̍k-tsăm-kiáⁿ-lōu iā kiò kâi tuā-kha-nôu-pĭ iăng(iă) i lâi-lâi-khṳ̀-khṳ̀.
 <!-- I have been to visit a wealthy family and had the neighbouring ladies come in to see me, each riding pick-a-back on her slave. -->
