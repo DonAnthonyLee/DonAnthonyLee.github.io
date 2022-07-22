@@ -65,9 +65,9 @@ Hái-suaⁿ lău Lí<br>
 # MA̍K-LO̍K
 
 <!-- The Status of Woman -->
-1. [Tsṳ-niôⁿ-nâng --kâi Kéng-ngŏ](PagodaShadowsPage001.html)
+1. [Tsṳ-niôⁿ-nâng &#x002D;&#x002D;kâi Kéng-ngŏ](PagodaShadowsPage001.html)
 <!-- Child-life in Cathay: The Story of Number Four -->
-2. [Tong-kok Nou-kiáⁿ Seⁿ-ua̍h: A-sì --kâi Kū-sṳ̄](PagodaShadowsPage009.html)
+2. [Tong-kok Nou-kiáⁿ Seⁿ-ua̍h: A-sì &#x002D;&#x002D;kâi Kū-sṳ̄](PagodaShadowsPage009.html)
 3. The Extent of a Great Crime [Buē-e̍k]
 <!-- Foot-binding -->
 4. [Phuân-kiok-kiáu](PagodaShadowsPage027.html)
