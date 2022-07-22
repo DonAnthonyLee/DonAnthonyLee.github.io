@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tsôiⁿ-ngân)"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tsôiⁿ-ngân, Ma̍k-lo̍k)"
 date:   2022-06-09 18:40:00 +0800
 tag: PUJ_translation
 ---
@@ -56,7 +56,54 @@ Tong-kok, Suàⁿ-thâu, 1887 &#x002D;&#x002D;nîⁿ
 
 Hái-suaⁿ lău Lí<br>
 2022 &#x002D;&#x002D;nîⁿ
-<!-- 内注 1：译者在 2007 年左右尝试编写幼儿母语启蒙课程时因遇到多样性问题而放弃，对潮州话各地区多样性感触颇深。一种方言，不仅仅只是语音，还包括词汇；而词汇的背后恰恰与地方文化息息相关，不同喜好的人群必然对词汇的选择甚至书面语、外来词等接纳都存在不同。甚至于当时还有某位仁兄讽刺译者在说“闽南语”，因为译者的家乡土话在词汇上（甚至语法上）都与这位仁兄差别甚大；譬如，译者的家乡土话有些词语（比如 tsò-tse̍k-ē）不合音，得（tit）等助词用得相当频繁，甚至于 “ugly” 的表述，译者处有 bái; bái-thóiⁿ; bái-khuàⁿ; mó-thóiⁿ; thái-ko 等等一大堆词汇，有怎可能去用那 “chhiú-lŏu” 一词呢？要译者去用，真不会。-->
+<!-- 内注 1：译者在 2007 年左右尝试编写幼儿母语启蒙课程时因遇到多样性问题而放弃，对潮州话各地区多样性感触颇深。一种方言，不仅仅只是语音，还包括词汇；而词汇的背后恰恰与地方文化息息相关，不同喜好的人群必然对词汇的选择甚至书面语、外来词等接纳都存在不同。甚至于当时还有某位仁兄讽刺译者在说“闽南语”，因为译者的家乡土话在词汇上（甚至语法上）都与这位仁兄差别甚大；譬如，译者的家乡土话有些词语（比如 tsò-che̍k-ē）不合音，得（tit）等助词用得相当频繁，甚至于 “ugly” 的表述，译者处有 bái; bái-thóiⁿ; bái-khuàⁿ; mó-thóiⁿ; thái-ko 等等一大堆词汇，有怎可能去用那 “chhiú-lŏu” 一词呢？ -->
 <!-- 内注 2：故此，《Pagoda Shadows》一书的白话字译文虽然以译者的家乡土话为主，但会夹杂着《菲尔德词典》中出现的大量相关词，甚至《卓威廉词典》中的一些在现今还会使用的词语，但是译者使用前会反复斟酌并参考有限资料来使用，以免牛头不对马嘴。而对于那些动不动就鼓吹 “潮州话”、“潮汕话”、“潮语” 如何如何的各路专家、学者、高人，若不幸本文被你们所见到，请读过前三至四章译文再来批判这段言语。 -->
+
+<br>
+<br>
+<!-- CONTENTS -->
+# MA̍K-LO̍K
+
+<!-- The Status of Woman -->
+1. [Tsṳ-niôⁿ-nâng --kâi Kéng-ngŏ](PagodaShadowsPage001.html)
+<!-- Child-life in Cathay: The Story of Number Four -->
+2. [Tong-kok Nou-kiáⁿ Seⁿ-ua̍h: A-sì --kâi Kū-sṳ̄](PagodaShadowsPage009.html)
+3. The Extent of a Great Crime [Buē-e̍k]
+<!-- Foot-binding -->
+4. [Phuân-kiok-kiáu](PagodaShadowsPage027.html)
+5. An Espousal [Buē-e̍k]
+6. The Invisible Bridegroom [Buē-e̍k]
+7. Habitations [Buē-e̍k]
+8. The Inconvenience of Heathenism [Buē-e̍k]
+9. Spiritualism [Buē-e̍k]
+10. The Kitchen-god [Buē-e̍k]
+11. The Influence of the Idols [Buē-e̍k]
+12. The Stone Princess and her Train [Buē-e̍k]
+13. Buddhist Nuns [Buē-e̍k]
+14. Loan Associations [Buē-e̍k]
+15. Our Apothecary [Buē-e̍k]
+16. Ramblings [Buē-e̍k]
+17. Native Female Evangelists [Buē-e̍k]
+18. Biography of Little Gale [Buē-e̍k]
+19. The Autobiography of Aunt Luck [Buē-e̍k]
+20. The Story of Speed and the Bamboo Dragon [Buē-e̍k]
+21. Gold Getter [Buē-e̍k]
+22. Keepsake [Buē-e̍k]
+23. Orchid Loses seven-tenths of her Sorrow [Buē-e̍k]
+24. Love's Purposes [Buē-e̍k]
+25. One Night's Work [Buē-e̍k]
+26. The Herb that Grew on a Pirate Island [Buē-e̍k]
+27. Tapestry [Buē-e̍k]
+28. Out of the Depths [Buē-e̍k]
+29. The Mists of Morning [Buē-e̍k]
+30. Light at Eventide [Buē-e̍k]
+31. How a Familiar Spirit was Ejected from a Household. - The Story Told by
+Tolerance [Buē-e̍k]
+32. The Pillars of the Church at South Spur [Buē-e̍k]
+33. Silver Flower's Account of Herself [Buē-e̍k]
+34. Language, Literature, and Folk-lore. [Buē-e̍k]
+35. The Sphere of Women's Work in China [Buē-e̍k]
+<br>
+
 
 ***[后页](PagodaShadowsPage001.html)***
