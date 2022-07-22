@@ -23,7 +23,7 @@ siá siáu-sueh &#x002D;&#x002D;kâi li hàuⁿ o-ló kiam pòng-hong<a href="#n
 <!-- Knowing writers about China tell us eloquently and truly of its system for the examination and promotion of scholars, and lead one to infer that education is nearly universal. -->
 Hàn-ha̍k-ke&#x002D;&#x002D;hué kah ún<a href="#note_3" class="note">3</a> phue̍h Tong-kok &#x002D;&#x002D;kâi khue-kṳ́-chì-tōu phue̍h kàu ŭ-iáⁿ-ŭ-chiah, hāi &#x002D;&#x002D;nâng siŏⁿ-tsò-tàⁿ Tong-kok-nâng nâng-nâng ŭ tha̍k-tsṳ.
 <!-- In almost every village there is a private school in which a few boys are taught to read; but the proportion of those taught is very small, and native girls' schools are almost unknown. -->
-Tsōi-kâi hioⁿ-lí to ŭ phōiⁿ tsṳ-che kà che̍k-tshoh ta-pou-kiáⁿ pat-jī; sĭ-tàⁿ só-kà iā chiàⁿ lân-kúi teng &#x002D;&#x002D;tiaⁿ⁎<a href="#note_4" class="note">4</a>, liáu tsuan-mn̂g kà tsṳ-niôⁿ-kiáⁿ &#x002D;&#x002D;kâi tsṳ-che li suà tshuē bô-hûn-iáⁿ.
+Tsōi-kâi hioⁿ-lí to ŭ phōiⁿ tsṳ-che kà che̍k-tshoh ta-pou-kiáⁿ pat-jī; sĭ-tàⁿ só-kà iā chiàⁿ lân-kúi teng &#x002D;&#x002D;tiaⁿ<a href="#note_4" class="note">4</a>, liáu tsuan-mn̂g kà tsṳ-niôⁿ-kiáⁿ &#x002D;&#x002D;kâi tsṳ-che li suà tshuē bô-hûn-iáⁿ.
 <!-- Of the men, not more than one in a hundred can read; and of women, I have seen few outside the Christian mission-schools who could read, except those despised little girls who act in theatres. In the whole empire, probably not more than one woman in a thousand knows how to read. -->
 Ta-pou &#x002D;&#x002D;kâi, peh-nâng lăi-pôiⁿ ŏi pat-jī &#x002D;&#x002D;kâi siăng-ke che̍k-nâng; Tsṳ-niôⁿ &#x002D;&#x002D;kâi, m̆-sǹg hṳ́-tshoh<a href="#note_5" class="note">5</a> khṳh &#x002D;&#x002D;nâng phì-siòⁿ &#x002D;&#x002D;kâi tsṳ-niôⁿ-kiáⁿ hì-kiáⁿ, ŏi pat-jī &#x002D;&#x002D;kâi uá m̆-pat tŏ Ki-tok kà-huĕ-ha̍k-hău guā-pôiⁿ thóiⁿ&#x002D;&#x002D;kìⁿ-kuè.
 <!-- In the whole empire, probably not more than one woman in a thousand knows how to read. -->
@@ -38,7 +38,7 @@ Sĭm-chì i&#x002D;&#x002D;nâng huáⁿ₊ ŭ-piàn khṳh &#x002D;&#x002D;nân
 1. <span id="note_1">lâ-muāⁿ, 遍布；</span>
 2. <span id="note_2">pòng-hong, 夸大；</span>
 3. <span id="note_3">ún, 我们，此处采用作者所著词典中读法。现今部分地区读 uán[g]，原读 ún 的地区亦有变化为 ńg 者，后续篇章将沿用 ún；</span>
-4. <span id="note_4">&#x002D;&#x002D;tiaⁿ⁎, 而已；仅此。声调符合平声轻声调或近似阳去，某些场合亦读 &#x002D;&#x002D;niaⁿ；</span>
+4. <span id="note_4">&#x002D;&#x002D;tiaⁿ, 而已；仅此。声调符合平声轻声调或近似阳去，某些场合亦读 &#x002D;&#x002D;niaⁿ；</span>
 5. <span id="note_5">hṳ́, 那。存在 -ṳ́ 读法的部分地区有读 hí，后续篇章单用时将沿用 hṳ́；</span>
 6. <span id="note_6">seng-piáu, 旌表；</span>
 7. <span id="note_7">in-ūi，“因为”文读音；此词各地读音有差，此处按作者所著词典读音。</span>
