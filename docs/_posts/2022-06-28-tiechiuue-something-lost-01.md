@@ -20,7 +20,7 @@ categories: 潮州话
 
 
 方便不太懂得 PUJ 的朋友阅读，我暂且拄斗一下汉罗版（请勿计较是否本字、俗字、训用字等等，看得懂则可）：<br>
-> <i>&emsp;&emsp;这个声蜀下听见，众侬就聚集愕愕，因为各侬听见𪜶呾话，听着是家己其吐谈。众侬就惊疑怪异，呾，啊！这 chiàⁿ 个呾话其岂毋拢总是加利利侬，么？作麽咱听着𪜶其话就是咱各侬家己所生其吐谈，呢？</i>
+> <i>&emsp;&emsp;这个声蜀下听见，众侬就聚集愕愕，因为各侬听见𪜶呾话，听着是家己其土谈。众侬就惊疑怪异，呾，啊！这 chiàⁿ 个呾话其岂毋拢总是加利利侬，么？作麽咱听着𪜶其话就是咱各侬家己所生其土谈，呢？</i>
 
 英文版：<br>
 > <i>&nbsp;&nbsp;Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.</i>
