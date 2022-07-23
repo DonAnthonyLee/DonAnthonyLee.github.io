@@ -67,6 +67,7 @@ Tŏ chí-kâi Ki-tok kà-ngĭ &#x002D;&#x002D;kâi kám-huè kah chĕng-huè hā
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/ce09a168959f62ddaa13d3868ec4917055d0430f" target="_blank">update comments</a> |
 | 2022-07-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/9f94965d056a59cfb618a16e6a7ac856afaf446b" target="_blank">add internal comments about "chéng-tsa̍k"</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-23 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4502ca4e0aab7d482f827a52f8466a3bef5e7dac" target="_blank">modified for style</a> |
