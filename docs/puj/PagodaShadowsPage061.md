@@ -52,3 +52,7 @@ tag: PUJ_translation
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-07-25 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/f7f73911c7fbbdd82b8c4fdf263e27e3f072c79f" target="_blank">add PagodaShadowsPage061.md</a> |
