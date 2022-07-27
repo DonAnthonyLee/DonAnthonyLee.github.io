@@ -37,7 +37,7 @@ Tŏ hiá khoi-kîⁿ &#x002D;&#x002D;kò, kàu-phŏ-tek khṳh nâng khóm-tiāu
 Chiá-kâi i&#x002D;&#x002D;nâng iā sîm-tio̍h⁎ ŭ-sîn-chiah, liáu che̍k-tuā-thua nâng-khûn sio-lûn tŏ chí-phŏ-te̍k thâu-tsôiⁿ sio-hioⁿ kah kŭiⁿ-pài hṳ́-kò &#x002D;&#x002D;kâi sîn-mêng.
 
 <!-- All the chief gods have their birthdays on which they are specially worshipped, as well as at the great festivals, and at the new and the full of each moon. -->
-&nbsp;&nbsp;Hṳ́-tshoh-kâi iáu-chiàⁿ &#x002D;&#x002D;kâi sîn-lêng to-ŭ seⁿ-jît; tṳ̂-liáu hiá seⁿ-jît &#x002D;&#x002D;sî &#x002D;&#x002D;nâng tsuan-kang pài &#x002D;&#x002D;in, hông-tio̍h tuā-tsoih, chhiu-it tsa̍p-ngŏu, lóng ŭ&#x002D;&#x002D;nâng pài.
+&nbsp;&nbsp;Hṳ́-tshoh-kâi iáu-chiàⁿ &#x002D;&#x002D;kâi sîn-lêng to-ŭ seⁿ-jît; tṳ̂-liáu hiá seⁿ-jît &#x002D;&#x002D;sî &#x002D;&#x002D;nâng tsuan-kang pài &#x002D;&#x002D;in, hông-tio̍h tuā-tsoih, chhiu-it tsa̍p-ngŏu, lóng ŭ-nâng pài.
 
 <!-- Many of the greater gods have representatives in the family, and ashes from the incense-pots in the temples are frequently brought and worshipped in the houses. -->
 &nbsp;&nbsp;Tsōi-kâi tsú-sîn tŏ i&#x002D;&#x002D;nâng tshù-lăi to-ŭ sāi sîn-siòⁿ, liáu hiá-nâng iā chhiâng-sî tùi keng-biō &#x002D;&#x002D;kò khiû&#x002D;&#x002D;lâi &#x002D;&#x002D;kâi hioⁿ-lôu-hu pái tŏ sîn-siòⁿ thâu-tsôiⁿ &#x002D;&#x002D;kò pài.
