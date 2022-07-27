@@ -15,7 +15,7 @@ Che̍k-kâi ta-pou tsún ŭ che̍k-kâi thâu-bóu<a href="#note_5" class="note"
 <!-- Public opinion does not, however, justify the taking of a concubine except when the wife has borne no sons. -->
 Nâ-m̆-sĭ kâi thâu-bóu seⁿ bô tau₊-kiáⁿ<a href="#note_9" class="note">9</a>, tshuā jī-nâng ŏi khṳh tshù-nŏⁿ-piⁿ(tshù-piⁿ-thâu-bué) &#x002D;&#x002D;nâng liām.
 <!-- In regions where the people are very poor, it is uncommon for a man to have more than one wife. -->
-Tŏ hiá iáu khiau-kêng<a href="#note_10" class="note">10</a> &#x002D;&#x002D;kâi tī-hng, che̍k-kâi ta-pou tshuā tioh<a href="#note_7" class="note">7</a> kuá₊-kâi bóu, chiá&#x002D;&#x002D;kâi ŏi iáu chió.
+Tŏ hiá iáu khiau-kêng<a href="#note_10" class="note">10</a> &#x002D;&#x002D;kâi tī-hng, che̍k-kâi ta-pou tshuā-tio̍h⁎<a href="#note_7" class="note">7</a> kuá₊-kâi bóu, chiá&#x002D;&#x002D;kâi ŏi iáu chió.
 
 <!-- A husband may beat his wife to death, and go unpunished; but a wife who strikes her husband a single blow may be divorced, and beaten a hundred blows with the heavy bamboo. -->
 &nbsp;&nbsp;Kâi ang hó lia̍h kâi bóu phit-phah-sí, huáⁿ₊ mín lia̍h khṳ̀ kìm; liáu kâi bóu chiàⁿ phah tio̍h kâi ang che̍k-ē &#x002D;&#x002D;tiaⁿ, li káu-siâⁿ tio̍h &#x002D;&#x002D;nâng hiu tiāu, huáⁿ₊ tio̍h lia̍h khṳ̀ phah che̍k-peh ē tuā-tek-póiⁿ.
@@ -32,7 +32,7 @@ Tsṳ-niôⁿ tsa̍p-ngŏu huè kè-nâng, la̍k-tsa̍p huè khiă-kha tsōi-kâ
 4. <span id="note_4">nâ-sĭ, 如果。作者所著词典记录为 ā-sĭ，同时期另一白话字词典记录为 nă-sĭ 及 nâ-sĭ，此处结合府城腔变调规律及另一白话字词典特点，声调按译者处前变调进行修正，后续篇章将沿用此音；但需要提醒的是，《厦英大辞典》（1873年出版）中该词读法为 nā-sī；</span>
 5. <span id="note_5">thâu-bóu, 正室；旧时多称之 tsháu-thâu，亦称 chiàⁿ-chhi；</span>
 6. <span id="note_6">jī-nâng, 妾；旧时亦称之 chhiah-kha；</span>
-7. <span id="note_7">[动词] tioh [事物], 此用法中通常意味着所指事物超出正常范围；</span>
+7. <span id="note_7">tio̍h 读本调；此用法中通常意味着所指事物超出正常范围；</span>
 8. <span id="note_8">Bilhah, Rachel, 圣经故事人物，此处姑且以原文代替；《创世纪》潮州白话文版本第 29.29 分别翻译为 Phek-la̍h 及 La̍h-kiet ；</span>
 9. <span id="note_9">tau₊-kiáⁿ, 儿子。即 ta-pou-kiáⁿ；</span>
 10. <span id="note_10">khiau-kêng, 贫穷。现今大多单用 khiau 或 kêng；</span>

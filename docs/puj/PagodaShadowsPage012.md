@@ -16,7 +16,7 @@ Tsṳ-niôⁿ-nâng kuè-chió tshut-mn̂g, chiu-jît tŏ m̆-ôiⁿ tsṳ́-chi
 <!-- 原文这段真优美，好一副无忧无虑的幸福童年画面 -->
 
 <!-- When little Number Four was born in this village, his parents were very glad; for they thought that nobody could have too many sons. -->
-&nbsp;&nbsp;A-sì tŏ chí-kâi hioⁿ-lí tshut-sì hṳ́-che̍k-jît, i &#x002D;&#x002D;kâi pĕ-âi tshuân huaⁿ-hí &#x002D;&#x002D;kâi; in siŏⁿ-tàⁿ bô-nâng tǹg in seⁿ tioh chiòⁿ tsōi-kâi tau₊-kiáⁿ &#x002D;&#x002D;kâi.
+&nbsp;&nbsp;A-sì tŏ chí-kâi hioⁿ-lí tshut-sì hṳ́-che̍k-jît, i &#x002D;&#x002D;kâi pĕ-âi tshuân huaⁿ-hí &#x002D;&#x002D;kâi; in siŏⁿ-tàⁿ bô-nâng tǹg in seⁿ-tio̍h⁎ chiòⁿ tsōi-kâi tau₊-kiáⁿ &#x002D;&#x002D;kâi.
 <!-- He was wrapped in a clean rag and laid in a basket, which hung by two cords over a beam in the roof, and in which he was swung to sleep. -->
 Tuā&#x002D;&#x002D;nâng ēng che̍k-niáⁿ chheng-khih &#x002D;&#x002D;kâi phuà-saⁿ lia̍h i pau &#x002D;&#x002D;tiāⁿ, pàng i nā tek-nâⁿ &#x002D;&#x002D;kò, tsài ēng nŏⁿ-kóu soh phuân tuè tshù-êⁿ tsang tek-nâⁿ tiàu(liū) &#x002D;&#x002D;khí-lâi;
 àn-chiòⁿ-seⁿ, tek-nâⁿ-kiáⁿ iô-a-iô(iŏ-a-iŏ), nou-kiáⁿ che̍k-ē tsŭ u̍t<a href="#note_3" class="note">3</a> kàu tsuh-tsuh.
