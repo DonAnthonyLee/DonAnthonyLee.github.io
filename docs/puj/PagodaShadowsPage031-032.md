@@ -60,7 +60,7 @@ Chiá-hong-so̍k sĭ-kài tī-seⁿ tshut-tshú, nîⁿ-ko khah-tn̂g, bô-nâng
 <!-- For a Chinese woman the greatest of sorrows is that of having no sons; -->
 Tong-kok tsṳ-niôⁿ-nâng it-tshám sĭ seⁿ bô tau₊-kiáⁿ,
 <!-- the next to the greatest is that of being unlike her neighbours. -->
-jī-tshám sĭ kah i&#x002D;&#x002D;nâng tshù-pi miāⁿ-keh m̆-sio-tâng.
+jī-tshám sĭ kah i&#x002D;&#x002D;nâng tshù-piⁿ miāⁿ-keh m̆-sio-tâng.
 <!-- The smallest feet are made by those who determine to be elegant at any cost, and these draw their own foot-ligatures tighter than any one else would draw them. -->
 Hṳ́-tshoh phōiⁿ-miāⁿ àiⁿ-ngiá &#x002D;&#x002D;kâi nâng chiàⁿ mue̍h-ŏi-tit-tshut hiá siăng sòi-chiah &#x002D;&#x002D;kâi kha-kiáⁿ, liáu lia̍h tîⁿ-kha-pòu ngĕⁿ-tît tshui kàu ân-ân, liân pa̍t-nâng to m̆-káⁿ tshui tǹg i hiòⁿ tuā-la̍t.
 <!-- Religion is not the only sentiment which has its martyrs. -->
