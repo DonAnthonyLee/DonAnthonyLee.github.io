@@ -13,7 +13,7 @@ tag: PUJ_translation
 <!-- Sometimes a shed was put up in front of the temple, as a theatrical stage. -->
 Ŭ-tiang-sî i&#x002D;&#x002D;nâng tŏ biō &#x002D;&#x002D;kâi thâu-tsôiⁿ tah phâng-pêⁿ, ēng-lâi tsò hì-thâi.
 <!-- Several times a year the wealthy men of the village subscribed a sum equal to twelve or more pounds, sufficient to pay a company of actors to come there and play for three or more days and nights. -->
-Hioⁿ-lí-lăi tuā-thàn &#x002D;&#x002D;kâi nâng che̍k-nîⁿ tôi tioh kuá₊-tsuā chîⁿ, tshòu-lo̍h m̆-khéng<a href="#note_1" class="note">1</a> sì-tsa̍p-nióⁿ &#x002D;&#x002D;tŏ-kò, ŭ-kàu chhiah kàu-thâi hì-pan khṳ̀ hṳ́-kò tsò tioh saⁿ-jît-saⁿ-mêⁿ to m̆-khéng.
+Hioⁿ-lí-lăi tuā-thàn &#x002D;&#x002D;kâi nâng che̍k-nîⁿ tôi-tio̍h⁎ kuá₊-tsuā chîⁿ, tshòu-lo̍h m̆-khéng<a href="#note_1" class="note">1</a> sì-tsa̍p-nióⁿ &#x002D;&#x002D;tŏ-kò, ŭ-kàu chhiah kàu-thâi hì-pan khṳ̀ hṳ́-kò tsò-tio̍h⁎ saⁿ-jît-saⁿ-mêⁿ to m̆-khéng.
 <!-- The actors wore the costumes of ancient times, and had their garments of silk and crape embroidered with gold thread. -->
 Tsò-hì &#x002D;&#x002D;kâi chhēng hiá lău-kóu-ki<a href="#note_2" class="note">2</a> saⁿ-khòu, che̍k-sin kún ŭ kim-si-suàⁿ &#x002D;&#x002D;kâi lêng-lô_tiû-tn̄g.
 <!-- They enacted the ancient history of China; and every one went to see them, though they spoke in the court language, which none of the common people understood. -->
@@ -30,7 +30,7 @@ Hṳ́-jît pa̍t-kâi hioⁿ-lí lâi tshoh nâng-kheh iā &#x002D;&#x002D;nân
 <!-- The graves were dug horizontally into the hill, and before each was horseshoe-shaped masonry, three or four feet high in the centre, and sloping down to the ground the ends. Seen from a distance, the burying-ground looked like a great city. -->
 Hṳ́-tshoh phûn-mŏ tsn̂g-kâi sŭn huêⁿ-sì che̍k-kâi che̍k-kâi liú tŏ suaⁿ-téng-thâu, kâi-kâi phûn thâu-tsôiⁿ lóng-sĭ ēng chio̍h kih &#x002D;&#x002D;kâi mŏ-mīn(huang-tsúi), kò-hêng jiân-tǹg bé-kha-tôi, ta-ng che̍k-bí-guā kûiⁿ, sang-pôiⁿ pho-lo-sia tùi thôu-kha-ĕ. Hn̆g-hn̆g thóiⁿ &#x002D;&#x002D;khṳ̀, hṳ́-tshoh phûn-mŏ tsò-che̍k-ē jiân-tǹg tuā-siâⁿ-chhĭ.
 <!-- Those of the Heng family who had died far outnumbered those who remained alive. -->
-Thóiⁿ-lâi chiá Hêng-sĭ tsong-tso̍k kuè-sin &#x002D;&#x002D;kâi pí tŏ-sì &#x002D;&#x002D;kâi tsōi tioh kuè-tsōi.
+Thóiⁿ-lâi chiá Hêng-sĭ tsong-tso̍k kuè-sin &#x002D;&#x002D;kâi pí tŏ-sì &#x002D;&#x002D;kâi tsōi-tio̍h⁎ kuè-tsōi.
 <!-- During the second month of the Chinese year, all who had ancestors buried here came and fastened gilded paper to flutter over the grave, and worshipped before it. -->
 Lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò &#x002D;&#x002D;kâi nâng lóng lâi &#x002D;&#x002D;kàu, ēng chîⁿ-tsuá lia̍h phûn-téng ih<a href="#note_4" class="note">4</a> kàu tsâu-tsâu, liáu, kâi-kâi tŏ phûn-tiâⁿ(phûn-tsôiⁿ) &#x002D;&#x002D;kò pài.
 <!-- If any grave lacked for three years these offerings of paper, showing that it had not been visited by the descendants of the person buried in it, the land on which it was made could no longer be claimed as private property. -->

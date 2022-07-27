@@ -39,7 +39,7 @@ liáu, nâ-sĭ ŭ-nâng àiⁿ lâi chí-kò tshuē nâng, hiá tio̍h tùi chi�
 &nbsp;&nbsp;Bô-lŭn i&#x002D;&#x002D;nâng tsáu-khṳ̀ tī-kò thó-thàn-chia̍h, ta-pou-nâng chhiâng-sî lia̍h ka-kī &#x002D;&#x002D;kâi bóu-kiáⁿ pàng nā lăi, iû-tsăi i&#x002D;&#x002D;nâng kah pí ka-kī &#x002D;&#x002D;kâi bóu-kiáⁿ huáⁿ₊ chhin &#x002D;&#x002D;kâi lău-puè tsò-che̍k-ē;
 <!-- and however far he might travel or however long he might be gone, he never lost the intention of coming back to this village before he died, and bringing
 with him all the money he might have. -->
-liáu, jīm i&#x002D;&#x002D;nâng khṳ̀ tioh jio̍h-hn̆g, khṳ̀ tioh jio̍h-kú, in tsong-kú to-sĭ siŏⁿ-tio̍h sí-tsôiⁿ tio̍h tńg-lâi hioⁿ-lí &#x002D;&#x002D;kò, liáu, thàn ŭ jio̍h-tsōi to tio̍h tsn̂g-kâi pin-puaⁿ &#x002D;&#x002D;tńg-lâi.
+liáu, jīm i&#x002D;&#x002D;nâng khṳ̀-tio̍h⁎ jio̍h-hn̆g, khṳ̀-tio̍h⁎ jio̍h-kú, in tsong-kú to-sĭ siŏⁿ-tio̍h sí-tsôiⁿ tio̍h tńg-lâi hioⁿ-lí &#x002D;&#x002D;kò, liáu, thàn ŭ jio̍h-tsōi to tio̍h tsn̂g-kâi pin-puaⁿ &#x002D;&#x002D;tńg-lâi.
 <!-- To him, home was home though ever so homely. -->
 Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah, tsŭ-sǹg tuaⁿ-sûn(kan-chĕng) che̍k-koiⁿ-tshù tiaⁿ.
 

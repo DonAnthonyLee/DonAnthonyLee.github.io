@@ -11,9 +11,9 @@ tag: PUJ_translation
 <!-- It not infrequently happens that the flesh becomes putrescent during the process of binding, and portions slough off from the sole. -->
 &nbsp;&nbsp;Tîⁿ-kha hṳ́-tiang-sî, chhiâng-chhiâng ŏi hiá ne̍k mî &#x002D;&#x002D;khṳ̀ liáu tùi kha-tói lak &#x002D;&#x002D;lo̍h-lâi.
 <!-- Sometimes a toe or more drop off. -->
-Lân-sî iáu-suà lak tioh che̍k-lân-chiah kha-tsóiⁿ.
+Lân-sî iáu-suà lak-tio̍h⁎ che̍k-lân-chiah kha-tsóiⁿ.
 <!-- In this case the feet are much smaller than they could else be made, and elegance is secured at the cost of months of suffering. -->
-Tú-tio̍h lak-kha-tsóiⁿ, kha tsŭ ŭ-piàn pí pa̍t-nâng zú-kèng sòi-chiah, liáu chiá ngiá-thóiⁿ sĭ tio̍h khóu tioh ke kuá₊-kâi-gue̍h chiàⁿ uāⁿ &#x002D;&#x002D;tńg-lâi &#x002D;&#x002D;kâi. 
+Tú-tio̍h lak-kha-tsóiⁿ, kha tsŭ ŭ-piàn pí pa̍t-nâng zú-kèng sòi-chiah, liáu chiá ngiá-thóiⁿ sĭ tio̍h khóu-tio̍h⁎ ke kuá₊-kâi-gue̍h chiàⁿ uāⁿ &#x002D;&#x002D;tńg-lâi &#x002D;&#x002D;kâi. 
 <!-- The pain ordinarily continues about a year, then gradually diminishes, till at the end of two years the feet are practically dead and painless. -->
 Chiá kha-thiàⁿ ŭ-thang thiàⁿ chiâⁿ-nîⁿ, liáu chiàⁿ kìⁿ-jît kìⁿ-jît tsua̍h, tán kàu tîⁿ liáu nŏⁿ-nîⁿ chìn-thò, sang-kha tǹg-kuè sí-ne̍k chiàⁿ bŏi-thiàⁿ.
 

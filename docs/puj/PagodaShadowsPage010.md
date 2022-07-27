@@ -22,7 +22,7 @@ Sṳ̂-tn̂g lăi-pôiⁿ &#x002D;&#x002D;kâi tshù-êⁿ khat(khek) ŭ tōu(li
 <!-- On one side were shelves full of little wooden tablets, with the names of ancestors thereon. -->
 Che̍k-pôiⁿ &#x002D;&#x002D;kâi kè-téng pái kàu tsn̂g-kâi siá ŭ tsóu-soiⁿ miâⁿ-hō &#x002D;&#x002D;kâi sîn-tsú-pâi. 
 <!-- At festivals, of which there are sixty-four in the Chinese year, people came and burned pieces of gilt paper, called spirit-money, and worshipped the tablets of their dead grandfathers and grandmothers. -->
-Tong-kok che̍k-nîⁿ tsò tioh la̍k-tsa̍p-sì kâi sî-tsoih; tsò-sî-tsò-tsoih tshoh-nâng tsŭ lâi-kàu sṳ̂-tn̂g sio tah liáu kim-po̍h<a href="#note_7" class="note">7</a> &#x002D;&#x002D;kâi tsuá, i&#x002D;&#x002D;nâng kiò tsò chîⁿ-tsuá<a href="#note_8" class="note">8</a>, liáu, pài i&#x002D;&#x002D;nâng tsóu-kong tsóu-má &#x002D;&#x002D;kâi sîn-tsú-pâi.
+Tong-kok che̍k-nîⁿ tsò-tio̍h⁎ la̍k-tsa̍p-sì kâi sî-tsoih; tsò-sî-tsò-tsoih tshoh-nâng tsŭ lâi-kàu sṳ̂-tn̂g sio tah liáu kim-po̍h<a href="#note_7" class="note">7</a> &#x002D;&#x002D;kâi tsuá, i&#x002D;&#x002D;nâng kiò tsò chîⁿ-tsuá<a href="#note_8" class="note">8</a>, liáu, pài i&#x002D;&#x002D;nâng tsóu-kong tsóu-má &#x002D;&#x002D;kâi sîn-tsú-pâi.
 
 <!-- On the outskirts of the village was a temple, as handsomely built as the ancestral hall, and containing, for the convenience of those who preferred one god to another, the images of several gods. -->
 &nbsp;&nbsp;Hioⁿ-lí piⁿ&#x002D;&#x002D;thâu ŭ che̍k-koiⁿ biō, khí kàu kah sṳ̂-tn̂g pêⁿ ngiá, lăi-pôiⁿ sāi ŭ kuá₊-sin sîn-siòⁿ, àiⁿ pài tī-tsun sîn-siòⁿ siàng-hō nâng.
