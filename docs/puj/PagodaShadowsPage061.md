@@ -40,13 +40,13 @@ Chiá-kâi i&#x002D;&#x002D;nâng iā sîm-tio̍h⁎ ŭ-sîn-chiah, liáu che̍k
 &nbsp;&nbsp;Hṳ́-tshoh-kâi iáu-chiàⁿ &#x002D;&#x002D;kâi sîn-lêng to-ŭ seⁿ-jît; tṳ̂-liáu hiá seⁿ-jît &#x002D;&#x002D;sî &#x002D;&#x002D;nâng tsuan-kang pài &#x002D;&#x002D;in, hông-tio̍h tuā-tsoih, chhiu-it tsa̍p-ngŏu, lóng ŭ-nâng pài.
 
 <!-- Many of the greater gods have representatives in the family, and ashes from the incense-pots in the temples are frequently brought and worshipped in the houses. -->
-&nbsp;&nbsp;Tsōi-kâi tsú-sîn tŏ i&#x002D;&#x002D;nâng tshù-lăi to-ŭ sāi sîn-siòⁿ, liáu hiá-nâng iā chhiâng-sî tùi keng-biō &#x002D;&#x002D;kò khiû&#x002D;&#x002D;lâi &#x002D;&#x002D;kâi hioⁿ-lôu-hu pái tŏ sîn-siòⁿ thâu-tsôiⁿ &#x002D;&#x002D;kò pài.
+&nbsp;&nbsp;Tsōi-kâi tsú-sîn tŏ i&#x002D;&#x002D;nâng tshù-lăi to-ŭ sāi sîn-siòⁿ, liáu hiá-nâng iā chhiâng-sî tùi keng-biō &#x002D;&#x002D;kò chhiáⁿ&#x002D;&#x002D;lâi &#x002D;&#x002D;kâi hioⁿ-lôu-hu pái tŏ sîn-siòⁿ thâu-tsôiⁿ &#x002D;&#x002D;kò pài.
 <!-- But, whatever else may be absent from a pagan household, Su Meng Kong is not. -->
 Liáu, tŏ chí-tshoh-kâi liām-sîn-pài-hu̍t &#x002D;&#x002D;kâi tshù-lăi &#x002D;&#x002D;kò, pa̍t-tī-kâi sîn-lêng lân-sî ŏi tshuē-bô, to̍k-to̍k Si-mĕng-kong<a href="#note_1" class="note">1</a> bŏi.
 <!-- He is the god of the kitchen, and none would dare to set up housekeeping without him. -->
 Yi sĭ kuán-hat tsàu-suaⁿ-thâu &#x002D;&#x002D;kâi sîn-lêng, nâ-sĭ bô &#x002D;&#x002D;i, ke-lăi-khang-khuè bô-nâng káⁿ tsoh.
 <!-- He has been a god for hundreds of years, and all know the legend concerning him. -->
-&#x002D;&#x002D;Nâng tsun-hŏng i tsò sîn-mêng ŭ-tio̍h⁎ kúi-peh-nîⁿ &#x002D;&#x002D;liáu, nâng-nâng ŏi tsai i &#x002D;&#x002D;kâi thuân-sueh(kóu-thuân).
+&#x002D;&#x002D;Nâng tsun-hŏng i tsò sîn-mêng ŭ-tio̍h⁎ káng-peh-nîⁿ &#x002D;&#x002D;liáu, nâng-nâng ŏi tsai i &#x002D;&#x002D;kâi thuân-sueh(kóu-thuân).
 <br>
 
 
@@ -58,7 +58,7 @@ Yi sĭ kuán-hat tsàu-suaⁿ-thâu &#x002D;&#x002D;kâi sîn-lêng, nâ-sĭ bô
 <br>
 
 <!-- ***[前页](PagodaShadowsPage060.html)*** -->
-<!-- ***[后页](PagodaShadowsPage062.html)*** -->
+***[后页](PagodaShadowsPage062.html)***
 
 ---
 <br>
