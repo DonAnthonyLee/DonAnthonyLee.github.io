@@ -7,7 +7,7 @@ tag: PUJ_essay
 
 {% include puj-style.html %}
 
-&nbsp;&nbsp;La̍k-gue̍h-thiⁿ-sî, jît-thâu teng-teng; nâng che̍k-ē tín-tăng --tio̍h, thong-sin-kuāⁿ sì-lâm-sûi-lo̍h; bô-khùn-kiáⁿ, nâng chheⁿ-lím ià, méⁿ-méⁿ tshuē khou chhiū-im lâi siám-liâng. Kia̍h-ma̍k thóiⁿ-tio̍h⁎ kha--thâu hiá-nâng tsn̂g-kâi kông-siân-kông-siân, thóiⁿ-khuán thit-thô m̆-tio̍h tī-hn̄g, thuà thit-thô m̆-tio̍h sî-jît --a.
+&nbsp;&nbsp;La̍k-gue̍h-thiⁿ-sî, jît-thâu teng-teng; nâng che̍k-ē tín-tăng --tio̍h, thong-sin-kuāⁿ sì-lâm-sûi-lo̍h; bô-khùn-kiáⁿ, nâng chheⁿ-lím ià, méⁿ-méⁿ tshuē khou chhiū-im lâi siám-liâng. Kia̍h-ma̍k thóiⁿ-tio̍h⁎ kha--thâu hiá-nâng tsn̂g-kâi kông-siân-kông-siân, thóiⁿ-khuán thit-thô m̆-tio̍h tī-hng, thuà thit-thô m̆-tio̍h sî-jît --a.
 
 
 注:
