@@ -54,7 +54,8 @@ Chí saⁿ-kâi sin-niôⁿ-kiáⁿ ŭ-kàu tshám, liáu i&#x002D;&#x002D;nâng
 Tàⁿ-tît kâi-kâi tâng-ì, chĕⁿ-chĕⁿ tshó-chhiàng<a href="#note_7" class="note">7</a> hó tsò-pû tsṳ̆-chĭn.
 
 <!-- They calculated the time when custom would again bring the married ones to their mothers' houses, and fixed the full moon of the seventh month, as the night for their escape from life. -->
-&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_8" class="note">8</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke &#x002D;&#x002D;kâi jît-chí, tàⁿ-tiāⁿ saⁿ-kò gue̍h ău &#x002D;&#x002D;kâi tsa̍p-ngŏu-mêⁿ tsò-che̍k-ē thau-tsáu. 
+&nbsp;&nbsp;Yin huâ-sǹg<a href="#note_8" class="note">8</a> tio̍h chiàu lī-so̍k ĕ-tsuā tńg-lâi guā-ke &#x002D;&#x002D;kâi jît-chí, tàⁿ-tiāⁿ chhit-gue̍h-tsa̍p-ngŏu hṳ́-mêⁿ tsò-che̍k-ē thau-tsáu.
+<!-- 注：结合其他章节，作者在描述农历时采用第 X 个月的表述，因而修正上述表达为 chhit-gue̍h-tsa̍p-ngŏu 。 --> 
 <!-- When the time arrived, six of them dressed themselves in festal garments, with flowers in their hair, went hand in hand in the moonlight to the shore, bound themselves together with a rope, and threw themselves into the sea. -->
 Sî kàu, ŭ la̍k-nâng chhēng sin-saⁿ, thâu-téng kat phau hue, sio-khan-chhiú sêng gue̍h lâi-kàu hái-kîⁿ-kha, ēng soh pa̍k tsò che̍k-ē tâu-hái &#x002D;&#x002D;khṳ̀.
 <!-- The seventh, only thirteen years old, was discovered through some noise she made in searching for her best clothing in the night, and was prevented by her mother from leaving the house. -->
