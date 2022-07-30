@@ -91,6 +91,7 @@ Chí-tshoh-kâi tsŭ-sĭ tŏ Tong-kok chiá hun-in-chì-tōu ĕ-kha kuè chek-ak
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/bf2a9e7d5036e7ae0ffc2217ef36b0f091422154" target="_blank">fix translation of "the seventh month"</a> |
 | 2022-07-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/f4e3f9b9910bb340d6528e1a88f04f7ee2fdb01a" target="_blank">add comments</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/e8e932fbddbaf6f5ce36687955bbf17ab61ff675" target="_blank">add PagodaShadowsPage009.md</a> |

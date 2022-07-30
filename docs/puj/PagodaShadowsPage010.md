@@ -34,7 +34,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 
 <br>
 注：
-1. <span id="note_1">chio̍h-pŏu，石头。此处采用作者所著词典中说法，译者处用 chio̍h-kŏu；作者所注词典中 chio̍h-kŏu 按 “石子” 解释；</span>
+1. <span id="note_1">chio̍h-pŏu，石头。此处采用作者所著词典中说法，译者处用 chio̍h-kŏu；作者所著词典中 chio̍h-kŏu 按 “石子” 解释；</span>
 2. <span id="note_2">lît，列；亦多用 sué ；</span>
 3. <span id="note_3">mêⁿ-kuà，夜晚时分。此处采用作者所著词典中说法，译者处更常用 mêⁿ&#x002D;&#x002D;tsṳ̏ （《卓威廉词典》记载为 mêⁿ&#x002D;&#x002D;tsṳ́ ）等；</span>
 4. <span id="note_4">chiàⁿ-ta-ng，正中央；部分地方更常用 tìn-tang ；</span>
@@ -65,6 +65,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-07-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83fc6d7d76608aee5365ca8f9e33501df1759ff9" target="_blank">update comments about "stone"</a> |
 | 2022-07-09 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/fc6709f1fc7da7252739b71e208f140aa886d7d2" target="_blank">add comments about "ancestral hall"</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-06-29 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/14968ffcc3c1f1bf7bd72ba411822199a0d2750a" target="_blank">add comments</a> |
