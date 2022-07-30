@@ -34,7 +34,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 
 <br>
 注：
-1. <span id="note_1">chio̍h-pŏu，石头。此处采用作者所著词典中说法，译者处读为 chio̍h-kŏu ；</span>
+1. <span id="note_1">chio̍h-pŏu，石头。此处采用作者所著词典中说法，译者处用 chio̍h-kŏu；作者所注词典中 chio̍h-kŏu 按 “石子” 解释；</span>
 2. <span id="note_2">lît，列；亦多用 sué ；</span>
 3. <span id="note_3">mêⁿ-kuà，夜晚时分。此处采用作者所著词典中说法，译者处更常用 mêⁿ&#x002D;&#x002D;tsṳ̏ （《卓威廉词典》记载为 mêⁿ&#x002D;&#x002D;tsṳ́ ）等；</span>
 4. <span id="note_4">chiàⁿ-ta-ng，正中央；部分地方更常用 tìn-tang ；</span>
