@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hái-suaⁿ Hong-chhêng: Hóuⁿ-thek-chio̍h"
+title:  "Hái-suaⁿ Hong-chhêng: Hóuⁿ-thek-chio̍h [*]"
 date:   2022-07-31 10:30:00 +0800
 tag: PUJ_translation
 ---
@@ -22,7 +22,7 @@ tag: PUJ_translation
 
 Hái-suaⁿ so̍k-gṳ́:
 
-> Buē-seⁿ Tsu A-ngiâu, soiⁿ seⁿ Hóuⁿ-thek-chio̍h.
+> Buē seⁿ Tsu A-ngiâu, soiⁿ seⁿ Hóuⁿ-thek-chio̍h.
 
 <br>
 
@@ -35,3 +35,7 @@ Hái-suaⁿ so̍k-gṳ́:
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2022-07-31 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/1512da82dbdac89196c4961e0119d980f4c1e240" target="_blank">add LittleIslands_001.md</a> |
