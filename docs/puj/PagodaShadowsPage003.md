@@ -14,7 +14,7 @@ becoming. -->
 <!-- It covers the whole person, and unlike many Western costumes, which make more noticeable what they profess to conceal, it shields the contour of the body from observation. -->
 Chí-khuán saⁿ-khòu, thong-sin<a href="#note_5" class="note">5</a> tsn̂g-kâi pau &#x002D;&#x002D;tŏ-kò, chia-tsa̍h liáu sin-hêng bŏi pun &#x002D;&#x002D;nâng khàn-sṳ̀<a href="#note_6" class="note">6</a> &#x002D;&#x002D;tshut-lâi, bŏi kah hiá tsōi-kâi sai-tsuang sio-siăng, siŏⁿ-àiⁿ siu&#x002D;&#x002D;khí-lâi &#x002D;&#x002D;kâi tin-tò zú-kèng hiáⁿ-ma̍k.
 <!--It takes but eight yards of yard-wide cloth for a complete suit of winter garments; and there is no waste in cutting nor in unnecessary appendages. -->
-Tsò che̍k-sin chhìn-thiⁿ-sî(tang-thî-sî) saⁿ-khòu &#x002D;&#x002D;kâi pòu, khuah&#x002D;&#x002D;sì chiâⁿ-bí liáu ŭ chhit-poih-bí tn̂g tsŭ kàu-ēng; saⁿ-khòu tsò-tît liân pòu-thâu-pòu-bué to bô.
+Tsò che̍k-sin chhìn-thiⁿ-sî(tang-thiⁿ-sî) saⁿ-khòu &#x002D;&#x002D;kâi pòu, khuah&#x002D;&#x002D;sì chiâⁿ-bí liáu ŭ chhit-poih-bí tn̂g tsŭ kàu-ēng; saⁿ-khòu tsò-tît liân pòu-thâu-pòu-bué to bô.
 <!-- Its truest economy, however, is in that saving of mental worry which comes from always cutting by the same pattern, and in obviating all need of fitting. -->
 Yi chin-chiàⁿ séⁿ &#x002D;&#x002D;kâi &#x002D;&#x002D;sĭ, hiá pòu-hêng tī-seⁿ ka-huap tsn̂g-kâi pâi-pí pīn, mín-ēng siŏⁿ-sim-kek-sṳ̄ khṳ̀ huân-ló tio̍h sio-chiŭ.
 <!-- It allows unrestricted play to very muscle, is of the same thickness over the whole body, is not in the way when at work, and it has little weight while it has all needful warmth. -->

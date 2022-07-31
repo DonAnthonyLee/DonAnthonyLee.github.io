@@ -29,7 +29,7 @@ Yi-niáⁿ-hiûⁿ chí&#x002D;&#x002D;ē iŭ tn̂g iŭ zû, kah tì liáu che̍
 <!-- He also began to go to school. -->
 Yi iā khai-sṳ́ khṳ̀ tsṳ-che tha̍k-tsṳ &#x002D;&#x002D;liáu.
 <!-- In reading, he began at what you would call the back of the book, and read down the columns of letters, beginning at the upper right-hand corner of the page, and ending at the lower left-hand corner. -->
-Yi&#x002D;&#x002D;nâng &#x002D;&#x002D;kâi thóiⁿ-tsṳ-huap, sĭ tùi nín ŏi kiò-tsò tsṳ-cheh &#x002D;&#x002D;kâi "siăng-bué-hio̍h" khai-sṳ́ hian-khí, iû téng kàu ĕ che̍k-lît-che̍k-lît &#x002D;&#x002D;kâi thóiⁿ, tùi iŭ-chiŏⁿ-kak(chiàⁿ-chhiú-pôiⁿ hṳ́-téng) thóiⁿ-khí, kàu tsó-ĕ-kak(tò-chhiú-pôiⁿ hṳ́-ĕ-kha) thóiⁿ-tît che̍k-hio̍h.
+Yi&#x002D;&#x002D;nâng &#x002D;&#x002D;kâi thóiⁿ-tsṳ-huap, sĭ tùi nín ŏi kiò-tsò tsṳ-chheh &#x002D;&#x002D;kâi "siăng-bué-hio̍h" khai-sṳ́ hian-khí, iû téng kàu ĕ che̍k-lît-che̍k-lît &#x002D;&#x002D;kâi thóiⁿ, tùi iŭ-chiŏⁿ-kak(chiàⁿ-chhiú-pôiⁿ hṳ́-téng) thóiⁿ-khí, kàu tsó-ĕ-kak(tò-chhiú-pôiⁿ hṳ́-ĕ-kha) thóiⁿ-tît che̍k-hio̍h.
 <!-- His teacher first read a few columns to him, and Kai Bun repeated these after him. -->
 Kà-tsṳ-sin-seⁿ soiⁿ tha̍k kúi-kù-tsṳ khṳh i thiaⁿ, liáu Kai-bûn tio̍h tuè i tha̍k.
 <!-- Then he went to his seat and studied aloud at the top of his voice, as all the other boys did, until he had learned the lesson. -->
