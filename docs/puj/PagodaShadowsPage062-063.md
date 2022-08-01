@@ -38,7 +38,7 @@ Nâ-sĭ tsṳ-niôⁿ-nâng chhī ŭ tuā-pûi-tṳ, i ŏi kui-kong sîn_pó-hō
 <!-- When the father of a family dies, and the ancestral property is divided among the sons, the eldest gets the image of Su Meng Kong, the second gets the censer that stands before him, and the others get portions of the ashes from the censer. -->
 &nbsp;&nbsp;Ke-lăi hiá lău-pĕ kuè-sin liáu kiáⁿ-tĭ àiⁿ pun-ke &#x002D;&#x002D;hṳ́-ē, tuā-kiáⁿ tit Si-mĕng-kong &#x002D;&#x002D;kâi sîn-siòⁿ, jī-kiáⁿ tit pài Si-mĕng-kong &#x002D;&#x002D;kâi hioⁿ-lôu, tshûn&#x002D;&#x002D;kâi che̍k-nâng tit che̍k-na̍k hioⁿ-lôu-hu.
 <!-- Each then supplies what is lacking in his own religious outfit, and sets up his god, and worships it before cooking a meal in his own house. -->
-Liáu, kak-nâng tsài póu-ke pa̍t-tshoh-kâi pài-sîn khiàm-khueh &#x002D;&#x002D;kâi mue̍h-kiăⁿ, tŏ i&#x002D;&#x002D;nâng tshù-lăi sāi hó sîn-siòⁿ; tsṳ́ saⁿ-tǹg-chiah, soiⁿ tio̍h pài Si-mĕng-kong.
+Liáu, kak-nâng tsài póu-ke pa̍t-tshoh-kâi pài-sîn khiàm-khueh &#x002D;&#x002D;kâi mue̍h-kiăⁿ, tŏ i&#x002D;&#x002D;nâng tshù-lăi sāi hó sîn-siòⁿ; tsṳ́ saⁿ-tǹg-chia̍h, soiⁿ tio̍h pài Si-mĕng-kong.
 <br>
 
 <br>
