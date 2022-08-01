@@ -13,13 +13,13 @@ tag: PUJ_translation
 <!-- She told this old man her sad story, and he asked her to be his wife. -->
 Yi lia̍h ka-kī hiá chhi-tshám-sṳ̄ phue̍h khṳh chí-kâi lău-ta-pou thiaⁿ, lău-ta-pou thiaⁿ-liáu kiò-tàⁿ kè&#x002D;&#x002D;pun-i.
 <!-- She lived with him in the hut, and he prospered and grew rich, and built a large, fine house. -->
-Chí-tùi ang-chiá tsŭ tsò-pû khiă-khí tŏ tsháu-liâu &#x002D;&#x002D;kò, liáu lău-ta-pou suà heng-sĕng huat-tuā-tshâi, tsŭ khí liáu koiⁿ tuā-tshù-the̍h. 
+Chí-tùi ang-chiá tsŭ tsò-pû khiă-khí tŏ tsháu-liâu &#x002D;&#x002D;kò, liáu lău-ta-pou suà heng-sĕng huat-tuā-tshâi, tsŭ khí liáu koiⁿ tuā-tshù-the̍h.
 <!-- When the kitchen-range was partially made, a man came begging to the door, and she discovered in him her former husband. -->
 Ke-lăi lôu-tsàu kih puàⁿ-kue̍h, ŭ kâi ta-pou lâi-kàu mn̂g-kha-kháu khṳt-chia̍h, liáu i jīn-tio̍h⁎ kài-sĭ i&#x002D;&#x002D;kâi tsôiⁿ-ang.
 <!-- While she was giving him some money, her present husband approached, and the former husband hid in the kitchen-range and was never seen more. -->
 Yi taⁿ-chiàⁿ khio̍h chîⁿ-ngṳ̂n pun hṳ́-kâi tsôiⁿ-ang, hīn-sî &#x002D;&#x002D;kâi ang tsŭ tńg&#x002D;&#x002D;lâi, liáu tsôiⁿ-ang méⁿ-méⁿ tsáu-khṳ̀ tiàm nā tsàu-khang &#x002D;&#x002D;kò, tsṳ̆-tshṳ́ bô-hûn-bô-iáⁿ.
 <!-- He turned into a god and is one to this day. -->
-Tsŭ chiòⁿ-seⁿ, chí-kâi ta-pou pìⁿ-tsò sîn-mêng, kàu taⁿ kiò-tsò Si-mĕng-kong.
+Tsŭ chiòⁿ-seⁿ, chí-kâi ta-pou pìⁿ-tsò sîn-mêng, kàu-taⁿ kiò-tsò Si-mĕng-kong.
 <!-- In some families he has no image set up, and the incense-sticks burned in worshipping him are stuck in the crevices of the range chimney. -->
 Che̍k-tshoh nâng-ke bô sāi i&#x002D;&#x002D;kâi sîn-siòⁿ, liáu sio-lâi kèng&#x002D;&#x002D;i &#x002D;&#x002D;kâi hioⁿ-ki tît-chih tshah tŏ in-tâng hiá phāng-khiah &#x002D;&#x002D;kò.
 <!-- Many put his image in the main room of the house. -->
