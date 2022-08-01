@@ -76,6 +76,7 @@ Hái-suaⁿ lău Lí<br>
 7. Habitations [Buē-e̍k]
 8. The Inconvenience of Heathenism [Buē-e̍k]
 9. Spiritualism [Buē-e̍k]
+<!-- The Kitchen-God -->
 10. [Si-mĕng Tsàu-sîn](PagodaShadowsPage061.html)
 11. The Influence of the Idols [Buē-e̍k]
 12. The Stone Princess and her Train [Buē-e̍k]

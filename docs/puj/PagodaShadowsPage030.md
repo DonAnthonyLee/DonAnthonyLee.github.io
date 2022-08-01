@@ -50,6 +50,8 @@ liáu khṳ̀-kàu koi-chhĭ a-sĭ lîm-tshún tsò-tsoih, i&#x002D;&#x002D;nân
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/fe079b86b0721157479e55d62cecc4d27682dd60" target="_blank">fix another expression of "helpless"</a> |
+| 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/9535d4380b2514b205a4695dfc37cbd4705dbc41" target="_blank">update changelog of PagodaShadowsPage030.md (INGORE_CHANGELOG)</a> |
 | 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/1d8672f8946260feaad6cc048bf6a7b807f26c23" target="_blank">remove the rare expression of "only" which might come from affecting by Mandarin</a> |
 | 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/49c59c00f044996e65de2d7594deb7db31855520" target="_blank">add comment and adjust tone of translation of "support"</a> |
 | 2022-07-18 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b59dce077ee6e452b495ea32e70aebd942f9bab0" target="_blank">add translation for "helpless"</a> |
