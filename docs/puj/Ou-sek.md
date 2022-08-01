@@ -7,8 +7,8 @@ tag: PUJ_essay
 
 {% include puj-style.html %}
 
-**ou-khak-khak**, ou kàu khak-ba̍k; ou kàu ti-tòng.
-**ou-mang-san**, che̍k-tiám che̍k-tiám ou-ou liáu tsa̍t-tsa̍t .
+**ou-khak-khak**, ou kàu khak-ba̍k; ou kàu ti-tòng.<br>
+**ou-mang-san**, che̍k-tiám che̍k-tiám ou-ou liáu tsa̍t-tsa̍t.<br>
 **ou-tsṳ-ou-tsṳ**, ou-liáu bô tsa̍p-tso̍k.
 
 
