@@ -15,5 +15,5 @@ tag: PUJ_essay
 <br>
 注：
 
-1. ou kàu ti-tòng, 据说他处读 ou-tòu（《厦英大词典》作 oo-tòo）；另外，也用 âng kàu ti-tòng，而“非常红”在《菲尔德词典》中记录为 tong-tong-âng；
-2. mang，日常无单用。对应《厦英大词典》中的 bang 。
+1. ou kàu ti-tòng, 据说他处读 ou-tòu（《厦英大辞典》作 oo-tòo）；另外，也用 âng kàu ti-tòng，而“非常红”在《菲尔德词典》中记录为 tong-tong-âng；
+2. mang，日常无单用。对应《厦英大辞典》中的 bang 。
