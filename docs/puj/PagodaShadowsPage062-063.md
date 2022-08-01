@@ -43,6 +43,12 @@ Liáu, kak-nâng tsài póu-ke pa̍t-tshoh-kâi pài-sîn khiàm-khueh &#x002D;&
 
 <br>
 
+***[Tŏiⁿ 10 chioⁿ liáu.]***
+
+<br>
+
+<br>
+
 ***[前页](PagodaShadowsPage061.html)***
 <!-- ***[后页](PagodaShadowsPage064.html)*** -->
 
