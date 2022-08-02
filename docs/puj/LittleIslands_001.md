@@ -49,5 +49,6 @@ tag: PUJ_translation
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c2bdc3c6a5d0b1d78cf140358e407cd3f3bad148" target="_blank">finish the second page</a> |
 | 2022-08-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/31eb9eacf559c7f082deb61b86634ddd35e97d85" target="_blank">finish the first page</a> |
 | 2022-07-31 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/1512da82dbdac89196c4961e0119d980f4c1e240" target="_blank">add LittleIslands_001.md</a> |
