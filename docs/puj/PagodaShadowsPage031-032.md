@@ -40,7 +40,7 @@ Lia̍h tshuân Tong-kok tsò-che̍k-ē sǹg-lo̍h, ùiⁿ-tit hiá tsṳ-niô�
 <!-- It makes cripples of nearly half the population, and adds immensely to the misery of the poverty-stricken multitudes. -->
 Yi chiau-tsat(tsau-that) kàu che̍k-uê-nâng kuáiⁿ-kha-chhiăng-chhiú, liáu khùn-khóu-nâng-ke seⁿ-ua̍h zú-kèng taⁿ-tăng-tàⁿ.
 <!-- It disables women from supporting themselves and from caring for their children, and is one of the causes of the great prevalence of infanticide. -->
-Yi chhîp-at liáu hiá tsṳ-niôⁿ-nâng tsò-che̍k-ē bô-piàn ka-kī ióⁿ-ua̍h ka-kī kah nou-kiáⁿ, chiá-kâi sĭ sì-tshù ŭ kek-sí nou-kiáⁿ hiá hīn-siăng &#x002D;&#x002D;kâi in-iû tsṳ-che̍k. 
+Yi chhîp-at liáu hiá tsṳ-niôⁿ-nâng tsò-che̍k-ē bô-piàn ka-kī ióⁿ-ua̍h ka-kī kah nou-kiáⁿ, chiá-kâi sĭ sì-tshù ŭ hāi-sí nou-kiáⁿ hiá hīn-siăng &#x002D;&#x002D;kâi in-iû tsṳ-che̍k. 
 <!-- It renders women too weak to keep their houses clean, and makes their homes filthy and cheerless. -->
 Yi tău-tì hiá tsṳ-niôⁿ-nâng nńg-chiáⁿ kàu bô-piàn siu-sàu tshù-lăi, mue̍h-kàu tshù-lăi thong-koiⁿ chhi-gî-chhi-tak, zṳ̂-thâu-tin-tò.
 <!-- It incapacitates woman for travelling, and keeps her and her thoughts in the narrowest of spheres. -->
