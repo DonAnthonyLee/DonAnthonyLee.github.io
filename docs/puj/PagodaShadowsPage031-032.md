@@ -83,6 +83,7 @@ Pa̍t-mih-mue̍h hí-hèng kàu ke̍k-tì, tsóng-ŭ buâng-miāⁿ &#x002D;&#x0
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/76a7c518a69ebe1321b7385398eea9a55413fcdf" target="_blank">adjust translation of "infanticide"</a> |
 | 2022-07-22 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/832935404b5c15a5f76e1a38239f6f737bbd85d5" target="_blank">PagodaShadowsPage031-032.md complete</a> |
 | 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a4c6ee45e44a1e21025563d7654e81d01cc11158" target="_blank">finish the third paragraph</a> |
 | 2022-07-21 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0b138ac98862d6867bd491a732902b54afb724dd" target="_blank">add internal comment and change the translation of "bond-maids"</a> |
