@@ -23,7 +23,7 @@ Pù-kùi-nâng-ke tsáu₊-kiáⁿ tsōi-kâi la̍k-huè a-sĭ poih-huè-tuā t�
 <!-- They are seldom bound later than at fifteen; -->
 Yi&#x002D;&#x002D;nâng hán-tit kìⁿ-tio̍h ŭ hiá tsa̍p-ngŏu-huè ta̍h-khí chiàⁿ tîⁿ-kha &#x002D;&#x002D;kâi;
 <!-- though a case is known in which poor parents, who had sold their daughter as a slave, became rich, reclaimed her, and bound her feet when she was twenty years old. -->
-sui-sĭ ŭ-nâng hong-siaⁿ tàⁿ-, ŭ-kâi tsṳ-niôⁿ-kiáⁿ, khṳh in khiau-kiáⁿ-pĕ-âi tsṳ̆-sòi bōi pun &#x002D;&#x002D;nâng tsò nôu-po̍k, liáu pĕ-âi huat-tshâi ău chhiú i tò-tńg, jī-tsa̍p-huè chiàⁿ tîⁿ-kha.
+sui-sĭ ŭ-nâng hong-siaⁿ tàⁿ-, ŭ kâi tsṳ-niôⁿ-kiáⁿ, khṳh in khiau-kiáⁿ-pĕ-âi tsṳ̆-sòi bōi pun &#x002D;&#x002D;nâng tsò nôu-po̍k, liáu pĕ-âi huat-tshâi ău chhiú i tò-tńg, jī-tsa̍p-huè chiàⁿ tîⁿ-kha.
 
 <!-- The appliances for binding include no iron nor wooden shoe. -->
 &nbsp;&nbsp;Tîⁿ-kha &#x002D;&#x002D;kâi mue̍h-kiăⁿ bô-ēng thih a-sĭ tshâ tsò&#x002D;&#x002D;kâi ôi,

@@ -9,7 +9,7 @@ tag: PUJ_translation
 {% include changlog-table-style.html %}
 
 <!-- A poor man married, and soon became rich, but he discarded the wife that had brought him good luck, and as she wandered along the road, she came to a solitary hut, in which an old man sat. -->
-&nbsp;&nbsp;Ŭ-kâi ta-pou, ke-lăi khiau-kêng, tshuā-bóu bô-kú tsŭ huat-tshâi, liáu lia̍h tuà-pun i hok-khì &#x002D;&#x002D;kâi bóu mìn-mài-tiāu; hṳ́-tiang-sî in-tsôiⁿ-bóu tŏ koi-lōu liû-tōng, tú-ngŏ kiâⁿ kàu che̍k-koiⁿ tsháu-liâu &#x002D;&#x002D;kò, tsháu-liâu sì-ûi bô-nâng-in, chheng kâi lău-ta-pou tsŏ &#x002D;&#x002D;tŏ-kò.
+&nbsp;&nbsp;Ŭ kâi ta-pou, ke-lăi khiau-kêng, tshuā-bóu bô-kú tsŭ huat-tshâi, liáu lia̍h tuà-pun i hok-khì &#x002D;&#x002D;kâi bóu mìn-mài-tiāu; hṳ́-tiang-sî in-tsôiⁿ-bóu tŏ koi-lōu liû-tōng, tú-ngŏ kiâⁿ kàu che̍k-koiⁿ tsháu-liâu &#x002D;&#x002D;kò, tsháu-liâu sì-ûi bô-nâng-in, chheng kâi lău-ta-pou tsŏ &#x002D;&#x002D;tŏ-kò.
 <!-- She told this old man her sad story, and he asked her to be his wife. -->
 Yi lia̍h ka-kī hiá chhi-tshám-sṳ̄ phue̍h khṳh chí-kâi lău-ta-pou thiaⁿ, lău-ta-pou thiaⁿ-liáu kiò-tàⁿ kè&#x002D;&#x002D;pun-i.
 <!-- She lived with him in the hut, and he prospered and grew rich, and built a large, fine house. -->
