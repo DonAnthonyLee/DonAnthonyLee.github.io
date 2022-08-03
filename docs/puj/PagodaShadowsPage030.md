@@ -33,7 +33,7 @@ Che̍k-tshoh hioⁿ-lí &#x002D;&#x002D;kò, hiá tsṳ-niôⁿ-kiáⁿ sin-hun-
 <!-- In some hamlets the women are all large-footed, and wade streams and walk long distances bare-footed; -->
 Che̍k-tshoh hioⁿ-lí-kiáⁿ &#x002D;&#x002D;kò, tsṳ-niôⁿ-nâng kâi-kâi tuā-kha, kiâⁿ-hn̆g-lōu kah ĕ(lŏm) khoi-tsúi lóng pak-chhiah-kha;
 <!-- but on approaching a town, and on gala days, they do up their feet, more or less successfully, in the aristocratic style. -->
-liáu khṳ̀-kàu koi-chhĭ a-sĭ lîm-tshún tsò-tsoih, i&#x002D;&#x002D;nâng tsŭ lia̍h sang-kha pau &#x002D;&#x002D;khí-lâi, ke-kiám pun &#x002D;&#x002D;nâng thóiⁿ-tio̍h iáu chiàⁿ-keng &#x002D;&#x002D;kò-kiáⁿ.
+liáu khṳ̀-kàu koi-chhĭ a-sĭ lîm-tshún tsò-tsoih, i&#x002D;&#x002D;nâng tsŭ lia̍h sang-kha pau &#x002D;&#x002D;khí-lâi, ke-kiám pun &#x002D;&#x002D;nâng⁎ thóiⁿ-tio̍h iáu chiàⁿ-keng &#x002D;&#x002D;kò-kiáⁿ.
 <br>
 
 <br>

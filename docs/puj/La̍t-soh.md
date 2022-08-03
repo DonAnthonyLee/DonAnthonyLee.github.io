@@ -7,8 +7,8 @@ tag: PUJ_essay
 
 {% include puj-style.html %}
 
-Thong-sin tn̆g hun-ngṳ̂n, &#x002D;&#x002D;nâng tàⁿ "khiau kàu la̍t-soh (khiau kàu pak-le̍k)".
-Uán&#x002D;&#x002D;kò, thó-chè-kiáⁿ phû-hiau-huêⁿ &#x002D;&#x002D;nâng tàⁿ "hiau kuè pak-te̍k". 
+Thong-sin tn̆g hun-ngṳ̂n, &#x002D;&#x002D;nâng⁎ tàⁿ "khiau kàu la̍t-soh (khiau kàu pak-le̍k)".
+Uán&#x002D;&#x002D;kò, thó-chè-kiáⁿ phû-hiau-huêⁿ &#x002D;&#x002D;nâng⁎ tàⁿ "hiau kuè pak-te̍k". 
 <br>
 
 注：

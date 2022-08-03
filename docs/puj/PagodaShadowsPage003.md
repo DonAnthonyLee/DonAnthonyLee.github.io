@@ -12,7 +12,7 @@ tag: PUJ_translation
 becoming. -->
 &nbsp;&nbsp;Tong-kok tsṳ-niôⁿ ŭ che̍k-iōⁿ kuè ŭ hok-khì; i&#x002D;&#x002D;nâng ŭ tâng<a href="#note_1" class="note">1</a> soiⁿ-tō<a href="#note_2" class="note">2</a>(soiⁿ-tiang-sî)<a href="#note_3" class="note">3</a> thuân&#x002D;&#x002D;lo̍h-lâi &#x002D;&#x002D;kâi che̍k-thàu saⁿ-khòu khuán-sek, chhēng&#x002D;&#x002D;khí-lâi kiau-kiah<a href="#note_4" class="note">4</a> iŭ ha̍h-ma̍k.
 <!-- It covers the whole person, and unlike many Western costumes, which make more noticeable what they profess to conceal, it shields the contour of the body from observation. -->
-Chí-khuán saⁿ-khòu, thong-sin<a href="#note_5" class="note">5</a> tsn̂g-kâi pau &#x002D;&#x002D;tŏ-kò, chia-tsa̍h liáu sin-hêng bŏi pun &#x002D;&#x002D;nâng khàn-sṳ̀<a href="#note_6" class="note">6</a> &#x002D;&#x002D;tshut-lâi, bŏi kah hiá tsōi-kâi sai-tsuang sio-siăng, siŏⁿ-àiⁿ siu&#x002D;&#x002D;khí-lâi &#x002D;&#x002D;kâi tin-tò zú-kèng hiáⁿ-ma̍k.
+Chí-khuán saⁿ-khòu, thong-sin<a href="#note_5" class="note">5</a> tsn̂g-kâi pau &#x002D;&#x002D;tŏ-kò, chia-tsa̍h liáu sin-hêng bŏi pun &#x002D;&#x002D;nâng⁎ khàn-sṳ̀<a href="#note_6" class="note">6</a> &#x002D;&#x002D;tshut-lâi, bŏi kah hiá tsōi-kâi sai-tsuang sio-siăng, siŏⁿ-àiⁿ siu&#x002D;&#x002D;khí-lâi &#x002D;&#x002D;kâi tin-tò zú-kèng hiáⁿ-ma̍k.
 <!--It takes but eight yards of yard-wide cloth for a complete suit of winter garments; and there is no waste in cutting nor in unnecessary appendages. -->
 Tsò che̍k-sin chhìn-thiⁿ-sî(tang-thiⁿ-sî) saⁿ-khòu &#x002D;&#x002D;kâi pòu, khuah&#x002D;&#x002D;sì chiâⁿ-bí liáu ŭ chhit-poih-bí tn̂g tsŭ kàu-ēng; saⁿ-khòu tsò-tît liân pòu-thâu-pòu-bué to bô.
 <!-- Its truest economy, however, is in that saving of mental worry which comes from always cutting by the same pattern, and in obviating all need of fitting. -->
@@ -34,11 +34,11 @@ Sin-niôⁿ tsṳ̆ jîp-mn̂g, chiat-sî tsŭ tǹg-tsò in ta-kuaⁿ hṳ́ ts
 <!-- Her happiness depends more on the character of her mother-in-law than on that of her husband, for by her husband's mother and grandmother she is wholly ruled. -->
 Yi kuè liáu ŏi-bŏi chheng-sim, iáu-chió sĭ thóiⁿ kâi ang, tio̍h siàng-hō<a href="#note_9" class="note">9</a> kâi ta-ke kó-keh<a href="#note_10" class="note">10</a> tsăi-seⁿ, mih-sṳ̄ lóng tio̍h thiaⁿ in ta-ke kah lău-má hun-hù.
 <!-- She is domestic servant for the whole household, and especial waiting-maid to her mother-in-law. -->
-Yi pun &#x002D;&#x002D;nâng lia̍h-tsò sĭ kàu-ke-nâng &#x002D;&#x002D;kâi ēng-jîn(kang-jîn), zú-kèng sĭ in ta-ke &#x002D;&#x002D;kâi tsáu₊-kúi<a href="#note_11" class="note">11</a>.
+Yi pun &#x002D;&#x002D;nâng⁎ lia̍h-tsò sĭ kàu-ke-nâng &#x002D;&#x002D;kâi ēng-jîn(kang-jîn), zú-kèng sĭ in ta-ke &#x002D;&#x002D;kâi tsáu₊-kúi<a href="#note_11" class="note">11</a>.
 <!-- Sometimes very strong attachments are formed between these women. -->
 Chiá ta-ke sim-pŭ, lân-sî thuà chhin kàu buâng-miāⁿ.
 <!-- I have seen a woman weep at being separated for a time from her mother-in-law, and express no pleasure when told that her husband was coming to see her. -->
-Uá pat kìⁿ-kuè kâi tsṳ-niôⁿ, tŏ àiⁿ kah ta-ke pun-khui &#x002D;&#x002D;kuá₊-jît hṳ́-ē-mue̍h khàu kàu chheⁿ-tshoih, &#x002D;&#x002D;nâng tàⁿ in ang àiⁿ lâi sio-kìⁿ li suà tiām-tiām.
+Uá pat kìⁿ-kuè kâi tsṳ-niôⁿ, tŏ àiⁿ kah ta-ke pun-khui &#x002D;&#x002D;kuá₊-jît hṳ́-ē-mue̍h khàu kàu chheⁿ-tshoih, &#x002D;&#x002D;nâng⁎ tàⁿ in-ang àiⁿ lâi sio-kìⁿ li suà tiām-tiām.
 <!-- On the other hand, there is often tyranny on the part of the elder woman, and dislike on that of the younger one. -->
 Uē tàⁿ tò-tńg, lău-tsṳ-niôⁿ tsōi-kâi ŏi iáu pà-tău, hău-seⁿ &#x002D;&#x002D;kâi mue̍h&#x002D;&#x002D;tio̍h iáu oh-năi.
 

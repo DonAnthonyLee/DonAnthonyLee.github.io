@@ -30,14 +30,14 @@ tṳ̂-liáu chí-tshoh-kâi, hiá kúi-kúi-kuài-kuài kah siŏⁿ-m̆-pat-kò
 <!-- Oddly shaped stones, queerly gnarled roots, fantastic bits of wood, waifs brought on the tide, are all gods. -->
 Hiá-hêng iáu ku-kuài &#x002D;&#x002D;kâi chio̍h-pŏu, pha-lâi-phuân-khṳ̀ &#x002D;&#x002D;kâi chhiū-kṳn, seⁿ-tsò khî-huàn &#x002D;&#x002D;kâi tshâ-sāi, éng ko̍p&#x002D;&#x002D;lâi &#x002D;&#x002D;kâi mue̍h-kiăⁿ, lóng-tsóng pài-tsò sîn-mêng.
 <!-- A fisherman found a mass of half-decayed oyster-shells, the shape of which was thought to resemble a lion, and for generations that was worshipped in his house. -->
-Ŭ che̍k-kâi thó-hái-nâng khioh-tio̍h che̍k-tu sio-liâm tsò-che̍k-ē &#x002D;&#x002D;kâi ham-khak, &#x002D;&#x002D;nâng thóiⁿ-tio̍h⁎ hiá-hêng tǹg chiah-sai, liáu kàu-taⁿ kúi-tō-nâng lóng sāi tŏ in-lăi &#x002D;&#x002D;kò pài.
+Ŭ che̍k-kâi thó-hái-nâng khioh-tio̍h che̍k-tu sio-liâm tsò-che̍k-ē &#x002D;&#x002D;kâi ham-khak, &#x002D;&#x002D;nâng⁎ thóiⁿ-tio̍h⁎ hiá-hêng tǹg chiah-sai, liáu kàu-taⁿ kúi-tō-nâng lóng sāi tŏ in-lăi &#x002D;&#x002D;kò pài.
 <!-- On the bank of a stream where some bamboos were cut down, the hollow stumps were filled with water, by capillary action through its fibrous roots. -->
 Tŏ hiá khoi-kîⁿ &#x002D;&#x002D;kò, kàu-phŏ-tek khṳh nâng khóm-tiāu, hiá nguân-tí khang-khak &#x002D;&#x002D;kâi tek-kóng in-ūi kṳn-tsat khip-tsúi liáu tsŏ kàu-ē tsúi.
 <!-- This was considered wonderful, and travellers along the road stopped to burn incense and prostrate themselves before the mysterious deity residing among these bamboos. -->
 Chiá-kâi i&#x002D;&#x002D;nâng iā sîm-tio̍h⁎ ŭ-sîn-chiah, liáu che̍k-tuā-thua nâng-khûn sio-lûn tŏ chí-phŏ-te̍k thâu-tsôiⁿ sio-hioⁿ kah kŭiⁿ-pài hṳ́-kò &#x002D;&#x002D;kâi sîn-mêng.
 
 <!-- All the chief gods have their birthdays on which they are specially worshipped, as well as at the great festivals, and at the new and the full of each moon. -->
-&nbsp;&nbsp;Hṳ́-tshoh-kâi iáu-chiàⁿ &#x002D;&#x002D;kâi sîn-mêng to-ŭ seⁿ-jît; tṳ̂-liáu hiá seⁿ-jît &#x002D;&#x002D;sî &#x002D;&#x002D;nâng tsuan-kang pài &#x002D;&#x002D;in, hông-tio̍h tuā-tsoih, chhiu-it tsa̍p-ngŏu, lóng ŭ-nâng pài.
+&nbsp;&nbsp;Hṳ́-tshoh-kâi iáu-chiàⁿ &#x002D;&#x002D;kâi sîn-mêng to-ŭ seⁿ-jît; tṳ̂-liáu hiá seⁿ-jît &#x002D;&#x002D;sî &#x002D;&#x002D;nâng⁎ tsuan-kang pài &#x002D;&#x002D;in, hông-tio̍h tuā-tsoih, chhiu-it tsa̍p-ngŏu, lóng ŭ-nâng pài.
 
 <!-- Many of the greater gods have representatives in the family, and ashes from the incense-pots in the temples are frequently brought and worshipped in the houses. -->
 &nbsp;&nbsp;Tsōi-kâi tsú-sîn tŏ i&#x002D;&#x002D;nâng tshù-lăi to-ŭ sāi sîn-siòⁿ, liáu hiá-nâng iā chhiâng-sî tùi keng-biō &#x002D;&#x002D;kò chhiáⁿ&#x002D;&#x002D;lâi &#x002D;&#x002D;kâi hioⁿ-lôu-hu pái tŏ sîn-siòⁿ thâu-tsôiⁿ &#x002D;&#x002D;kò pài.
@@ -46,7 +46,7 @@ Liáu, tŏ chí-tshoh-kâi liām-sîn-pài-hu̍t i&#x002D;&#x002D;nâng hṳ́ t
 <!-- He is the god of the kitchen, and none would dare to set up housekeeping without him. -->
 Yi sĭ kuán-hat tsàu-suaⁿ-thâu &#x002D;&#x002D;kâi sîn-mêng, nâ-sĭ bô &#x002D;&#x002D;i, ke-lăi-khang-khuè bô-nâng káⁿ tsoh.
 <!-- He has been a god for hundreds of years, and all know the legend concerning him. -->
-&#x002D;&#x002D;Nâng tsun-hŏng i tsò sîn-mêng ŭ-tio̍h⁎ káng-peh-nîⁿ &#x002D;&#x002D;liáu, nâng-nâng ŏi tsai i &#x002D;&#x002D;kâi thuân-sueh(kóu-thuân).
+&#x002D;&#x002D;Nâng⁎ tsun-hŏng i tsò sîn-mêng ŭ-tio̍h⁎ káng-peh-nîⁿ &#x002D;&#x002D;liáu, nâng-nâng ŏi tsai i &#x002D;&#x002D;kâi thuân-sueh(kóu-thuân).
 <br>
 
 

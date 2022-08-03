@@ -25,11 +25,11 @@ i &#x002D;&#x002D;kâi phuê kah tṳ pêⁿ-iōⁿ, che̍k-sin hué-hu-sek &#x0
 <!-- and its horns were long, sharp, and curved. -->
 i &#x002D;&#x002D;kâi kak iŭ tn̂g iŭ chiam huáⁿ₊ uan-khiau.
 <!-- It dragged the plough and harrow over the rice-fields, and when at rest as well as when at work must have an attendant to lead it from place to place to feed, and to see that it did not destroy the grain; -->
-Tsúi-gû thua tio̍h lôi-pê tŏ tshân-hn̂g &#x002D;&#x002D;kò lôi-tshân, bô-lŭn keⁿ-tsoh a-sĭ hiah-he̍k to tio̍h &#x002D;&#x002D;nâng tsuan-kang khan i kiâⁿ, kah tio̍h tsai-kuan i mài khṳ̀ mue̍h-tiāu tshoh tiŭ;
+Tsúi-gû thua tio̍h lôi-pê tŏ tshân-hn̂g &#x002D;&#x002D;kò lôi-tshân, bô-lŭn keⁿ-tsoh a-sĭ hiah-he̍k to tio̍h &#x002D;&#x002D;nâng⁎ tsuan-kang khan i kiâⁿ, kah tio̍h tsai-kuan i mài khṳ̀ mue̍h-tiāu tshoh tiŭ;
 <!-- for there were no fences between the fields. -->
 me tshân kah tshân bô keh tek-lî.
 <!-- It was governed by a rope tied to a ring through its nostril. -->
-&#x002D;&#x002D;Nâng ēng tiâu soh pa̍k tuè gû-kǹg-phīⁿ lâi kuán-hat chiah-gû.
+&#x002D;&#x002D;Nâng⁎ ēng tiâu soh pa̍k tuè gû-kǹg-phīⁿ lâi kuán-hat chiah-gû.
 <!-- Number Four liked to ride home from the rice-field on its back, and then watch it while it rested and wallowed in a pool of muddy water. -->
 A-sì siăng ngiàn khiâ-gû tùi tshân-hn̂g kàu tshù-lăi, liáu, nā piⁿ&#x002D;&#x002D;thâu chióⁿ chiah-gû bô-sṳ̄ tŏ chĕng thôu-ko-muê &#x002D;&#x002D;kâi tî-tói húiⁿ-ká-kún.
 <!-- When there was not enough rain, Four had also to help to turn the chain pump, which raised water from the creek to the level of the rice-fields, to water the growing crop. -->

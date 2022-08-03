@@ -22,7 +22,7 @@ Sàng-sng &#x002D;&#x002D;kâi nâng-khûn pâi kàu tn̂g-tn̂g, khàu-sng<a hr
 <!-- A hired band of musicians, blowing horns, preceded the coffin; -->
 Kiâⁿ tŏ kuaⁿ-tshâ thâu-mīn-tsôiⁿ sĭ kòu &#x002D;&#x002D;lâi &#x002D;&#x002D;kâi che̍k-khûn pûn ti-tâⁿ &#x002D;&#x002D;kâi;
 <!-- and beans, peas, and grain were thrown into the grave, before the coffin was lowered. -->
-kuaⁿ-tshâ jîp-tsǹg tsôiⁿ, &#x002D;&#x002D;nâng tsang ngóu-kak sám tŏ phûn tói-mīn.
+kuaⁿ-tshâ jîp-tsǹg tsôiⁿ, &#x002D;&#x002D;nâng⁎ tsang ngóu-kak sám tŏ phûn tói-mīn.
 <!-- The place for the grave, and the day for the funeral, had been previously selected by a wizard, who was supposed to be able to discover what was lucky in such matters. -->
 Phûn-ūi kah tī-jît chiŏⁿ-suaⁿ<a href="#note_2" class="note">2</a>, lóng-sĭ tsá-tsôiⁿ tshuē huang-tsúi-sin-seⁿ thóiⁿ-liáu to̍h &#x002D;&#x002D;kâi.
 
@@ -31,7 +31,7 @@ Phûn-ūi kah tī-jît chiŏⁿ-suaⁿ<a href="#note_2" class="note">2</a>, lón
 <!-- The family were in great distress, not having the means to pay the debt without selling the land on which their support depended. -->
 Chí-ke-nâng kuè-jît lóng kŏu i&#x002D;&#x002D;nâng kò tshân-hn̂g, liáu, bô bōi-tiāu li bô-piàn hôiⁿ tiâu seⁿ-chè, thong-ke-kiáⁿ thiám kàu bŏi-tháu-khùi.
 <!-- After much trouble, and many threats from the creditor, the mother decided to accept the offer of a rich relative to whom she had applied for help, and for a sum amounting to nearly twenty pounds let him have Number Four for his own son. -->
-Khṳh chè-tsú tô-tia̍p kàu chheⁿ-kiaⁿ, in-âi kuat-tuàn chih-siŭ kâi pù-nâng-chhin-chiâⁿ &#x002D;&#x002D;kâi tsú-ì; i pat khṳ̀ khiû chí-kâi chhin-chiâⁿ sio-hŭ, &#x002D;&#x002D;nâng tàⁿ tio̍h A-sì kuè pun i tsò-kiáⁿ tsŭ khṳh i chhit-tsa̍p-nióⁿ ngṳ̂n.
+Khṳh chè-tsú tô-tia̍p kàu chheⁿ-kiaⁿ, in-âi kuat-tuàn chih-siŭ kâi pù-nâng-chhin-chiâⁿ &#x002D;&#x002D;kâi tsú-ì; i pat khṳ̀ khiû chí-kâi chhin-chiâⁿ sio-hŭ, &#x002D;&#x002D;nâng⁎ tàⁿ tio̍h A-sì kuè pun i tsò-kiáⁿ tsŭ khṳh i chhit-tsa̍p-nióⁿ ngṳ̂n.
 <!-- Four and his mother and brothers all cried over it; -->
 A-sì kah in-âi, kah hiaⁿ-tĭ&#x002D;&#x002D;hué ūi chí-kiăⁿ-sṳ̄ khàu kàu hô-thiⁿ-kiò-jît;
 <!-- but on what was found to be a fortunate day by casting lots in the temple, he went away, to be his mother's child no more. -->
@@ -43,7 +43,7 @@ Chin-tsò i&#x002D;&#x002D;nâng jît-ău ŭ-chîⁿ, in iā bô-tit bói i tò-
 <!-- His elder sister had been married long before, and the betrothal money spent. -->
 A-sì &#x002D;&#x002D;kâi a-ché, hoh-kú-tsôiⁿ tsŭ kè-nâng &#x002D;&#x002D;khṳ̀, phiàⁿ-lói-chîⁿ tsá tsŭ sái liáu &#x002D;&#x002D;liáu.
 <!-- His younger sister was then betrothed for two pounds, and went at once to be brought up by the mother of her future husband. -->
-A-sì &#x002D;&#x002D;kâi a-muē, &#x002D;&#x002D;nâng khio̍h liáu la̍k-nióⁿ ngṳ̂n tsò-tiāⁿ, iā pun ĕ-jît &#x002D;&#x002D;kâi ta-ke kiau khṳ̀ chhī-tuā &#x002D;&#x002D;liáu.
+A-sì &#x002D;&#x002D;kâi a-muē, &#x002D;&#x002D;nâng⁎ khio̍h liáu la̍k-nióⁿ ngṳ̂n tsò-tiāⁿ, iā pun ĕ-jît &#x002D;&#x002D;kâi ta-ke kiau khṳ̀ chhī-tuā &#x002D;&#x002D;liáu.
 <!-- So the money due to the hard creditor was made up, and the mother had three boys left to support her in old age. -->
 Àn-chiòⁿ-seⁿ, tiâu seⁿ-chè chiàⁿ tshòu ŭ-kàu hôiⁿ &#x002D;&#x002D;nâng; liáu, in-âi jît-ău tsŭ khò tshûn&#x002D;&#x002D;lo̍h-lâi hṳ́ saⁿ-kâi-kiáⁿ iáng-láu &#x002D;&#x002D;liáu. 
 <br>

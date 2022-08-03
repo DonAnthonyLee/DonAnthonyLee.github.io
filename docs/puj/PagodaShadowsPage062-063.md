@@ -27,7 +27,7 @@ Tsōi-kâi nâng-ke tŏ tshù-lăi &#x002D;&#x002D;kâi tsú-pâng sāi i&#x002D
 <!-- His birthday is the fourteenth of the seventh month, and on that day every family worships him, each in its own house. -->
 Yi&#x002D;&#x002D;kâi seⁿ-jît sĭ lông-le̍h chhit-gue̍h-tsa̍p-sì, hṳ́-jît kak-ke-kak-hŏu lóng tŏ ka-kī tshù-lăi pài &#x002D;&#x002D;i.
 <!-- On the twenty-fourth day of the last month of the year, when the gods are supposed to go off for a ten days' holiday, a paper horse and other travelling equipments are burned for his use during his journey to make his annual report to the superior gods. -->
-Kàu lông-le̍h tsa̍p-jī-gue̍h-jîh-sì, hiá sîn-mêng nguân-tí lóng-tsóng hiah tsa̍p-jît, &#x002D;&#x002D;nâng li sio tsuá-bé khṳh i hó khiâ-khṳ̀ thiⁿ-téng pín-pò hṳ́-che̍k-nîⁿ nâng-sì_kan &#x002D;&#x002D;kâi tuā-jī-sòi-sṳ̄.
+Kàu lông-le̍h tsa̍p-jī-gue̍h-jîh-sì, hiá sîn-mêng nguân-tí lóng-tsóng hiah tsa̍p-jît, &#x002D;&#x002D;nâng⁎ li sio tsuá-bé khṳh i hó khiâ-khṳ̀ thiⁿ-téng pín-pò hṳ́-che̍k-nîⁿ nâng-sì_kan &#x002D;&#x002D;kâi tuā-jī-sòi-sṳ̄.
 <!-- A lamp is kept constantly burning during the first days of the new year, to indicate that the family are waiting to welcome him whenever he returns. -->
 Sin-nîⁿ thâu-kúi-jît kâi-kâi tsàu-suaⁿ-thâu tiám ki teng to̍h&#x002D;&#x002D;tŏ, sĭ-kài-tàⁿ bô-lŭn i tī-tiang-sî tńg&#x002D;&#x002D;lâi, hṳ́-ke-nâng lóng tŏ tán &#x002D;&#x002D;i.
 <!-- Children who have been away from home, on their return, after greeting their parents, worship Su Meng Kong. -->

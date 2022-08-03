@@ -33,7 +33,7 @@ Che̍k-lân-kâi siŏⁿ-àiⁿ thàm-thiaⁿ-thóiⁿ in-hṳ́-kò sĭ-mĭ₊ 
 <!-- and if it were really true that there were countries and people at the bottom of the sea. -->
 liáu, sĭ-mĭ₊ hái-tói siang-sît ŭ-nâng khiă-khí &#x002D;&#x002D;hēⁿ.
 <!-- Another, who had heard of Great Britain, remarked that in Western lands they had women for their rulers. -->
-Ŭ-nâng li tàⁿ pat thiaⁿ-kuè &#x002D;&#x002D;nâng phue̍h-tio̍h Eng-kok, tàⁿ hiá-tī-hng sĭ-kài tiàm tŏ huan-pôiⁿ, kah hṳ́-kò tsṳ-niôⁿ-nâng tsò huâng-tì.
+Ŭ-nâng li tàⁿ pat thiaⁿ-kuè &#x002D;&#x002D;nâng⁎ phue̍h-tio̍h Eng-kok, tàⁿ hiá-tī-hng sĭ-kài tiàm tŏ huan-pôiⁿ, kah hṳ́-kò tsṳ-niôⁿ-nâng tsò huâng-tì.
 <!-- She had some books with her, and as Kai Bun could read, she lent him one, promising to make him a present of another when he should have read the first all through. -->
 Guā-kok tsṳ-niôⁿ tsah liáu kuá₊-pńg-tsṳ, in-ūi Kai-bûn ŏi pat-jī, i chioh-liáu che̍k-pńg pun Kai-bûn, tshó-chhiàng tàⁿ tán Kai-bûn lia̍h chí-pńg-tsṳ thóiⁿ-liáu, kàu-sî i sàng ke che̍k-pńg pun Kai-bûn.
 <br>

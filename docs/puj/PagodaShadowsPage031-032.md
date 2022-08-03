@@ -30,7 +30,7 @@ Chiá-mue̍h-kiăⁿ-sṳ̄ iā m̆-sĭ lia̍h-lâi tsò miâⁿ-sek-tói &#x002
 <!-- Neither is it a sign of wealth, for in those places where the custom prevails, the poorest follow it. -->
 Yi iā m̆-sĭ tsún-zû i&#x002D;&#x002D;nâng ŭ-chîⁿ &#x002D;&#x002D;kâi, in-ūi tŏ sĕng-kiâⁿ chí-chéng hong-so̍k &#x002D;&#x002D;kâi tī-hng, hiá siăng bô-chîⁿ &#x002D;&#x002D;kâi iā sio-tuè tîⁿ-kha.
 <!-- Inferior wives, unless they come as bond-maids into the household, are usually bound-footed women. -->
-Kè pun &#x002D;&#x002D;nâng tsò jī-nâng &#x002D;&#x002D;kâi, nâ-m̆-sĭ nguân-tsá tŏ hṳ́-ke-nâng &#x002D;&#x002D;kò tsò a-huân &#x002D;&#x002D;kâi, tsōi-kâi iā tîⁿ-kha.
+Kè pun &#x002D;&#x002D;nâng⁎ tsò jī-nâng &#x002D;&#x002D;kâi, nâ-m̆-sĭ nguân-tsá tŏ hṳ́-ke-nâng &#x002D;&#x002D;kò tsò a-huân &#x002D;&#x002D;kâi, tsōi-kâi iā tîⁿ-kha.
 <!-- 注：“丫环” 在《菲尔德词典》中读 hia-huân，而译者处 “丫” 有俗读音 ia，现更改为文读音 a-huân 。 -->
 <!-- Taking all China together, probably nine-tenths of the women have bound feet. -->
 Lia̍h tshuân Tong-kok tsò-che̍k-ē sǹg-lo̍h, ùiⁿ-tit hiá tsṳ-niôⁿ-nâng ŭ tîⁿ-kha &#x002D;&#x002D;kâi chiàm-tio̍h⁎ ŭ káu-siâⁿ.
@@ -53,10 +53,10 @@ Bô lu̍t-lī kui-tiāⁿ tsṳ-niôⁿ-nâng tio̍h tîⁿ-kha, liáu Pak-kia�
 Chiá-hong-so̍k sĭ-kài tī-seⁿ tshut-tshú, nîⁿ-ko khah-tn̂g, bô-nâng ŏi tsai.
 
 <!-- The only reason that I have heard in favour of it, aside from the common one that women would be laughed at and despised if their feet were like men's, was given me by a man, who said that it was necessary that women's feet should be bound, else they would be as strong as their husbands, and then they could not be kept in subjection by beating. -->
-&nbsp;&nbsp;Uá thiaⁿ&#x002D;&#x002D;kuè hiá lí-iû lăi-tói siŏⁿ-tio̍h ŭ-iáⁿ &#x002D;&#x002D;kâi, tsōi-kâi tàⁿ hiá tsṳ-niôⁿ-nâng nâ-sĭ sang-kha kah ta-pou-nâng pêⁿ-iōⁿ tuā-sang tio̍h khṳh &#x002D;&#x002D;nâng chhiò huáⁿ₊ tio̍h &#x002D;&#x002D;nâng phì-siòⁿ; pat ŭ kâi ta-pou-nâng kah uá tàⁿ-, hiá tsṳ-niôⁿ-nâng ngĕⁿ-hóuⁿ tio̍h tîⁿ-kha, bô_li i&#x002D;&#x002D;nâng ŏi kah in-ang pêⁿ kiāⁿ-sin, liáu tsŭ bô-piàn phah kàu i&#x002D;&#x002D;nâng kiò-m̆-káⁿ &#x002D;&#x002D;liáu.
+&nbsp;&nbsp;Uá thiaⁿ&#x002D;&#x002D;kuè hiá lí-iû lăi-tói siŏⁿ-tio̍h ŭ-iáⁿ &#x002D;&#x002D;kâi, tsōi-kâi tàⁿ hiá tsṳ-niôⁿ-nâng nâ-sĭ sang-kha kah ta-pou-nâng pêⁿ-iōⁿ tuā-sang tio̍h khṳh &#x002D;&#x002D;nâng⁎ chhiò huáⁿ₊ tio̍h &#x002D;&#x002D;nâng⁎ phì-siòⁿ; pat ŭ kâi ta-pou-nâng kah uá tàⁿ-, hiá tsṳ-niôⁿ-nâng ngĕⁿ-hóuⁿ tio̍h tîⁿ-kha, bô_li i&#x002D;&#x002D;nâng ŏi kah in-ang pêⁿ kiāⁿ-sin, liáu tsŭ bô-piàn phah kàu i&#x002D;&#x002D;nâng kiò-m̆-káⁿ &#x002D;&#x002D;liáu.
 
 <!-- But the men generally offer no greater opposition to a departure from the established fashion than do the women themselves. -->
-&nbsp;&nbsp;Put-kuè, &#x002D;&#x002D;nâng bô-chiàu chiá hong-so̍k lâi-kiâⁿ &#x002D;&#x002D;hṳ́-ē, chhiâng-chhiâng tsṳ-niôⁿ-nâng tin-tò pí ta-pou-nâng zú-kèng m̆-hàuⁿ. 
+&nbsp;&nbsp;Put-kuè, &#x002D;&#x002D;nâng⁎ bô-chiàu chiá hong-so̍k lâi-kiâⁿ &#x002D;&#x002D;hṳ́-ē, chhiâng-chhiâng tsṳ-niôⁿ-nâng tin-tò pí ta-pou-nâng zú-kèng m̆-hàuⁿ. 
 <!-- For a Chinese woman the greatest of sorrows is that of having no sons; -->
 Tong-kok tsṳ-niôⁿ-nâng it-tshám sĭ seⁿ bô tau₊-kiáⁿ,
 <!-- the next to the greatest is that of being unlike her neighbours. -->

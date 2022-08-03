@@ -29,11 +29,11 @@ lī-khui ka-kī &#x002D;&#x002D;kâi hiaⁿ-tĭ-chek-sun, i&#x002D;&#x002D;nâng
 Sui-sĭ chiòⁿ-seⁿ, tùi móng-tī-kâi tsân-mīn lâi thóiⁿ, i&#x002D;&#x002D;nâng &#x002D;&#x002D;kâi kéng-ngŏ huân-liáu<a href="#note_2" class="note">2</a> hó kuè sio-keh kok-ke &#x002D;&#x002D;kâi chí-muē&#x002D;&#x002D;hué.
 <!-- She is not a sufferer through any system of caste, as in India; she is not shut up in a harem, as in Turkey; she is not denied the possession of a soul and the religious privileges of men, as in Burma ; she is not degraded by polyandry, as in Thibet; she is not in a climate which keeps her bare and lazy, like the women of Siam. -->
 <!-- chéng-tsa̍k, 《卓威廉词典》中均为 chéng-tsa̍t, 此字典中有个别词的 -k 韵尾混入 -t，比如 壮（tsàn，此音译者处常见），此处结合《潮汕十五音》区分两者而注写 -k 韵尾。 -->
-Yi&#x002D;&#x002D;nâng bŏi chhin-chhiŏⁿ Yìn-tōu hiòⁿ-seⁿ tio̍h sêng-siŭ &#x002D;&#x002D;nâng àn chéng-tsa̍k pun-lūi;
-i&#x002D;&#x002D;nâng bŏi jiân Thóu-zṳ́-khî tsṳ-niôⁿ hiòⁿ-seⁿ khṳt<a href="#note_3" class="note">3</a> &#x002D;&#x002D;nâng kìm tŏ pâng-lăi;
+Yi&#x002D;&#x002D;nâng bŏi chhin-chhiŏⁿ Yìn-tōu hiòⁿ-seⁿ tio̍h sêng-siŭ &#x002D;&#x002D;nâng⁎ àn chéng-tsa̍k pun-lūi;
+i&#x002D;&#x002D;nâng bŏi jiân Thóu-zṳ́-khî tsṳ-niôⁿ hiòⁿ-seⁿ khṳt<a href="#note_3" class="note">3</a> &#x002D;&#x002D;nâng⁎ kìm tŏ pâng-lăi;
 i&#x002D;&#x002D;nâng bŏi tǹg Miân-tiăn tsṳ-niôⁿ hiòⁿ-seⁿ tsò-ē bô tī-ūi kah chheng ta-pou chiàⁿ ŭ tsong-kà te̍k-khuân;
 i&#x002D;&#x002D;nâng bŏi siău Sai-tsăng che̍k-tshoh tī-hng che̍k-nâng ho̍k-sṳ̆ ku-ā-nâng<a href="#note_4" class="note">4</a> hiòⁿ bô-hó miāⁿ-keh;
-i&#x002D;&#x002D;nâng bŏi jiân-tǹg Siâm-lô tsṳ-niôⁿ hiòⁿ-seⁿ che̍k-ē thiⁿ-sî pek-zua̍h, mue̍h kàu &#x002D;&#x002D;nâng liân tá-tia̍p to pân-tuăⁿ<a href="#note_6" class="note">6</a>.
+i&#x002D;&#x002D;nâng bŏi jiân-tǹg Siâm-lô tsṳ-niôⁿ hiòⁿ-seⁿ che̍k-ē thiⁿ-sî pek-zua̍h, mue̍h kàu &#x002D;&#x002D;nâng⁎ liân tá-tia̍p to pân-tuăⁿ<a href="#note_6" class="note">6</a>.
 <!-- Her virtue is as carefully guarded and as highly esteemed as in any country in the world. -->
 Tsṳ-niôⁿ-nâng &#x002D;&#x002D;kâi tek-hĕng, kah tshuân-sì-kài pa̍t-kâi kok-ke pêⁿ-iōⁿ, kâi-kâi sió-sim pó-hŭ, tsun-tŏng kàu ŭ-tshûn.
 <!-- Female children and elderly women associate with persons of the same age and of the other sex, on terms of apparent equality. -->

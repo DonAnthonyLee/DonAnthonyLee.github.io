@@ -11,11 +11,11 @@ tag: PUJ_translation
 <!-- A Si, in his new home, was no longer Number Four. -->
 &nbsp;&nbsp;A-sì, tŏ i sin &#x002D;&#x002D;kâi ke-lăi, bô-tsài pâi-hâng tŏiⁿ-sì.
 <!-- His name was changed to Kai Bun, which means "an aspirant in literature"; -->
-&#x002D;&#x002D;Nâng kah i kói liáu kâi tsṳ-miâⁿ kiò-tsò Kai-bûn, ì-sṳ̀ sĭ "hàuⁿ-ha̍k_tsṳ-sṳ̆";
+&#x002D;&#x002D;Nâng⁎ kah i kói liáu kâi tsṳ-miâⁿ kiò-tsò Kai-bûn, ì-sṳ̀ sĭ "hàuⁿ-ha̍k_tsṳ-sṳ̆";
 <!-- and his estate was so much improved, that it was only at times that he remembered his former home with regret. -->
 i &#x002D;&#x002D;kâi seⁿ-ua̍h mih-iōⁿ-kâi to pí nguân-tsá hó kuè-tsōi, chheng lân-sî siàu-liām tio̍h kū-tsá tshù-lăi ŏi sim-kuaⁿ-thâu né tsa̍t-tsa̍t.
 <!-- He here had one elder brother, who was also an adopted child; -->
-Yi tŏ chí-kò ŭ kâi a-hiaⁿ, pêⁿ-iōⁿ &#x002D;&#x002D;nâng siu-iáng &#x002D;&#x002D;kâi;
+Yi tŏ chí-kò ŭ kâi a-hiaⁿ, pêⁿ-iōⁿ &#x002D;&#x002D;nâng⁎ siu-iáng &#x002D;&#x002D;kâi;
 <!-- for this couple had no children of their own, and they must have some one to rear up as theirs, to make offerings for their welfare in the spirit-world after their death. -->
 chí-tùi ang-chiá ka-kī bô kiáⁿ, tio̍h chhī kâi lâi tsò kiáⁿ, kuè-sin ău chiàⁿ ŭ-nâng sio-chîⁿ-tsuá khṳh &#x002D;&#x002D;in.
 <!-- Before this, Four had eaten boiled sweet-potatoes three times a day; -->

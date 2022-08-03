@@ -21,7 +21,7 @@ Tsṳ-niôⁿ-nâng kuè-chió tshut-mn̂g, chiu-jît tŏ m̆-ôiⁿ tsṳ́-chi
 Tuā&#x002D;&#x002D;nâng ēng che̍k-niáⁿ chheng-khih &#x002D;&#x002D;kâi phuà-saⁿ lia̍h i pau &#x002D;&#x002D;tiāⁿ, pàng i nā tek-nâⁿ &#x002D;&#x002D;kò, tsài ēng nŏⁿ-kóu soh phuân tuè tshù-êⁿ tsang tek-nâⁿ tiàu(liū) &#x002D;&#x002D;khí-lâi;
 àn-chiòⁿ-seⁿ, tek-nâⁿ-kiáⁿ iô-a-iô(iŏ-a-iŏ), nou-kiáⁿ che̍k-ē tsŭ u̍t<a href="#note_3" class="note">3</a> kàu tsuh-tsuh.
 <!-- When he was one month old he had his head shaven in spots, and when he was four months old it was shaven clean. -->
-Yi chiàⁿ muáⁿ-gue̍h, thâu-mô tsŭ pun &#x002D;&#x002D;nâng thì tsò tiáⁿ-kiáⁿ-lih, kàu sì-kâi-gue̍h tuā, thâu-mô tsn̂g-kâi thì kng-kng.
+Yi chiàⁿ muáⁿ-gue̍h, thâu-mô tsŭ pun &#x002D;&#x002D;nâng⁎ thì tsò tiáⁿ-kiáⁿ-lih, kàu sì-kâi-gue̍h tuā, thâu-mô tsn̂g-kâi thì kng-kng.
 <!-- As it was cold weather, and there was never a fire in the house, he was kept warm by a little jacket thickly quilted with cotton, and by two old jackets of his father's wrapped around his legs. -->
 Yin-ūi thiⁿ-sî chhìn, tshù-lăi iŭ m̆-pat tiám hué-lôu, i sin chhēng che̍k-niáⁿ kău-kău &#x002D;&#x002D;kâi mîⁿ-hiûⁿ-kiáⁿ, sang-kha ēng i a-pĕ nŏⁿ-niáⁿ kū-saⁿ pau &#x002D;&#x002D;tŏ-kò, chiòⁿ-seⁿ chiàⁿ ŭ-kàu sio.
 <!-- Long before he had teeth, his mother fed him with soft-boiled rice, which she deftly tucked into his mouth with her fingers, and on which he thrived wonderfully. -->
@@ -29,9 +29,9 @@ Yi huáⁿ₊ buē huat-khí, in âi tsang kho̍h kàu kôu-kôu &#x002D;&#x002D
 <!-- When he fretted much, he was put into a pocket on the back of his eight-year-old sister, and she ran about or swayed to and fro to quiet him. -->
 Yi àiⁿ khì-sèⁿ, i poih-huè tuā &#x002D;&#x002D;kâi a-ché ēng pì-tō pì tŏ ka-chiah-ău, liáu kiâⁿ-lâi-kiâⁿ-khṳ̀ a-sĭ khŏng-a-khŏng lâi ŏng i chĕⁿ.
 <!-- Indeed, he spent the greater part of first five years of his life on his mother's or his sister's back, sitting in a scarf tied over her shoulders, his arms around her neck, his legs dangling at her sides, and his head bobbing back, looking at the roof or the sky. -->
-Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām khò tŏ in âi a-sĭ a-ché &#x002D;&#x002D;kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng koiⁿ-thâu &#x002D;&#x002D;kâi pì-tiâu &#x002D;&#x002D;kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng &#x002D;&#x002D;kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thiⁿ-téng-thâu.
+Chiang-sît &#x002D;&#x002D;kâi, i ngŏu-huè tsôiⁿ tiām khò tŏ in âi a-sĭ a-ché &#x002D;&#x002D;kâi ka-chiah-pang, tsŏ nā pa̍k tuè &#x002D;&#x002D;nâng⁎ koiⁿ-thâu &#x002D;&#x002D;kâi pì-tiâu &#x002D;&#x002D;kò, sang-chhiú lám tio̍h &#x002D;&#x002D;nâng⁎ &#x002D;&#x002D;kâi ăm, sang-kha tŏ &#x002D;&#x002D;nâng⁎ sang-pôiⁿ sŏng-a-sŏng, thâu-khak lân-sî tiòⁿ taⁿ, sang-ma̍k ko̍k-ko̍k-kim mōⁿ tio̍h tshù-téng a-sĭ thiⁿ-téng-thâu.
 <!-- When he was three years old, the hair on his crown was allowed to grow long to be braided into a queue. -->
-Yi saⁿ-huè tuā, thâu-khak-téng tshoh mô seⁿ-liáu ŭ-kàu tn̂g, &#x002D;&#x002D;nâng tsŭ lia̍h i pĭⁿ-tsò piⁿ.
+Yi saⁿ-huè tuā, thâu-khak-téng tshoh mô seⁿ-liáu ŭ-kàu tn̂g, &#x002D;&#x002D;nâng⁎ tsŭ lia̍h i pĭⁿ-tsò piⁿ.
 <!-- Almost as soon as he could walk and carry a basket and rake, he went with his next elder brother to gather fuel on the hills. -->
 Taⁿ-chiàⁿ ŏi hiáu pì kâi nâⁿ-kiáⁿ kah áu ki khau-pê sì-tshù kiâⁿ, i tsŭ kah i sŭn-suà &#x002D;&#x002D;kâi a-hiaⁿ tsò-che̍k-ē khṳ̀ suaⁿ-téng khioh mue̍h-hiâⁿ.
 <!-- They scraped up the dry wild grass and the fallen needles of the pine-trees, and everything else they could gather to make the pot boil. -->
