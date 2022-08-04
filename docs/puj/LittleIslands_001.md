@@ -55,6 +55,7 @@ tag: PUJ_translation
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d55402d1986146e4eb82ccc60dd1f3b804d7e1a9" target="_blank">adjust a few expressions, add paragraphs, add internal comments</a> |
 | 2022-08-03 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/742834e76004eb1a060ea0ea97a384b184baef25" target="_blank">adjust a few expressions, add paragraphs</a> |
 | 2022-08-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/c2bdc3c6a5d0b1d78cf140358e407cd3f3bad148" target="_blank">finish the second page</a> |
 | 2022-08-01 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/31eb9eacf559c7f082deb61b86634ddd35e97d85" target="_blank">finish the first page</a> |
