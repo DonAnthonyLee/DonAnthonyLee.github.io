@@ -19,7 +19,7 @@ tag: PUJ_writing_and_reading
 
 | 符号 | 表示方式含义 | 示例 | 《卓威廉词典》中表示方式 |
 |---|--------------------------------------------------|-------------------------------|-------------------------------|
-| _ | 固定词中符号所在前音读本调 |  piăng_che̍k-kio;  ma̍k_tang_bô-nâng | piãng--chē-kiè; ma̍k--tang bô-nâng |
+| _ | 固定词中符号所在前音读本调 |  piăng_che̍k-kiò;  ma̍k_tang_bô-nâng | piãng--chē-kiè; ma̍k--tang bô-nâng |
 | ₊ | 符号所在前音存在多种读法，或为合音，或为多种调 | kuá₊-nâng; tsáu₊-khui | 无 |
 | ⁎ | 符号前音与常规变调有异，非轻声时读本调，轻声时读轻声调 | thòi --nâng⁎ sin-uan | thòi--nâng sin-uan |
 
