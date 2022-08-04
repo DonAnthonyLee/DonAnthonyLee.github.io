@@ -11,7 +11,7 @@ tag: PUJ_translation
 <!-- A Si, in his new home, was no longer Number Four. -->
 &nbsp;&nbsp;A-sì, tŏ i sin &#x002D;&#x002D;kâi ke-lăi, bô-tsài pâi-hâng tŏiⁿ-sì.
 <!-- His name was changed to Kai Bun, which means "an aspirant in literature"; -->
-&#x002D;&#x002D;Nâng⁎ kah i kói liáu kâi tsṳ-miâⁿ kiò-tsò Kai-bûn, ì-sṳ̀ sĭ "hàuⁿ-ha̍k_tsṳ-sṳ̆";
+&#x002D;&#x002D;Nâng kah i kói liáu kâi tsṳ-miâⁿ kiò-tsò Kai-bûn, ì-sṳ̀ sĭ "hàuⁿ-ha̍k_tsṳ-sṳ̆";
 <!-- and his estate was so much improved, that it was only at times that he remembered his former home with regret. -->
 i &#x002D;&#x002D;kâi seⁿ-ua̍h mih-iōⁿ-kâi to pí nguân-tsá hó kuè-tsōi, chheng lân-sî siàu-liām tio̍h kū-tsá tshù-lăi ŏi sim-kuaⁿ-thâu né tsa̍t-tsa̍t.
 <!-- He here had one elder brother, who was also an adopted child; -->

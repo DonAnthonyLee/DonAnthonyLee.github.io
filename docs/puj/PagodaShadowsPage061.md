@@ -46,7 +46,7 @@ Liáu, tŏ chí-tshoh-kâi liām-sîn-pài-hu̍t i&#x002D;&#x002D;nâng hṳ́ t
 <!-- He is the god of the kitchen, and none would dare to set up housekeeping without him. -->
 Yi sĭ kuán-hat tsàu-suaⁿ-thâu &#x002D;&#x002D;kâi sîn-mêng, nâ-sĭ bô &#x002D;&#x002D;i, ke-lăi-khang-khuè bô-nâng káⁿ tsoh.
 <!-- He has been a god for hundreds of years, and all know the legend concerning him. -->
-&#x002D;&#x002D;Nâng⁎ tsun-hŏng i tsò sîn-mêng ŭ-tio̍h⁎ káng-peh-nîⁿ &#x002D;&#x002D;liáu, nâng-nâng ŏi tsai i &#x002D;&#x002D;kâi thuân-sueh(kóu-thuân).
+&#x002D;&#x002D;Nâng tsun-hŏng i tsò sîn-mêng ŭ-tio̍h⁎ káng-peh-nîⁿ &#x002D;&#x002D;liáu, nâng-nâng ŏi tsai i &#x002D;&#x002D;kâi thuân-sueh(kóu-thuân).
 <br>
 
 

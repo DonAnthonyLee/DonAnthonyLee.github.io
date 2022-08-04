@@ -19,7 +19,7 @@ Bô-nâng kà i mó láu-nâng(kuang-phiàn), liáu, i nâ-sĭ káⁿ thau-khio�
 <!-- He constantly heard maxims from the ancient sages, and proverbs in which the wisdom of generations was concentrated. -->
 Yi tiām ŭ thiaⁿ tio̍h lău-puè-nâng tàⁿ &#x002D;&#x002D;kâi keh-ngân kah so̍k-gṳ́, chí-tshoh-kâi sĭ kuè-tsōi-tō-nâng &#x002D;&#x002D;kâi khiàu-tsúi chit-cheh &#x002D;&#x002D;lo̍h-lâi &#x002D;&#x002D;kâi. 
 <!-- He was taught worldly caution by, "Don't lace your boot in a melon-field, nor adjust your hat under a plum-tree"; -->
-&#x002D;&#x002D;Nâng⁎ kà i tàⁿ tio̍h tsai-ṳ̆, tǹg hiá-,
+&#x002D;&#x002D;Nâng kà i tàⁿ tio̍h tsai-ṳ̆, tǹg hiá-,
 "<ruby style="ruby-position:over">
 <rb class="markup_main">瓜田</rb>
 <rp>(</rp><rt class="markup_over">Kue-tshân</rt><rp>)</rp>
