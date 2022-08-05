@@ -68,12 +68,16 @@ Hái-suaⁿ lău Lí<br>
 1. [Tsṳ-niôⁿ-nâng &#x002D;&#x002D;kâi Kéng-ngŏ](PagodaShadowsPage001.html)
 <!-- Child-life in Cathay: The Story of Number Four -->
 2. [Tong-kok Nou-kiáⁿ Seⁿ-ua̍h: A-sì &#x002D;&#x002D;kâi Kū-sṳ̄](PagodaShadowsPage009.html)
-3. The Extent of a Great Crime [Buē-e̍k]
+<!-- The Extent of a Great Crime -->
+3. Bô-uă Chek-ak [Buē-e̍k]
 <!-- Foot-binding -->
 4. [Phuân-kiok-kiáu](PagodaShadowsPage027.html)
-5. An Espousal [Buē-e̍k]
-6. The Invisible Bridegroom [Buē-e̍k]
-7. Habitations [Buē-e̍k]
+<!-- An Espousal -->
+5. Tshuā-sin-niôⁿ [Buē-e̍k]
+<!-- The Invisible Bridegroom -->
+6. Bô-iáⁿ-chiah Sin-nn̂g [Buē-e̍k]
+<!-- Habitations -->
+7. Tshù-the̍h [Buē-e̍k]
 8. The Inconvenience of Heathenism [Buē-e̍k]
 9. Spiritualism [Buē-e̍k]
 <!-- The Kitchen-God -->
