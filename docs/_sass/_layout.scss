@@ -239,4 +239,24 @@
             font-size: 18px;
         }
     }
+
+    th {
+        text-align: center;
+        background: #a0d0ff;
+        padding: 2px;
+    }
+
+    th:first-of-type {
+        text-align: center;
+    }
+
+    tr:nth-child(odd) {
+        background: #d0d0d0;
+        padding: 2px;
+    }
+
+    tr:nth-child(even) {
+        background: #f0f0f0;
+        padding: 2px;
+    }
 }
