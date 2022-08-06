@@ -41,18 +41,32 @@ tag: PUJ_translation
 <br>
 <!-- 注：当时南岛为独岛，帆船即使由柘林开出，至三屿最多两个钟头；何况水路自然选择最近出发点，原文该段文字多为夸张之语。 -->
 
-&nbsp;&nbsp;Tsu A-ngiâu thâu-pái kàn-iâⁿ, hioⁿ-lí-nâng su-ho̍k i ŭ-khiàu-tsúi iŭ ŭ-táⁿ, kâi-kâi lâi tâu &#x002D;&#x002D;i, chiàⁿ kúi-jît &#x002D;&#x002D;tiaⁿ, ngĭ-kun zŭ-ŭ saⁿ-peh-guā nâng. Tsu A-ngiâu hăm tĭ-hiaⁿ&#x002D;&#x002D;hué tsham-siâng liáu, suán N̂g-mâng Lí-hṳ̂-suaⁿ lâi khí tsúi-chē, hău-lĕng tàⁿ Hái-suaⁿ kak-kò hioⁿ-tshng hí-tshù pá-tsháu &#x002D;&#x002D;kâi lóng tio̍h kàu N̂g-mâng sio-hŭ khí tsúi-chē, bô-lâi &#x002D;&#x002D;kâi tsŏ-sí. Au tsóng-kuán sah-tsò i-lăi ke-teng kâi-kâi hiau-hiông, kiò &#x002D;&#x002D;nâng⁎ thuân-tàⁿ-: "Uá tsuan-tsuan kah lṳ́ jiá tsha̍t-kiáⁿ khioh-chhiû, &#x002D;&#x002D;che̍k-jît nán tng-thâu-tùi-mīn thóiⁿ-su-iâⁿ." A-ngiâu siŏⁿ-tio̍h⁎ Lí-hṳ̂-chē buē-chêng mue̍h sì-tît, hiá sèⁿ-thâu chèng₊-kuà chhiáⁿ teh&#x002D;&#x002D;lo̍h-khṳ̀.
+&nbsp;&nbsp;Tsu A-ngiâu thâu-pái kàn-iâⁿ, hioⁿ-lí-nâng su-ho̍k i ŭ-khiàu-tsúi iŭ ŭ-táⁿ, kâi-kâi lâi tâu &#x002D;&#x002D;i, chiàⁿ kúi-jît &#x002D;&#x002D;tiaⁿ, ngĭ-kun zŭ-ŭ saⁿ-peh-guā nâng. Tsu A-ngiâu hăm tĭ-hiaⁿ&#x002D;&#x002D;hué tsham-siâng liáu, suán N̂g-mâng Lí-hṳ̂-suaⁿ lâi khí tsúi-chē, hău-lĕng tàⁿ Hái-suaⁿ kak-kò hioⁿ-tshng hí-tshù pá-tsháu &#x002D;&#x002D;kâi lóng tio̍h kàu N̂g-mâng sio-hŭ khí tsúi-chē, bô-lâi &#x002D;&#x002D;kâi tsŏ-sí. Au tsóng-kuán sah-tsò i-lăi ke-teng kâi-kâi hiau-hiông, kiò &#x002D;&#x002D;nâng⁎ thuân-tàⁿ-: "Uá tsuan-tsuan kah lṳ́ jiá tsha̍t-kiáⁿ khioh-chhiû, &#x002D;&#x002D;che̍k-jît nán tng-thâu-tùi-mīn thóiⁿ-su-iâⁿ." A-ngiâu siŏⁿ-tio̍h⁎ Lí-hṳ̂-chē buē-chêng mue̍h sì-tît, hiá sèⁿ-thâu chèng₊-kuà<a href="#note_1" class="note">1</a> chhiáⁿ teh&#x002D;&#x002D;lo̍h-khṳ̀.
 <!-- 注：原文为 “十八乡”，为以今度古，暂且不按。 -->
 
 &nbsp;&nbsp;Tsu A-ngiâu chhin-tsṳ̆ tuà-nâng sûn-thóiⁿ sì-ûi khí-tsúi-chē. &#x002D;&#x002D;Che̍k-jît, thóiⁿ-kìⁿ kâi kng-chio̍h &#x002D;&#x002D;kâi, chek-sin chhēng-liáu la̍h-lîh-la̍h-phua̍h, kò-hêng jiân-tǹg tsṳ-seng, A-ngiâu zŭ buâ-khṳ̀ mn̄g &#x002D;&#x002D;i. Hiá-nâng kiaⁿ à khok_khok_tòng, liân thâu lo m̆-káⁿ tiòⁿ-taⁿ. Kha&#x002D;&#x002D;thâu &#x002D;&#x002D;nâng thòi i ìn-tàⁿ-: "Yi sĭ Suaⁿ-ĕ tuā-tshâi-tsú Tēⁿ uân-guā &#x002D;&#x002D;kâi kiáⁿ, Tēⁿ Yiú-lûn, Tēⁿ siù-tsâi. Tēⁿ uân-guā huè-siaⁿ khah-kûiⁿ, uāⁿ-tsò siù-tsâi &#x002D;&#x002D;lâi." Tsu A-ngiâu tàⁿ-: "Lṳ́ taⁿ ŭ-tha̍k si-tsṳ, uá lâi tshut chiŏⁿ-lîn, lṳ́ káⁿ tùi a m̆-káⁿ?" Tēⁿ Yiú-lûn sòi-sòi-siaⁿ ìn-tàⁿ-: "Káⁿ." Tsu A-ngiâu sîm-a-sîm, tàⁿ-: "Hui khî-lūi pit ù khî-lūi." Tēⁿ Yiú-lûn chiat-sî tùi-tàⁿ-: "Sek sṳ-bûn tĕng tŏng sṳ-bûn." Tsu A-ngiâu thóiⁿ i nîⁿ-huè sòi-sòi iŭ nńg-chiáⁿ, liáu_li lêng[-lāi] tsăi, zŭ pàng i tńg&#x002D;&#x002D;khṳ̀. Tsò-tsai jiò-seⁿ, tin-tò jiá-huă, jí-tsat-tsṳ mān-ău chiàⁿ phue̍h.
 
-&nbsp;&nbsp;Kâi-gue̍h khiă-kha, Lí-hṳ̂-chē zŭ khí-tît, tsŏ-suaⁿ khò-hái, chē-chhiôⁿ iŭ kûiⁿ iŭ tn̂g, tăi&#x002D;&#x002D;keh &#x002D;&#x002D;súi-khùi; chē-tsôiⁿ ín tuā-tō &#x002D;&#x002D;kâi tsúi ûi-chē, chē-ău ēng chhim-kau keh-tso̍h; guā-pôiⁿ ŭ tuā-suaⁿ, thôu-kàng-suaⁿ<a href="#note_1" class="note">1</a> tshun tùi hái-phiâⁿ, sang-pôiⁿ pé&#x002D;&#x002D;tŏ; tsúi-chē kah suaⁿ-téng, tn̂g-suaⁿ ǹg-sio-tùi; ta-ng sĭ kṳ̆n-hái lâi-uáng phâng-tău, hiá-tsûn lóng-tsóng tùi jí-kò &#x002D;&#x002D;kuè. Tsu A-ngiâu ún-tsŏ Lí-hṳ̂-chē, àiⁿ lia̍h hí-hái &#x002D;&#x002D;kâi tsûn, gōi kuè chia̍h-tsúi; boh thò-siú li ŭ chē-chhiôⁿ tsa̍h-tuè, ún-tǹg-ún-tǹg. Tsu A-ngiâu háⁿ₊ kiò iaⁿ₊ pió-tĭ Khóu Mêng ló tsúi-chē sì-chiu-ûi-tńg chhī gô; che̍k-mêⁿ khûn-gô â-sĭ kiaⁿ&#x002D;&#x002D;tio̍h sio-tàu kiò, hó ēng-tsò siú-keⁿ, ṳ̆-huâng khṳh &#x002D;&#x002D;nâng⁎ sêng-mêⁿ kong chē.
+&nbsp;&nbsp;Kâi-gue̍h khiă-kha, Lí-hṳ̂-chē zŭ khí-tît, tsŏ-suaⁿ khò-hái, chē-chhiôⁿ iŭ kûiⁿ iŭ tn̂g, tăi&#x002D;&#x002D;keh &#x002D;&#x002D;súi-khùi; chē-tsôiⁿ ín tuā-tō &#x002D;&#x002D;kâi tsúi ûi-chē, chē-ău ēng chhim-kau keh-tso̍h; guā-pôiⁿ ŭ tuā-suaⁿ, thôu-kàng-suaⁿ<a href="#note_2" class="note">2</a> tshun tùi hái-phiâⁿ, sang-pôiⁿ pé&#x002D;&#x002D;tŏ; tsúi-chē kah suaⁿ-téng, tn̂g-suaⁿ ǹg-sio-tùi; ta-ng sĭ kṳ̆n-hái lâi-uáng phâng-tău, hiá-tsûn lóng-tsóng tùi jí-kò kuè. Tsu A-ngiâu ún-tsŏ Lí-hṳ̂-chē, àiⁿ lia̍h hí-hái &#x002D;&#x002D;kâi tsûn, gōi kuè chia̍h-tsúi; boh thò-siú li ŭ chē-chhiôⁿ tsa̍h-tuè, ún-tǹg-ún-tǹg. Tsu A-ngiâu háⁿ₊ kiò iaⁿ₊ pió-tĭ Khóu Mêng ló tsúi-chē sì-chiu-ûi-tńg chhī gô; che̍k-mêⁿ khûn-gô â-sĭ kiaⁿ&#x002D;&#x002D;tio̍h sio-tàu kiò, hó ēng-tsò siú-keⁿ, ṳ̆-huâng khṳh &#x002D;&#x002D;nâng⁎ sêng-mêⁿ kong chē.
 <!-- 注：原文为 “长山、南澳山”，而本地 “长山” 即指南澳山脉，并非指大陆，因而稍加改动。 -->
+
+&nbsp;&nbsp;Tsṳ̆-ŭ Lí-hṳ̂-chē, Tsu A-ngiâu miâⁿ-thâu tuā à tang-nâm-pôiⁿ hái-kîⁿ zn̂g-kâi tsai-iáⁿ; kuaⁿ-tsûn thong-thong uan-lōu-tsáu; seng-lí-tsûn kìⁿ-tio̍h
+<ruby style="ruby-position:over">
+<rb class="markup_main">朱</rb>
+<rp>(</rp><rt class="markup_over">Tsu</rt><rp>)</rp>
+</ruby>
+jī kîⁿ-hō, â-tio̍h buâ-khṳ̂ kiáu kuè-lōu-chîⁿ, â-bô bŏi-tit kuè.
+
+&nbsp;&nbsp;Tsài-kò phue̍h kūiⁿ-lĕng kiò piaⁿ-teng lia̍h Tsu A-ngiâu bŏi-sêng, chiu-jît hâiⁿ-sîn-tháu-tuā-khùi; taⁿ suà thiaⁿ-tàⁿ i khí-tsúi-chē, zú-kèng kiaⁿ-sim_kiaⁿ-miāⁿ. Kūiⁿ-gê sṳ-iâ sȁm-su̍h tàⁿ-: "So̍k-uē tàⁿ Hai-suaⁿ kheh-chhêng sî-saⁿ-sî, chin-tsai jiá hái-mīn kàu tsó-keh. Uá thàm-thiaⁿ tio̍h⁎ Au-piⁿ-hioⁿ Au tsóng-kuán kuè tham-sim, háⁿ ngiàn tsò-kuaⁿ. Nán hó sàng chîⁿ-ngṳ̂n pun &#x002D;&#x002D;i, jīm i kâi lok-khok kuaⁿ-ūi, liáu kiò i khṳ̀ kong-tu Tsu A-ngiâu." Kūiⁿ-lĕng thiaⁿ-liáu tak-thâu tàⁿ hó.
+
+&nbsp;&nbsp;Au tsóng-kuán tsṳ̆-tsá zŭ boh-àiⁿ kah Tsu A-ngiâu uan-ke, taⁿ kūiⁿ-lĕng thóiⁿ-tŏng, tsai₊-tit ŏi tàⁿ-m̆-chiâⁿ? sim-lăi phah-sǹg tàⁿ seng-kuaⁿ_huat-tshâi tio̍h-tio̍h jí-tsuā tiaⁿ. Yi sûi-sî ke-teng zn̂g-kâi kiò-kiò-buâ, chĕⁿ-chĕⁿ sêng-mêⁿ sái-tsûn tùi Lí-hṳ̂-chē &#x002D;&#x002D;kò lâi. Tng-sî lông-le̍h la̍k-gue̍h-jī-tsa̍p, gue̍h-niôⁿ kng-kng, hái-mīn mông-mông, tuā-huang tuā-éng. Tsûn taⁿ-chiàⁿ sái kàu tsúi-chē thâu-mīn_tsôiⁿ, Au tsóng-kuáⁿ sûi-chiat kiò tshoh ke-teng chiŏⁿ-suaⁿ. Nâng kiâⁿ buē-kàu tsúi-chē, thiaⁿ-tio̍h⁎ hiá-gô chheⁿ-lím kiò; sop_che̍k-kiò pu-lô-siaⁿ tăi&#x002D;&#x002D;keh &#x002D;&#x002D;hiáng, chē-mn̂g phah-khui, Tsu A-ngiâu che̍k-chhiú lĭm che̍k-ki khong-long-thûi, tuà kàu-khûn-nâng tshong &#x002D;&#x002D;tshut-lâi. Au tsóng-kuán thò m̆-lī, khiâ to zŭ khóm, liáu tsai₊-tit năi ŭ Tsu A-ngiâu saⁿ-ē? i khṳh Tsu A-ngiâu che̍k-thûi bu̍t khṳ̀-kàu, thâu-khak-lôu tsò-che̍k-ē tshap-tshap-tshùi. Tsu A-ngiâu sèⁿ-thâu buē siau, lia̍h tiâu sin-si bu̍t ke saⁿ-ē, boh liáu hí-hang₊-sî khṳh i ēng sìⁿ kho̍k thâu &#x002D;&#x002D;kâi bú-zo̍k. Ke-teng&#x002D;&#x002D;hué thóiⁿ-kìⁿ ke-tsú sí-khek-khek, kâi-kâi tshuē-liâu.
+
+&nbsp;&nbsp;Au tsóng-kuán &#x002D;&#x002D;kâi kiáⁿ Au Sèng, hiau-hĕng tsáu ŏi-tit tshut, liáu siû kuè hái, kàu Kūiⁿ-gê khàu-tàⁿ tī-seⁿ-tī-seⁿ. Kūiⁿ-lĕng hiâm Au tsóng-kuán bô-lêng-ûi, kiò chhe-hia̍h lia̍h Au Sèng phah thó-sí, liáu chĕng i tshut gê-mn̂g; iŭ kiò sṳ-iâ siu-tsṳ khai chhiâu-thêng kò-kip.
 <br>
 
 <br>
 注：
-1. <span id="note_1">thôu-kàng, 亦作 gû-kàng-thôu，粘土。<span>
+1. <span id="note_1">chèng₊-kuà, 同 tsài-kò；又，再；前音 cheng/chèng/teng/tèng 多种读法，可能是 tsài-têng-kò 之类合音变化；<span>
+2. <span id="note_2">thôu-kàng, 亦作 gû-kàng-thôu，粘土。<span>
 <br>
 
 <br>
