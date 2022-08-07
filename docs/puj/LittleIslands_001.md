@@ -16,11 +16,39 @@ tag: PUJ_translation
 
 # <ruby style="ruby-position:over"><rb class="markup_main">虎踢石</rb><rp>(</rp><rt class="markup_over">HÓUᴺ-THEK-CHIO̍H</rt><rp>)</rp></ruby>
 
-***Nguân-tsak: Mô Chio̍h-mêng; Yiôⁿ Hŏng-thêng***<br>
-***Pńg-tī-uē: Hái-suaⁿ lău Lí***
+***Nguân-tsak: 
+<ruby style="ruby-position:over">
+<rb class="markup_main">毛</rb>
+<rp>(</rp><rt class="markup_over">Mô</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">石明</rb>
+<rp>(</rp><rt class="markup_over">Chio̍h-mêng</rt><rp>)</rp>
+</ruby>;
+<ruby style="ruby-position:over">
+<rb class="markup_main">杨</rb>
+<rp>(</rp><rt class="markup_over">Yiôⁿ</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">凤腾</rb>
+<rp>(</rp><rt class="markup_over">Hŏng-thêng</rt><rp>)</rp>
+</ruby>***<br>
+***Pńg-tī-uē: 
+<ruby style="ruby-position:over">
+<rb class="markup_main">海山</rb>
+<rp>(</rp><rt class="markup_over">Hái-suaⁿ</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">老</rb>
+<rp>(</rp><rt class="markup_over">lău</rt><rp>)</rp>
+</ruby>
+<ruby style="ruby-position:over">
+<rb class="markup_main">李</rb>
+<rp>(</rp><rt class="markup_over">Lí</rt><rp>)</rp>
+</ruby>***
 
 
-**Hái-suaⁿ so̍k-gṳ́ tàⁿ-:**
+**Hái-suaⁿ so̍k-uē tàⁿ-:**
 
 > Buē seⁿ Tsu A-ngiâu, soiⁿ seⁿ Hóuⁿ-thek-chio̍h.
 
@@ -56,11 +84,17 @@ tag: PUJ_translation
 </ruby>
 jī kîⁿ-hō, â-tio̍h buâ-khṳ̂ kiáu kuè-lōu-chîⁿ, â-bô bŏi-tit kuè.
 
-&nbsp;&nbsp;Tsài-kò phue̍h kūiⁿ-lĕng kiò piaⁿ-teng lia̍h Tsu A-ngiâu bŏi-sêng, chiu-jît hâiⁿ-sîn-tháu-tuā-khùi; taⁿ suà thiaⁿ-tàⁿ i khí-tsúi-chē, zú-kèng kiaⁿ-sim_kiaⁿ-miāⁿ. Kūiⁿ-gê sṳ-iâ sȁm-su̍h tàⁿ-: "So̍k-uē tàⁿ Hai-suaⁿ kheh-chhêng sî-saⁿ-sî, chin-tsai jiá hái-mīn kàu tsó-keh. Uá thàm-thiaⁿ tio̍h⁎ Au-piⁿ-hioⁿ Au tsóng-kuán kuè tham-sim, háⁿ ngiàn tsò-kuaⁿ. Nán hó sàng chîⁿ-ngṳ̂n pun &#x002D;&#x002D;i, jīm i kâi lok-khok kuaⁿ-ūi, liáu kiò i khṳ̀ kong-tu Tsu A-ngiâu." Kūiⁿ-lĕng thiaⁿ-liáu tak-thâu tàⁿ hó.
+&nbsp;&nbsp;Tsài-kò phue̍h kūiⁿ-lĕng kiò piaⁿ-teng lia̍h Tsu A-ngiâu bŏi-sêng, chiu-jît hâiⁿ-sîn-tháu-tuā-khùi; taⁿ suà thiaⁿ-tàⁿ i khí-tsúi-chē, zú-kèng kiaⁿ-sim_kiaⁿ-miāⁿ. Kūiⁿ-gê sṳ-iâ sȁm-su̍h tàⁿ-: "So̍k-uē tàⁿ Hai-suaⁿ kheh-chhêng sî-saⁿ-sî, chin-tsai jiá hái-mīn kàu tsó-keh. Uá thàm-thiaⁿ tio̍h⁎ Au-piⁿ-hioⁿ Au tsóng-kuán kuè tham-sim, háⁿ₊ ngiàn tsò-kuaⁿ. Nán hó sàng chîⁿ-ngṳ̂n pun &#x002D;&#x002D;i, jīm i kâi lok-khok kuaⁿ-ūi, liáu kiò i khṳ̀ kong-tu Tsu A-ngiâu." Kūiⁿ-lĕng thiaⁿ-liáu tak-thâu tàⁿ hó.
 
-&nbsp;&nbsp;Au tsóng-kuán tsṳ̆-tsá zŭ boh-àiⁿ kah Tsu A-ngiâu uan-ke, taⁿ kūiⁿ-lĕng thóiⁿ-tŏng, tsai₊-tit ŏi tàⁿ-m̆-chiâⁿ? sim-lăi phah-sǹg tàⁿ seng-kuaⁿ_huat-tshâi tio̍h-tio̍h jí-tsuā tiaⁿ. Yi sûi-sî ke-teng zn̂g-kâi kiò-kiò-buâ, chĕⁿ-chĕⁿ sêng-mêⁿ sái-tsûn tùi Lí-hṳ̂-chē &#x002D;&#x002D;kò lâi. Tng-sî lông-le̍h la̍k-gue̍h-jī-tsa̍p, gue̍h-niôⁿ kng-kng, hái-mīn mông-mông, tuā-huang tuā-éng. Tsûn taⁿ-chiàⁿ sái kàu tsúi-chē thâu-mīn_tsôiⁿ, Au tsóng-kuán sûi-chiat kiò tshoh-ke-teng chiŏⁿ-suaⁿ. Nâng kiâⁿ buē-kàu tsúi-chē, thiaⁿ-tio̍h⁎ hiá-gô chheⁿ-lím kiò; sop_che̍k-kiò pu-lô-siaⁿ tăi&#x002D;&#x002D;keh &#x002D;&#x002D;hiáng, chē-mn̂g phah-khui, Tsu A-ngiâu che̍k-chhiú lĭm che̍k-ki khong-long-thûi, tuà kàu-khûn-nâng tshong &#x002D;&#x002D;tshut-lâi. Au tsóng-kuán thò m̆-lī, khiâ to zŭ khóm, liáu tsai₊-tit năi ŭ Tsu A-ngiâu saⁿ-ē? i khṳh Tsu A-ngiâu che̍k-thûi bu̍t khṳ̀-kàu, thâu-khak-lôu tsò-che̍k-ē tshap-tshap-tshùi. Tsu A-ngiâu sèⁿ-thâu buē siau, lia̍h tiâu si[-sin] bu̍t ke saⁿ-ē, boh liáu hí-hang₊-sî khṳh i ēng sìⁿ kho̍k thâu &#x002D;&#x002D;kâi bú-zo̍k. Ke-teng&#x002D;&#x002D;hué thóiⁿ-kìⁿ ke-tsú sí-khek-khek, kâi-kâi tshuē-liâu.
+&nbsp;&nbsp;Au tsóng-kuán tsṳ̆-tsá zŭ boh-àiⁿ kah Tsu A-ngiâu uan-ke, taⁿ kūiⁿ-lĕng thóiⁿ-tŏng, tsai₊-tit ŏi tàⁿ-m̆-chiâⁿ? sim-lăi phah-pheⁿ tio̍h⁎ seng-kuaⁿ_huat-tshâi tio̍h-tio̍h jí-tsuā tiaⁿ. Yi sûi-sî ke-teng zn̂g-kâi kiò-kiò-buâ, chĕⁿ-chĕⁿ sêng-mêⁿ sái-tsûn tùi Lí-hṳ̂-chē &#x002D;&#x002D;kò lâi. Tng-sî lông-le̍h la̍k-gue̍h-jī-tsa̍p, gue̍h-niôⁿ kng-kng, hái-mīn mông-mông, suà khí tuā-huang-tuā-éng. Tsûn taⁿ-chiàⁿ sái kàu tsúi-chē thâu-mīn_tsôiⁿ, Au tsóng-kuán sûi-chiat kiò tshoh-ke-teng chiŏⁿ-suaⁿ. Nâng kiâⁿ buē-kàu tsúi-chē, thiaⁿ-tio̍h⁎ hiá-gô chheⁿ-lím kiò; sop_che̍k-kiò pu-lô-siaⁿ tăi&#x002D;&#x002D;keh &#x002D;&#x002D;hiáng, chē-mn̂g phah-khui, Tsu A-ngiâu che̍k-chhiú lĭm che̍k-ki khong-long-thûi, tuà kàu-khûn-nâng tshong &#x002D;&#x002D;tshut-lâi. Au tsóng-kuán thò m̆-lī, sĕng to lâi tói, liáu tsai₊-tit năi ŭ Tsu A-ngiâu che̍k-ē? i khṳh Tsu A-ngiâu che̍k-thûi bu̍t khṳ̀-kàu, thâu-khak-lôu tsò-che̍k-ē tshap-tshap-tshùi. Tsu A-ngiâu sèⁿ-thâu buē siau, lia̍h tiâu si[-sin] bu̍t ke saⁿ-ē, boh liáu[-tuàn] hí-hang₊-sî khṳh i ēng sìⁿ kho̍k thâu &#x002D;&#x002D;kâi bú-zo̍k. Ke-teng&#x002D;&#x002D;hué thóiⁿ-kìⁿ ke-tsú sí-khek-khek, kâi-kâi tshuē-liâu.
 
-&nbsp;&nbsp;Au tsóng-kuán &#x002D;&#x002D;kâi kiáⁿ Au Sèng, hiau-hĕng tsáu ŏi-tit tshut, liáu siû kuè hái, kàu Kūiⁿ-gê khàu-tàⁿ tī-seⁿ-tī-seⁿ. Kūiⁿ-lĕng hiâm Au tsóng-kuán bô-lêng-ûi, kiò chhe-hia̍h lia̍h Au Sèng phah thó-sí, liáu chĕng i tshut gê-mn̂g; iŭ kiò sṳ-iâ siu-tsṳ khai chhiâu-thêng kò-kip.
+&nbsp;&nbsp;Au tsóng-kuán &#x002D;&#x002D;kâi kiáⁿ Au Sèng, hiau-hĕng tsáu ŏi-tit tshut, liáu siû kuè hái, kàu Kūiⁿ-gê khàu-chhi-khàu-tshám. Kūiⁿ-lĕng hiâm Au tsóng-kuán bô-lêng-ûi, kiò chhe-hia̍h lia̍h Au Sèng phah thó-sí, liáu chĕng i tshut gê-mn̂g; iŭ kiò sṳ-iâ siu-tsṳ khai chhiâu-thêng kò-kip.
+<br>
+
+&nbsp;&nbsp;Tsài-phue̍h tng-sî khí Lí-hṳ̂-chē, Tsu A-ngiâu pàng i tńg&#x002D;&#x002D;khṳ̀ &#x002D;&#x002D;kâi Tēⁿ Yiú-lûn, ău-chhiú khṳ̀ kiaⁿ-siâⁿ kuáⁿ-kháu, tèng-tio̍h chìn-sṳ̆. Yi lóu-sí Tsu A-ngiâu zú-lâi zú-chhiàu, iŭ thiàⁿ-tàⁿ Jiâu-phêng kò-kip, liáu ló Kim-luân-tōiⁿ khai Sŭn-tī huâng-tì pín-tsàu, tàⁿ ke-hioⁿ so̍k-tsṳ hái-ho̍k tsôiⁿ-sàu, liáu_li ŭ-nâng puăn-luăn, boh-àiⁿ chhiáⁿ-mĕng lâi-khṳ̀ suah-húiⁿ, pò-tap huâng-ṳn. Sŭn-tī huâng-tì thiaⁿ-liáu tsún-tsàu, sûi-chiat sṳ̀ i piaⁿ-hû, phuah Tiê-chiu tī-hng kuaⁿ-piaⁿ lóng-tsóng kui i thóng-niáⁿ.
+<!-- 注：原文中末句另有 “并派军事于帐中筹谋划策”，不符常理，暂且略去。 -->
+
+&nbsp;&nbsp;Tēⁿ Yiú-lûn tuà-piaⁿ lâi-kàu Jiâu-phêng, iâⁿ-puâⁿ an-tì ló Tuā-ò, hái-mīn che̍k-khài hong-tiāu, lâi-uáng bô-lŭn tsûn a-sĭ nâng, hăm-kâi lît-lia̍h&#x002D;&#x002D;khí, m̆-àiⁿ &#x002D;&#x002D;nâng⁎ tsai. Yi tsai-tiāⁿ Tsu A-ngiâu hiau-hiông, Lí-hṳ̂-chē iŭ ngĕⁿ-kha, pek-sèⁿ tin-tò o̍h-mue̍h, thàng-jît kah kun-sṳ tsham-siâng, liáu_li sîm-lâi-sîm-khṳ̀ sîm bô-hue-jī. &#x002D;&#x002D;Che̍k-jît, piaⁿ-teng pò-tàⁿ Au Sèng tsôiⁿ-lâi khiû-kìⁿ, Tēⁿ Yiú-lûn thiaⁿ-liáu kiò i jîp&#x002D;&#x002D;khṳ̀. Au Sèng khai Tēⁿ Yiú-lûn phue̍h-tàⁿ tsá-tsôiⁿ hí-tsat-tsṳ, Tēⁿ Yiú-lûn tshâ-li thiaⁿ tshâ-li hô-so &#x002D;&#x002D;i. Kun-sṳ mn̄g Au Sèng tàⁿ boh kong Lí-hṳ̂-chē káⁿ-ŭ phuà-pōu, Au Sèng huê-pín tàⁿ-: "Lí-hṳ̂-chē hí-khou-ūi sì-chiu-ûi-tńg zn̂g-kâi hái-tsúi, kong &#x002D;&#x002D;khí-lâi khak-sît o̍h pâi-pí; liáu kiam-kah che̍k-mêⁿ ŭ gô siú-keⁿ, zú-kèng o̍h-mue̍h. Uáⁿ₊-pĕ zŭ-sĭ khṳh hiá gô_kiò hāi-sí. Sĭ-tàⁿ àiⁿ phuà jiá keⁿ-gô, uá thuà-sĭ siŏⁿ-tio̍h⁎ ŭ-i-piàn." Tēⁿ Yiú-lûn méⁿ-méⁿ mn̄g-tàⁿ-: "Tī-seⁿ mue̍h-huap?" Au Sèng buâ-khṳ̀ i hĭⁿ-khang-kha sȁm-su̍h, it-jī tàⁿ, Tēⁿ Yiú-lûn it-jī tak-thâu. 
 <br>
 
 <br>
