@@ -120,6 +120,8 @@ jī kîⁿ-hō, â-tio̍h buâ-khṳ̀ kiáu kuè-lōu-chîⁿ, â-bô bŏi-tit 
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/20cc08e8720ef1ed861627bcc9a36463a0db1554" target="_blank">adjust a few expressions, add paragraphs</a> |
+| 2022-08-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/54577541e728edaa989a15afa0d1d9c579c66b7a" target="_blank">adjust a few expressions, add paragraphs</a> |
 | 2022-08-07 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/72011e45ba8852d53c56318642de4247e82f2e17" target="_blank">add most of paragraphs of the forth page</a> |
 | 2022-08-06 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/3226e2235645534277e9945e0a6cd63b640d000c" target="_blank">finish the third page</a> |
 | 2022-08-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d55402d1986146e4eb82ccc60dd1f3b804d7e1a9" target="_blank">adjust a few expressions, add paragraphs, add internal comments</a> |
