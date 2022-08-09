@@ -7,9 +7,9 @@ tag: PUJ_essay
 
 {% include puj-style.html %}
 
---Nâng tàⁿ "Pat-jī lia̍h bô pê-khî", pê-khî kài mih-kâi?
+&#x002D;&#x002D;Nâng tàⁿ "Pat-jī lia̍h bô pê-khî", pê-khî kài mih-kâi?
 
-Yi--nâng tàⁿ--kâi pê-khî, uán--kò kiò-tsò bih-hŏi. Uán tàⁿ--kâi pê-khî, i--nâng kiò-tsò hôu-khî.
+Yi&#x002D;&#x002D;nâng tàⁿ&#x002D;&#x002D;kâi pê-khî, uán&#x002D;&#x002D;kò kiò-tsò bih-hŏi. Uán tàⁿ&#x002D;&#x002D;kâi pê-khî, i&#x002D;&#x002D;nâng kiò-tsò hôu-khî.
 
 
 《卓威廉词典》第 58 页
