@@ -45,6 +45,7 @@ Sĭm-chì i&#x002D;&#x002D;nâng huáⁿ₊ ŭ-piàn khṳh &#x002D;&#x002D;nân
 
 
 ***[前页](PagodaShadowsPage001.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage003.html)***
 
 

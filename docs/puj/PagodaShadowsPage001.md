@@ -54,7 +54,7 @@ Tŏ chí-kâi Ki-tok kà-ngĭ &#x002D;&#x002D;kâi kám-huè kah chĕng-huè hā
 6. <span id="note_1">pân-tuăⁿ, 懒惰。</span>
 
 
-***[前页](PagodaShadowsPreface.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage002.html)***
 
 

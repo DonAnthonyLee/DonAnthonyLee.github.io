@@ -39,6 +39,7 @@ liáu khṳ̀-kàu koi-chhĭ a-sĭ lîm-tshún tsò-tsoih, i&#x002D;&#x002D;nân
 <br>
 
 ***[前页](PagodaShadowsPage029.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage031-032.html)***
 
 ---

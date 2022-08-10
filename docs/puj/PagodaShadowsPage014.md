@@ -190,6 +190,7 @@ Lân-sî, nou-kiáⁿ&#x002D;&#x002D;hué lia̍h in kâi huang-khîm-suàⁿ pa�
 <br>
 
 ***[前页](PagodaShadowsPage013.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage015.html)***
 
 

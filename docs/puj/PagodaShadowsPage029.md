@@ -91,6 +91,7 @@ Hṳ́-tshoh tuā-kha &#x002D;&#x002D;kâi ŏi o̍h i&#x002D;&#x002D;nâng tî�
 <br>
 
 ***[前页](PagodaShadowsPage028.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage030.html)***
 
 ---

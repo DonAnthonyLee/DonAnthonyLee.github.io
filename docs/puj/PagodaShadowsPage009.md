@@ -57,6 +57,7 @@ Tùi i &#x002D;&#x002D;lâi &#x002D;&#x002D;tàⁿ, tshù-lăi tsŭ-sĭ kui-suah
 <br>
 
 ***[前页](PagodaShadowsPage006-008.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage010.html)***
 
 

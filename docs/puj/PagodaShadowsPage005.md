@@ -66,6 +66,7 @@ Kah i siang-i-ûi-mĕng, m̆-pat lī-khui sin-kha &#x002D;&#x002D;kâi kiáⁿ, 
 
 
 ***[前页](PagodaShadowsPage004.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage006-008.html)***
 
 

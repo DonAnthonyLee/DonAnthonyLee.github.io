@@ -37,6 +37,7 @@ Yi&#x002D;&#x002D;nâng tàⁿ thiàⁿ-liáu jiân-tǹg thong-sin kut-tsat kh�
 <br>
 
 ***[前页](PagodaShadowsPage027.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage029.html)***
 
 ---

@@ -68,6 +68,7 @@ Tio̍h thĕng sang-kha khṳh pang-pòu tîⁿ kàu khiàng-khiàng liáu tau ti
 <br>
 
 <!-- ***[前页](PagodaShadowsPage026.html)*** -->
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage028.html)***
 
 

@@ -72,6 +72,7 @@ Pa̍t-mih-mue̍h hí-hèng kàu ke̍k-tì, tsóng-ŭ buâng-miāⁿ &#x002D;&#x0
 <br>
 
 ***[前页](PagodaShadowsPage030.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 <!-- ***[后页](PagodaShadowsPage033.html)*** -->
 
 ---

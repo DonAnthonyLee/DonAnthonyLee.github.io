@@ -29,7 +29,7 @@ che̍k-tshoh li mn̄g-tàⁿ sĭ-mĭ₊ i lia̍h ka-kī che̍k-sin tǹg kâi-m�
 <!-- Some wanted to know if there were rice and potatoes and trees in her country; -->
 Che̍k-lân-kâi siŏⁿ-àiⁿ thàm-thiaⁿ-thóiⁿ in-hṳ́-kò sĭ-mĭ₊ ŭ chèng tiŭ-chhek, huan-kuah, kah tuā-chhiū;
 <!-- and some inquired whether her country was farther off than the one where all the inhabitan were women, -->
-&#x002D;&#x002D;ŭ kâi li thàm-thiaⁿ tàⁿ in-hṳ́-kò sĭ-mĭ₊ pí Nńg-jî-kok lī chí-kò zú-kèng hn̆g,
+&#x002D;&#x002D;ŭ-kâi li thàm-thiaⁿ tàⁿ in-hṳ́-kò sĭ-mĭ₊ pí Nńg-jî-kok lī chí-kò zú-kèng hn̆g,
 <!-- and if it were really true that there were countries and people at the bottom of the sea. -->
 liáu, sĭ-mĭ₊ hái-tói siang-sît ŭ-nâng khiă-khí &#x002D;&#x002D;hēⁿ.
 <!-- Another, who had heard of Great Britain, remarked that in Western lands they had women for their rulers. -->
@@ -51,6 +51,7 @@ Guā-kok tsṳ-niôⁿ tsah liáu kuá₊-pńg-tsṳ, in-ūi Kai-bûn ŏi pat-j�
 <br>
 
 ***[前页](PagodaShadowsPage016.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 <!-- ***[后页](PagodaShadowsPage019.html)*** -->
 
 

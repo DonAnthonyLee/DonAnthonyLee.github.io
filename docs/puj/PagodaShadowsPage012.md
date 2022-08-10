@@ -49,6 +49,7 @@ Yin tio̍h khioh ŭ-kàu ke-lăi tsṳ́-chia̍h ēng &#x002D;&#x002D;kâi mue̍
 
 
 ***[前页](PagodaShadowsPage011.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage013.html)***
 
 

@@ -57,6 +57,7 @@ Tŏ hiá tsṳ-che, i tsŭ kan-chĕng chiòⁿ-seⁿ thóiⁿ-tsṳ kah siá-jī
 <br>
 
 ***[前页](PagodaShadowsPage015.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage017-018.html)***
 
 

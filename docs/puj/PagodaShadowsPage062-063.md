@@ -50,6 +50,7 @@ Liáu, kak-nâng tsài póu-ke pa̍t-tshoh-kâi pài-sîn khiàm-khueh &#x002D;&
 <br>
 
 ***[前页](PagodaShadowsPage061.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 <!-- ***[后页](PagodaShadowsPage064.html)*** -->
 
 ---

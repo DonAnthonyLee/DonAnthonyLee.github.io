@@ -60,6 +60,7 @@ A-sì &#x002D;&#x002D;kâi a-muē, &#x002D;&#x002D;nâng⁎ khio̍h liáu la̍k-
 <br>
 
 ***[前页](PagodaShadowsPage014.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage016.html)***
 
 

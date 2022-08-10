@@ -53,6 +53,7 @@ Kuè-ău, i&#x002D;&#x002D;nâng tsŭ lia̍h pài-sîn<a href="#note_10" class="
 
 
 ***[前页](PagodaShadowsPage009.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage011.html)***
 
 

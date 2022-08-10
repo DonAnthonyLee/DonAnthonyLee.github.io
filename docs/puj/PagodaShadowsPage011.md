@@ -48,6 +48,7 @@ Lông-le̍h jī&#x002D;&#x002D;gue̍h, ŭ lău-tsóu kám tŏ chí-kò &#x002D;&
 
 
 ***[前页](PagodaShadowsPage010.html)***
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage012.html)***
 
 

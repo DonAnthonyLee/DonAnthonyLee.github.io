@@ -58,6 +58,7 @@ Yi sĭ kuán-hat tsàu-suaⁿ-thâu &#x002D;&#x002D;kâi sîn-mêng, nâ-sĭ bô
 <br>
 
 <!-- ***[前页](PagodaShadowsPage060.html)*** -->
+***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
 ***[后页](PagodaShadowsPage062-063.html)***
 
 ---
