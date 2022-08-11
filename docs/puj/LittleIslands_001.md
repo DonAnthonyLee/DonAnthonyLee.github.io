@@ -103,7 +103,7 @@ jī kîⁿ-hō, â-tio̍h buâ-khṳ̀ kiáu kuè-lōu-chîⁿ, â-bô bŏi-tit 
 
 &nbsp;&nbsp;Tēⁿ Yiú-lûn thuân-lĕng tshoh-kuaⁿ-piaⁿ tàⁿ ûi-sí hí-kâi sang-chhiú khiâ khong-long-thûi &#x002D;&#x002D;kâi, chhiat-iàu mó pun i tsáu&#x002D;&#x002D;khṳ̀. Kuaⁿ-piaⁿ thiaⁿ-liáu⁎ hōm_che̍k-kiò tsò-che̍k-ē suah tùi Tsu A-ngiâu &#x002D;&#x002D;kò khṳ̀. Tsu A-ngiâu phōiⁿ-sí[-miāⁿ] thâi-sí káng-tsháu-nâng, me-tsò sang-khûn lân-te̍k sì-chhiú, iŭ thâi à tho̍ih-m̆-lī, bô-i-piàn suah kàu chē-ău, thiàu chē-chhiôⁿ tshuē-tsáu, liáu tùi N̂g-mâng sai-nâm-pôiⁿ hái-phiâⁿ &#x002D;&#x002D;khṳ̀. Tēⁿ Yiú-lûn sĭ-sĭ<a href="#note_4" class="note">4</a> tuà kuaⁿ-piaⁿ khṳ̀ tia̍p &#x002D;&#x002D;i.
 
-&nbsp;&nbsp;Hí-ē-mue̍h, thiⁿ taⁿ-chiàⁿ phah-pe̍h, hái-huang hiû_hiû_kiò, hái-éng hōm_hōm_kiò. Tsu A-ngiâu hiá la̍t ēng thó-liáu, chin-tsai ka-kī bô-piàn siû kuè hái, liáu siŏⁿ-tio̍h nou-kiáⁿ-sòi &#x002D;&#x002D;hang₊-sî thit-thô --kâi chio̍h-tāng, tsai-tàⁿ tāng-lăi ŭ-hó tiàm&#x002D;&#x002D;tit, zŭ méⁿ-méⁿ tsáu tùi hí-kò khṳ̀. Tsáu-kàu tāng-mn̂g-tshùi, Tsu A-ngiâu sîm-tiāⁿ, soiⁿ tsáu-khṳ̀ tsúi-chîh-kîⁿ, lia̍h hí-chhiú nŏⁿ-ki-thûi phiang-tiāu, chiàn-phâu khue-kah hám tsò che̍k-tu, liáu khin-kha-khin-chhiú tò-thò-kiâⁿ, thò jîp-khṳ̂ hiá ou-thiⁿ-tī-àm iŭ zn̂g-kâi ti-tu-keⁿ-si &#x002D;&#x002D;kâi chio̍h-tāng-lăi.
+&nbsp;&nbsp;Hí-ē-mue̍h, thiⁿ taⁿ-chiàⁿ phah-pe̍h, hái-huang hiû_hiû_kiò, hái-éng hōm_hōm_kiò. Tsu A-ngiâu hiá la̍t ēng thó-liáu, chin-tsai ka-kī bô-piàn siû kuè hái, liáu siŏⁿ-tio̍h nou-kiáⁿ-sòi &#x002D;&#x002D;hang₊-sî thit-thô &#x002D;&#x002D;kâi chio̍h-tāng, tsai-tàⁿ tāng-lăi ŭ-hó tiàm&#x002D;&#x002D;tit, zŭ méⁿ-méⁿ tsáu tùi hí-kò khṳ̀. Tsáu-kàu tāng-mn̂g-tshùi, Tsu A-ngiâu sîm-tiāⁿ, soiⁿ tsáu-khṳ̀ tsúi-chîh-kîⁿ, lia̍h hí-chhiú nŏⁿ-ki-thûi phiang-tiāu, chiàn-phâu khue-kah hám tsò che̍k-tu, liáu khin-kha-khin-chhiú tò-thò-kiâⁿ, thò jîp-khṳ̂ hiá ou-thiⁿ-tī-àm iŭ zn̂g-kâi ti-tu-keⁿ-si &#x002D;&#x002D;kâi chio̍h-tāng-lăi.
 <!-- 注：“虎踢石” 在当时可能未曾有此名号，因而上段中仅按 “石洞” 描述，以下皆然。 -->
 
 &nbsp;&nbsp;Tēⁿ Yiú-lûn tuà-piaⁿ tia̍p kàu hái-kîⁿ, thóiⁿ-tio̍h hái-phiâⁿ &#x002D;&#x002D;kò hiá khong-long-thûi chiàn-kah phiang &#x002D;&#x002D;tŏ-kò, siŏⁿ-tàⁿ Tsu A-ngiâu tâu-hái tsṳ̆-chĭn &#x002D;&#x002D;khṳ̀. Taⁿ-chiàⁿ boh-àiⁿ hun-hù siu-piaⁿ, kun-sṳ pé-pa̍k tàⁿ hiá kha-chiah-ìn kâi-kâi tsôiⁿ_chhián ău_chhim, ùiⁿ-tit sĭ kiâⁿ-liáu⁎ tsài-kò sûn kha-chiah-ìn ta̍h tò-thò. Tēⁿ Yiú-lûn che̍k-thiaⁿ chhéⁿ-ngŏ, méⁿ-méⁿ kiò-tàⁿ sûn kha-chiah-ìn chhîm-tshuē.
@@ -130,6 +130,7 @@ jī kîⁿ-hō, â-tio̍h buâ-khṳ̀ kiáu kuè-lōu-chîⁿ, â-bô bŏi-tit 
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/2e2822e16330f5730a06cc4488964ef37239b154" target="_blank">adjust a few expressions</a> |
 | 2022-08-10 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/6d45cdaf5bd412d66ae6b0beb178746883ff0ff4" target="_blank">LittleIslands_001.md complete</a> |
 | 2022-08-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/20cc08e8720ef1ed861627bcc9a36463a0db1554" target="_blank">adjust a few expressions, add paragraphs</a> |
 | 2022-08-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/54577541e728edaa989a15afa0d1d9c579c66b7a" target="_blank">adjust a few expressions, add paragraphs</a> |
