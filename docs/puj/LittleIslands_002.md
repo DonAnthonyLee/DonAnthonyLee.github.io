@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HÁI-SUAᴺ HONG-CHHÊNG: ĂU-KANG M̆-KÌᴺ CHIÓᴺ-KHAU [*]"
+title:  "HÁI-SUAᴺ HONG-CHHÊNG: ĂU-KANG M̆-KÌᴺ CHIÓᴺ-KHAU"
 date:   2022-08-11 12:30:00 +0800
 tag: PUJ_translation
 ---
@@ -35,10 +35,14 @@ tag: PUJ_translation
 <rp>(</rp><rt class="markup_over">Lí</rt><rp>)</rp>
 </ruby>***
 
+&nbsp;&nbsp;Hái-suaⁿ Au-chio̍h tang-pôiⁿ hí-phìⁿ-hái, &#x002D;&#x002D;nâng kiò-tsò Ău-kang<a href="#note_1" class="note">1</a>, chhiâng-sî káng-pe̍h-chiah sam-pán kah tek-pâi buâ &#x002D;&#x002D;ló-kò. Chióⁿ-khau sĭ ēng tiŭ-muâ pĭⁿ &#x002D;&#x002D;kâi, kò-hêng khai-tǹg chhiú-khiâm, sam-pán kah te̍k-pâi boh kò-chióⁿ zŭ-tio̍h ēng-tio̍h jí-iōⁿ-kâi; chióⁿ-pèⁿ khò chióⁿ-khau tioh-la̍t, nâng-chhiú che̍k-peⁿ, che̍k-léng, tsûn chiàⁿ kò ŏi chìn-tsat.
+
+&nbsp;&nbsp;Lo̍h-hái-nâng khuà-chhiàng lâu-tsúi tshut-hái, tsá-uàⁿ bô-tiāⁿ-tio̍h. Lân-sî iáu-tsá tshut-hái &#x002D;&#x002D;kâi thóiⁿ-tio̍h⁎ ka-kī chiah-tsûn chióⁿ-khau bô-tŏ &#x002D;&#x002D;khṳ̀, siŏⁿ-tàⁿ mài kuáⁿ-m̆-hù, zŭ tùi kha&#x002D;&#x002D;thâu hiá-tsûn pak kâi lâi ēng. Khṳh &#x002D;&#x002D;nâng⁎ pak-tiāu chióⁿ-khau &#x002D;&#x002D;kâi boh-àiⁿ tshut-hái kìⁿ-tio̍h chióⁿ-khau bô-tŏ, i&#x002D;&#x002D;nâng â chĕⁿ-chĕⁿ thau-pak pa̍t-nâng &#x002D;&#x002D;kâi lâi ēng. Liáu, zŭ jiò-seⁿ, uá pak lṳ́&#x002D;&#x002D;kâi, lṳ́ pak i&#x002D;&#x002D;kâi, pak sio-suà; káng-peh-chiah tsûn, kâi-kâi m̆-kìⁿ chióⁿ-khau, mue̍h-liáu zṳ̂ kuè tshòi-ôu. Só-tàⁿ, kha&#x002D;&#x002D;thâu hiá thó-hái-nâng ŭ kù so̍k-uē, tàⁿ-: "Ău-kang m̆-kìⁿ chióⁿ-khau, che̍k-nâng m̆-kìⁿ, nâng-nâng m̆-kìⁿ."
 <br>
 
-**[Buē-mue̍h-tît]**
-
+<br>
+注：
+1. <span id="note_1">原文为 “后江”，而现文字写为 “后港”，不知是记录之谬抑或原即此名，有待日后实地核实。<span>
 <br>
 
 
