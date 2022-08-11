@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HÁI-SUAᴺ HONG-CHHÊNG: ĂU-KANG M̆-KÌᴺ CHIÓᴺ-KHAU"
+title:  "HÁI-SUAᴺ HONG-CHHÊNG: ĂU-KANG M̆-KÌᴺ CHIÓᴺ-KHAU [*]"
 date:   2022-08-11 12:30:00 +0800
 tag: PUJ_translation
 ---
@@ -56,3 +56,4 @@ tag: PUJ_translation
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/fabf59eb5fafa78ebdd5228bed46fd9e38cd0e12" target="_blank">add LittleIslands_002.md</a> |
