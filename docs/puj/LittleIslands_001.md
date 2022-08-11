@@ -131,6 +131,7 @@ jī kîⁿ-hō, â-tio̍h buâ-khṳ̀ kiáu kuè-lōu-chîⁿ, â-bô bŏi-tit 
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/431f5b4a9b30573a950ecc10ed9a7cd4e161857b" target="_blank">add internal comments about "Tēⁿ Yiú-lûn"</a> |
 | 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/2e2822e16330f5730a06cc4488964ef37239b154" target="_blank">adjust a few expressions</a> |
 | 2022-08-10 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/6d45cdaf5bd412d66ae6b0beb178746883ff0ff4" target="_blank">LittleIslands_001.md complete</a> |
 | 2022-08-08 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/20cc08e8720ef1ed861627bcc9a36463a0db1554" target="_blank">adjust a few expressions, add paragraphs</a> |
