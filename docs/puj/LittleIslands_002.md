@@ -14,15 +14,8 @@ tag: PUJ_translation
 <br>
 
 
-# <ruby style="ruby-position:over"><rb class="markup_main">后江</rb><rp>(</rp><rt class="markup_over">ĂU-KANG</rt><rp>)</rp></ruby>
-<ruby style="ruby-position:over">
-<rb class="markup_main">唔见</rb>
-<rp>(</rp><rt class="markup_over">M̆-KÌᴺ</rt><rp>)</rp>
-</ruby>
-<ruby style="ruby-position:over">
-<rb class="markup_main">桨彄</rb>
-<rp>(</rp><rt class="markup_over">CHIÓᴺ-KHAU</rt><rp>)</rp>
-</ruby>
+# <ruby style="ruby-position:over"><rb class="markup_main">后江</rb><rp>(</rp><rt class="markup_over">ĂU-KANG</rt><rp>)</rp></ruby> <ruby style="ruby-position:over"><rb class="markup_main">唔见</rb><rp>(</rp><rt class="markup_over">M̆-KÌᴺ</rt><rp>)</rp></ruby> <ruby style="ruby-position:over">
+<rb class="markup_main">桨彄</rb><rp>(</rp><rt class="markup_over">CHIÓᴺ-KHAU</rt><rp>)</rp></ruby>
 
 ***Nguân-tsak: 
 <ruby style="ruby-position:over">
