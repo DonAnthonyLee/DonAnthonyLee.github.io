@@ -7,7 +7,7 @@ tag: PUJ_essay
 
 {% include puj-style.html %}
 
-Phòu-mīn né khuah-pŭn-khuah-pŭn, su-kuè tn̂g-kô-tn̂g-kô --hó; tn̂g-tit-lâi hiah la̍p-tsa̍p-mue̍h-kiăⁿ chiàⁿ ŭ-ūi.
+Phòu-mīn né khuah-pŭn-khuah-pŭn, su-kuè tn̂g-kô-tn̂g-kô &#x002D;&#x002D;hó; tn̂g-tit-lâi hiah la̍p-tsa̍p-mue̍h-kiăⁿ chiàⁿ ŭ-ūi.
 <br>
 
 
