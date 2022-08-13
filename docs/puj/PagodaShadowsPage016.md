@@ -2,7 +2,7 @@
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 16 hio̍h)"
 date:   2022-07-05 12:00:00 +0800
-tag: PUJ_translation
+tag: PUJ_translation_hide
 ---
 
 {% include puj-style.html %}

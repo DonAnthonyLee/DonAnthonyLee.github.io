@@ -2,7 +2,7 @@
 layout: post
 title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 31-32 hio̍h)"
 date:   2022-07-19 11:30:00 +0800
-tag: PUJ_translation
+tag: PUJ_translation_hide
 ---
 
 {% include puj-style.html %}

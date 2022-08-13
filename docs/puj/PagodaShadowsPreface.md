@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tsôiⁿ-ngân, Ma̍k-lo̍k)"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (4/35)"
 date:   2022-06-09 18:40:00 +0800
 tag: PUJ_translation
 ---
@@ -78,8 +78,9 @@ Hái-suaⁿ lău Lí<br>
 6. Bô-iáⁿ-chiah Sin-nn̂g [Buē-e̍k]
 <!-- Habitations -->
 7. Tshù-the̍h [Buē-e̍k]
-8. The Inconvenience of Heathenism [Buē-e̍k]
-9. Spiritualism [Buē-e̍k]
+<!-- The Inconvenience of Heathenism -->
+8. Bô-sìn Ki-tok hiá Nâng móng Khiōⁿ-siòⁿ [Buē-e̍k]
+9. Lo̍h-sîn [Buē-e̍k]
 <!-- The Kitchen-God -->
 10. [Si-mĕng Tsàu-sîn](PagodaShadowsPage061.html)
 11. The Influence of the Idols [Buē-e̍k]
