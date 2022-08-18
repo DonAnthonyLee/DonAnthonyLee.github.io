@@ -12,7 +12,7 @@ tag: PUJ_translation_hide
 <!-- Number Four wore a bamboo hat, made in basketwork, lined with leaves, and as large as a parasol. -->
 &nbsp;&nbsp;A-sì tì che̍k-téng ēng tek-bîh pĭⁿ &#x002D;&#x002D;kâi tek-bō<a href="#note_1" class="note">1</a>, bō-ne̍k ēng &#x002D;&#x002D;kâi sĭ tek-hio̍h, téng-bō kah chia-jît &#x002D;&#x002D;kâi hŏu-chia-kiáⁿ tsha-m̆-to tuā.
 <!-- The remainder of his costume was a short cotton jacket and very loose short cotton trousers. -->
-Yi téng-kue̍h chhēng che̍k-niáⁿ tó-lut-tó-lut &#x002D;&#x002D;kâi mîⁿ-hiûⁿ, ĕ-kue̍h chhēng kâi khuah-lòng-khuah-lòng &#x002D;&#x002D;kâi tó-mîⁿ-khòu.
+Yi téng-kue̍h chhēng che̍k-niáⁿ tó-lut-tó-lut &#x002D;&#x002D;kâi mîⁿ-hiûⁿ, ĕ-kue̍h chhēng kâi khuah-lok-khuah-lok &#x002D;&#x002D;kâi tó-mîⁿ-khòu.
 <!-- His skin was yellow, and his eyes and hair jet black. -->
 Yi &#x002D;&#x002D;kâi ne̍k-sek né n̂g-n̂g, sang-ma̍k-jîn kah thâu-mô ou-tsṳ-ou-tsṳ.
 
