@@ -80,13 +80,18 @@ Hái-suaⁿ lău Lí<br>
 7. Tshù-the̍h [Buē-e̍k]
 <!-- The Inconvenience of Heathenism -->
 8. Bô-sìn Ki-tok hiá Nâng móng Khiōⁿ-siòⁿ [Buē-e̍k]
+<!-- Spiritualism -->
 9. Lo̍h-sîn [Buē-e̍k]
 <!-- The Kitchen-God -->
 10. [Si-mĕng Tsàu-sîn](PagodaShadowsPage061.html)
-11. The Influence of the Idols [Buē-e̍k]
-12. The Stone Princess and her Train [Buē-e̍k]
-13. Buddhist Nuns [Buē-e̍k]
-14. Loan Associations [Buē-e̍k]
+<!-- The Influence of the Idols -->
+11. Sîn-mêng jio̍h Hián [Buē-e̍k]
+<!-- The Stone Princess and her Train -->
+12. Má-tsóu kah hiá Lāu-jia̍t [Buē-e̍k]
+<!-- Buddhist Nuns -->
+13. Nî-kou [Buē-e̍k]
+<!-- Loan Associations -->
+14. Pio-huĕ [Buē-e̍k]
 15. Our Apothecary [Buē-e̍k]
 16. Ramblings [Buē-e̍k]
 17. Native Female Evangelists [Buē-e̍k]
