@@ -63,6 +63,8 @@ Tsúi-chhia tio̍h ēng kha ta̍h, saⁿ-nâng kak-nâng ta̍h tŏ chhia-lín th
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2022-08-19 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/1065a9bd87d9df161d9a7511deb14cc6ed169fdf" target="_blank">use more popular expression of "loose"</a> |
+| 2022-08-13 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/f0b6100385b72cd3206d1884066134e01c05f182" target="_blank">hide all translated pages of Pagoda Shadows, except being found in catalog</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d22be68965fb58c606f5271d40ac09729fcf3a89" target="_blank">add PagodaShadowsPage014.md</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/83ad5bbec221d9f8bdd0f21db218a4ed03c1adfb" target="_blank">seperate "kâi" & "--kâi", though it's almost the same for me.</a> |
 | 2022-07-02 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/b688c4afe1a6246cb351e4401d53d123a6e15b06" target="_blank">fix translation of "eyes"</a> |
