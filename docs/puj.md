@@ -14,7 +14,15 @@ tag: headline
 Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x002D;hué mue̍h lâi siá Tiê-chiu-uē &#x002D;&#x002D;kâi che̍k-thàu bûn-jī.
 
 **注：**
-1. 本专栏所有潮州白话字用字规则，是在《卓威廉词典》（1883 年出版）的基础上，结合 <a href="https://www.ispeakmin.com/bbs/thread-2784-1.html" target="_blank">海墘闽语论坛相关帖</a> 中个别倡议，另增补零星内容而成；其中，因前变调无法分清本调或独立于传统八调之外的调符标识，为参考与同县某乡亲讨论内容而拟；在此向所有相关人士表示衷心感谢；
+1. 本专栏所有潮州白话字用字规则，是在<a href="https://github.com/DonAnthonyLee/English-Swatow" target="_blank">《卓威廉词典》</a>（1883 年出版）的基础上，结合 <a href="https://www.ispeakmin.com/bbs/thread-2784-1.html" target="_blank">海墘闽语论坛相关帖</a> 中个别倡议，另增补零星内容而成；其中，因前变调无法分清本调或独立于传统八调之外的调符标识，为参考与同县某乡亲讨论内容而拟；在此向所有相关人士表示衷心感谢；潮州白话字用字规则相比《卓威廉词典》存在以下不同：
+	+ 阳上调符采用《菲尔德词典》中表达方式（比如：siăng），避免在字体相对较小时易与阳去调符产生混淆；
+	+ 所有调符优先标注于主要元音字母上，尽量避免标注于字母 i 处；
+	+ 阳入调符标注于字母 i 处时采用《菲尔德词典》中表达方式（比如：sît），便于分辨； 
+	+ 大写 I 书写于首位时，变换为 “Yi” 或 "YI"（比如：Yiàn-o），避免常规印刷字体易与 l 产生混淆；
+	+ 《卓威廉词典》中 toa/toaⁿ 书写方式均变换为 tua/tuaⁿ 书写方式；
+	+ 增加音尾符号区分部分特殊变调等，其含义可参考[以下相关内容](OthersOrPeoples.html)；
+	+ 增加因前变调无法分清本调的调符（比如：sȁi-hiau），避免盲目猜测本调；
+	+ 增加独立于传统八调之外的调符（比如：U̍ih_chia̋ng_kőng），用于部分拟声词或特殊语气助词等。
 2. 本专栏白话字所指定字体为 GNU FreeSerif, 已附带于<a href="../css/FreeSerif.ttf" target="_blank">此处</a>，其授权协议为 <a href="https://www.gnu.org/software/freefont/license.html" target="_blank">GPLv3</a> ；
 3. <b>本专栏所有文章（译文除外）未注明作者时均为
 <ruby style="ruby-position:over">
