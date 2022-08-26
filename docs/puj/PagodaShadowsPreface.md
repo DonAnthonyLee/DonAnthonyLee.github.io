@@ -92,28 +92,48 @@ Hái-suaⁿ lău Lí<br>
 13. Nî-kou [Buē-e̍k]
 <!-- Loan Associations -->
 14. Pio-huĕ [Buē-e̍k]
-15. Our Apothecary [Buē-e̍k]
-16. Ramblings [Buē-e̍k]
-17. Native Female Evangelists [Buē-e̍k]
-18. Biography of Little Gale [Buē-e̍k]
-19. The Autobiography of Aunt Luck [Buē-e̍k]
-20. The Story of Speed and the Bamboo Dragon [Buē-e̍k]
-21. Gold Getter [Buē-e̍k]
-22. Keepsake [Buē-e̍k]
-23. Orchid Loses seven-tenths of her Sorrow [Buē-e̍k]
-24. Love's Purposes [Buē-e̍k]
-25. One Night's Work [Buē-e̍k]
-26. The Herb that Grew on a Pirate Island [Buē-e̍k]
-27. Tapestry [Buē-e̍k]
-28. Out of the Depths [Buē-e̍k]
-29. The Mists of Morning [Buē-e̍k]
-30. Light at Eventide [Buē-e̍k]
-31. How a Familiar Spirit was Ejected from a Household. - The Story Told by
-Tolerance [Buē-e̍k]
-32. The Pillars of the Church at South Spur [Buē-e̍k]
-33. Silver Flower's Account of Herself [Buē-e̍k]
-34. Language, Literature, and Folk-lore. [Buē-e̍k]
-35. The Sphere of Women's Work in China [Buē-e̍k]
+<!-- Our Apothecary -->
+15. Ún &#x002D;&#x002D;kâi Kap-io̍h-sai-pĕ [Buē-e̍k]
+<!-- Ramblings -->
+16. Muáⁿ-tī-kò-khṳ̀ [Buē-e̍k]
+<!-- Native Female Evangelists -->
+17. Pńg-tī Tsṳ-niôⁿ-nâng Thuân-hok-im [Buē-e̍k]
+<!-- Biography of Little Gale -->
+18. Chhiò-muē &#x002D;&#x002D;kâi Che̍k-seⁿ-sì [Buē-e̍k]
+<!-- The Autobiography of Aunt Luck -->
+19. La̍k-sím Phue̍h Phêng-seⁿ [Buē-e̍k]
+<!-- The Story of Speed and the Bamboo Dragon -->
+20. A-sok &#x002D;&#x002D;kâi Kū-sṳ̄ kah Tek-bîh-lêng [Buē-e̍k]
+<!-- Gold Getter -->
+21. A-ge̍k [Buē-e̍k]
+<!-- Keepsake -->
+22. A-kek [Buē-e̍k]
+<!-- Orchid Loses seven-tenths of her Sorrow -->
+23. A-lân &#x002D;&#x002D;kâi Huân-ló Kiám-tiāu Chhit-siâⁿ [Buē-e̍k]
+<!-- Love's Purposes -->
+24. A-hí &#x002D;&#x002D;kâi Siàu-siŏⁿ [Buē-e̍k]
+<!-- One Night's Work -->
+25. Che̍k-mêⁿ Hok-im Kàu [Buē-e̍k]
+<!-- The Herb that Grew on a Pirate Island -->
+26. Tŏ Hái-táu Chia̍h-tuā --kâi A-san [Buē-e̍k]
+<!-- Tapestry -->
+27. A-siù [Buē-e̍k]
+<!-- Out of the Depths -->
+28. Chhim-thâm-bô-tói [Buē-e̍k]
+<!-- The Mists of Morning -->
+29. Lâ-lân-kng &#x002D;&#x002D;sî Bū-bū[Buē-e̍k]
+<!-- Light at Eventide -->
+30. Haⁿ-hun-àm &#x002D;&#x002D;sî Kng_iàⁿ-iàⁿ [Buē-e̍k]
+<!-- How a Familiar Spirit was Ejected from a Household. - The Story Told by Tolerance -->
+31. Tshù-lăi Siâ-sîn Tsò-nî-seⁿ Jiāu-tiāu. - A-hông Phue̍h &#x002D;&#x002D;kâi Kū-sṳ̄ [Buē-e̍k]
+<!-- The Pillars of the Church at South Spur -->
+32. Lâm-léng Lói-pài-tn̂g &#x002D;&#x002D;kâi Tòng-liâng [Buē-e̍k]
+<!-- Silver Flower's Account of Herself -->
+33. A-hue Sù-sueh Ka-kī [Buē-e̍k]
+<!-- Language, Literature, and Folklore. -->
+34. Uē-gṳ́, Bûn-ha̍k, kah So̍k-uē. [Buē-e̍k]
+<!-- The Sphere of Women's Work in China -->
+35. Tŏ Tong-kok hiá Tsṳ-niôⁿ-nâng Thuân-hok-im &#x002D;&#x002D;kâi Kám-huè Hāu-la̍t [Buē-e̍k]
 <br>
 
 
