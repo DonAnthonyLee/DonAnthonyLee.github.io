@@ -115,13 +115,13 @@ Hái-suaⁿ lău Lí<br>
 <!-- One Night's Work -->
 25. Che̍k-mêⁿ Hok-im Kàu [Buē-e̍k]
 <!-- The Herb that Grew on a Pirate Island -->
-26. Tŏ Hái-táu Chia̍h-tuā --kâi A-san [Buē-e̍k]
+26. Tŏ Hái-táu Chia̍h-tuā &#x002D;&#x002D;kâi A-san [Buē-e̍k]
 <!-- Tapestry -->
 27. A-siù [Buē-e̍k]
 <!-- Out of the Depths -->
 28. Chhim-thâm-bô-tói [Buē-e̍k]
 <!-- The Mists of Morning -->
-29. Lâ-lân-kng &#x002D;&#x002D;sî Bū-bū[Buē-e̍k]
+29. Lâ-lân-kng &#x002D;&#x002D;sî Bū-bū [Buē-e̍k]
 <!-- Light at Eventide -->
 30. Haⁿ-hun-àm &#x002D;&#x002D;sî Kng_iàⁿ-iàⁿ [Buē-e̍k]
 <!-- How a Familiar Spirit was Ejected from a Household. - The Story Told by Tolerance -->
