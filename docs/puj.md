@@ -52,6 +52,8 @@ Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x00
 <hr>
 <br>
 
+<!-- 原此类短文是为了初接触白话字者熟悉书写方式而用，现在看来无甚用处，暂时屏蔽。 -->
+<!--
 # Bô-sṳ̄-siâng, iáu-suà bô-ia-liâ
 
 <h4><i>片言只语</i></h4>
@@ -70,6 +72,7 @@ Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x00
 </ol>
 </section>
 <br>
+-->
 
 # Huan-e̍k
 
@@ -90,6 +93,8 @@ Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x00
 </section>
 <br>
 
+<!-- 原杂文类易徒生事端，暂屏蔽之。 -->
+<!--
 # Liân-lo-khek
 
 <h4><i>风语</i></h4>
@@ -108,6 +113,7 @@ Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x00
 </ol>
 </section>
 <br>
+-->
 
 # Ah-kiáⁿ thiaⁿ-lûi, kī_kōm_lōm
 
