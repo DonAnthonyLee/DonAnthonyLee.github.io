@@ -5,7 +5,7 @@ date:   2022-03-30 18:00:00 +0800
 categories: EIME
 ---
 
-提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/raw/main/stuff/eime-tsf-client-0.1.8.zip "EIME-TSF 客户端下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
+提供 [EIME-TSF 客户端](https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/raw/main/stuff/eime-tsf-client-0.1.10.zip "EIME-TSF 客户端下载")，适用于 Windows XP SP2 ~ Windows 11 系统，兼容 x86 架构及 x64 架构。
 
 
 # 版本与功能
@@ -15,12 +15,16 @@ categories: EIME
 注：此客户端目前不适用于 Windows 10/11 S 模式。
 
 
-现版本：0.1.8
+现版本：0.1.10
 
-更新日期：2022-04-29
+更新日期：2022-09-07
 
 
 最近变更历史：
+
+0.1.10, 修正多窗口输入切换时偶尔出现无法输入的问题（需配合 EIME 服务端 0.1.12）；修正勾选 “使用系统切换键” 选项时问题
+
+0.1.9, 增加任务栏深色模式检测; 修正使用辅助窗口时光标定位问题；增加“使用系统切换键”选项
 
 0.1.8, 改进客户端与服务端之间通信稳定性
 
