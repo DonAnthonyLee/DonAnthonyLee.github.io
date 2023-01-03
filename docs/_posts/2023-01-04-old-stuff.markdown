@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "怀旧: FreeBSD & CDE"
-date:   2023-01-14 00:00:00 +0800
+date:   2023-01-04 00:00:00 +0800
 categories: 杂记
 ---
 
