@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "怀旧: FreeBSD & CDE"
+date:   2023-01-14 00:00:00 +0800
+categories: 杂记
+---
+
+前段时间闲暇收了一台 Mac Mini G4，折腾来折腾去，除了用来播放音乐（费电），就只剩下怀旧了（玩玩 MacOS9，可惜 MacOS8.6 弄不出来）。实在蛋疼，把 FreeBSD 和 CDE 也装上去玩玩，竟用了九牛二虎之力。。。
+
+![96%](https://media.githubusercontent.com/media/DonAnthonyLee/DonAnthonyLee.github.io/main/images/CDE_FreeBSD_MacMiniG4.png)
+
