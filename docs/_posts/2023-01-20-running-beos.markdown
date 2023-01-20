@@ -8,12 +8,12 @@ categories: BeOS
 现在的机器大多数无法运行 BeOS 系统；受限于驱动程序等，即使是 HaikuOS 系统也不一定能运行在现在的机器上；
 而厌倦了在虚拟机运行 BeOS 的各种不便，前段时间分别以低廉的价格收了一台 Mac Mini G4 和一台 ASUS Eee PC 900，期望能实机运行 BeOS x86 或 ppc 版。
 
-一直到前几天，我几乎放弃了在这两台小机器上运行 BeOS 的想法，机缘巧合下 x86 版本终于可以运行了，而 ppc 版本只能待 MacOS 8.6 for Mini G4 跑通后再作探究了。
+一直到前几天，我几乎要放弃在这两台小机器上运行 BeOS 的想法了，然而机缘巧合下 x86 版本终于可以运行了，ppc 版本就只能待 MacOS 8.6 for Mini G4 跑通后再作探究了。
 
 
 # ASUS Eee PC 900 安装 BeOS Pro R5 x86 版
 
-这台小机器大概是 2008 年时的产品，至今 15 年的 “老古董”，CPU 为 Intel Celeron M 900MHz，内存 1GB 400MHz DDR2，原机运行 Windows XP，其速度堪比龟速；原机除了键盘和鼠标键外，其他部件基本良好；这台机器的键盘设计有缺陷，其下兼当 CPU 散热只用，所以变形严重，很多按键都已经无法使用，干脆将其排线拔掉，权当主板的挡灰板了，另外再接 USB 键盘使用。
+这台小机器大概是 2008 年时的产品，至今 15 年的 “老古董”，CPU 为 Intel Celeron M 900MHz，内存 1GB 400MHz DDR2，原机运行 Windows XP，其速度堪比龟速；原机除了键盘和鼠标键外，其他部件基本良好；这台机器的键盘设计有缺陷，其下兼当 CPU 散热之用，所以变形严重，很多按键都已经无法使用，我干脆将其排线拔掉，权当其为主板的挡灰板了，另外再接 USB 无线键盘使用。
 
 
 ## 安装准备（硬件）
@@ -58,7 +58,7 @@ $ sudo dd if=/dev/sr0 of=./GoBe_CD_Tools.iso bs=2048 count=43697
 $ sudo dd if=/dev/sr0 of=./GoBe_CD_x86.img bs=2048 skip=43697 count=148886
 
 $ file ./GoBe_CD_x86.img
-GoBe_CD_Track2.iso: DOS/MBR boot sector; partition 1 : ID=0x8a, active 0xc3, start-CHS (0x1ad,81,38), end-CHS (0x12,14,12), startsector 1726010214, 3224462993 sectors; partition 2 : ID=0x59, active 0xad, start-CHS (0xc8,102,1), end-CHS (0x172,195,5), startsector 544370546, 1684107116 sectors
+GoBe_CD_x86.img: DOS/MBR boot sector; partition 1 : ID=0x8a, active 0xc3, start-CHS (0x1ad,81,38), end-CHS (0x12,14,12), startsector 1726010214, 3224462993 sectors; partition 2 : ID=0x59, active 0xad, start-CHS (0xc8,102,1), end-CHS (0x172,195,5), startsector 544370546, 1684107116 sectors
 
 ```
 
@@ -95,5 +95,5 @@ GoBe_CD_Track2.iso: DOS/MBR boot sector; partition 1 : ID=0x8a, active 0xc3, sta
 而图形驱动（i915）目前未能找到，只能暂时用系统的 vesa 模式（可参考 /boot/home/config/settings/kernel/samples/vesa ），以后有时间看看能否从 HaikuOS 直接编译一个出来用；
 至于网卡、声卡等驱动暂时未探究，RTL 之类也许有现成的驱动可供使用。
 
-最后，不要尝试安装 OpenTracker 或 LocaleTracker 之类，因为其与硬盘所使用总线驱动存在冲突将造成死机！
+最后，不要尝试安装 OpenTracker（含 LocaleTracker）之类，因为其可能与硬盘所使用总线驱动存在冲突将造成死机！
 
