@@ -10,7 +10,7 @@ categories: BeOS
 
 一直到前几天，我几乎要放弃在这两台小机器上运行 BeOS 的想法了，然而机缘巧合下 x86 版本终于可以运行了~~，ppc 版本就只能待 MacOS 8.6 for Mini G4 跑通后再作探究了~~。
 
-*后注：BeOS 的 ppc 版本据说只支持 PowerPC 603 或 PowerPC 604 处理器的 8 种型号，虽然有传言升级卡为 G3 或 G4 的部分机型也能运行，但是想在 Mini G4 (PowerPC 7447a) 上运行，且不论其是否支持 MacOS 8.x，运行 BeOS 的可能性几乎为零（虚拟机目前也基本不具备可能性）。*
+*后注：BeOS 的 ppc 版本据说只支持 PowerPC 603 或 PowerPC 604 处理器的 8 种型号，虽然有传言升级卡为 G3 或 G4 的部分机型也能运行，但是想在 Mini G4 (PowerPC 7447a) 上运行，暂且不论其是否支持 MacOS 8.x，运行 BeOS 的可能性几乎为零，除非逆向 BeOS_Launcher 并结合 NewWorld 的 68KRom 相关重新编写其 BootTrap 及部分驱动（这个暂时来看性价比真还不如从那些“古董”贩子手中直接高价买一台 7200 之类）；而虚拟机之类目前基本不具备可能性（现在来看将来 QEMU 最有希望）；正因为 x86 版本已可实机运行，ppc 版本需求也就无关痛痒了。*
 
 
 # ASUS Eee PC 900 安装 BeOS Pro R5 x86 版
@@ -80,6 +80,9 @@ partition 2 : ID=0x59, active 0xad, start-CHS (0xc8,102,1), end-CHS (0x172,195,5
 由于 BeOS 个人版不支持多轨 CD，因而无法使用 BeOS 个人版直接安装 Pro 版，需要另寻出路；
 将以上所抓取 GoBe_CD_x86.img 改名为 image.be，并替换已安装 BeOS 个人版文件（C:\BeOS\image.be）。
 
+
+## 安装
+
 + 启动 BeOS Pro 硬盘版
 
 通过光盘启动机器（没有光驱的话可以用以上所抓取 GoBe_CD_Tools.iso 文件直接制作 USB 启动盘），启动时按住空格键。
@@ -101,4 +104,10 @@ partition 2 : ID=0x59, active 0xad, start-CHS (0xc8,102,1), end-CHS (0x172,195,5
 至于网卡、声卡等驱动暂时未探究，RTL 之类也许有现成的驱动可供使用。
 
 最后，不要尝试安装 OpenTracker（含 LocaleTracker）之类，因为其可能与硬盘所使用总线驱动存在冲突将造成死机！
+
+
+## HaikuOS
+
+顺道提一下，HaikuOS 也可在此机器上运行，但是 512MB 的内存在未开启虚拟内存时时常产生程序中断，且其运行速度也远远不如 BeOS 那么顺畅。
+
 
