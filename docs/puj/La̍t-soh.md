@@ -13,5 +13,5 @@ Uán&#x002D;&#x002D;kò, thó-chè-kiáⁿ phû-hiau-huêⁿ &#x002D;&#x002D;nâ
 
 注：
 
-1. pak-le̍k，勒索；见于《卓威廉词典》，亦作 le̍k-sok; khek-pak ；
+1. 逼勒（pak-le̍k），勒索；见于《卓威廉词典》，亦作 le̍k-sok; khek-pak ；
 2. pak-le̍k 在作者处读为 pak-te̍k，犹如 弥勒佛 读为 nî-te̍k-hu̍t 。
