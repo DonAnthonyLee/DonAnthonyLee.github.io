@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (4/35)"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (4+/35)"
 date:   2022-06-09 18:40:00 +0800
 tag: PUJ_translation
 ---
@@ -95,7 +95,7 @@ Hái-suaⁿ lău Lí<br>
 <!-- Our Apothecary -->
 15. Ún &#x002D;&#x002D;kâi Kap-io̍h-sai-pĕ [Buē-e̍k]
 <!-- Ramblings -->
-16. Muáⁿ-tī-kò-khṳ̀ [Buē-e̍k]
+16. [Muáⁿ-tī-kò-khṳ̀](PagodaShadowsPage080-081.html)
 <!-- Native Female Evangelists -->
 17. Pńg-tī Tsṳ-niôⁿ-nâng Thuân-hok-im [Buē-e̍k]
 <!-- Biography of Little Gale -->
