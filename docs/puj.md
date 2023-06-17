@@ -11,7 +11,7 @@ tag: headline
 
 <h4><i>白话字</i></h4>
 
-Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x002D;hué mue̍h lâi siá Tiê-chiu-uē &#x002D;&#x002D;kâi che̍k-thàu bûn-jī.
+Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x002D;hué mue̍h lâi siá Tiê-chiu-uē &#x002D;&#x002D;kâi⁎ che̍k-thàu bûn-jī.
 
 **注：**
 1. 本专栏所有潮州白话字用字规则，是在<a href="https://github.com/DonAnthonyLee/English-Swatow" target="_blank">《卓威廉词典》</a>（1883 年出版）的基础上，结合 <a href="https://www.ispeakmin.com/bbs/thread-2784-1.html" target="_blank">海墘闽语论坛相关帖</a> 中个别倡议，另增补零星内容而成；其中，因前变调无法分清本调或独立于传统八调之外的调符标识，为参考与同县某乡亲讨论内容而拟；在此向所有相关人士表示衷心感谢；本专栏用字规则相比《卓威廉词典》存在以下不同：

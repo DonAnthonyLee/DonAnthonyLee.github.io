@@ -26,7 +26,7 @@ tag: PUJ_translation
 <h4><i>TŎ TONG-KOK SEᴺ-UA̍H &#x002D;&#x002D;KÂI NGIAN-KIÙ</i><a href="#note_3" class="note">3</a></h4>
 
 Tsak&#x002D;&#x002D;chiá: Adele M. Fielde<a href="#note_1" class="note">1</a><br>
-Tshut-pán sî-kan: 1887 &#x002D;&#x002D;nîⁿ<br>
+Tshut-pán sî-kan: 1887 &#x002D;&#x002D;nîⁿ<a href="#note_4" class="note">4</a><br>
 Tsho-pán sî-kan: 1884 &#x002D;&#x002D;nîⁿ<br>
 
 <!-- PREFACE. -->
@@ -43,7 +43,8 @@ Tong-kok, Suàⁿ-thâu, 1887 &#x002D;&#x002D;nîⁿ
 注：
 1. <span id="note_1">Adele M. Fielde (1839-1916年)，美国传教士，为《A Pronouncing and Defining Dictionary of the Swatow Dialect》（1883年出版）作者，岭东浸会刊物称之“斐姑娘”；</span>
 2. <span id="note_2">上述“汕头”仍作“Suàⁿ-thâu”，当时“汕头埠”叫“Suàⁿ-thâu-pou”；现今“汕头”大多作“Suaⁿ-thâu”；</span>
-3. <span id="note_3">书名《Pagoda Shadows: Studies from life in China》，2016年出版的中文译本中译为《真光初临》（译者：郭甦）；此处摈弃书面语雅化形式而采用直译。</span>
+3. <span id="note_3">书名《Pagoda Shadows: Studies from life in China》，2016年出版的中文译本中译为《真光初临》（译者：郭甦）；此处摈弃书面语雅化形式而采用直译；</span>
+4. <span id="note_4">1887 年版本与 1884 年版本相比，原第 11、12 章合并为第 11 章，并增加第 33、35 章。</span>
 <!-- 内注：译者约在 2007 年寻找《菲尔德词典》时无意中初次接触此书，看过部分内容后就再也未曾再拜读（英文水平有限），直到想起用白话字直接翻译时，在网络查询时方才获知 2016 年已有中译本；可惜译者无缘拜读中译本，只是从网络信息得知书名等零星信息，再而也想顺道提升英文水平，就直接拿当时的 1887 年版本来翻译了。 -->
 
 <br>
