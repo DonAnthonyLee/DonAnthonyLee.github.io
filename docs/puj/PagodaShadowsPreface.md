@@ -78,7 +78,7 @@ Hái-suaⁿ lău Lí<br>
 <!-- The Invisible Bridegroom -->
 6. Bô-iáⁿ-chiah Sin-nn̂g [Buē-e̍k]
 <!-- Habitations -->
-7. Tshù-the̍h [Buē-e̍k]
+7. [Tshù-the̍h](PagodaShadowsPage043-044.html)
 <!-- The Inconvenience of Heathenism -->
 8. Bô-sìn Ki-tok hiá Nâng móng Khiōⁿ-siòⁿ [Buē-e̍k]
 <!-- Spiritualism -->
