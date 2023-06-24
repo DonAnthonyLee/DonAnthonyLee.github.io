@@ -79,4 +79,5 @@ Chhim-tsúi&#x002D;&#x002D;kò, tsûn-kang ēng soh pa̍k-tuè tsûn &#x002D;&#x
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2023-06-25 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a9a295af0a392a12bf03739e8b54a400301d9f20" target="_blank">translated more of the first paragraph</a> |
 | 2023-06-16 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a282da18dcc9571a5755fad2d0c53a736c17e18e" target="_blank">init PagodaShadowsPage080-081.md</a> |
