@@ -31,8 +31,11 @@ saⁿ-phìⁿ keh-chhiôⁿ chhiâng-sî tiau-khek ŭ hiá m̆-tsai mih-mue̍h-k
 <!-- The tiller is a wide paddle, projecting ten feet behind the boat, after passing through a hole in an upright post, which turns on a pivot in the stern. -->
 Tsûn-bué hṳ́-ki-chióⁿ seⁿ-lâi khuah-phiáng-khuah-phiáng, tshng tuè bué-ûi-thiău ĕ-kha &#x002D;&#x002D;kâi tāng tǹg-tsò chióⁿ-khau, kṳ̂ tshut tsûn-ău ŭ chiâⁿ-saⁿ-bí.
 <!-- The prow rises, by an inclined plane, six feet above the deck, and up this the boatmen walk barefooted, then turn around, and come back almost head downward, each bearing his weight on a long pole, one end of which is fixed against his shoulder, while the other is inserted in the sandy bottom of the shallow stream. -->
+Tsûn-thâu khiàu-teng, liáu kiă-sià-kiă-sià chih lo̍h-lâi lī ŭ tsha-m̆-to nŏⁿ-bí hṳ́ tsûn-khàm &#x002D;&#x002D;kò; tsûn-kang&#x002D;&#x002D;hué thǹg-chhiah-kha kiâⁿ kàu tsûn-thâu, liáu hui-tńg-sin kiâⁿ tò-tńg, kâi-kâi ēng tek-ko tsah-la̍t, hiá thâu tsha-m̆-to tò-chèng; tek-ko che̍k-thâu tú-tuè tsûn-kang &#x002D;&#x002D;kâi koiⁿ-thâu, che̍k-thâu tú-tuè khoi-tói hiá sua &#x002D;&#x002D;kò.
 <!-- Thus the boat is pushed forward just half as fast and half as far as the boatmen walk. -->
+Tsŭ chiòⁿ-seⁿ, tsûn-kang kiâⁿ jio̍h-hiông, tsûn tsŭ tùi-tsôiⁿ sái tǹg tsûn-kang che̍k-uê hiòⁿ-hiông; tsûn-kang kiâⁿ jio̍h-hn̆g, tsûn tsŭ sái tǹg i che̍k-uê hiòⁿ-hn̆g.
 <!-- In deeper water, the boat is drawn along by ropes tied to its mast, the boatmen walking in a tow-path on shore; or it is rowed, the boatman standing at the oar as does a Venetian gondolier. -->
+Chhim-tsúi&#x002D;&#x002D;kò, tsûn-kang ēng soh pa̍k-tuè tsûn &#x002D;&#x002D;kâi tuā-ûi, liáu⁎ tùi khoi-kîⁿ sang-pôiⁿ chhiâu<a href="#note_1" class="note">1</a> kiâⁿ chhiâu túi chiah-tsûn sái-kiâⁿ; bô_li-sĭ tsûn-kang khiă tŏ chióⁿ hṳ́ &#x002D;&#x002D;piⁿ-thâu chhin-chhiŏⁿ Ui-nî-sṳ-nâng hiòⁿ-seⁿ kò-chióⁿ. 
 <!-- When there is a favourable wind, they set a bamboo mat perpendicularly on the top of the boat, and stretch cloth sails above and beside it. -->
 <!-- Many boats, sailing together, make a striking scene; for, though they be torn and dirty, they are always, like Italian beggars, picturesque in their rags. -->
 <!-- The boatmen have a peculiar and not unmusical cry, which the steersman shouts and the bowman echoes. -->
@@ -44,6 +47,10 @@ Tsûn-bué hṳ́-ki-chióⁿ seⁿ-lâi khuah-phiáng-khuah-phiáng, tshng tuè
 <!-- The chair is usually carried by two coolies; but if the occupant be portly, he will soon be set down, with the remark that a person so highly favoured by the gods should have three bearers. -->
 <!-- The chair-coolies are of the lowest class in China, and are so obstreperous and foul-mouthed that one who deals with them in travelling soon comes to believe that the canon debarring their descendants to the third generation from the literary examinations is a reasonable one, founded on the law of heredity. -->
 <br>
+
+
+注：
+1. <span id="note_1">chhiâu...chhiâu..., 一边...一边...；该用法现今仅适用于部分地方，最早记录见于 1888 年圣经译本《创世记》，而部分地方更常用 tshâ-li...tshâ-li... 或 khuaⁿ-nî...khuaⁿ-nî... 等等；</span>
 
 <br>
 
