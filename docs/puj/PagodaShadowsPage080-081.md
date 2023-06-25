@@ -39,13 +39,13 @@ Chhim-tsúi &#x002D;&#x002D;kò, tsûn-kang ēng soh pa̍k-tuè tsûn &#x002D;&#
 <!-- When there is a favourable wind, they set a bamboo mat perpendicularly on the top of the boat, and stretch cloth sails above and beside it. -->
 Nâ-sĭ sŭn-huang, in tsŭ lia̍h tsûn-téng &#x002D;&#x002D;kâi tek-kè pái-khiă, liáu⁎ ēng pòu-phâng phi-khui khuà-tuè tek-kè mīn-chiōⁿ.
 <!-- Many boats, sailing together, make a striking scene; for, though they be torn and dirty, they are always, like Italian beggars, picturesque in their rags. -->
-Che̍k-tuā-khûn tsûn tsò-che̍k-ē sái-kiâⁿ, kiaⁿ-nâng lāu-jia̍t; sĭ-tàⁿ hiá-tsûn chhiâng-sî kah Yì-tăi-lĭ khṳt-chia̍h sin-chhēng hiòⁿ-seⁿ iŭ phuà iŭ chhi-gî, jiân kàu ua̍h-kut.
+Che̍k-tuā-khûn tsûn tsò-che̍k-ē sái-kiâⁿ, kiaⁿ-nâng lāu-jia̍t; sĭ-tàⁿ hiá-tsûn chhiâng-sî kah Yì-tăi-lĭ khṳt-chia̍h sin_chhēng hiòⁿ-seⁿ, jī-ke iŭ phuà iŭ chhi-gî.
 <!-- The boatmen have a peculiar and not unmusical cry, which the steersman shouts and the bowman echoes. -->
 Tsûn-tăi che̍k-ē háu, kò-chióⁿ &#x002D;&#x002D;kâi tsŭ tuè i háu, hiá siaⁿ-sàu kài-sĭ ŭ-kàu kuài-kúi kah ke̍h-hĭⁿ;
 <!-- This is their manner of whistling for the wind. -->
 chiòⁿ-seⁿ háu-huap sĭ àiⁿ poh-mōⁿ i ŭ-huang.
 <!-- Even with all these diverse modes of propulsion, progress is slow; but if one gets a boat that is new, and free from vermin; if the smoke from the cooking, which must be done for all on board, is well shut off; if there are no opium-smokers among the crew; if no unsavoury cargo has been stowed in the hold, as a private business venture by the boatmen; and if the boat has been carefully furnished with everything that is necessary during the trip, one may travel very comfortably. -->
-Hiá tsûn tī-seⁿ sái-huap sui-sĭ hiòⁿ tsōi-iōⁿ, tah-tsûn huáⁿ-sĭ kuè mān; sĭ-tàⁿ-, nâ-sĭ tah tio̍h hiá-tsûn ŏi sin bŏi seⁿ tshâ-thâng; liáu⁎ chèng-nâng tsṳ́-chia̍h sì-tît hiá hué tsn̂g-kâi phah-kuè bŏi seⁿ hué-hun; liáu⁎ bô-nâng kuh a-phian; liáu⁎ tsûn-kang&#x002D;&#x002D;hué bô tŏ tsûn-tshng sat hiá tshàu-hiàn mue̍h-kiăⁿ lâi thàn sai-khia; liáu⁎ hiá tio̍h-ēng&#x002D;&#x002D;tio̍h mih-iōⁿ-kâi to an-pâi pīn-pīn; ŭ-piàn chiòⁿ-seⁿ, tah-tsûn tio̍h kuè sim-sek.
+Hiá tsûn tī-seⁿ sái-huap sui-sĭ hiòⁿ tsōi-iōⁿ, tah-tsûn huáⁿ-sĭ kuè mān; sĭ-tàⁿ-, nâ-sĭ tah tio̍h hiá-tsûn ŏi sin bŏi seⁿ tshâ-thâng; liáu⁎ chèng-nâng tsṳ́-chia̍h sì-tît hiá-hué phah-kuè bŏi seⁿ hué-hun; liáu⁎ bô-nâng kuh a-phiàn; liáu⁎ tsûn-kang&#x002D;&#x002D;hué bô tŏ tsûn-tshng sat hiá tshàu-hiàn mue̍h-kiăⁿ lâi thàn sai-khia; liáu⁎ hiá tio̍h-ēng&#x002D;&#x002D;tio̍h mih-iōⁿ-kâi to an-pâi pīn-pīn; ŭ-piàn chiòⁿ-seⁿ, tah-tsûn tio̍h kuè sim_sek.
 
 <!-- Those who travel by boat sleep in their floating domicile; but those who travel in a sedan-chair must seek lodgings in an inn; where nothing is furnished except a bedstead and a fire by which to cook. -->
 &nbsp;&nbsp;
