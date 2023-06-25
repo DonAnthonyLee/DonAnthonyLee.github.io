@@ -85,5 +85,6 @@ Hiá tsûn tī-seⁿ sái-huap sui-sĭ hiòⁿ tsōi-iōⁿ, tah-tsûn huáⁿ-s
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2023-06-26 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/8c8ab27450cad66c4c623560b3f0a8f97f3f415f" target="_blank">finish translation of the first paragraph</a> |
 | 2023-06-25 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a9a295af0a392a12bf03739e8b54a400301d9f20" target="_blank">translated more of the first paragraph</a> |
 | 2023-06-16 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a282da18dcc9571a5755fad2d0c53a736c17e18e" target="_blank">init PagodaShadowsPage080-081.md</a> |
