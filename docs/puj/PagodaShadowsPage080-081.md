@@ -52,7 +52,7 @@ Hiá tsûn tī-seⁿ sái-huap sui-sĭ hiòⁿ tsōi-iōⁿ, tah-tsûn huáⁿ-s
 <!-- The chair is usually carried by two coolies; but if the occupant be portly, he will soon be set down, with the remark that a person so highly favoured by the gods should have three bearers. -->
 Chhiâng-sî thóiⁿ&#x002D;&#x002D;tio̍h &#x002D;&#x002D;kâi sĭ nŏⁿ-nâng kng che̍k-téng-kiō; nâ-sĭ tsŏ-kiō &#x002D;&#x002D;kâi khah tuā-thn̄g, che̍k-ē-kiáⁿ tsŭ-tio̍h &#x002D;&#x002D;nâng⁎ hiah-tiām, liáu, &#x002D;&#x002D;nâng ŏi thàu i tàⁿ-, ŭ-hok-khì hiá-nâng tsŏ-kiō kài-tio̍h ēng saⁿ-nâng lâi kng-kiō.
 <!-- The chair-coolies are of the lowest class in China, and are so obstreperous and foul-mouthed that one who deals with them in travelling soon comes to believe that the canon debarring their descendants to the third generation from the literary examinations is a reasonable one, founded on the law of heredity. -->
-Kng-kiō &#x002D;&#x002D;kâi tsoi-kâi sĭ tŏ Tong-kok hiá siăng tshou-phue &#x002D;&#x002D;kâi nâng; i&#x002D;&#x002D;nâng tuā-siaⁿ-peh-âu kah ngiàn pōu-sái-pōu-jiō, mue̍h kàu &#x002D;&#x002D;nâng⁎ tshut-mn̂g tú-tio̍h chí-tshoh-nâng bô-che̍k-ē-kiáⁿ tsŭ siŏⁿ-tio̍h⁎ chiá lu̍t-lī kui-tiāⁿ i&#x002D;&#x002D;nâng saⁿ-tō-nâng tsn̂g-kâi bô-tit hù-kháu kài-sĭ ha̍h-chhêng-ha̍h-lí<a href="#note_3" class="note">3</a>.
+Kng-kiō &#x002D;&#x002D;kâi tsōi-kâi sĭ tŏ Tong-kok hiá siăng tshou-phue &#x002D;&#x002D;kâi nâng; i&#x002D;&#x002D;nâng tuā-siaⁿ-peh-âu kah ngiàn pōu-sái-pōu-jiō, mue̍h kàu &#x002D;&#x002D;nâng⁎ tshut-mn̂g tú-tio̍h chí-tshoh-nâng bô-che̍k-ē-kiáⁿ tsŭ siŏⁿ-tio̍h⁎ chiá lu̍t-lī kui-tiāⁿ i&#x002D;&#x002D;nâng saⁿ-tō-nâng tsn̂g-kâi bô-tit hù-kháu kài-sĭ ha̍h-chhêng-ha̍h-lí<a href="#note_3" class="note">3</a>.
 <br>
 
 
