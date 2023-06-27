@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 80-81 hio̍h) [*]"
+title:  "PÓ-THAH SIÂ-YIÁᴺ (Tŏiⁿ 80-81 hio̍h)"
 date:   2023-06-16 00:00:00 +0800
 tag: PUJ_translation_hide
 ---
@@ -31,7 +31,7 @@ saⁿ-phìⁿ keh-chhiôⁿ chhiâng-sî tiau-khek ŭ hiá m̆-tsai mih-mue̍h-k
 <!-- The tiller is a wide paddle, projecting ten feet behind the boat, after passing through a hole in an upright post, which turns on a pivot in the stern. -->
 Tsûn-bué hṳ́-ki-chióⁿ seⁿ-lâi khuah-phiáng-khuah-phiáng, tshng tuè bué-ûi-thiău ĕ-kha &#x002D;&#x002D;kâi tāng tǹg-tsò chióⁿ-khau, kṳ̂ tshut tsûn-ău ŭ chiâⁿ-saⁿ-bí.
 <!-- The prow rises, by an inclined plane, six feet above the deck, and up this the boatmen walk barefooted, then turn around, and come back almost head downward, each bearing his weight on a long pole, one end of which is fixed against his shoulder, while the other is inserted in the sandy bottom of the shallow stream. -->
-Tsûn-thâu khiàu-teng, liáu⁎ kiă-sià-kiă-sià chih lo̍h-lâi lī ŭ tsha-m̆-to nŏⁿ-bí kûiⁿ hṳ́ tsûn-khàm &#x002D;&#x002D;kò; tsûn-kang&#x002D;&#x002D;hué thǹg-chhiah-kha kiâⁿ kàu tsûn-thâu, liáu⁎ hui-tńg-sin kiâⁿ tò-tńg, kâi-kâi ēng tek-ko tsah-la̍t, hiá thâu tsha-m̆-to tò-chèng; tek-ko che̍k-thâu tú-tuè tsûn-kang &#x002D;&#x002D;kâi koiⁿ-thâu, che̍k-thâu tú-tuè khoi-tói hiá sua &#x002D;&#x002D;kò.
+Tsûn-thâu khiàu-teng, liáu⁎ kiă-sià-kiă-sià chih lo̍h-khṳ̀ lī ŭ tsha-m̆-to nŏⁿ-bí kûiⁿ hṳ́ tsûn-khàm &#x002D;&#x002D;kò; tsûn-kang&#x002D;&#x002D;hué thǹg-chhiah-kha kiâⁿ kàu tsûn-thâu, liáu⁎ hui-tńg-sin kiâⁿ tò-tńg, kâi-kâi ēng tek-ko tsah-la̍t, hiá thâu tsha-m̆-to tò-chèng; tek-ko che̍k-thâu tú-tuè tsûn-kang &#x002D;&#x002D;kâi koiⁿ-thâu, che̍k-thâu tú-tuè khoi-tói hiá sua &#x002D;&#x002D;kò.
 <!-- Thus the boat is pushed forward just half as fast and half as far as the boatmen walk. -->
 Tsŭ chiòⁿ-seⁿ, tsûn-kang kiâⁿ jio̍h-hiông, tsûn tsŭ tùi-tsôiⁿ sái tǹg tsûn-kang che̍k-uê hiòⁿ-hiông; tsûn-kang kiâⁿ jio̍h-hn̆g, tsûn tsŭ sái-chìn i che̍k-uê hiòⁿ-hn̆g.
 <!-- In deeper water, the boat is drawn along by ropes tied to its mast, the boatmen walking in a tow-path on shore; or it is rowed, the boatman standing at the oar as does a Venetian gondolier. -->
@@ -45,22 +45,21 @@ Tsûn-tăi che̍k-ē háu, kò-chióⁿ &#x002D;&#x002D;kâi tsŭ tuè i háu, h
 <!-- This is their manner of whistling for the wind. -->
 chiòⁿ-seⁿ háu-huap sĭ àiⁿ poh-mōⁿ i ŭ-huang.
 <!-- Even with all these diverse modes of propulsion, progress is slow; but if one gets a boat that is new, and free from vermin; if the smoke from the cooking, which must be done for all on board, is well shut off; if there are no opium-smokers among the crew; if no unsavoury cargo has been stowed in the hold, as a private business venture by the boatmen; and if the boat has been carefully furnished with everything that is necessary during the trip, one may travel very comfortably. -->
-Hiá tsûn tī-seⁿ sái-huap sui-sĭ hiòⁿ tsōi-iōⁿ, tah-tsûn huáⁿ-sĭ kuè mān; sĭ-tàⁿ-, nâ-sĭ tah tio̍h hiá-tsûn ŏi sin bŏi seⁿ tshâ-thâng; liáu⁎ chèng-nâng tsṳ́-chia̍h sì-tît hiá-hué phah-kuè bŏi seⁿ hué-hun; liáu⁎ bô-nâng kuh a-phiàn; liáu⁎ tsûn-kang&#x002D;&#x002D;hué bô tŏ tsûn-tshng sat hiá tshàu-hiàn mue̍h-kiăⁿ lâi thàn sai-khia; liáu⁎ hiá tio̍h-ēng&#x002D;&#x002D;tio̍h mih-iōⁿ-kâi to an-pâi pīn-pīn; ŭ-piàn chiòⁿ-seⁿ, tah-tsûn tio̍h kuè sim_sek.
+Hiá tsûn tī-seⁿ sái-huap sui-sĭ hiòⁿ tsōi-iōⁿ, tah-tsûn huáⁿ-sĭ kuè mān; sĭ-tàⁿ-, nâ-sĭ tah tio̍h hiá-tsûn ŏi sin bŏi seⁿ tshâ-thâng; liáu⁎ chèng-nâng tsṳ́-chia̍h sì-tît hiá-hué phah-kuè bŏi seⁿ in; liáu⁎ bô-nâng kuh a-phiàn; liáu⁎ tsûn-kang&#x002D;&#x002D;hué bô tŏ tsûn-tshng sat hiá tshàu-hiàn mue̍h-kiăⁿ lâi thàn sai-khia; liáu⁎ hiá tio̍h-ēng&#x002D;&#x002D;tio̍h mih-iōⁿ-kâi to an-pâi pīn-pīn; ŭ-piàn chiòⁿ-seⁿ, tah-tsûn tio̍h kuè sim_sek.
 
 <!-- Those who travel by boat sleep in their floating domicile; but those who travel in a sedan-chair must seek lodgings in an inn; where nothing is furnished except a bedstead and a fire by which to cook. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Tah-tsûn tshut-mn̂g hiá-nâng tît-chih tŏ tsûn&#x002D;&#x002D;kò keh-mêⁿ; Tsŏ-kiō tshut-mn̂g &#x002D;&#x002D;hiá-nâng li tio̍h tshuē kheh-tiàm lâi hiah-khiă; liáu⁎ hiá kheh-tiàm pâng-koiⁿ-lăi chheng-ŭ mn̂g-tshn̂g kah piⁿ&#x002D;&#x002D;thâu ēng-lâi tsṳ́-chia̍h &#x002D;&#x002D;kâi hué-lôu &#x002D;&#x002D;tiaⁿ.
 <!-- The chair is usually carried by two coolies; but if the occupant be portly, he will soon be set down, with the remark that a person so highly favoured by the gods should have three bearers. -->
+Chhiâng-sî thóiⁿ&#x002D;&#x002D;tio̍h &#x002D;&#x002D;kâi sĭ nŏⁿ-nâng kng che̍k-téng-kiō; nâ-sĭ tsŏ-kiō &#x002D;&#x002D;kâi khah tuā-thn̄g, che̍k-ē-kiáⁿ tsŭ-tio̍h &#x002D;&#x002D;nâng⁎ hiah-tiām, liáu, &#x002D;&#x002D;nâng ŏi thàu i tàⁿ-, ŭ-hok-khì hiá-nâng tsŏ-kiō kài-tio̍h ēng saⁿ-nâng lâi kng-kiō.
 <!-- The chair-coolies are of the lowest class in China, and are so obstreperous and foul-mouthed that one who deals with them in travelling soon comes to believe that the canon debarring their descendants to the third generation from the literary examinations is a reasonable one, founded on the law of heredity. -->
+Kng-kiō &#x002D;&#x002D;kâi tsoi-kâi sĭ tŏ Tong-kok hiá siăng tshou-phue &#x002D;&#x002D;kâi nâng; i&#x002D;&#x002D;nâng tuā-siaⁿ-peh-âu kah ngiàn pōu-sái-pōu-jiō, mue̍h kàu &#x002D;&#x002D;nâng⁎ tshut-mn̂g tú-tio̍h chí-tshoh-nâng bô-che̍k-ē-kiáⁿ tsŭ siŏⁿ-tio̍h⁎ chiá lu̍t-lī kui-tiāⁿ i&#x002D;&#x002D;nâng saⁿ-tō-nâng tsn̂g-kâi bô-tit hù-kháu kài-sĭ ha̍h-chhêng-ha̍h-lí<a href="#note_3" class="note">3</a>.
 <br>
 
 
 注：
 1. <span id="note_1">pŭn, 船舱；现较少用，或见于 khuah-pŭn 等词。 pŭn-mīn, 甲板；现较少用，部分地方更常用 tsûn-po[-mīn] 等；</span>
 2. <span id="note_2">chhiâu...chhiâu..., 一边...一边...；该用法现今仅适用于部分地方，最早记录见于 1888 年圣经白话字译本《创世记》，而部分地方更常用 tshâ-li...tshâ-li... 或 khuaⁿ-nî...khuaⁿ-nî... 等等；</span>
-
-<br>
-
-**[Buē-mue̍h-tît]**
+3. <span id="note_3">据说，清朝律法规定贱民贱役者三代不得入试。</span>
 
 <br>
 
@@ -70,11 +69,10 @@ Hiá tsûn tī-seⁿ sái-huap sui-sĭ hiòⁿ tsōi-iōⁿ, tah-tsûn huáⁿ-s
 
 <br>
 
-<br>
 
 <!-- ***[前页](PagodaShadowsPage079.html)*** -->
 ***[目录](PagodaShadowsPreface.html#ma̍k-lo̍k)***
-<!-- ***[后页](PagodaShadowsPage082.html)*** -->
+***[后页](PagodaShadowsPage082.html)***
 
 ---
 <br>
