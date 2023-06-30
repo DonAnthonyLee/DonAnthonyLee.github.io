@@ -62,3 +62,8 @@ are built, with no interstices between them, along streets a yard wide, or round
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2023-06-30 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/4353d2d390a96aa47eafa15e2a96d5633ab52387" target="_blank">finish translation of the first paragraph</a> |
+| 2023-06-19 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0a1dcdd51a41d68fd4255e32104e4f08d4e1c7d2" target="_blank">init PagodaShadowsPage043-044.md</a> |
