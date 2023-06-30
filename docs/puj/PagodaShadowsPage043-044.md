@@ -15,9 +15,11 @@ tag: PUJ_translation_hide
 <h4><i>TSHÙ-THE̍H</i></h4>
 
 <!-- THOUGH the masses of the people are farmers, they live in villages, not in isolated houses; and the villages are so numerous all over the land that many others may be seen from any one of them. -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;Sui-sĭ hiá nâng tsoh-lông &#x002D;&#x002D;kâi chiàm kûiⁿ-siâⁿ, in iā bŏi-tàⁿ hiá tshù khí-liáu tuaⁿ-ke-to̍k-hŏu liáu lī-hn̆g-hn̆g, li-sĭ tsōi-kâi khiă-khí tŏ hioⁿ-lí &#x002D;&#x002D;kò; liáu⁎ hiá hioⁿ-lí muáⁿ-tī-kò ŭ, tsōi-kâi hioⁿ-lí to ŭ-piàn sio-mōⁿ&#x002D;&#x002D;kìⁿ.
 <!-- The people are the farthest possible from being nomadic. -->
+Hiá-nâng hán-tit ŏi bô-mih-bô-sṳ̄ puaⁿ-tshù.
 <!-- Generation after generation of the same family live in the same house and till the same fields, which descend surely from father to son. -->
+Che̍k-tō suà che̍k-tō, tâng-pâng-thâu &#x002D;&#x002D;kâi nâng lóng khiă-khí tŏ che̍k-lo̍h-tshù lăi, liáu⁎ chèng-tsoh hṳ́ kúi-khu pĕ-puè tuaⁿ-tī thuân-pun lâm-teng &#x002D;&#x002D;kâi tshân.
 
 <!-- Most people dwell in hovels, sleeping and eating, with their pigs and chickens, in a single room. Cholera prevails all summer, small-pox all winter, and vermin all through the year. -->
 &nbsp;&nbsp;
