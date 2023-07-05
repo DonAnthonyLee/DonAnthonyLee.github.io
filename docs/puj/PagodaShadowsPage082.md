@@ -15,7 +15,7 @@ Kiō bô-piàn pâi-tiang-sî àiⁿ tsŏ tsŭ-ŭ.
 <!-- A boat can usually be secured by a man, though a woman may sometimes fail to get a passage. -->
 Tsûn chhiâng-sî tio̍h ta-pou-nâng tsò-pû chiàⁿ ŭ-hó tsŏ&#x002D;&#x002D;tit, kan-chĕng tsṳ-niôⁿ-nâng lân-sî liân tsûn to bŏi₊-tit khí.
 <!-- Returning homeward from a station upon the Swatow Bay, I one night found a head wind and surging waves opposing me. -->
-Uá --ŭ-che̍k-mêⁿ tùi Suaⁿ-thâu-pou &#x002D;&#x002D;kâi tsûn-tōu<a href="#note_1" class="note">1</a> tńg-khṳ̀ tshù, tú-tio̍h thêⁿ-thâu-huang<a href="#note_2" class="note">2</a> kah éng chheⁿ-lím ka̍p(ko̍p)&#x002D;&#x002D;kuè-lâi.
+Uá &#x002D;&#x002D;ŭ-che̍k-mêⁿ tùi Suaⁿ-thâu-pou &#x002D;&#x002D;kâi tsûn-tōu<a href="#note_1" class="note">1</a> tńg-khṳ̀ tshù, tú-tio̍h thêⁿ-thâu-huang<a href="#note_2" class="note">2</a> kah éng chheⁿ-lím ka̍p(ko̍p)&#x002D;&#x002D;kuè-lâi.
 <!-- After beating against these until dark, my boatmen declared it impossible to make any progress, and said that we must run in beside the shore, and wait until the wind should veer and the tide turn. -->
 Kah huang-éng piàⁿ-poh kàu haⁿ-hun-àm, tsûn-kang&#x002D;&#x002D;hué tàⁿ tsûn àiⁿ sái-kiâⁿ bô-huap, tio̍h sái khṳ̀ buâ sua-phiâⁿ &#x002D;&#x002D;hó, liáu⁎ tán kàu tńg-huang-tńg-lâu chiàⁿ-lâi kiâⁿ.
 <!-- I had to decide whether I would toss all night where I was, or call a smaller boat, with strong oarsmen, to take me the remaining three miles. -->
