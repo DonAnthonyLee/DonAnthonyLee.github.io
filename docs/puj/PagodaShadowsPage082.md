@@ -54,3 +54,8 @@ Hó-tit tng-sî ún sái-kṳ̆n sua-phiâⁿ &#x002D;&#x002D;tŏ; liáu⁎ kah 
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2023-07-06 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/9f38f03e6a82d08c77f73d2b2b444ddc35116fa5" target="_blank">finish PagodaShadowsPage082.md</a> |
+| 2023-06-27 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/1612e446cc9757f2c1d38d20dbb728706c674e30" target="_blank">init PagodaShadowsPage082.md</a> |
