@@ -21,7 +21,7 @@ Kah huang-éng piàⁿ-poh kàu haⁿ-hun-àm, tsûn-kang&#x002D;&#x002D;hué t�
 <!-- I had to decide whether I would toss all night where I was, or call a smaller boat, with strong oarsmen, to take me the remaining three miles. -->
 Bô-i-piàn, sĭ tŏ hṳ́-kò khóu-tio̍h⁎ kàu-mêⁿ, a-sĭ kiò chiah hiá kò-chióⁿ ŭ-kàu la̍t-thâu &#x002D;&#x002D;kâi tsûn-kiáⁿ liáu⁎ tsài uá kuè tshûn&#x002D;&#x002D;lo̍h-lâi hṳ́ chiâⁿ-saⁿ hái-lí, nŏⁿ-iōⁿ uá tio̍h suán che̍k-iōⁿ.
 <!-- I decided to have a fishing-boat called as soon as one was sighted; and, after some waiting, a little tub came along, manned by three stalwart rowers. -->
-Tng-sî, che̍k-thóiⁿ-kìⁿ ŭ chiah tiòⁿ-hṳ̂-tsûn, uá tsŭ tsú-ì tàⁿ kiò i kuè&#x002D;&#x002D;lâi; keh che̍k-khùn-kiáⁿ, saⁿ-kâi pûi-tsàng-tuā-kiāⁿ &#x002D;&#x002D;kâi kò chiah phuà-tsûn-kiáⁿ tsŭ sái kuè&#x002D;&#x002D;lâi.
+Tng-sî, che̍k-thóiⁿ-kìⁿ ŭ chiah tiòⁿ-hṳ̂-tsûn, uá tsŭ tsú-ì tàⁿ kiò i kuè&#x002D;&#x002D;lâi; keh che̍k-khùn-kiáⁿ, saⁿ-kâi pûi-tsàng-tuā-kiāⁿ &#x002D;&#x002D;kâi kò chiah phuà-tsûn-kiáⁿ tsŭ sái &#x002D;&#x002D;kuè-lâi.
 <!-- A prolonged bargaining was terminated by their agreeing to take one passenger to my landing-place for thirteenpence halfpenny. -->
 Sṳ-niôⁿ lâi sṳ-niôⁿ khṳ̀, bué-chhiú(kiáu-bué) i&#x002D;&#x002D;nâng tâng-ì tàⁿ tsài che̍k-nâng khṳ̀ uá-àiⁿ-khṳ̀ hṳ́-kò tio̍h tshut nŏⁿ-chîⁿ.
 <!-- They came alongside, and I stepped out from my cabin, when suddenly the little tub paddled off with might and main; the rowers exclaiming simultaneously to each other, -->
