@@ -83,6 +83,7 @@ Kng-kiō &#x002D;&#x002D;kâi tsōi-kâi sĭ tŏ Tong-kok hiá siăng tshou-phue
 
 | 更改日期 | 更改信息 |
 | --- | --- |
+| 2023-07-12 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/02be9b930681cbc248e55e271e6cfbbbf86efc69" target="_blank">fix translation of "shut off"</a> |
 | 2023-06-28 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/0ec9b003fea8a9c0b71b4434b2e1e8dae0af1681" target="_blank">finish PagodaShadowsPage080-081.md</a> |
 | 2023-06-26 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/8c8ab27450cad66c4c623560b3f0a8f97f3f415f" target="_blank">finish translation of the first paragraph</a> |
 | 2023-06-25 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/a9a295af0a392a12bf03739e8b54a400301d9f20" target="_blank">translated more of the first paragraph</a> |
