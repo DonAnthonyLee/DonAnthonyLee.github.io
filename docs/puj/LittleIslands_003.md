@@ -21,9 +21,11 @@ tag: PUJ_translation
 <rb class="markup_main">许</rb>
 <rp>(</rp><rt class="markup_over">Khóu</rt><rp>)</rp>
 </ruby>
+<ruby style="ruby-position:over">
 <rb class="markup_main">家怀</rb>
 <rp>(</rp><rt class="markup_over">Ke-huâi</rt><rp>)</rp>
-</ruby>***<br>
+</ruby>***
+<br>
 ***Pńg-tī-uē: 
 <ruby style="ruby-position:over">
 <rb class="markup_main">海山</rb>
