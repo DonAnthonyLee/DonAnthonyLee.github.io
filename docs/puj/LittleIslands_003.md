@@ -53,3 +53,7 @@ Ló khò-huang kiâⁿ phâng-tsûn &#x002D;&#x002D;hang₊-sî, liân Hiang-ká
 #### 变更历史
 
 {:.changelog}
+
+| 更改日期 | 更改信息 |
+| --- | --- |
+| 2023-07-12 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/40ec6b9129f935b5d27c2432997eb367294bc13d" target="_blank">init LittleIslands_003.md</a> |
