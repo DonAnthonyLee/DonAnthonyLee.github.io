@@ -52,5 +52,6 @@ tag: PUJ_translation
 
 | 更改日期 | 更改信息 |
 | --- | --- |
-| 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/760ff409b7bbcd319707c1ea09dce7c426fa9079" target="_blank">LittleIslands_002.md complete</a> |
-| 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/fabf59eb5fafa78ebdd5228bed46fd9e38cd0e12" target="_blank">add LittleIslands_002.md</a> |
+| 2024-02-05 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/ada59cc27f09f1ce96a45084f0f84f39e9abff3a" target="_blank">update notes of LittleIslands_002.md</a> |
+| 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/704683b4a00e507810df21041acd7af357d3e1d0" target="_blank">LittleIslands_002.md complete</a> |
+| 2022-08-11 | <a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/commit/d1c939e97f0905ae6c059e0b52cb395e3875552e" target="_blank">add LittleIslands_002.md</a> |
