@@ -39,7 +39,7 @@ Hó-tit tng-sî ún sái-kṳ̆n sua-phiâⁿ &#x002D;&#x002D;tŏ; liáu⁎ kah 
 注：
 1. <span id="note_1">原文作 “station”，若译作 lōu-tsăm 或 iâⁿ-tī 之类似乎亦不甚妥当，故此略作修改，可能与原文意思存在出入；</span>
 2. <span id="note_2">thêⁿ-thâu-huang, 逆风。</span>
-<!-- 内注：此词译者记得家乡说法为 thêng-thâu-huang，但结合《卓威廉词典》，首音暂作 thêⁿ，待日后有必要再行增补。 -->
+<!-- 内注：此词译者家乡说法为 thêng-thâu-huang，但结合《卓威廉词典》，首音暂作 thêⁿ。 -->
 <br>
 
 <br>
