@@ -42,7 +42,7 @@ tag: PUJ_translation
 
 <br>
 注：
-1. <span id="note_1">原文为 “后江”，而现文字写为 “后港”，不知是记录之谬抑或原即此名，有待日后实地核实。<span>
+1. <span id="note_1">后江（Ău-kang），位于欧边与汛洲岛之间，又称后岙（Ău-ò），而现文字写为 “后港”。<span>
 <br>
 
 
