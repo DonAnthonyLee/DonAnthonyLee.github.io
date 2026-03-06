@@ -23,7 +23,7 @@ Pe̍h-uē-jī sĭ kū-tsá i&#x002D;&#x002D;nâng thuân-kà-sṳ̆&#x002D;&#x00
 	+ 增加音尾符号区分部分特殊变调等，其含义可参考[以下相关内容](OthersOrPeoples.html)；
 	+ 增加因前变调无法分清本调时的专用调符（比如：sȁi-hiau），避免盲目猜测本调；
 	+ 增加独立于传统八调之外的专用调符（比如：U̍ih_chia̋ng_kőng），用于部分拟声词或特殊语气助词等。
-2. 本专栏白话字所指定字体为 GNU FreeSerif, 已附带于<a href="../css/FreeSerif.ttf" target="_blank">此处</a>，其授权协议为 <a href="https://www.gnu.org/software/freefont/license.html" target="_blank">GPLv3</a> ；
+2. 本专栏白话字所指定字体为 GNU FreeSerif, 已附带于<a href="https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/raw/refs/heads/main/docs/css/FreeSerif.ttf" target="_blank">此处</a>，其授权协议为 <a href="https://www.gnu.org/software/freefont/license.html" target="_blank">GPLv3</a> ；
 3. <b>本专栏所有文章（译文除外）未注明作者时均为
 <ruby style="ruby-position:over">
 		<rb class="markup_main">海山</rb>

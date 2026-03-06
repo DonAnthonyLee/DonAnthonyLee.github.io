@@ -30,7 +30,7 @@ $on-laptop:        800px;
 
 @font-face {
   font-family: gnu-freeserif;
-  src: url('{{ "/css/FreeSerif.woff" | absolute_url }}') format('woff');
+  src: url('{{ "https://github.com/DonAnthonyLee/DonAnthonyLee.github.io/raw/refs/heads/main/docs/css/FreeSerif.woff" | absolute_url }}') format('woff');
   font-variant-ligatures: none;
 }
 
