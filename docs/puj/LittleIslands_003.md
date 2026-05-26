@@ -42,7 +42,7 @@ tag: PUJ_translation
 
 &nbsp;&nbsp;Phah-tn̆g-káng tiàm-tŏ Hái-suaⁿ-táu &#x002D;&#x002D;kâi sai-nâm-pôiⁿ, pí pak-pôiⁿ &#x002D;&#x002D;kâi Sam-peh-mn̂g-káng boh lău ŭ che̍k-peh jī-tsa̍p huè; iû jí-kò, tùi pak-pôiⁿ ŭ-tit thàng Ṳ̂ng-kng(N̂g-kng) khṳ̀, tang-pôiⁿ ŭ-tit thàng Hok-kiàn, sai-pôiⁿ ŭ-tit thàng Suaⁿ-thâu; i kū-tsá sĭ Hok-kiàn kah Kńg-tang sio-kiam-kài &#x002D;&#x002D;kò &#x002D;&#x002D;kâi tŏng-iàu káng-mn̂g.
 Jí-khou-ūi, sì-tshù khuah-khǹg, iŭ gōi pha-tèng, hán-tit ŭ tuā-huang-tuā-éng.
-Ló khò-huang kiâⁿ phâng-tsûn &#x002D;&#x002D;hang₊-sî, liân Hiang-káng hiá lia̍h-hṳ̂-tsûn â sio-tàu lâi jí-kò pī huang-thai, chin-tsai tng-sî Phah-tn̆g-káng bŏi-lám.
+Ló khò-huang kiâⁿ phâng-tsûn &#x002D;&#x002D;hang₊-sî, liân Hiang-káng hiá lia̍h-hṳ̂-tsûn â sio-tàu lâi jí-kò pī huang-thai, chin-tsai tng-sî Phah-tn̆g-káng bŏi₊-lám.
 <br>
 
 <br>
