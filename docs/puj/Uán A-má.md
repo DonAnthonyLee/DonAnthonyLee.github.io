@@ -9,7 +9,7 @@ tag: PUJ_original
 
 &nbsp;&nbsp;Hut_che̍k-kiò, a-má lī uán khṳ̀ boh siám saⁿ-tsa̍p-nîⁿ &#x002D;&#x002D;liáu. Tshṳ́-tsăi tsài-kò siŏⁿ&#x002D;&#x002D;tio̍h, i hiá sin-iáⁿ háⁿ-sĭ chheng à tâng-kiàⁿ, tǹg-kuè nguân-tsăi kha-thâu-u aⁿ kò ou-pòu, tsŏ ló-kò thim-chéⁿ chhiah-măng.
 
-&nbsp;&nbsp;A má, Nâm-ò nâng, hiaⁿ-tĭ-chí-muē pâi siăng-sòi, bô chiàⁿ-miâⁿ. Thiaⁿ-tàⁿ tsṳ̆-tsá uán a-kong lia̍h-hṳ̂ ua tùi Nâm-ò, a-má thóiⁿ-tio̍h a-kong seⁿ-hó, zŭ tsò pun a-kong.
+&nbsp;&nbsp;A-má, Nâm-ò nâng, hiaⁿ-tĭ-chí-muē pâi siăng-sòi, bô chiàⁿ-miâⁿ. Thiaⁿ-tàⁿ tsṳ̆-tsá uán a-kong lia̍h-hṳ̂ ua tùi Nâm-ò, a-má thóiⁿ-tio̍h a-kong seⁿ-hó, zŭ tsò pun a-kong.
 
 &nbsp;&nbsp;Têng uá ŏi hiáu nâng-sṳ̄, a-má zŭ khai-tǹg tiām seⁿ-tsò hí-kò-hêng, m̆-pat pìⁿ&#x002D;&#x002D;kuè. Yi chhiâng-sî chhēng chhim-sek-saⁿ chhim-sek-khòu, hán-tit ŭ kìⁿ-tio̍h pa̍t-iōⁿ sek-sîn. Tṳ̂-liáu kah a-kong ŏi sio-mó &#x002D;&#x002D;kúi-jît, a-má tùi uán jiá kiáⁿ-sun, hán-tit ŏi phû sim-sèⁿ-hué. Hí-hang₊-sî, i che̍k thóiⁿ-kìⁿ &#x002D;&#x002D;uán, thâu-kù-uē zŭ-sĭ :” Nôu&#x002D;&#x002D;ŏi. ”.
 
